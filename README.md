@@ -4,7 +4,7 @@ How the listed companies in NVIDIA's "five-layer cake" (energy → chips → inf
 
 The study started from Jensen Huang's GTC Berlin keynote (21 Oct 2026) and its "Building Europe's AI Economy" slide, then widened to the global listed supply chain: **96 companies** (61 US, 24 Europe, 11 Asian reference names), **300 supply / partner links**, **4,131 earnings releases** with exact release times, **1,212 call transcripts**, **4,071 SEC documents**, **2,154 European investor-relations documents**, **454 NVIDIA keynote documents** from 32 keynotes, TSMC monthly sales and daily prices from June 2014 to 22 Oct 2026.
 
-- **Report:** `reports/ai_supply_chain_lead_lag.html` (self-contained page; open it in a browser). A private copy is published at https://claude.ai/artifact/UQBLExRQE2HRZBTEimxbcb.
+- **Report:** `reports/ai_supply_chain_lead_lag.html` (self-contained page; open it in a browser).
 - **Handoff for agents:** [`AGENTS.md`](AGENTS.md).
 - **Chronological work log:** [`PROGRESS.md`](PROGRESS.md).
 
