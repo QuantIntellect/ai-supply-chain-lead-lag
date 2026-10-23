@@ -1,0 +1,152 @@
+src,dst,rel,evidence,confidence,note
+TSM,NVDA,foundry,10-K supplier disclosure,high,NVDA 10-K names TSMC as foundry; CoWoS packaging
+TSM,AMD,foundry,10-K supplier disclosure,high,
+TSM,AVGO,foundry,10-K supplier disclosure,high,
+TSM,MRVL,foundry,10-K supplier disclosure,high,
+TSM,ALAB,foundry,10-K supplier disclosure,med,
+TSM,CRDO,foundry,10-K supplier disclosure,med,
+TSM,INTC,foundry,company statements,med,Intel outsources some tiles to TSMC
+000660.KS,NVDA,hbm,company statements,high,primary HBM supplier
+MU,NVDA,hbm,company statements,high,HBM3E for H200/Blackwell
+005930.KS,NVDA,hbm,media reports,med,
+005930.KS,AMD,hbm,company statements,med,
+MU,AMD,hbm,company statements,med,HBM3E in MI350
+ASML.AS,TSM,equipment,20-F customer concentration,high,
+ASML.AS,005930.KS,equipment,20-F customer concentration,high,
+ASML.AS,INTC,equipment,20-F customer concentration,high,
+ASML.AS,000660.KS,equipment,company statements,med,
+ASML.AS,MU,equipment,company statements,med,
+AMAT,TSM,equipment,10-K customer concentration,high,
+AMAT,005930.KS,equipment,10-K customer concentration,high,
+AMAT,INTC,equipment,10-K customer concentration,high,
+AMAT,MU,equipment,industry knowledge,med,
+LRCX,TSM,equipment,10-K customer concentration,high,
+LRCX,005930.KS,equipment,10-K customer concentration,high,
+LRCX,MU,equipment,10-K customer concentration,high,
+LRCX,000660.KS,equipment,10-K customer concentration,med,
+KLAC,TSM,equipment,10-K customer concentration,high,
+KLAC,005930.KS,equipment,10-K customer concentration,med,
+TER,TSM,test,industry knowledge,low,
+ASM.AS,TSM,equipment,company statements,high,GAA/ALD
+ASM.AS,005930.KS,equipment,company statements,med,
+ASM.AS,INTC,equipment,company statements,med,
+BESI.AS,TSM,equipment,company statements,med,hybrid bonding (SoIC)
+BESI.AS,INTC,equipment,company statements,med,
+BESI.AS,000660.KS,equipment,media reports,low,HBM bonding evaluation
+SMHN.DE,000660.KS,equipment,media reports,low,HBM bonding
+VACN.SW,AMAT,component,company statements,med,vacuum valves to semicap OEMs
+VACN.SW,LRCX,component,company statements,med,
+VACN.SW,8035.T,component,company statements,med,
+8035.T,TSM,equipment,company statements,high,
+6857.T,NVDA,test,company statements,med,GPU/HBM test demand
+6857.T,TSM,test,company statements,med,
+NVDA,SMCI,gpu_supply,10-K supplier disclosure,high,
+NVDA,DELL,gpu_supply,company statements,high,
+NVDA,HPE,gpu_supply,company statements,high,
+NVDA,2317.TW,gpu_supply,company statements,high,GB200/GB300 rack assembly
+NVDA,2382.TW,gpu_supply,company statements,high,
+NVDA,3231.TW,gpu_supply,company statements,high,
+NVDA,6669.TW,gpu_supply,company statements,med,
+NVDA,MSFT,gpu_supply,widely reported,high,
+NVDA,META,gpu_supply,widely reported,high,
+NVDA,GOOGL,gpu_supply,widely reported,high,
+NVDA,AMZN,gpu_supply,widely reported,high,
+NVDA,ORCL,gpu_supply,widely reported,high,
+NVDA,CRWV,gpu_supply,S-1/10-K supplier disclosure,high,NVIDIA also an equity holder
+NVDA,NBIS,gpu_supply,company statements,high,NVIDIA also an investor
+NVDA,IREN,gpu_supply,company statements,med,
+NVDA,DTE.DE,gpu_supply,keynote (GTC Paris 2025),high,Industrial AI Cloud (10k GPUs)
+NVDA,NOKIA.HE,investment,company statements,high,USD1bn equity investment + AI-RAN partnership (2025-10)
+NVDA,INTC,investment,company statements,high,USD5bn equity investment (2025-09)
+AMD,MSFT,gpu_supply,company statements,high,MI300X
+AMD,META,gpu_supply,company statements,high,
+AMD,ORCL,gpu_supply,company statements,high,
+AVGO,GOOGL,custom_asic,widely reported,high,TPU
+AVGO,META,custom_asic,widely reported,high,MTIA
+MRVL,AMZN,custom_asic,company statements,high,Trainium
+MRVL,MSFT,custom_asic,company statements,med,Maia
+ARM,NVDA,ip_license,company statements,high,Grace/Vera CPU cores
+ARM,AMZN,ip_license,company statements,high,Graviton
+ARM,MSFT,ip_license,company statements,med,Cobalt
+ARM,GOOGL,ip_license,company statements,med,Axion
+ALAB,NVDA,component,company statements,med,
+ALAB,AMZN,component,company statements,med,
+CRDO,AMZN,component,10-K customer concentration,high,
+CRDO,MSFT,component,10-K customer concentration,med,
+MPWR,NVDA,component,media reports,med,accelerator power modules
+IFX.DE,NVDA,component,company statements,med,800VDC power partnership
+2308.TW,NVDA,component,company statements,med,power shelves
+ANET,MSFT,network_supply,10-K customer concentration,high,
+ANET,META,network_supply,10-K customer concentration,high,
+CSCO,MSFT,network_supply,company statements,low,webscale AI orders
+CIEN,MSFT,network_supply,10-K customer concentration,med,cloud providers
+CIEN,META,network_supply,company statements,low,
+COHR,NVDA,optics,company statements,med,
+COHR,MSFT,optics,industry knowledge,low,
+LITE,GOOGL,optics,company statements,med,OCS
+LITE,NVDA,optics,industry knowledge,low,
+FN,NVDA,optics_mfg,10-K customer concentration,high,
+FN,CSCO,optics_mfg,10-K customer concentration,med,
+FN,CIEN,optics_mfg,10-K customer concentration,med,
+NOKIA.HE,MSFT,optics,company statements,low,Infinera DCI
+SMCI,CRWV,servers,media reports,low,
+DELL,CRWV,servers,media reports,med,
+CLS,GOOGL,servers,company statements,med,
+2382.TW,GOOGL,servers,media reports,med,
+2382.TW,MSFT,servers,media reports,med,
+2382.TW,META,servers,media reports,med,
+6669.TW,MSFT,servers,media reports,med,
+6669.TW,META,servers,media reports,med,
+2317.TW,MSFT,servers,media reports,med,
+2317.TW,AMZN,servers,media reports,med,
+2317.TW,ORCL,servers,media reports,low,
+VRT,MSFT,dc_infra,industry knowledge,med,
+VRT,META,dc_infra,industry knowledge,med,
+VRT,GOOGL,dc_infra,industry knowledge,med,
+VRT,AMZN,dc_infra,industry knowledge,med,
+VRT,EQIX,dc_infra,industry knowledge,med,
+VRT,DLR,dc_infra,industry knowledge,med,
+VRT,CRWV,dc_infra,industry knowledge,low,
+NVDA,VRT,partner,keynote/company statements,high,reference designs
+ETN,MSFT,dc_infra,industry knowledge,low,
+ETN,DLR,dc_infra,industry knowledge,low,
+NVDA,ETN,partner,company statements,med,800VDC
+SU.PA,MSFT,dc_infra,industry knowledge,low,
+SU.PA,EQIX,dc_infra,industry knowledge,low,
+NVDA,SU.PA,partner,keynote (GTC Paris 2025),high,AI factory reference designs
+NVDA,SIE.DE,partner,keynote,high,industrial AI/Omniverse
+NVDA,ENR.DE,partner,keynote (GTC Berlin 2026),med,
+ABBN.SW,MSFT,dc_infra,industry knowledge,low,
+LR.PA,EQIX,dc_infra,industry knowledge,low,
+NVT,MSFT,dc_infra,industry knowledge,low,
+MOD,MSFT,dc_infra,industry knowledge,low,
+MTRS.ST,MSFT,dc_infra,industry knowledge,low,
+PWR,CEG,construction,industry knowledge,low,
+GEV,VST,turbines,industry knowledge,med,
+GEV,CEG,turbines,industry knowledge,low,
+GEV,NRG,turbines,company statements,med,
+ENR.DE,VST,turbines,industry knowledge,low,
+CEG,MSFT,ppa,company statements,high,Crane (TMI) restart PPA 2024-09
+CEG,META,ppa,company statements,high,Clinton PPA 2025-06
+TLN,AMZN,ppa,company statements,high,Susquehanna
+VST,META,ppa,company statements,med,nuclear agreements 2026-01
+OKLO,META,ppa,company statements,med,nuclear agreements 2026-01
+BE,ORCL,onsite_power,company statements,med,
+CRWV,MSFT,capacity,S-1 customer concentration,high,MSFT 62pct of 2024 revenue
+CRWV,META,capacity,company statements,high,USD14bn contract 2025-09
+NBIS,MSFT,capacity,company statements,high,USD17.4-19.4bn contract 2025-09
+NBIS,META,capacity,company statements,high,USD3bn contract 2025-11
+IREN,MSFT,capacity,company statements,high,USD9.7bn contract 2025-11
+APLD,CRWV,lease,company statements,high,Polaris Forge leases
+CIFR,AMZN,lease,company statements,high,AWS lease 2025-11
+WULF,GOOGL,lease,company statements,med,Fluidstack lease w/ Google backstop
+EQIX,MSFT,colo,industry knowledge,low,
+DLR,MSFT,colo,industry knowledge,low,
+9984.T,ARM,investment,company statements,high,SoftBank owns ~90% of Arm
+9984.T,ORCL,partner,company statements,med,Stargate
+AMD,ORCL,partner,company statements,med,
+MSFT,SAP.DE,cloud,industry knowledge,low,
+NVDA,SAP.DE,partner,keynote,med,
+NVDA,NOW,partner,keynote,med,
+NVDA,DSY.PA,partner,keynote (GTC Berlin 2026),med,
+NVDA,PLTR,partner,company statements,med,

@@ -1,0 +1,11 @@
+# MPWR - AI demand notes from earnings calls, 2022-02-10 to 2026-07-30
+(3 calls in sample; large gap: no calls between 2022-05-02 and 2026-07-30, so the 2023 data-center ramp, the 2024 NVIDIA share loss and the recovery are not covered)
+
+- 2022-02-10: Record FY21 revenue $1.2bn (+43%); Q4 revenue $336.5M (+44.4% YoY). Computing & storage grew 47% to $372.3M on enterprise notebooks, cloud computing and storage. Q1 guide $354-366M.
+- 2022-02-10: Supply-led cycle. Management describes "an unprecedented demand-supply imbalance". Capacity grew 40% in 2021 and will expand "well beyond $2 billion" in 2022, with talks to secure capacity for '23, '24 and beyond. "Selective but more broad-based" price increases planned for 2022; inventory days rose to 166.
+- 2022-05-02: Record Q1 revenue $377.7M (+48.4% YoY); Q2 guide $420-440M. Data center and cloud split out as a new "enterprise data" segment: $42.5M, 11.3% of revenue vs 6.4% a year earlier.
+- 2022-05-02: Storage seen as a precursor: after two quarters of storage ramp, MPS expects "two to three quarters" of data-center ramp, gaining momentum as Intel and AMD launch new platforms. 48-volt and AI power are "sustainable growth" areas for 3-5 years. Lead times flat for three quarters; inventory days 178.
+- 2026-07-30: Record Q2 revenue $981M (+22% QoQ, +48% YoY). Enterprise data grew 45% QoQ on "strong broad based ordering patterns" for AI and server power; FY enterprise-data growth floor raised from 85% to 130%.
+- 2026-07-30: Book-to-bill "again well above 1", giving more than a quarter of visibility (longer-term ordering since late 2025), though not out to end-2027. Capacity goal extended "significantly beyond $6 billion" (after $2bn and $4bn steps). Industry-wide shortages; price rises only to pass through input costs.
+- 2026-07-30: New AI products: first orders for high-speed DDR5 memory-interface parts; sampling 800-volt AC-DC products for data centers; power for TPUs, NICs and top-of-rack switches lifts communications. No customer concentration in enterprise data.
+Current state (latest call): 2026-07-30. Record $981M quarter, with enterprise data (AI/server power) now guided to at least +130% for 2026, book-to-bill well above 1 and capacity planned beyond $6bn; notebook/consumer remain cautious.

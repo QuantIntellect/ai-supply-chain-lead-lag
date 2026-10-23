@@ -1,0 +1,895 @@
+ticker,pub_date,fq,sentence,amounts_bn,forward
+AMZN,2024-02-01,2023Q4,"In 2023, full-year capex was $48.4 billion, which was down $10.",48.4,True
+AMZN,2024-08-01,2024Q2,"For the first half of the year, capex was $30.5 billion.",30.5,False
+AMZN,2023-10-26,2023Q3,"For the full year 2023, we expect capital investments to be approximately $50 billion, compared to $59 billion in 2022.",50;59,True
+AMZN,2022-10-27,2022Q3,This represents an estimated reduction in fulfillment and transportation capital investments of approximately $10 billion compared to last year as we've continued to moderate our build expectations to better align with demand.,10,False
+AMZN,2022-04-28,2022Q1,Capital investments were $61 billion on the trailing 12-month period ended March 31.,61,False
+AMZN,2026-08-07,2026Q2,"Now turning to our cash CapEx, which is $53.1 billion in Q2.",53.1,False
+AMZN,2023-08-03,2023Q2,"Looking ahead to the full year 2023, we expect capital investments to be slightly more than $50 billion compared to $59 billion in 2022.",50;59,True
+AMZN,2025-02-06,2024Q4,Capital investments were $26.3 billion in the fourth quarter.,26.3,False
+AMZN,2025-02-06,2024Q4,"On the capex side, as Brian mentioned earlier, we spent $26.3 billion in capex in Q4.",26.3,False
+AMZN,2023-04-28,2023Q1,"For the full year 2023, we expect capital investments to be lower than our $59 billion investment level in 2022, primarily driven by an expected year-over-year decrease in fulfillment network investments.",59,True
+AMZN,2023-04-28,2023Q1,"On capex, we spent $59 million -- $59 billion, excuse me, last year.",0.059;59,False
+AMZN,2020-10-30,2020Q3,"We've invested nearly $30 billion in capex and finance leases through the first nine months of 2020, including over $12 billion in Q3.",30;12,True
+AMZN,2024-04-30,2024Q1,"In 2023, overall capital investments were $48.4 billion.",48.4,True
+AMZN,2024-10-31,2024Q3,Year-to-date capital investments were $51.9 billion.,51.9,False
+ANET,2019-02-14,2018Q4,Capital expenditures for the quarter was $6.2 million.,0.0062,False
+ANET,2025-02-18,2024Q4,Capital expenditures for the quarter were $12.5 million.,0.0125,False
+ANET,2018-08-02,2018Q2,Capital expenditures in the quarter were $6.7 million.,0.0067,False
+ANET,2026-08-11,2026Q2,Capital expenditures for the quarter were $29.7 million.,0.0297,False
+ANET,2019-08-01,2019Q2,Capital expenditures for the quarter were $3.4 million.,0.0034,False
+ANET,2019-11-01,2019Q3,Capital expenditures for the quarter were $4.7 million.,0.0047,False
+ANET,2020-05-06,2020Q1,Capital expenditure for the quarter was $3.1 million.,0.0031,False
+ANET,2020-02-13,2019Q4,Capital expenditures for the quarter were $2.4 million.,0.0024,False
+ANET,2020-08-05,2020Q2,Capital expenditures for the quarter were $2.1 million.,0.0021,False
+ANET,2022-05-02,2022Q1,Capital expenditures for the quarter were $14.9 million.,0.0149,False
+ANET,2018-11-01,2018Q3,Capital expenditures for the quarter were $4.5 million.,0.0045,False
+ANET,2018-05-04,2018Q1,Capital expenditures for the quarter were $6.3 million.,0.0063,False
+ANET,2022-08-01,2022Q2,Capital expenditures for the quarter were $8.9 million.,0.0089,False
+ANET,2022-02-14,2021Q4,Capital expenditures for the quarter were $8.5 million.,0.0085,False
+ANET,2021-05-04,2021Q1,Capital expenditures for the quarter were $5.1 million.,0.0051,False
+ANET,2020-11-03,2020Q3,Capital expenditures for the quarter were $2.5 million.,0.0025,False
+ANET,2024-07-31,2024Q2,Capital expenditures for the quarter were $3.2 million.,0.0032,False
+ANET,2024-02-12,2023Q4,Capital expenditures for the quarter were $6 million.,0.006,False
+ANET,2024-05-07,2024Q1,Capital expenditures for the quarter were $9.4 million.,0.0094,False
+ANET,2019-05-03,2019Q1,Capital expenditures for the quarter were $5.2 million.,0.0052,False
+ANET,2022-11-01,2022Q3,Capital expenditures for the quarter were $10.4 million.,0.0104,False
+ANET,2021-02-18,2020Q4,Capital expenditures for the quarter were $3.2 million.,0.0032,False
+ANET,2024-11-07,2024Q3,Capital expenditures for the quarter were $7 million.,0.007,False
+MPWR,2021-10-29,2021Q3,Third quarter 2021 capital spending totaled $18.6 million.,0.0186,True
+MPWR,2019-05-02,2019Q1,First quarter of 2019 capital spending totaled $59.4 million.,0.0594,True
+MPWR,2019-05-02,2019Q1,"And Bernie, I don't -- did I catch -- did you say CapEx was $59.4 million in the quarter?
+Bernie Blegen
+--
+Vice President and Chief Financial Officer
+I'm sorry, CapEx?
+Michael R.",0.0594,False
+MPWR,2021-02-05,2020Q4,Fourth quarter 2020 capital spending totaled $11.5 million.,0.0115,True
+MPWR,2022-02-11,2021Q4,Fourth quarter 2021 capital spending totaled $17.6 million.,0.0176,True
+MPWR,2020-04-29,2020Q1,First quarter capital first quarter 2020 capital spending totaled $10 million.,0.01,True
+MPWR,2021-07-28,2021Q2,Second-quarter 2021 capital spending totaled $39.3 million.,0.0393,True
+MPWR,2021-05-05,2021Q1,First quarter 2021 capital spending totaled $19 million.,0.019,True
+MPWR,2020-02-05,2019Q4,Fourth quarter 2019 capital spending totaled $8.7 million.,0.0087,True
+MPWR,2020-10-30,2020Q3,Third quarter 2020 capital spending totaled $19.6 million.,0.0196,True
+MPWR,2022-05-02,2022Q1,First-quarter 2022 capital spending totaled $26.5 million.,0.0265,True
+MPWR,2020-07-29,2020Q2,Second quarter 2020 capital spending totaled $14.6 million.,0.0146,True
+MPWR,2019-08-01,2019Q2,Second quarter 2019 capital spending totaled $19.3 million.,0.0193,True
+MPWR,2018-10-26,2018Q3,Third quarter 2018 capital spending totaled $5.1 million.,0.0051,True
+CRDO,2022-06-02,2022Q4,Capex was $9.6 million in the quarter driven by production mask sets and free cash flow was negative $7.,0.0096,False
+CRDO,2022-09-01,2023Q1,"capex was $5.3 million in the quarter, driven by production mask spending and free cash flow was negative $17.",0.0053,False
+CRDO,2026-09-08,2027Q1,"CapEx was $7.3 million in the quarter, and free cash flow was $82.",0.0073,False
+HUBB,2019-04-30,2019Q1,"During the quarter, we paid down amortization on our term loan, as well as funded the dividend, invested $23 million of CapEx and bought back $10 million worth of shares.",0.023;0.01,False
+DLR,2019-07-31,2019Q2,We've also raised our recurring CapEx guidance by $15 million.,0.015,False
+DLR,2021-10-27,2021Q3,They increased their capex budget for 2022 by over 50% to somewhere I think near $30 billion.,30,True
+DLR,2020-07-31,2020Q2,"As you may have seen from the earnings release, we are maintaining our full-year guidance for noncash rent adjustments of $20 million to $30 million, as well as our recurring capex guidance of $220 million to $230 million, although we are admittedly trending toward the low end of the range.",0.02;0.03;0.22;0.23,False
+DLR,2020-07-31,2020Q2,"As a result of our proactive balance sheet management, prior to the redemption of our bonds due in 2022, we have over $4 billion of liquidity to fund our capital spending, including over $500 million of cash on the balance sheet as of June 30, another $1 billion of equity coming in upon settlement of the forward equity offering and $2.5 billion of availability on our global revolving credit facilities.",4;0.5;1;2.5,True
+DLR,2020-05-08,2020Q1,"As a result of our proactive balance sheet management, we have ample liquidity to fund our capital spending with nearly $250 million of cash on the balance sheet as of March 31, another $1.7 billion of equity coming in post quarter end and $2 billion of availability on our global revolving credit facilities.",0.25;1.7;2,False
+DLR,2018-10-26,2018Q3,"In late September, we executed a forward equity offering to fund the Ascenty acquisition and development CapEx needs and we expect to receive approximately $1.1 billion of net proceeds when we settle the forward sale agreements.",1.1,True
+DLR,2025-02-13,2024Q4,"During 2024, we spent approximately $3 billion on development capex on a gross basis, including our partner share, and roughly $2 billion on a net basis to Digital Realty.",3;2,True
+DLR,2025-02-13,2024Q4,"capex net of partner contributions are expected to rise to between $3 billion and $3.5 billion, while gross capex will reach approximately $4.",3;3.5,False
+DLR,2025-02-13,2024Q4,And I think the capex mentality is called north of $300 billion compounding a tremendous rate year over year for now several years.,300,False
+DLR,2024-10-24,2024Q3,"4 billion in development capex at 100% share, which has been balanced by nearly $900 million of partner contributions, keeping us on track and well within the range of our original full-year spending expectations.",0.9,False
+DLR,2021-02-12,2020Q4,"If you look at the -- I think it's schedule 28, recurring capex stepped down to as low as $34 million in the first quarter of '20, $38 million in the second quarter of '20, then $53 million and $83 million.",0.034;0.038;0.053;0.083,False
+WULF,2026-08-12,2026Q2,3 billion of project capital expenditures have been completed with approximately $1.7 billion remaining.,1.7,False
+KLAC,2019-01-29,2019Q2,"Capital expenditures for 2018 were higher than our historical run rate of around $50 million to $60 million per year due to the expansion of production facilities to support future growth as well as investment to support our new R&D focused facility in Ann Arbor, Michigan.",0.05;0.06,True
+KLAC,2026-04-29,2026Q3,"But given sporadic market concerns around data center CapEx durability, can you bridge your updated '26 WFE view of greater than $140 billion and your expectation of growth in 2027 to the underlying AI infrastructure assumptions.",140,True
+KLAC,2019-10-31,2020Q1,So -- also people are looking at TSMC capex and it's kind of $5 billion in Q4 and that's kind of a $20 billion run rate.,5;20,False
+INTC,2024-08-01,2024Q2,Gross capex of $5.7 billion was more than offset by $11.,5.7,False
+INTC,2024-08-01,2024Q2,"Additionally, we've responded to lower revenue by reducing 2024 gross capital investments to a range of $25 billion to $27 billion, with a net capital spending of $11 billion to $13 billion, including our SCIP programs.",25;27;11;13,True
+INTC,2024-08-01,2024Q2,"5 billion and net capex of $12 billion to $14 billion, we expect to achieve positive adjusted free cash flow.",12;14,True
+INTC,2018-04-26,2018Q1,"9 billion in CapEx and delivered $3.4 billion in free cashflow, up 73% year over year.",3.4,False
+INTC,2018-04-26,2018Q1,This reflects gross CapEx of approximately $14.5 billion offset by approximately $2 billion of customer prepayments for memory supply agreements.,14.5;2,False
+INTC,2018-04-26,2018Q1,"Just the CapEx that we took up, half-a-billion is really a function of the incremental $2.5 billion of revenue.",2.5,False
+INTC,2018-04-26,2018Q1,"So, Chris, when we came into the year, we guided at a logic CapEx of roughly $10.5 billion.",10.5,False
+INTC,2018-04-26,2018Q1,"And that the CapEx increase, as we indicated, will generate an additional $1.5 billion of free cashflow as well.",1.5,False
+INTC,2023-04-28,2023Q1,"Net capex was $7 billion, resulting in an adjusted free cash flow of negative $8.8 billion, and we paid dividends of $1.",7;8.8,False
+INTC,2023-04-28,2023Q1,Can you talk about -- I still get kind of a gross capex number that's north of $20 million.,0.02,False
+INTC,2025-08-05,2025Q2,"What is maintenance CapEx like? How much can you cut CapEx next year? Could you take, like, $5 billion out of gross CapEx next year if you can give some sense on that? Thanks.",5,True
+INTC,2025-08-05,2025Q2,"But, you know, to kind of ballpark a number, I'd say probably half our CapEx is maintenance, you know, but our normalized CapEx call at this $18 billion level for this year probably you consider sustaining or maintenance CapEx?
+John Pitzer:
+Thank you, Jonathan.",18,False
+INTC,2022-04-28,2022Q1,Capex for the quarter was $4.6 billion.,4.6,False
+INTC,2022-04-28,2022Q1,"Finally, net capex guidance of $27 billion and moderately negative adjusted free cash flow for the year remain unchanged.",27,False
+INTC,2022-04-28,2022Q1,"So the Q1 capex was about $4.6 billion, suggests a very big ramp in the back half to get to your $27 billion net capex target.",4.6;27,False
+INTC,2022-04-28,2022Q1,"I would say the other thing is that when you look at it, I think we feel confident about the $28 billion growth capex, the $27 billion net capex obviously assumes a $1 billion of capital offsets.",28;27;1,False
+INTC,2026-04-23,2026Q1,"How does the business model and the spending behavior strategically change in that environment? Dave talked about increasing CapEx a relatively small amount, maybe $17 billion up to $18 billion this year.",17;18,False
+INTC,2026-04-23,2026Q1,"Any help you can provide longer term about how we should think about growth—in units, cores, gigawatts, CapEx? Put bluntly, is the $100 billion number that ARM gave reasonable in your view?
+David Zinsner:
+One statistic we look at is the ratio of CPUs to GPUs.",100,False
+INTC,2023-01-26,2022Q4,"Net capex was $4.6 billion, resulting in an adjusted free cash flow of $3.",4.6,False
+INTC,2023-01-26,2022Q4,"And I sort of divide the numbers, it implies a gross capex number, something in the range of $20 billion, give or take.",20,False
+INTC,2023-07-28,2023Q2,"Net capex was $5.5 billion, resulting in an adjusted free cash flow of negative $2.",5.5,False
+INTC,2024-10-31,2024Q3,"5 billion and drive gross and net capex to between $20 billion to $23 billion and $12 billion to $14 billion, respectively.",20;23;12;14,False
+INTC,2024-10-31,2024Q3,"We had growth capex of $6.5 billion in the quarter, resulting in adjusted free cash flow of negative $2.",6.5,False
+INTC,2024-10-31,2024Q3,"We anticipate that our 2024 gross and net capital investments will be approximately $25 billion and $11 billion, respectively.",25;11,True
+INTC,2024-10-31,2024Q3,"5 billion and gross and net capex of $20 billion to $23 billion and $12 billion to $14 billion, respectively, we expect to achieve positive adjusted free cash flow.",20;23;12;14,True
+INTC,2018-10-26,2018Q3,We've increased our CapEx by $1.5 billion since January to a record $15.,1.5,False
+INTC,2018-10-26,2018Q3,"3 billion in capital expenditures and delivered $11.2 billion in free cash flow, up 57% over the first three quarters of last year.",11.2,False
+INTC,2018-10-26,2018Q3,"As a result of increased demand, we are raising our forecast for gross CapEx to $15.5 billion, or approximately $14 billion net of memory prepayments.",15.5;14,False
+INTC,2018-10-26,2018Q3,It's a record year for CapEx for us at $15.5 billion.,15.5,False
+INTC,2019-10-24,2019Q3,We are raising gross capex by $0.5 billion to $16 billion as a result of increased 10-nanometer and 7-nanometer investments.,0.5;16,False
+INTC,2019-01-25,2018Q4,"2 billion in capital expenditures and delivered $14.3 billion in free cash flow, up 38% year-on-year and closing the gap versus EPS by 4.",14.3,False
+INTC,2019-01-25,2018Q4,We expect gross capital expenditures of $15.5 billion with logic spending up and memory spending down.,15.5,True
+INTC,2021-07-23,2021Q2,"0, we expect capex of $19 billion to $20 billion this year and free cash flow to be $11 billion, up $500 million versus prior expectations.",19;20;11;0.5,True
+INTC,2021-07-23,2021Q2,"How is that possible given the capex ramp? Like, what's going on there? And how do we think about depreciation's impact on gross margin going forward given it's sort of run rating under $10 billion annually and your capex is now going to $20 billion annually? Like, how do I think about those?
+George Davis
+--
+Chief Financial Officer
+Yeah, Stacy, so the absolute numbers are down -- or trending sort of counterintuitively.",10;20,False
+INTC,2022-07-28,2022Q2,"capex for the quarter was $7.2 billion, resulting in an adjusted cash flow of negative $6.",7.2,False
+INTC,2022-07-28,2022Q2,"For net capex, we're revising down our forecast to $23 billion, $4 billion less than our previous guidance as we moderately adjust our investment in capacity and take advantage of potentially larger than originally forecast capital assets, highlighting significant progress on our smart capital strategy.",23;4,False
+INTC,2020-10-23,2020Q3,"7 billion in capex, resulting in $4.5 billion of free cash flow.",4.5,False
+INTC,2020-10-23,2020Q3,We expect 2020 capex of approximately $14.2 billion to $14.,14.2,True
+INTC,2024-01-25,2023Q4,Net capex was $5.9 billion resulting in an adjusted free cash flow of negative $1.,5.9,False
+INTC,2021-10-22,2021Q3,"0, we expect capex of $18 billion to $19 billion and free cash flow of approximately $12.5 billion, up $1.",18;19;12.5,True
+INTC,2021-10-22,2021Q3,"0 strategy, we are forecasting 2022 capex of $25 billion to $28 billion with potential for further growth in subsequent years.",25;28,True
+INTC,2022-10-27,2022Q3,"Net capex for the quarter was $7.3 billion, resulting in an adjusted free cash flow of negative $6.",7.3,False
+INTC,2022-10-27,2022Q3,"We brought our capex -- I think when we started the year, we thought capex would be in the $27 billion range on a net basis.",27,False
+INTC,2025-01-30,2024Q4,We had gross capex of $6.3 billion with offsets of $1.,6.3,False
+INTC,2025-01-30,2024Q4,"3 billion in cash from operations, made $24 billion of gross capital investments and generated capital offsets of approximately $13.4 billion from Skip partner contributions and government grants and incentives.",24;13.4,False
+INTC,2025-01-30,2024Q4,"We anticipate that our 2025 gross capital investments will be approximately $20 billion at the low end of our previous guide of $20 billion to $23 billion reflecting further capacity adjustments to Ohio and Ireland, as well as better utilization of what we call our construction in progress.",20;20;23,True
+INTC,2025-01-30,2024Q4,"We expect 2025 net capex of $8 billion to $11 billion, with roughly half of the offsets expected to come from government incentives and tax credits and half from partner contributions.",8;11,True
+INTC,2025-01-30,2024Q4,"Yeah, Dave, also, so you took the capex to the low end, but there's $1.2 billion outflow that's in the financing section of the cash flow statement.",1.2,False
+INTC,2025-01-30,2024Q4,"If you look at capex for '25, the $20 billion forecast, what's driving that lower is really a function of better utilizing assets under construction.",20,False
+INTC,2018-07-26,2018Q2,"4 billion in capital expenditures, and delivered $6.3 billion in free cashflow, up 61% over the first half of last year.",6.3,False
+INTC,2018-07-26,2018Q2,"In response to stronger demand, we are raising gross CapEx $500 million to $15 billion, or $13 billion net of memory pre-payments.",0.5;15;13,False
+INTC,2023-10-27,2023Q3,"Net capex was $4.9 billion, resulting in positive adjusted free cash flow of approximately $950 million, and we paid dividends of half a billion dollars in the quarter.",4.9;0.95,False
+INTC,2024-04-25,2024Q1,"Net capex was $5 billion, resulting in an adjusted free cash flow of negative $6.2 billion, and we paid dividends of $0.",5;6.2,False
+INTC,2020-04-23,2020Q1,"3 billion in capex, with $2.9 billion of free cash flow, up 76% year-over-year.",2.9,False
+INTC,2020-07-23,2020Q2,"4 billion in CAPEX, with $7.7 billion of free cash flow up 92% year over year.",7.7,False
+INTC,2020-07-23,2020Q2,We expect 2020 CAPEX of approximately $15 billion and free cash flow of approximately $17.5 billion.,15;17.5,True
+INTC,2025-10-24,2025Q3,"Just on the CapEx, I think you reiterated $18 billion, but I think you spent, I guess, less than I was modeling Q3.",18,False
+INTC,2020-01-24,2019Q4,"We expect 2020 capex of approximately $17 billion, more than half of which is comprised of investments in fab space, and 7-nanometer and 5-nanometer equipment.",17,True
+INTC,2020-01-24,2019Q4,"On capex, specifically, $17 billion, you mentioned some of the parts there.",17,False
+INTC,2020-01-24,2019Q4,"So on capex, we're -- part of the reason we're at the -- expecting $17 billion this year is, we're building more space, some of the longer lead time items.",17,False
+BE,2026-02-05,2025Q4,"Capital Expenditures
+-- $57 million in the quarter.",0.057,False
+BE,2026-02-05,2025Q4,"2026 Capital Expenditures Guidance
+-- $150 million to $200 million expected.",0.15;0.2,True
+BE,2026-02-05,2025Q4,9 million while CapEx was $57 million.,0.057,False
+BE,2026-02-05,2025Q4,We expect capital spending to be $150 million to $200 million.,0.15;0.2,True
+MU,2020-06-29,2020Q3,"Turning to cash flows and capital spending, we generated $2 billion in cash from operations in FQ3, representing 37% of revenue.",2,False
+MU,2020-06-29,2020Q3,"During the quarter, net capital spending was approximately $1.9 billion, approximately flat quarter-over-quarter.",1.9,False
+MU,2020-06-29,2020Q3,"As we enter the final quarter of FY '20, we are projecting fiscal year 2020 capex to be approximately $8 billion.",8,True
+MU,2020-06-29,2020Q3,"Reaching our goals will require investment, and we plan to devote approximately 2% of annual capital expenditures to environmental sustainability initiatives, amounting to about $1 billion over the next five to seven years.",1,True
+MU,2020-06-29,2020Q3,"Just on capex, it seems like this year there were some concerns that may be lowered to $8 billion [Phonetic].",8,False
+MU,2024-12-18,2025Q1,"Capital expenditures were $3.1 billion, resulting in free cash flow of $112 million in the quarter.",3.1;0.112,False
+MU,2024-12-18,2025Q1,"In fiscal Q2, we forecast net capex to be approximately $3 billion.",3,False
+MU,2024-12-18,2025Q1,"We expect overall capex spending in fiscal 2025 to be approximately $14 billion, plus or minus $500 million.",14;0.5,True
+MU,2017-12-20,2018Q1,"We continue to expect FY '18 CAPEX in the range of $7.5 billion, plus or minus 5%, fairly balanced between the first and second halves of the fiscal year.",7.5,True
+MU,2019-09-26,2019Q4,"Turning to cash flows and capital spending, we generated $2.2 billion in cash from operations in fiscal Q4, representing 46% of revenue.",2.2,False
+MU,2019-09-26,2019Q4,"During the quarter, net capital spending, was approximately $2.0 billion, down from $2.",2,False
+MU,2019-09-26,2019Q4,"For full fiscal 2019, our net CapEx was $9.1 billion, up from $8.",9.1,True
+MU,2019-09-26,2019Q4,"We expect our fiscal 2020 net CapEx to be in the range of $7 billion to $8 billion, down meaningfully from fiscal 2019.",7;8,True
+MU,2019-06-25,2019Q3,"Earlier this year, we announced a reduction in fiscal 2019 CapEx forecast from $10.5 billion plus or minus 5% at the start of the year to approximately $9 billion now.",10.5;9,True
+MU,2019-06-25,2019Q3,"Turning to cash flows and capital spending, we generated $2.7 billion in cash from operations in fiscal third quarter, representing 57% of revenues.",2.7,False
+MU,2019-06-25,2019Q3,"Capital spending, net of third-party contributions, was approximately $2.2 billion, down from $2.",2.2,False
+MU,2019-06-25,2019Q3,"We still expect fiscal 2019 CapEx at approximately $9 billion, however we expect meaningfully lower CapEx in fiscal 2020.",9,True
+MU,2019-06-25,2019Q3,"In fiscal third quarter, our adjusted free cash flow, defined as cash flow from operations less net CapEx was approximately $500 million compared to $2.2 billion in the year ago quarter and $1 billion in fiscal second quarter.",0.5;2.2;1,False
+MU,2019-06-25,2019Q3,"Sanjay Mehrotra
+--
+President and Chief Executive Officer
+And one thing I would add is, in terms of our overall CapEx that you mentioned, of course, as you know that in fiscal year '19 we had meaningful part of our CapEx around $2 billion that was actually tied to facilities, cleanroom expansions to enable technology transitions.",2,False
+MU,2019-06-25,2019Q3,"You have seen that how over the course of last one year we have for fiscal year '19 managed our CapEx down from $10.5 billion plus, minus 5% to $9 billion now.",10.5;9,False
+MU,2018-03-22,2018Q2,"For Fiscal Year 2018, we expect our capital expenditures to be in the upper end of our previously guided range of $7.5 billion plus or minus 5%.",7.5,True
+MU,2018-03-22,2018Q2,"Capital spending, net of third party contributions, was $2.1 billion, resulting in a very strong free cash flow, adjusted for these third-party capital contributions, of $2.",2.1,False
+MU,2018-03-22,2018Q2,"As Sanjay mentioned earlier, we expect capital spending, net of third-party contributions, to be at the upper end of our Fiscal 2018 guided range of $7.5 billion, plus or minus 5%.",7.5,True
+MU,2025-03-20,2025Q2,Our capital spending plans remain unchanged at approximately $14 billion for fiscal 2025.,14,True
+MU,2025-03-20,2025Q2,"9 billion, and our capital expenditures were $3.1 billion, net of proceeds from government incentives.",3.1,False
+MU,2025-03-20,2025Q2,"In fiscal Q3, we forecast capex to be over $3 billion.",3,False
+MU,2025-03-20,2025Q2,Our capex projection for fiscal 2025 remains approximately $14 billion.,14,True
+MU,2019-03-20,2019Q2,"Turning to cash flows and capital spending, in the fiscal second quarter, we generated $3.4 billion in cash from operations, representing 59% of revenue.",3.4,False
+MU,2019-03-20,2019Q2,"Capital spending, net of third-party contributions, was approximately $2.4 billion, relatively flat compared with the prior quarter.",2.4,False
+MU,2019-03-20,2019Q2,We have lowered our capex targets for fiscal 2019 to approximately $9 billion from our prior guidance range of $9 billion to $9.5 billion as we manage through the current environment while maintaining investment in our strategic priorities.,9;9;9.5,True
+MU,2019-03-20,2019Q2,"In the fiscal second quarter, our adjusted free cash flow, defined as cash flow from operations less net capex, was approximately $1 billion, compared to $2.2 billion in the year-ago quarter and $2.",1;2.2,False
+MU,2019-03-20,2019Q2,"And then on top of that, this quarter, we talked about further reductions in capex down to the approximately $9 billion, and we talked about taking some underutilization, about 5% of underutilization to kind of further reduce the output.",9,False
+MU,2018-09-20,2018Q4,"As a result, our Fiscal 2019 CapEx related to manufacturing facility construction and facility upgrades is increasing by nearly $2 billion year-over-year, primarily due to our previously announced NAND and DRAM cleanroom expansions.",2,True
+MU,2018-09-20,2018Q4,Capital spending net of third-party contributions was $2.1 billion in the fiscal fourth quarter and $8.,2.1,False
+MU,2018-09-20,2018Q4,"We currently expect our Fiscal 2019 CapEx net of partner contributions to be in the range of $10.5 billion, plus or minus 5%.",10.5,True
+MU,2018-09-20,2018Q4,We mentioned that our CapEx on cleanroom construction and facility upgrades is increasing by $2 billion compared to last year.,2,False
+MU,2018-06-20,2018Q3,Capital spending net of third-party contributions was $2.1 billion in the third quarter.,2.1,False
+MU,2018-06-20,2018Q3,"We expect the full fiscal year 2018 CapEx to be approximately $8 billion, which includes previously discussed investments associated with our clean room expansions in Singapore and Hiroshima.",8,True
+MU,2024-10-10,2024Q4,Capital expenditures were $3.1 billion during the quarter.,3.1,False
+MU,2024-10-10,2024Q4,"capex totaled $8.1 billion for the fiscal year, up from $7 billion in fiscal 2023.",8.1;7,True
+MU,2024-10-10,2024Q4,"In fiscal Q1, we forecast capital expenditures to increase sequentially to approximately $3.5 billion.",3.5,False
+MU,2020-09-30,2020Q4,"We are targeting fiscal 2021 capex to be approximately $9 billion to support our long-term goal of maintaining stable share of industry bit supply, which will be achieved through node transitions alone and without a net increase to wafer starts.",9,True
+MU,2020-09-30,2020Q4,"Turning to cash flows and capital spending, we generated $2.3 billion in cash from operations in fiscal Q4, representing 38% of revenue.",2.3,False
+MU,2020-09-30,2020Q4,Net capital spending was approximately $2.2 billion during the quarter and approximately $7.,2.2,False
+MU,2020-09-30,2020Q4,We now expect fiscal 2021 capex of approximately $9 billion.,9,True
+MU,2020-09-30,2020Q4,"Reaching our goals will require investment and as we have previously discussed, we plan to devote approximately 2% of annual capital expenditures to environmental sustainability initiatives amounting to about $1 billion over the next five years to seven years.",1,True
+MU,2018-12-18,2019Q1,"Turning to cash flows and capital spending, in the fiscal first quarter, we generated $4.8 billion in cash from operations, representing 61% of revenue.",4.8,False
+MU,2018-12-18,2019Q1,"Capital spending, net of third-party contributions, was $2.5 billion, up from $2.",2.5,False
+MU,2018-12-18,2019Q1,"Given the weaker near-term outlook, we are lowering our CapEx plans to a range of $9 billion to $9.5 billion for fiscal 2019.",9;9.5,True
+MU,2019-12-18,2020Q1,"Turning to cash flows and capital spending, we generated $2 billion in cash from operations in FQ1, representing 40% of revenue.",2,False
+MU,2019-12-18,2020Q1,"During the quarter, net capital spending was approximately $1.9 billion, down from approximately $2 billion in the prior quarter.",1.9;2,False
+MU,2019-12-18,2020Q1,We are continuing to target FY '20 capex in the range of $7 billion to $8 billion.,7;8,False
+MU,2020-03-25,2020Q2,"Turning to cash flows and capital spending, we generated $2 billion in cash from operations in FQ2, representing 42% of revenue.",2,False
+MU,2020-03-25,2020Q2,"During the quarter, net capital spending was approximately $1.9 billion, up slightly quarter-over-quarter.",1.9,False
+MU,2020-03-25,2020Q2,"We are continuing to project FY20 capex in the range of $7 billion to $8 billion, including some increases for assembly and test flexibility that Sanjay mentioned.",7;8,False
+AMAT,2020-05-14,2020Q2,"One of your foundry customers just raised capex, I think it was yesterday, by $1 billion plus.",1,False
+AMAT,2022-02-16,2022Q1,"So if you look at TSMC has put long-term spending out -- forecast of $100 billion kind of capex, $40 billion, $42 billion in capex next -- this year.",100;40;42,False
+AMAT,2026-08-20,2026Q3,"Capital expenditures were $707 million, resulting in free cash flow of $2.3 billion.",0.707;2.3,False
+AMAT,2024-11-14,2024Q4,Capital expenditures were $407 million and free cash flow was $2.2 billion.,0.407;2.2,False
+AMAT,2018-05-17,2018Q2,We plan to increase our CapEx by about $400 million this year.,0.4,True
+SNDK,2026-08-12,2026Q4,"Gross capital expenditures totaled $562 million, representing 6.",0.562,False
+CRWV,2026-08-18,2026Q2,"CapEx in Q2 totaled $9.4 billion, slightly above the high end of our guided range.",9.4,False
+CRWV,2026-08-18,2026Q2,We expect CapEx to be $11.5 billion to $13.,11.5,True
+CRWV,2026-08-18,2026Q2,"As a result of our increased expectations around capacity to be delivered to customers this year as well as some of our significant recent wins, we now expect 2026 CapEx in the range of $35 billion to $39 billion.",35;39,True
+VST,2019-02-28,2018Q4,"The Vistra operating teams exhibited meaningful CapEx spending discipline throughout the year, enabling Vistra to achieve ongoing operations, adjusted free cash flow before growth of $1.611 billion, results that were $61 million above the high-end of our guidance range, reflecting an EBITDA to free cash flow conversion ratio of nearly 60% for the year.",1.611;0.061,False
+VST,2018-08-06,2018Q2,"You talked about Moss Landing CapEx being in the zip code of, say, $400 million, my words, not yours.",0.4,False
+VST,2018-02-26,2017Q4,"If you also exclude the 2018 non-recurring capital expenditures relating to the generator capital at Comanche Peak, our adjusted free cash flow guidance range from the ongoing operations would be even higher, at $760 million to $890 million.",0.76;0.89,True
+STMPA.PA,2020-07-23,2020Q2,Our capex plan for 2020 is now $1.2 billion.,1.2,True
+STMPA.PA,2020-07-23,2020Q2,"Free cash flow was a positive $28 million, including capex of $312 million compared to a negative $67 million in the year ago quarter.",0.028;0.312;0.067,False
+STMPA.PA,2020-07-23,2020Q2,Our capex plan for 2020 is now about $1.2 billion.,1.2,True
+STMPA.PA,2026-07-23,2026Q2,Net CapEx was $409 million in the second quarter compared to $465 million in the year ago quarter.,0.409;0.465,False
+STMPA.PA,2026-07-23,2026Q2,"We now expect 2026 net CapEx to be at the high end of our $2 billion to $2.2 billion range, reflecting accelerating investments in the selected growth drivers, including cloud optical interconnect.",2;2.2,True
+STMPA.PA,2020-10-22,2020Q3,Our capex plan for 2020 is unchanged at $1.2 billion.,1.2,True
+STMPA.PA,2020-10-22,2020Q3,Capex was $319 million in the quarter compared to $244 million in the year-ago period.,0.319;0.244,False
+STMPA.PA,2020-10-22,2020Q3,We are maintaining our capex plan for 2020 at about $1.2 billion.,1.2,True
+STMPA.PA,2019-01-24,2018Q4,"Net income and free cash flow were up 60% and 73%, respectively, compared to 2017, while CAPEX was slightly lower at $1.26 billion from $1.",1.26,True
+STMPA.PA,2021-07-29,2021Q2,"Free cash flow increased to $125 million compared to $28 million in the year ago quarter, with capex of $438 million versus $312 million in the year ago quarter.",0.125;0.028;0.438;0.312,False
+STMPA.PA,2021-07-29,2021Q2,Our updated 2021 capex plan of about $2.1 billion will help increase our manufacturing capacity to continue to support the strong global demand of our customers.,2.1,True
+STMPA.PA,2021-07-29,2021Q2,"1 billion of capex, pure capacity is about $1.4 billion, $1.",1.4,False
+STMPA.PA,2021-07-29,2021Q2,"So is it new capacity that you're building up that are arriving faster than expected? Or is it coming from foundries? And the second question is could you share with us your view on 2022 capex because, as you said, with the capex of this year, you're adding $1.4 billion to $1.",1.4,True
+STMPA.PA,2021-10-28,2021Q3,Our 2021 capex investment plan of about $2.1 billion remain unchanged.,2.1,True
+STMPA.PA,2021-10-28,2021Q3,capex in third quarter was $437 million compared to $319 million in the year ago quarter.,0.437;0.319,False
+CRM,2021-05-27,2022Q1,"Capex for the quarter was $171 million, leading to free cash flow of $3.1 billion, up 99% year over year.",0.171;3.1,False
+CRM,2022-08-24,2023Q2,"Capex was $203 million, resulting in free cash flow of $131 million, down 24% year over year.",0.203;0.131,False
+CRM,2020-02-25,2020Q4,capex for this year was $643 million.,0.643,False
+CRM,2020-02-25,2020Q4,"Free cash flow, defined as operating cash flow less capex, was $1.5 billion in Q4, up 29% over last year.",1.5,False
+CRM,2019-08-22,2020Q2,"Capex for the quarter was $178 million, leading to free cash flow defined as operating cash flow less capex of $258 million, down 10% over last year.",0.178;0.258,False
+CRM,2018-05-29,2018Q1,"Free cash flow, defined as operating cash flow less capex, was $1.34 billion in the first quarter, up 25% over last year.",1.34,False
+CRM,2018-02-28,2018Q4,"CapEx for the year was $534 million, or approximately 5.",0.534,False
+CRM,2018-02-28,2018Q4,"Turning to free cash flow -- and that's defined as cash flow less CapEx -- this was $914 million in the fourth quarter, up 63% over last year and I'm very pleased to report that our full-year free cash flow was $2.2 billion, up 30% over FY '17.",0.914;2.2,False
+CRM,2021-02-26,2021Q4,"capex for the quarter was 145 -- $149 million, leading to free cash flow of $2 billion, up 35% year over year.",0.149;2,False
+CRM,2021-08-26,2022Q2,"Capex for quarter was $213 million, leading to free cash flow of $173 million, down 45% year over year.",0.213;0.173,False
+CRM,2020-05-29,2021Q1,"Capex for the quarter was $323 million, leading to a free cash flow defined as operating cash flow less capex of $1.54 billion, down 15% year-over-year.",0.323;1.54,False
+CRM,2020-12-02,2021Q3,"Capex for the quarter was 124 million, leading to a free cash flow, defined as operating cash flow less capex, of $215 million, up 68% year-over-year.",0.215,False
+CRM,2022-06-01,2023Q1,"Capex was $179 million, resulting in free cash flow of $3.5 billion, up 14% year over year.",0.179;3.5,False
+CRM,2019-03-04,2019Q4,"CapEx for the year was $595 million, approximately 4.",0.595,False
+CRM,2019-03-04,2019Q4,"Free cash flow defined as operating cash flow less CapEx was $1.16 billion in Q4, up 27% over last year.",1.16,False
+CRM,2020-08-26,2021Q2,"Capex for the quarter was $114 million, leading to a free cash flow defined as operating cash flow less CapEx of $315 million, up 22% year over year.",0.114;0.315,False
+CRM,2019-06-05,2020Q1,"CapEx for the quarter was $159 million, leading to free cash flow as defined as operating cash flow less CapEx of $1.81 billion, up 34% over Q1 of last year.",0.159;1.81,False
+CRM,2019-12-03,2020Q3,"CapEx for the quarter was $170 million, leading to a free cash flow, which is defined as operating cash flow less CapEx of $128 million.",0.17;0.128,False
+CRM,2022-12-01,2023Q3,"Operating cash flow was $313 million in Q3, down 23% year over year; capex, $198 million, resulting in free cash flow of $115 million, down 52% year over year, both driven by lower billings.",0.313;0.198;0.115,False
+CRM,2022-03-02,2022Q4,"Capex was $717 million, resulting in free cash flow of $5.3 billion, up 29% year over year.",0.717;5.3,False
+CRM,2021-12-01,2022Q3,"Capex for the quarter was $166 million, resulting in free cash flow of $238 million, up to 11 percent year over year.",0.166;0.238,False
+TSM,2022-01-18,2021Q4,"So now he wants to apply it to this time to say, well, if capex has tripled from 2018, then can he expect TSMC revenue to be $100 billion.",100,True
+TSM,2022-01-18,2021Q4,"It's a capex and the opex question, you spoke about $40 billion to $45 billion capex.",40;45,False
+TSM,2022-01-18,2021Q4,"Can you just tell us how much of the capex is going to be split between Taiwan and US and Japan, like a geographic breakdown of that $40 billion to $44 billion? And the opex side, I understand you don't want to comment on long-term opex.",40;44,False
+TSM,2022-01-18,2021Q4,"First is in terms of the capex guidance that we gave this year, $40 billion to $44 billion.",40;44,False
+TSM,2023-07-20,2023Q2,"dollar terms, our second quarter capital expenditures totaled $8.17 billion.",8.17,False
+TSM,2023-07-20,2023Q2,Capex actually went up $3 billion to $4 billion per year to $10 billion.,3;4;10,False
+TSM,2023-07-20,2023Q2,"And actually, after that, TSMC capex did level off around $10 billion level for roughly five years until 2019.",10,True
+TSM,2023-07-20,2023Q2,"By telling us the capex is probably going to level off, are you telling us or are you alluding to maybe there will be some steady-state capex numbers going forward, maybe starting from '24 or '25, around $30 billion-ish level? That's just a clarification on that comment to level it off.",30,False
+TSM,2023-07-20,2023Q2,"Charles, as I've mentioned in the past few years, our capex increased dramatically from $10 billion to $36 billion last year.",10;36,False
+TSM,2024-04-18,2024Q1,"During the first quarter, we generated about NT$436 billion in cash from operations, spent NT$181 billion in capex and distributed NT$78 billion for second-quarter 2023 cash dividend.",436;181;78,True
+TSM,2024-04-18,2024Q1,"dollar terms, our first-quarter capital expenditures totaled $5.77 billion.",5.77,False
+TSM,2024-04-18,2024Q1,"Curious how that ties to how you're looking at the capex, if you say that we're entering either higher growth or investment cycle, where capital intensity could need to rise up above that mid-30s range that you set or at least in absolute dollars from the $30 billion this year, we should start growing or thinking about capex at least growing with revenue.",30,False
+TSM,2022-10-13,2022Q3,"Now, we are further tightening up this year's capital spending and expect our 2022 capex to be around $36 billion.",36,True
+TSM,2026-07-16,2026Q2,"In terms of the CapEx timeframe, is it in the next three years, in the five years? Do we have any schedule or timeframe to share about this additional $100 billion?
+C.",100,False
+TSM,2026-07-16,2026Q2,"From year to date, TSMC raised the CapEx guidance by almost $10 billion.",10,False
+TSM,2022-07-14,2022Q2,"dollar terms, our second quarter capital expenditures totaled $7.34 billion.",7.34,False
+TSM,2024-01-18,2023Q4,"Regarding cash flow and capex, during the fourth quarter, we generated about 395 billion NT in cash from operations, spent $170 billion in capex, and distributed 78 billion for the first quarter '23 cash dividend.",170,False
+TSM,2024-10-17,2024Q3,"dollar terms, our third quarter capital expenditures totaled $6.4 billion.",6.4,False
+TSM,2023-10-19,2023Q3,We now expect our 2023 capex to be approximately $32 billion.,32,True
+TSM,2023-10-19,2023Q3,"But I look at the near term, TSMC capex seems to be running at $7 billion per quarter in the second half '23, which kind of is at 28 billion annualized run rate.",7,False
+TSM,2023-10-19,2023Q3,Is that the right way to think about the capex? Is $7 billion really like the really bottom level run rate for TSMC capex at this point? Thank you.,7,False
+TSM,2023-10-19,2023Q3,"Basically, he's saying given the guidance he's looking at our capex, it's running at about $7 billion run rate.",7,False
+GOOGL,2020-07-31,2020Q2,Cash capex for the quarter was $5.4 billion which I will discuss in the Google segment results.,5.4,False
+GOOGL,2020-07-31,2020Q2,"Google accrued capex for the quarter was $4.8 billion reflecting investments in servers, data centers, and office facilities.",4.8,False
+GOOGL,2017-10-30,2017Q3,Cash CapEx for the quarter was $3.5 billion.,3.5,False
+GOOGL,2017-10-30,2017Q3,"Accrued CapEx for the quarter was $3.6 billion, reflecting investments in production equipment, facilities and data center construction.",3.6,False
+GOOGL,2017-10-30,2017Q3,"Other Bets accrued CapEx was $77 million, primarily reflecting a reduced investment in Fiber due to the pause in expansion we announced in 3Q '16.",0.077,False
+GOOGL,2017-10-30,2017Q3,Cash CapEx for the quarter was $3.5 billion.,3.5,False
+GOOGL,2017-10-30,2017Q3,"Accrued CapEx for the quarter was $3.6 billion, reflecting investments in production equipment, facilities and data center construction.",3.6,False
+GOOGL,2017-10-30,2017Q3,"Other Bets accrued CapEx was $77 million, primarily reflecting a reduced investment in Fiber due to the pause in expansion we announced in 3Q '16.",0.077,False
+GOOGL,2025-02-05,2024Q4,"With respect to capex, our reported capex in the fourth quarter was $14 billion, primarily reflecting investments in our technical infrastructure, with the largest component being investment in servers, followed by data centers to support the growth of our business across Google Services, Google Cloud, and Google DeepMind.",14,False
+GOOGL,2025-02-05,2024Q4,"We expect to invest approximately $75 billion in capex in 2025, with approximately $16 billion to $18 billion of that in the first quarter.",75;16;18,True
+GOOGL,2020-02-03,2019Q4,"Cash capex for the quarter was $6 billion, which I will discuss in the Google segment results.",6,False
+GOOGL,2020-02-03,2019Q4,"Google accrued capex for the quarter was $6.6 billion, reflecting investments in data centers, followed by servers and office facilities.",6.6,False
+GOOGL,2018-04-23,2018Q1,"Cash CapEx for the quarter was $7.3 billion, which I'll discuss in the Google segment results.",7.3,False
+GOOGL,2018-04-23,2018Q1,"Accrued CapEx for the quarter was $7.7 billion, reflecting investments in facilities, production equipment, and data center construction.",7.7,False
+GOOGL,2018-04-23,2018Q1,Facilities with the largest component of CapEx this quarter due primarily to the $2.4 billion dollar purchase of Chelsea Market that we announced in March.,2.4,False
+GOOGL,2018-04-23,2018Q1,Other Bets accrued CapEx was $55 million.,0.055,False
+GOOGL,2025-10-30,2025Q3,"CapEx Guidance
+-- Increased 2025 CapEx forecast to $91 billion–$93 billion, up from previous $85 billion estimate, and signaled a ""significant increase"" in expected 2026 CapEx.",91;93;85,True
+GOOGL,2025-10-30,2025Q3,"With respect to CapEx, in the third quarter, our CapEx was $24 billion.",24,False
+GOOGL,2025-10-30,2025Q3,"We now expect CapEx to be in the range of $91 billion to $93 billion in 2025, up from our previous estimate of $85 billion, keeping in mind that the timing of cash payments can cause variability in the reported CapEx number.",91;93;85,True
+GOOGL,2019-07-25,2019Q2,"Cash capex for the quarter was $6.1 billion, which I will discuss in the Google segment results.",6.1,False
+GOOGL,2019-07-25,2019Q2,"Accrued capex for the quarter was $6.9 billion, reflecting investments in office facilities and data centres followed by service.",6.9,False
+GOOGL,2018-02-01,2017Q4,Cash CapEx for the quarter was $4.3 billion.,4.3,False
+GOOGL,2018-02-01,2017Q4,"Accrued CapEx for the quarter was $3.8 billion, reflecting investments in production equipment, facilities and data center construction.",3.8,False
+GOOGL,2018-02-01,2017Q4,"Other Bets accrued CapEx was $507 million, down from $1.4 billion in 2016 primarily reflecting a reduced investment in Fiber.",0.507;1.4,True
+GOOGL,2024-07-23,2024Q2,"With respect to capex, our reported capex in the second quarter was $13 billion, once again, driven overwhelmingly by investment in our technical infrastructure with the largest component for servers followed by data centers.",13,False
+GOOGL,2024-07-23,2024Q2,"Looking ahead, we continue to expect quarterly capex throughout the year to be roughly at or above the Q1 capex of $12 billion, keeping in mind that the timing of cash payments can cause variability in quarterly reported capex.",12,True
+GOOGL,2024-01-30,2023Q4,"With respect to capex, our reported capex in the fourth quarter was $11 billion, driven overwhelmingly by investment in our technical infrastructure with the largest component for servers followed by data centers.",11,False
+GOOGL,2024-01-30,2023Q4,"And what can really make Google stand out versus other AI tools? And then Ruth, capex was $11 billion.",11,False
+GOOGL,2024-01-30,2023Q4,"Ruth Porat
+--
+Chief Financial Officer
+And with respect to capex -- the capex of $11 billion in the fourth quarter, as I indicated, was overwhelmingly investment in our technical infrastructure.",11,False
+GOOGL,2019-04-29,2019Q1,"Cash CapEx for the quarter was $4.6 billion, which I will discuss in the Google segment results.",4.6,False
+GOOGL,2019-04-29,2019Q1,"Accrued CapEx for the quarter was $4.5 billion, reflecting investments in data centers, servers and office facilities.",4.5,False
+GOOGL,2019-04-29,2019Q1,"Operating loss was $868 million, Other Bets accrued CapEx was $59 million.",0.868;0.059,False
+GOOGL,2019-04-29,2019Q1,"In fact, as we announced in the first quarter, we expect CapEx of over $13 billion in 2019 just in the US in data center construction and offices, with major expansions in 14 states.",13,True
+GOOGL,2018-10-26,2018Q3,"Cash CapEx for the quarter was $5.3 billion, which I'll discuss in the Google segment results.",5.3,False
+GOOGL,2018-10-26,2018Q3,"Accrued CapEx for the quarter was $5.6 billion reflecting investments in production equipment, data center construction, and facilities.",5.6,False
+GOOGL,2018-10-26,2018Q3,Other Bets accrued CapEx was $55 million.,0.055,False
+GOOGL,2024-04-25,2024Q1,"With respect to capex, our reported capex in the first quarter was $12 billion, once again driven overwhelmingly by investment in our technical infrastructure with the largest component for servers followed by data centers.",12,False
+GOOGL,2024-04-25,2024Q1,"Can you just talk about what kind of queries or scenarios do you think that that's working best for so far? And just how we should think about the cadence of continuing to adopt more of those features within core search? And then Ruth, on capex spending, the $12 billion in 1Q.",12,False
+GOOGL,2024-04-25,2024Q1,"Ruth Porat
+--
+Chief Financial Officer
+And then in terms of capex, as I said in opening comments, we do expect the quarterly capex throughout the year to be roughly at or above the $12 billion cash capex we had here in Q1.",12,True
+GOOGL,2020-04-29,2020Q1,"Cash capex for the quarter was $6 billion, which I will discuss in the Google segment results.",6,False
+GOOGL,2020-04-29,2020Q1,Google accrued capex for the quarter was $5.7 billion reflecting investments in data centers followed by servers and office facilities.,5.7,False
+GOOGL,2019-10-29,2019Q3,"Cash capex for the quarter was $6.7 billion, which I will discuss in the Google segment results.",6.7,False
+GOOGL,2019-10-29,2019Q3,"Google accrued capex for the quarter was $7.2 billion reflecting investments in office facilities and data centers, followed by servers.",7.2,False
+STX,2020-02-04,2020Q2,"Consistent with our expectations, capital expenditure increased to $194 million to support growing demand for mass capacity storage.",0.194,False
+STX,2022-04-27,2022Q3,"Capital expenditures were $97 million for the quarter, up slightly quarter over quarter.",0.097,False
+STX,2022-01-27,2022Q2,"Capital expenditures were $95 million for the quarter, down 19% sequentially.",0.095,False
+STX,2023-01-26,2023Q2,"We reduced capital expenditures to $79 million, down 41% quarter over quarter.",0.079,False
+STX,2023-01-26,2023Q2,"Free cash flow generation was $172 million, up 54% sequentially with lower capital expenditure and a $51 million improvement in working capital.",0.172;0.051,False
+STX,2024-04-24,2024Q3,Capital expenditures were down sequentially to $60 million as the majority of planned capital expenditures were completed in the first half of fiscal '24.,0.06,False
+STX,2024-10-23,2025Q1,Capital expenditures for the quarter were $68 million for fiscal '25.,0.068,False
+STX,2019-11-01,2020Q1,Capital expenditures for the quarter were $147 million representing about 6% of September quarter revenue.,0.147,False
+STX,2020-10-22,2021Q1,"93, capital expenditures were slightly lower in the September quarter at $111 million, which represented around 5% of revenue.",0.111,False
+STX,2019-04-30,2019Q1,Capital expenditure were $147 million during the March quarter at the lower end of our long-term target range of between 6% and 8% of revenue.,0.147,False
+STX,2018-11-02,2019Q1,Capital expenditures on a cash basis were approximately $177 million in the September quarter or 6% of total revenue.,0.177,False
+STX,2018-01-29,2018Q2,Capital expenditures were $77 million for the December quarter for supporting the continued ramp of our new highest-capacity HDD products and maintenance capital.,0.077,False
+STX,2018-01-29,2018Q2,"For the March quarter, we expect capital expenditures to be approximately $120 million, primarily for maintenance capital and some incremental capital to address the strong cloud market demand.",0.12,True
+STX,2019-02-04,2019Q2,Capital expenditures on a cash basis were approximately $177 million in the September quarter or 6% of total revenue.,0.177,False
+STX,2021-07-21,2021Q4,Capital expenditures were $124 million in the June quarter and just under $500 million for the fiscal year which represent 4.,0.124;0.5,False
+STX,2020-07-29,2020Q4,"We reduced capital expenditure by 12% sequentially to $114 million in the June quarter, consistent with our plan to align our capital need with the current market environment.",0.114,True
+STX,2022-07-22,2022Q4,"Capital expenditures were $72 million for the quarter and totaled $381 million for the fiscal year or just over 3% of fiscal year revenue, reflecting our focus on aligning supply and demand.",0.072;0.381,False
+STX,2024-07-24,2024Q4,Capital expenditures for the quarter were down 10% to $54 million.,0.054,False
+STX,2024-07-24,2024Q4,"For the fiscal 2024, capex spending was $254 million, which is just below the low end of our target of 4% to 6% of revenue.",0.254,True
+STX,2019-08-02,2019Q4,"Capital expenditures were at $151 million in the June quarter and above $600 million for the fiscal year, which was just below 6% of full year revenues.",0.151;0.6,False
+STX,2025-01-21,2025Q2,Capital expenditures for the quarter were $71 million.,0.071,False
+STX,2021-04-22,2021Q3,"Capital expenditures were $104 million in the March quarter, which represented approximately 4% of revenue and in line with our expectation for capex to be inside our long-term range of between 4% and 6% of revenue for the fiscal year.",0.104,False
+STX,2022-10-26,2023Q1,"Reflecting the payment of previously committed amount, capital expenditures were $133 million for the September quarter.",0.133,False
+STX,2021-10-22,2022Q1,Capital expenditures were $117 million for the quarter.,0.117,False
+STX,2024-01-24,2024Q2,Capital expenditure were also flat sequentially at $70 million.,0.07,False
+STX,2020-04-22,2020Q3,"Capital expenditures were $130 million in the March quarter, reflecting our confidence in the business and flexibility to align our capital needs with market condition.",0.13,False
+STX,2023-10-26,2024Q1,"Capital expenditures were $70 million, compared with $50 million in the prior quarter.",0.07;0.05,False
+STX,2021-01-21,2021Q2,Capital expenditures were at $159 million in the December quarter which represented approximately 6% of revenue.,0.159,False
+MSFT,2023-07-25,2023Q4,"Capital expenditures, including finance leases, were $10.7 billion to support cloud demand, including investments in AI infrastructure.",10.7,False
+MSFT,2025-01-29,2025Q2,"Capital expenditures, including finance leases, were $22.6 billion, in line with expectations, and cash paid for PP&E was $15.",22.6,False
+MSFT,2018-01-31,2018Q2,"As expected, our capital expenditures, including finance leases, increased sequentially to $3.3 billion due to higher levels of customer demand and usage for our cloud services.",3.3,False
+MSFT,2022-04-26,2022Q3,"Capital expenditures, including finance leases, were $6.3 billion, in line with expectations.",6.3,False
+MSFT,2019-07-18,2019Q4,"As expected, capital expenditures including finance leases were up sequentially to $5.3 billion, driven by ongoing investment to meet demand for our cloud services.",5.3,False
+MSFT,2025-08-05,2025Q4,"Let me back up and first say when you think about the full year comments I've made on CapEx, as well as the Q1 guidance of over $30 billion you first have to ground yourself in the fact that we have $368 billion of contracted backlog we need to deliver, not just across Azure, but, of across the breadth of the Microsoft Cloud.",30;368,False
+MSFT,2024-07-30,2024Q4,"Capital expenditures, including finance leases, were $19 billion, in line with expectations and cash paid for PP&E was $13.9 billion.",19;13.9,False
+MSFT,2026-04-29,2026Q3,"Maybe, Amy, could you elaborate a little bit on the CapEx guidance you just provided? Obviously, it requires a fairly material pickup in CapEx in the second half of the calendar year, maybe to the tune of $120 billion.",120,False
+MSFT,2022-10-25,2023Q1,"Capital expenditures, including finance leases were $6.6 billion, and cash paid for PP&E was $6.",6.6,False
+MSFT,2022-07-27,2022Q4,"Capital expenditures, including finance leases, were $8.7 billion, in line with expectations.",8.7,False
+MSFT,2020-04-30,2020Q3,"Capital expenditures including finance leases were $3.9 billion, up 15% year-over-year to support growing demand for our cloud services, and lower than expected, driven by COVID-19 related delays across the supply chain.",3.9,False
+MSFT,2021-10-27,2022Q1,"Capital expenditures, including finance leases were $7.4 billion, in line with expectations, and cash paid for PP&E was $5.",7.4,False
+MSFT,2024-04-25,2024Q3,"Capital expenditures, including finance leases, were $14 billion to support our cloud demand, inclusive of the need to scale our AI infrastructure.",14,False
+MSFT,2024-04-25,2024Q3,It looks like Microsoft is on track to ramp capex over 50% year on year this year to over $50 billion.,50,False
+MSFT,2020-01-30,2020Q2,"In line with expectations, capital expenditures, including finance leases, were $4.5 billion, up 17% year-over-year, driven by an ongoing investment to meet growing demand for our cloud services.",4.5,False
+MSFT,2019-10-23,2020Q1,"Capital expenditures, including finance leases were $4.8 billion, up 12% year-over-year, driven by ongoing investment to meet growing demand for our cloud services, and slightly below expectations due to normal quarterly spend variability in the timing of our cloud infrastructure build out.",4.8,False
+MSFT,2018-04-26,2018Q3,"In line with our expectations, we increased capital expenditures on a sequential basis, with $3.5 billion invested to support current and future growth of our cloud offerings.",3.5,False
+MSFT,2018-04-26,2018Q3,"CapEx increased significantly this quarter, $2.9 billion you said in cash on property and equipment.",2.9,False
+MSFT,2020-07-23,2020Q4,"In line with expectations, capital expenditures, including finance leases, were $5.8 billion, up 8% year over year to support growing usage and demand for cloud services.",5.8,False
+MSFT,2024-01-31,2024Q2,"Capital expenditures, including finance leases, were $11.5 billion, lower-than-expected due to delivery for a third-party capacity contract shifting from Q2 to Q3.",11.5,False
+MSFT,2019-01-31,2019Q2,"Capital expenditures, including finance leases, were down sequentially to $3.9 billion, lower than originally planned mainly due to quarter-to-quarter variability and the timing of cloud infrastructure buildout.",3.9,False
+MSFT,2019-04-25,2019Q3,"Capital expenditures, including finance leases, were down sequentially to $3.4 billion and lower than initially planned, primarily due to normal quarterly spend variability and the timing of cloud infrastructure build out.",3.4,False
+MSFT,2022-01-26,2022Q2,"Capital expenditures, including finance leases, were $6.8 billion, up 25% year over year, lower than expected, primarily due to quarterly spend volatility in the timing of our cloud infrastructure buildout.",6.8,False
+MSFT,2018-07-19,2018Q2,"Capital expenditures including finance leases were $4.1 billion and increased on a sequential basis, in line with expectations.",4.1,False
+MSFT,2021-07-28,2021Q4,"Capital expenditures, including finance leases, were $7.3 billion, in line with expectations, driven by ongoing investment to support growing global demand and usage of our cloud services.",7.3,False
+MSFT,2018-10-24,2019Q1,"As expected, capital expenditures, including finance leases were up sequentially to $4.3 billion, driven by ongoing investment to meet demand for our cloud services.",4.3,False
+MSFT,2026-08-07,2026Q4,"Capital expenditures were $41 billion, including the impact from higher component pricing, as noted in our guide.",41,False
+MSFT,2026-08-07,2026Q4,"We expect CapEx spend will be over $50 billion, including the lease reclassification impact from the useful life update.",50,True
+MSFT,2024-10-30,2025Q1,"Capital expenditures including finance leases were $20 billion, in line with expectations, and cash paid for PP&E was $14.9 billion.",20;14.9,False
+MSFT,2021-04-28,2021Q3,"Capital expenditures, including finance leases, were $6 billion, in line with expectations, driven by ongoing investment to support growing global demand from increased customer usage of our cloud services.",6,False
+MSFT,2023-01-24,2023Q2,"Capital expenditures, including finance leases, were $6.8 billion to support cloud demand.",6.8,False
+MSFT,2023-10-24,2024Q1,"Capital expenditures, including finance leases, were $11.2 billion to support cloud demand, including investments to scale our AI infrastructure.",11.2,False
+MSFT,2021-01-27,2021Q2,"Capital expenditures, including finance leases, were $5.4 billion, up 20% year-over-year to support growing global demand and customer usage of our cloud services.",5.4,False
+MSFT,2020-10-28,2021Q1,"Capital expenditures, including finance leases, were $5.5 billion, up 15% year over year to support growing customer usage and demand for our cloud services.",5.5,False
+META,2021-07-29,2021Q2,"Capital expenditures, including capital leases, were $4.7 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",4.7,False
+META,2021-07-29,2021Q2,"We expect 2021 capital expenditures to be in the range of $19 billion to $21 billion, unchanged from our prior estimate.",19;21,True
+META,2020-07-31,2020Q2,"Capital expenditures were $3.4 billion, driven by investments in data centers, servers, office buildings, and network infrastructure.",3.4,False
+META,2020-07-31,2020Q2,"We expect capital expenditures to be approximately $16 billion, at the high end of our previous $15 billion to $16 billion range, as we have resumed data center construction efforts earlier than expected.",16;15;16,True
+META,2026-10-21,2026Q3,"Capital expenditures, including principal payments on finance leases, were $34.9 billion, driven by investments in servers, data centers, and network infrastructure.",34.9,False
+META,2026-10-21,2026Q3,"For 2026, we anticipate capital expenditures, including principal payments on finance leases, to be in the range of $135 billion to $145 billion narrowed from our prior outlook of $130 billion to $145 billion.",135;145;130;145,True
+META,2019-04-25,2019Q1,"Capital expenditures were $4 billion driven by investments in data centers, servers, office facilities, and network infrastructure.",4,False
+META,2019-04-25,2019Q1,"We are updating our 2019 capital expenditures outlook to be $17 billion to $19 billion, down from our prior estimate of $18 billion to $20 billion.",17;19;18;20,True
+META,2025-10-29,2025Q3,"Capital Expenditures
+-- $19.4 billion, reflecting server, data center, and network infrastructure investments.",19.4,False
+META,2025-10-29,2025Q3,"2025 CapEx Outlook
+-- Raised to $70 billion to $72 billion from $66 billion to $72 billion.",70;72;66;72,True
+META,2025-10-29,2025Q3,"Capital expenditures including principal payments on finance leases were $19.4 billion, driven by investments in servers data centers, and network infrastructure.",19.4,False
+META,2025-10-29,2025Q3,"We currently expect 2025 capital expenditures including principal payments on finance leases, to be in the range of $70 to $72 billion increased from our prior outlook of $66 to $72 billion.",72;72,True
+META,2024-10-30,2024Q3,"Capital expenditures, including principal payments on finance leases, were $9.2 billion, driven by investments in servers, data centers, and network infrastructure.",9.2,False
+META,2024-10-30,2024Q3,"We anticipate our full-year 2024 capital expenditures will be in the range of $38 billion to $40 billion, updated from our prior range of $37 billion to $40 billion.",38;40;37;40,True
+META,2018-04-25,2018Q1,"Capital expenditures were $2.8 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",2.8,False
+META,2018-04-25,2018Q1,"We expect that our full-year 2018 capital expenditures will be around $15 billion, at the high end of our prior range of $14-15 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",15,True
+META,2019-07-24,2019Q2,"Capital expenditures were $3.8 billion driven by investments in data centers, servers, office facilities and network infrastructure.",3.8,False
+META,2019-07-24,2019Q2,"We are lowering our 2019 capital expenditures outlook to $16 billion to $18 billion, down from our prior estimate of $17 billion to $19 billion.",16;18;17;19,True
+META,2020-04-29,2020Q1,"Capital expenditures were $3.7 billion driven by investments in data centers, servers, office buildings and network infrastructure.",3.7,False
+META,2020-04-29,2020Q1,"In 2020, we now expect capital expenditures to be approximately $14 billion to $16 billion, down from our prior range of $17 billion to $19 billion.",14;16;17;19,True
+META,2020-10-30,2020Q3,"Capital expenditures were $3.9 billion driven by investments in data centers, servers, office buildings, and network infrastructure.",3.9,False
+META,2020-10-30,2020Q3,"We expect 2020 capital expenditures to be approximately $16 billion, unchanged from our prior outlook.",16,True
+META,2020-10-30,2020Q3,"For 2021, we anticipate capital expenditures to be in the range of $21 billion to $23 billion driven by investments in data centers, servers, network infrastructure, and office facilities.",21;23,True
+META,2025-01-29,2024Q4,"Capital expenditures, including principal payments on finance leases, were $14.8 billion, driven by investments in servers, data centers, and network infrastructure.",14.8,False
+META,2022-02-03,2021Q4,"Capital expenditures, including principal payments on finance leases, were $5.5 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",5.5,False
+META,2022-02-03,2021Q4,"We expect 2022 capital expenditures, including principal payments on finance leases, to be in the range of $29 billion to $34 billion, unchanged from our prior estimate.",29;34,True
+META,2021-04-28,2021Q1,"Capital expenditures, including capital leases, were $4.4 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",4.4,False
+META,2021-04-28,2021Q1,"We expect 2021 capital expenditures to be in the range of $19 billion to $21 billion, down from our prior estimate of $21 billion to $23 billion.",19;21;21;23,True
+META,2026-08-07,2026Q2,"Capital expenditures, including principal payments on finance leases, were $31.1 billion, driven by investments in servers, data centers and network infrastructure.",31.1,False
+META,2026-08-07,2026Q2,"We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $130 billion to $145 billion, narrowed from our prior outlook of $125 billion to $145 billion.",130;145;125;145,True
+META,2019-10-31,2019Q3,"Capital expenditures were $3.7 billion driven by ongoing investments in data centers, servers, network infrastructure and office facilities.",3.7,False
+META,2019-10-31,2019Q3,We expect 2019 capital expenditures will be approximately $16 billion compared to our prior estimate of $16 billion to $18 billion.,16;16;18,True
+META,2019-10-31,2019Q3,"We expect that 2020 capital expenditures will be approximately $17 billion to $19 billion driven by investments in data centers, servers, office facilities and our network infrastructure.",17;19,True
+META,2021-01-28,2020Q4,"Capital expenditures were $4.8 billion, driven by investments in data centers, servers, office facilities, and network infrastructure.",4.8,False
+META,2021-01-28,2020Q4,"We continue to expect 2021 capital expenditures to be in the range of $21 billion to $23 billion driven by data centers, servers, network infrastructure, and office facilities.",21;23,True
+META,2018-10-30,2018Q3,"Capital expenditures were $3.3 billion driven by investments in data centers, servers, network infrastructure and office facilities.",3.3,False
+META,2018-10-30,2018Q3,We anticipate that full year 2018 capital expenditures will be approximately $14 billion to $14.5 billion compared to our prior estimate of $15 billion.,14;14.5;15,True
+META,2018-10-30,2018Q3,We also expect that full year 2019 capital expenditures will be approximately $18 billion to $20 billion driven by a continuation of our data center build strategy that seeks to put in place adequate capacity ahead of our needs.,18;20,True
+META,2022-07-27,2022Q2,"Capital expenditures, including principal payments on finance leases, were $7.7 billion, driven by investments in servers, data centers, and network infrastructure.",7.7,False
+META,2022-07-27,2022Q2,"We expect 2022 capital expenditures, including principal payments on finance leases to be in the range of $30 billion to $34 billion, narrowed from our prior range of $29 million to $34 billion.",30;34;0.029;34,True
+META,2018-07-25,2018Q2,"We expect full year 2018 capital expenditures will be approximately $15 billion driven by investments in data centers, servers, network infrastructure, and office facilities.",15,True
+META,2022-04-27,2022Q1,"Capital expenditures, including payments -- principal payments on finance leases were $5.5 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",5.5,False
+META,2022-04-27,2022Q1,"We expect 2022 capital expenditures, including principal payments on finance leases to be in the range of $29 billion to $34 billion, unchanged from our prior estimate.",29;34,True
+META,2019-01-30,2018Q4,"Full-year capital expenditures for 2018 were $13.9 billion, driven by investments in data centers, servers, network, infrastructure, and office buildings.",13.9,True
+META,2019-01-30,2018Q4,"Our 2019 capital expenditure outlook is unchanged at $18 billion to $20 billion, driven primarily by our continued large investment in building data centers.",18;20,True
+META,2026-01-28,2025Q4,"Capital Expenditures
+-- Totaled $22.1 billion, allocated to data centers, servers, and network infrastructure.",22.1,False
+META,2026-01-28,2025Q4,"2026 Capital Expenditure Outlook
+-- Anticipated at $115 billion to $135 billion, aimed at Meta Superintelligence Labs and core infrastructure capacity.",115;135,True
+META,2026-01-28,2025Q4,"Anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $115 to $135 billion with year-over-year growth driven by increased investment to support our Meta Superintelligence Labs efforts and core business.",135,True
+META,2021-10-26,2021Q3,"Capital expenditures, including finance leases were $4.5 billion, driven by investments in data centers, servers, network infrastructure, and office facilities.",4.5,False
+META,2021-10-26,2021Q3,"We expect 2021 capital expenditures to be approximately $19 billion, updated from our prior estimate of $19 billion to $21 billion.",19;19;21,True
+META,2021-10-26,2021Q3,"For 2022, we expect capital expenditures to be in the range of $29 billion to $34 billion, driven by our investments in data centers, servers, network infrastructure, and office facilities.",29;34,True
+META,2018-01-31,2017Q4,"Full year 2017 capital expenditures were approximately $6.7 billion, driven by investments in servers, data centers, office facilities, and network infrastructure.",6.7,True
+META,2020-01-29,2019Q4,"Full year capital expenditures were $15.7 billion, up 12%, driven by investments in data centers, servers, office buildings, and network infrastructure.",15.7,False
+META,2020-01-29,2019Q4,"Our 2020 capital expenditures outlook is also unchanged at $17 billion to $19 billion driven by investments in data centers, servers, office facilities, and our network infrastructure.",17;19,True
+CLS,2021-04-29,2021Q1,Capital expenditures for the first quarter were $13 million or approximately 1% of revenue.,0.013,False
+CLS,2019-04-25,2019Q1,"Capital expenditures for the first quarter were $20 million, or 1.",0.02,False
+CLS,2020-01-30,2019Q4,Capital expenditures for the fourth quarter were $16 million or 1.,0.016,False
+CLS,2020-01-30,2019Q4,Our capital expenditures for 2019 were $81 million or 1.,0.081,True
+CLS,2021-01-27,2020Q4,Capital expenditures for the fourth quarter were $19 million or approximately 1% of revenue.,0.019,False
+CLS,2021-01-27,2020Q4,"5% of our revenue in capex or maybe more simplistically, maybe around $80 million we've spent per year.",0.08,False
+CLS,2020-04-29,2020Q1,Capital expenditures for the first quarter were $12 million or approximately 1% of revenue.,0.012,False
+CLS,2021-07-28,2021Q2,Capital expenditures for the second quarter were $10 million or just less than 1% of revenue.,0.01,False
+CLS,2019-07-24,2019Q2,Capital expenditures for the second quarter were $23 million or 1.,0.023,False
+CLS,2020-07-29,2020Q2,Capital expenditures for the second quarter were $11 million or approximately 1% of revenue.,0.011,False
+CLS,2019-10-25,2019Q3,Capital expenditures for the third quarter were $22 million or 1.,0.022,False
+CLS,2026-04-28,2026Q1,"Should we expect CapEx to ramp up beyond that $1 billion that you laid out for this year in 2027? How are you thinking about additional capacity that you need to put in to support these new wins?
+Mandeep Chawla:
+Michael, it is Mandeep here.",1,True
+CLS,2020-10-29,2020Q3,Capital expenditures for the third quarter were $10 million or less than 1% of revenue.,0.01,False
+NBIS,2026-08-19,2026Q2,"In Q2, capital expenditures were approximately $5.7 billion, driven primarily by purchases of GPUs, GPU-related hardware and our data center expansion.",5.7,False
+NBIS,2026-08-19,2026Q2,"4 billion, group adjusted EBITDA margin of approximately 40%, and capital expenditures of $20 billion to $25 billion.",20;25,False
+NBIS,2025-05-20,2025Q1,"Quarterly CapEx
+: Spent $544 million in Q1 2025 toward an updated full-year CapEx plan of approximately $2 billion.",0.544;2,True
+NBIS,2025-05-20,2025Q1,"The company reinforced its financial position and operational flexibility through increased CapEx investment, with approximately $2 billion in CapEx planned for 2025, a sizable cash balance, and strategic monetization plans for non-core assets.",2,True
+NBIS,2025-05-20,2025Q1,"On CapEx, we're currently planning CapEx of approximately $2 billion for 2025.",2,True
+EQIX,2024-10-30,2024Q3,"Turning to Slide 9 for the quarter, capital expenditures were $724 million, including recurring capex of $69 million, a $24 million increase over the prior quarter.",0.724;0.069;0.024,False
+EQIX,2024-10-30,2024Q3,"And finally, our full-year capex is expected to range between $2.8 billion and $3.",2.8,False
+EQIX,2022-07-28,2022Q2,"Capital expenditures were approximately $490 million, including a recurring capex of $35 million.",0.49;0.035,False
+EQIX,2022-07-28,2022Q2,2022 capex is now expected to range between $2.3 billion and $2.,2.3,True
+EQIX,2022-07-28,2022Q2,"6 billion, including about $185 million of recurring capex and about $110 million of on-balance sheet xScale spend.",0.185;0.11,False
+EQIX,2019-10-30,2019Q3,"Turning to Slide 9, for the quarter, capital expenditures were approximately $557 million, including a recurring capex of $47 million.",0.557;0.047,False
+EQIX,2020-02-13,2019Q4,"For the quarter, capital expenditures were approximately $715 million, including recurring capex of $81 million.",0.715;0.081,False
+EQIX,2021-04-29,2021Q1,"Capital expenditures were approximately $564 million, including recurring capex of $20 million.",0.564;0.02,False
+EQIX,2021-04-29,2021Q1,2021 capex is now expected to range between $2.725 billion and $2.,2.725,True
+EQIX,2023-10-25,2023Q3,"For the quarter, capital expenditures were $618 million, including recurring capex of $52 million.",0.618;0.052,False
+EQIX,2023-10-25,2023Q3,Capex is expected to remain in the $2.7 billion to $2.,2.7,False
+EQIX,2025-02-12,2024Q4,"For the quarter, capital expenditures were approximately $1 billion, including seasonally higher recurring capex of $115 million as planned.",1;0.115,False
+EQIX,2025-02-12,2024Q4,2025 capex is expected to range between $3.2 billion and $3.,3.2,True
+EQIX,2018-11-02,2018Q3,"Greater than 80% of current expansion project CapEx is allocated to metros, each generating over $100 million in revenues.",0.1,False
+EQIX,2018-11-02,2018Q3,Capital expenditures were $546 million including a recurring CapEx of $55 million.,0.546;0.055,False
+EQIX,2018-11-02,2018Q3,We continue to expect our 2018 nonrecurring capital expenditures to range between $1.8 billion and $1.,1.8,True
+EQIX,2026-04-29,2026Q1,"With the full-year CapEx plan now around $4.1 billion, is this the kind of annual spend we should anticipate for the next couple of years? Is it more front-loaded? Do you think the intensity will ramp as you are moving into more large campuses? And a short follow-up: Are you anticipating maintaining the cash-on-cash return level throughout that build process?
+Adaire Fox-Martin:
+Thank you for the questions.",4.1,True
+EQIX,2018-08-08,2018Q2,"Turning to Slide 9, for the quarter, capital expenditures were $520 million, including a recurring CapEx of $42 million.",0.52;0.042,False
+EQIX,2018-08-08,2018Q2,We expect our 2018 nonrecurring capital expenditures to range between $1.8 billion and $1.,1.8,True
+EQIX,2024-08-08,2024Q2,"Capital expenditures were $648 million, including a recurring capex of $45 million.",0.648;0.045,False
+EQIX,2024-08-08,2024Q2,"And finally, 2024 capex is expected to range between $2.8 billion and $3.",2.8,True
+EQIX,2022-02-17,2021Q4,"Capital expenditures were approximately $817 million, including a recurring capex of $86 million, a meaningful increase over the prior quarter as expected.",0.817;0.086,False
+EQIX,2022-02-17,2021Q4,2022 capex is expected to be approximately $2.3 billion to $2.,2.3,True
+EQIX,2021-02-11,2020Q4,"Capital expenditures were approximately $834 million, including a recurring capex of $74 million, a meaningful increase over the prior quarter, but as expected.",0.834;0.074,False
+EQIX,2021-11-04,2021Q3,"Capital expenditures were approximately $678 million, including recurring capex of $48 million.",0.678;0.048,False
+EQIX,2021-11-04,2021Q3,"2021 capex is expected to range between $2.7 billion and $3 billion, including about $450 million of on-balance sheet xScale capex, a significant portion of which has been or will be reimbursed by the JVs, and $193 million of recurring capex spend at the midpoint.",2.7;3;0.45;0.193,True
+EQIX,2024-05-10,2024Q1,"Turning to Slide 9, for the quarter, capital expenditures were $707 million including seasonally lowered recurring capex of 21 million.",0.707,False
+EQIX,2024-05-10,2024Q1,2024 capex is expected to range between $2.8 billion and $3 billion including about $220 million of recurring capex spend.,2.8;3;0.22,True
+EQIX,2022-04-28,2022Q1,"For the quarter, capital expenditures were approximately $413 million, including seasonally lower recurring capex of $24 million.",0.413;0.024,False
+EQIX,2022-04-28,2022Q1,2022 capex is now expected to range between $2.3 billion and $2.,2.3,True
+EQIX,2022-04-28,2022Q1,"5 billion, including approximately $170 million of recurring capex spend and about $60 million of on-balance sheet xScale spend.",0.17;0.06,False
+EQIX,2020-05-07,2020Q1,"Capital expenditures were approximately $400 million, including seasonally low recurring capex of $18 million.",0.4;0.018,False
+EQIX,2020-07-30,2020Q2,"Turning to Slide 9, for the quarter capital expenditures were approximately $482 million including recurring Capex of $30 million.",0.482;0.03,False
+EQIX,2020-07-30,2020Q2,"For the year, we now expect capital expenditures to increase by approximately $150 million, which reflects the anticipated timing of the closing of the Japan joint venture with GIC.",0.15,True
+EQIX,2020-07-30,2020Q2,"Once this transaction closes, GIC's portion of the capital expenditure spent prior to the close date will be reimbursed Equinix an amount that is expected to range between $150 million and $200 million, including certain previously incurred costs.",0.15;0.2,False
+EQIX,2022-11-03,2022Q3,"For the quarter, capital expenditures were approximately $553 million, including recurring capex of $50 million.",0.553;0.05,False
+EQIX,2022-11-03,2022Q3,"Finally, 2022 capex is now expected to range between $2.1 billion and $2.",2.1,True
+EQIX,2022-11-03,2022Q3,"3 billion, including about $190 million of recurring capex and about $135 million of on-balance sheet xScale spend, down slightly due to timing of expansion spend.",0.19;0.135,False
+EQIX,2024-02-14,2023Q4,"Capital expenditures were $996 million, including recurring capex of $105 million.",0.996;0.105,False
+EQIX,2024-02-14,2023Q4,"2024 capex is expected to range between $2.8 billion and $3 billion, including about $220 million of recurring capex.",2.8;3;0.22,True
+EQIX,2023-08-03,2023Q2,"For the quarter, capital expenditures were $638 million, including a recurring capex of $40 million.",0.638;0.04,False
+EQIX,2023-08-03,2023Q2,Capex is expected to range between $2.7 billion and $2.,2.7,False
+EQIX,2023-02-16,2022Q4,"Global Q4 AFFO was $658 million, above our expectations due to strong operating performance, including seasonally higher recurring capex, and included an $11 million FX benefit when compared to our prior guidance rates.",0.658;0.011,False
+EQIX,2023-02-16,2022Q4,"Turning to Slide 9 for the quarter, capital expenditures were approximately $828 million, including recurring capex of $80 million.",0.828;0.08,False
+EQIX,2023-02-16,2022Q4,2023 capex is expected to range between $2.7 billion and $2.,2.7,True
+EQIX,2019-08-01,2019Q2,Recurring capital expenditures increased $16 million over the prior quarter as planned.,0.016,False
+EQIX,2019-08-01,2019Q2,Capital expenditures were approximately $444 million including recurring CapEx of $37 million.,0.444;0.037,False
+EQIX,2026-08-07,2026Q2,"As a result, we now expect 2026 CapEx to range between $5 billion to $6 billion.",5;6,True
+EQIX,2026-08-07,2026Q2,"On Slide 11, total capital expenditures for the quarter were about $1.6 billion approximately 90% of was invested in capacity expansion.",1.6,False
+EQIX,2026-08-07,2026Q2,"And excluding real estate acquisition and xScale, we expect total capital expenditures to be $5 to $6 billion as we accelerate capacity expansion into the year.",6,True
+EQIX,2026-08-07,2026Q2,I was wondering if you could talk about the 5 billion to 7 billion annual CapEx plan in terms of IT capacity I think over 3 years at $11 million per megawatt that would translate to about like 1.,0.011,True
+EQIX,2023-05-04,2023Q1,"For the quarter, capital expenditures were $530 million, including seasonally lower recurring capex of $22 million.",0.53;0.022,False
+EQIX,2023-05-04,2023Q1,2023 capex is expected to range between $2.7 billion and $2.,2.7,True
+EQIX,2021-07-29,2021Q1,"Turning to Slide 10 for the quarter, capital expenditures were approximately $692 million, including recurring capex of $45 million.",0.692;0.045,False
+EQIX,2021-07-29,2021Q1,"2021 capex is now expected to range between $2.7 billion and $3 billion, including an approximate $450 million of on-balance sheet xScale capex, a significant portion, which is expected to be reimbursed by either the current or future JVs and $193 million of recurring capex spend, a slight increase over the prior quarter due to timing of spend as we mitigate supply chain risks.",2.7;3;0.45;0.193,True
+EQIX,2019-05-02,2019Q1,"Capital expenditures were approximately $364 million, including a recurring CapEx of $21 million.",0.364;0.021,False
+COHR,2022-02-10,2022Q2,"Cash flow from operations in the quarter was $188 million, and free cash flow was $133 million, including Capex of $55 million and a strategic inventory build of $50 million in the quarter, $100 million for the first half of the fiscal year to support our growth beginning in the second half of fiscal year '22.",0.188;0.133;0.055;0.05;0.1,False
+COHR,2022-02-10,2022Q2,"For fiscal year '22, we now expect capex to be $325 million to $375 million, driven largely by our expansion of silicon carbide and indium phosphide to address the growth in power devices, communications and consumer applications.",0.325;0.375,True
+COHR,2020-02-10,2020Q2,Capital expenditures this quarter were $55 million.,0.055,False
+COHR,2020-02-10,2020Q2,"For the combined company for the year, we are expecting capex in the $150 million to $200 million range.",0.15;0.2,False
+COHR,2021-05-07,2021Q3,Capital expenditures this quarter were $26 million.,0.026,False
+COHR,2021-05-07,2021Q3,"For the year, we expect capex to be between $170 million to $190 million to support our forecasted growth, particularly in compound semiconductors.",0.17;0.19,True
+COHR,2021-05-07,2021Q3,II-VI has already received $750 million of the committed Bain Capital investment of $1.8 billion in the form of preferred equity.,0.75;1.8,False
+COHR,2019-02-01,2019Q2,Capital expenditures this quarter were $39 million.,0.039,False
+COHR,2023-11-07,2024Q1,"And my follow-up is regarding your capex, how should we think about capex for this fiscal year? And then, fiscal '25 after, you get that $1 billion investment from two Japanese companies.",1,False
+COHR,2022-05-10,2022Q3,"Cash flow from operations in the quarter was $36 million, and free cash flow was a use of cash of $59 million, including capex of $94 million and a build of strategic inventory of $60 million in the quarter, $183 million for the first nine months of the fiscal year to support our growth and customer requests to accelerate deliveries from the backlog.",0.036;0.059;0.094;0.06;0.183,False
+COHR,2022-05-10,2022Q3,"For FY '22, we now expect capex to be at or above the top end of our range of $325 million to $375 million, driven by our expansion in silicon carbide and indium phosphide.",0.325;0.375,True
+COHR,2018-11-01,2019Q1,Capital expenditures this quarter was $36 million.,0.036,False
+COHR,2020-08-14,2020Q4,Capital expenditures this quarter were $29 million.,0.029,False
+COHR,2020-08-14,2020Q4,"For the full year, capex was $137 million.",0.137,False
+COHR,2020-08-14,2020Q4,"For fiscal year '21, we expect capex to be between $190 million and $240 million.",0.19;0.24,True
+COHR,2020-08-14,2020Q4,"First of all, if you think about the capex range I gave of $190 million to $240 million.",0.19;0.24,False
+COHR,2021-08-11,2021Q4,Capital expenditures this quarter were $42 million.,0.042,False
+COHR,2021-08-11,2021Q4,"For the year, capex was $146 million.",0.146,False
+COHR,2021-08-11,2021Q4,"For fiscal-year '22, we expect capex to be between $325 million and $375 million.",0.325;0.375,True
+COHR,2022-11-09,2023Q1,"Cash flow from operations in the quarter was $80 million, and free cash flow was a loss of $59 million, including capex of $139 million.",0.08;0.059;0.139,False
+COHR,2018-08-09,2018Q4,"Since our end-markets continue to experience strong demand, we expect the fiscal year '19 capex to remain in the $140 million to $170 million range to accommodate our anticipated longer-range growth.",0.14;0.17,True
+COHR,2018-08-09,2018Q4,Capital expenditures this quarter were $37 million and $153 million for the year.,0.037;0.153,False
+COHR,2018-08-09,2018Q4,"Capex -- did I catch the number correctly of $140 million to $170 million for fiscal '19? And whatever the number is, can you give us just a sense of any priorities you have for that capex, especially if they are changing over fiscal '18?
+Gary Kapusta
+--
+Chief Operating Officer
+Yes, Richard, it's Gary.",0.14;0.17,False
+COHR,2019-11-12,2020Q1,Capital expenditures this quarter were $26 million.,0.026,False
+COHR,2019-11-12,2020Q1,"For the combined company for the year, we are expecting capex in the $220 million range.",0.22,False
+COHR,2022-08-24,2022Q4,"The double-digit growth is in line with recent analyst reports that forecast global data center capex spend to be quite robust, growing to over $370 billion by 2026, with hyperscalers accounting for more than half of that amount.",370,True
+COHR,2022-08-24,2022Q4,"Cash flow from operations in the quarter was $137 million and free cash flow was $19 million -- free cash flow was $19 million, including capex of $118 million.",0.137;0.019;0.019;0.118,False
+COHR,2022-08-24,2022Q4,"The strategic inventory build was $207 million and the capex was $314 million, an additional $53 million of capex has been committed.",0.207;0.314;0.053,False
+COHR,2022-08-24,2022Q4,Capex for fiscal year '23 is expected to be $500 million to $600 million.,0.5;0.6,False
+COHR,2026-08-19,2026Q4,Our capital expenditures increased $556 million up from $290 million last quarter and 131 million in the year ago period.,0.556;0.29,False
+COHR,2019-01-29,2019Q1,"The net inventory balance at the end of the fiscal first quarter was approximately $493 million, an increase of $6 million from the prior quarter, and capital spending for the quarter was approximately $23 million or 6% of sales.",0.493;0.006;0.023,False
+COHR,2019-08-13,2019Q4,Capital expenditures this quarter were $29 million and $137 million for the year.,0.029;0.137,False
+COHR,2019-08-13,2019Q4,"Full year capex for laser solutions was $44 million, for photonics was $45 million, for performance products was $40 million, and the remainder was for corporate operations and infrastructure.",0.044;0.045;0.04,False
+COHR,2019-08-13,2019Q4,"And I will just remind everyone that back in 2012 when our revenue was about $550 million, our capex was $50 million.",0.55;0.05,True
+COHR,2019-08-13,2019Q4,"So, capex for our Company tends to run about 10% of the revenue even now I know people look at our number now for us more than $100 million and think that's still kind of elevated.",0.1,False
+COHR,2020-05-12,2020Q3,Capital expenditures this quarter were $28 million.,0.028,False
+COHR,2020-05-12,2020Q3,"For the combined company for the year, we are expecting capex in the $125 million to $140 million range.",0.125;0.14,False
+COHR,2021-11-09,2022Q1,Capital expenditures this quarter were $48 million.,0.048,False
+COHR,2021-11-09,2022Q1,"For fiscal year '22, we expect capex to be between $325 million and $375 million or about $70 million to $100 million per quarter.",0.325;0.375;0.07;0.1,True
+COHR,2019-04-30,2019Q2,And capital spending for the quarter was approximately $18 million or 5% of sales.,0.018,False
+COHR,2019-07-30,2019Q3,And capital spending for the quarter was approximately $19 million or 5.,0.019,False
+COHR,2019-05-01,2019Q3,We now accept our CapEx to be about $150 million for the year.,0.15,False
+COHR,2019-05-01,2019Q3,Capital expenditures this quarter were $33.8 million.,0.0338,False
+COHR,2019-05-01,2019Q3,"My second multi-part question is that in terms of capital spending, you guys talked about $150 million today.",0.15,False
+COHR,2021-02-09,2021Q2,Capital expenditures this quarter were $46 million.,0.046,False
+COHR,2021-02-09,2021Q2,"For the year, we expect capex to be between $180 million and $220 million to support an increase in capacity for compound semiconductor materials and devices.",0.18;0.22,True
+COHR,2021-02-09,2021Q2,Is --- is it increasing the supply issues? Where do we stand on -- on a new capacity and new supply? Did 3D sensing temporarily take some of that capacity or they he -- held se -- separate? And is the capex like $40 million a quarter enough to solve some of these supply constraints? Thanks.,0.04,False
+COHR,2020-11-05,2021Q1,Capital expenditures this quarter were $34 million for the year.,0.034,False
+COHR,2020-11-05,2021Q1,We expect CapEx to be between $180 million and $220 million.,0.18;0.22,True
+ORCL,2020-12-11,2021Q2,"Operating cash flow over the last four quarters was $14 billion, with capital expenditures of $1.8 billion and free cash flow in excess of $12.",14;1.8,False
+ORCL,2022-06-13,2022Q4,"5 billion, and free cash flow was $5 billion with capital expenditures of $4.5 billion during the year.",5;4.5,False
+ORCL,2019-03-15,2019Q3,"Over the last four quarters, capital expenditures were $1.6 billion and free cash flow was $13.",1.6,False
+ORCL,2020-03-12,2020Q3,Capital expenditures were $1.5 billion and free cash flow was $12.,1.5,False
+ORCL,2020-03-12,2020Q3,"Total CapEx for FY '20 is expected to be around $2 billion, but it could vary.",2,False
+ORCL,2022-03-11,2022Q3,"Capital expenditures for the last four quarters were $3.8 billion, and capex for Q3 was $1.",3.8,False
+ORCL,2019-09-12,2020Q1,"Over the last four quarters, capital expenditures were $1.7 billion, and free cash flow was $12.",1.7,False
+ORCL,2019-09-12,2020Q1,"Total capex for fiscal year '20 is expected to be around $2.2 billion, but it could move a little depending on our bookings and how much we need to invest to accommodate them.",2.2,False
+ORCL,2021-06-16,2021Q4,"8 billion, up 19% in USD, with capital expenditures of $2.1 billion during the year.",2.1,False
+ORCL,2021-06-16,2021Q4,"As such, we expect to roughly double our cloud capex spend in FY 2022 to nearly $4 billion.",4,True
+ORCL,2020-06-16,2020Q4,Capital expenditures for the year were $1.6 billion and free cash flow over the last four quarters was $11.,1.6,False
+ORCL,2021-03-12,2021Q3,"7 billion, with capital expenditures of $1.9 billion and free cash flow in excess of $12.",1.9,False
+ORCL,2021-03-12,2021Q3,capex for Q4 is expected to be $1 billion.,1,False
+ORCL,2023-03-09,2023Q3,3 billion with capital expenditures of $8.2 billion.,8.2,False
+ORCL,2023-03-09,2023Q3,Capex this quarter was $2.6 billion as we continue to build capacity for existing bookings and our customers' growing needs.,2.6,False
+ORCL,2022-09-12,2023Q1,4 billion with capital expenditures of $5.2 billion.,5.2,False
+ORCL,2022-09-12,2023Q1,7 billion with capital expenditures of $1.7 billion.,1.7,False
+ORCL,2019-06-20,2019Q4,Capital expenditures for the year were $1.7 billion and free cash flow over the last four quarters was $12.,1.7,False
+ORCL,2019-06-20,2019Q4,"Total CapEx for fiscal year '20 is expected to be about $2.2 billion, but it could move a little depending on our bookings.",2.2,False
+ORCL,2019-12-13,2020Q2,Over the last four quarters capital expenditures were $1.6 billion and free cash flow was $12.,1.6,False
+ORCL,2019-12-13,2020Q2,"Total capex for fiscal year '20 is expected to be around $2.2 billion, but it could move higher based on demand for data center growth.",2.2,False
+ORCL,2026-06-10,2026Q4,"I guess, Clayton, for you, you are about 12% of RPO is not related to these types of deals, and when you look at the pipeline, where do you think that split could ultimately go? And when you go into these type of deals, especially on the bring your own hardware side, you know, what is the value differentiation that maybe those deals have that some of the ones that include or, I guess, how does that differ versus the GPU type deals?
+And then Hillary, just to clarify on the CapEx guide, I think you said $70 billion in CapEx.",70,False
+ORCL,2018-09-18,2019Q1,"Over the same four quarters, capital expenditures were $1.6 billion [Audio gap] billion, of which approximately 64% will be recognized as revenue over the next 12 months.",1.6,False
+ORCL,2021-09-17,2022Q1,"6 billion, up 9% in USD with capital expenditures of $2.8 billion, also over the same period.",2.8,False
+ORCL,2021-09-17,2022Q1,CapEx for Q1 alone was $1.1 billion.,1.1,False
+ORCL,2018-03-20,2018Q3,"Capital expenditures for the quarter were $286 million and we expect that cloud CAPEX spending will continue to be driven by our ARR and should we see higher-than-expected ARR growth, we'd expect to see higher CAPEX as investments as well.",0.286,True
+ORCL,2026-09-11,2027Q1,Our CapEx for the quarter was $28 billion leading to negative free cash flow of $5 billion.,28;5,False
+ORCL,2026-09-11,2027Q1,"And our net cash CapEx, so net of pre was $18 billion for the quarter.",18,False
+ORCL,2026-09-11,2027Q1,We continue to anticipate $90 billion to $95 billion in CapEx for the full year with not more than $70 billion in net cash CapEx.,90;95;70,True
+ORCL,2021-12-10,2022Q2,"Capital expenditures for the last four quarters were $3.1 billion, and capex for Q2 alone was $925 million.",3.1;0.925,False
+NRG,2026-08-11,2026Q2,"And what's the -- like roughly the math for maintenance CapEx for this sort of an asset? Is it, say, $50 million a year? Like what's the ballpark?
+Bruce Chung:
+We're not going to provide that just right now, Angie.",0.05,False
+LRCX,2022-10-19,2022Q3,"Capital expenditures for the September quarter were $140 million, a little bit higher than June, which was $126 million.",0.14;0.126,False
+LRCX,2020-01-30,2020Q2,December quarter capital expenditures increased to $62 million from $39 million in the September quarter.,0.062;0.039,False
+LRCX,2020-01-30,2020Q2,"If things play out the way you think, are you thinking that NAND capex will still be below that $70 billion run rate? I know you said you waited below 40% bit supply growth.",70,False
+LRCX,2021-10-20,2021Q3,Capital expenditures for the September quarter were up versus the June level coming in at $136 million.,0.136,False
+LRCX,2023-10-18,2023Q3,"Capital expenditures for the September quarter came in at $77 million, which was flat with the June quarter.",0.077,False
+LRCX,2024-01-24,2023Q4,"Capital expenditures for the December quarter were $115 million, up $38 million from the September quarter.",0.115;0.038,False
+LRCX,2019-07-31,2019Q4,"Capital expenditures were $66 million in the quarter, which was a slight decrease from the $76 million that we saw in March.",0.066;0.076,False
+LRCX,2024-10-23,2024Q3,"Capital expenditures for the September quarter were $111 million, up $10 million from the June quarter.",0.111;0.01,False
+LRCX,2024-08-01,2024Q2,"Capital expenditures were $101 million, flat with the March quarter level was spending mainly centered on lab investments in the United States and Asia as well as manufacturing facilities in Asia, supporting our global strategy to be close to our customers' development and manufacturing locations.",0.101,False
+LRCX,2025-01-29,2024Q4,"Capital expenditures in the December quarter were $188 million, up $78 million from the September quarter.",0.188;0.078,False
+LRCX,2019-04-25,2019Q3,Capital expenditures were $76 million in the March quarter which was a decrease from $106 million in the December quarter.,0.076;0.106,False
+LRCX,2022-07-28,2022Q2,"Capital expenditures for the June quarter came in at $126 million, down by roughly $20 million from the March quarter level.",0.126;0.02,False
+LRCX,2023-01-26,2022Q4,"Capital expenditures for the December quarter were $163 million, a slight increase over the September quarter spending of approximately $140 million.",0.163;0.14,False
+LRCX,2023-01-26,2022Q4,"Does that reflect all the China and Memory capex cuts so that is sort of pure trough revenue quarter? Or do you think there is more to come? So, the trough revenue quarter might be later this year, closer to $3 billion or some other number.",3,False
+LRCX,2026-10-21,2027Q1,"Capital expenditures in the September quarter were $258 million, which was up from the June quarter at $189 million.",0.258;0.189,False
+LRCX,2026-10-21,2027Q1,"If you think about We had this model, which was the $100 billion of AI CapEx being about $10 billion in WFE.",100;10,False
+LRCX,2022-01-27,2021Q4,"Capital expenditures in the December quarter were flat with September, coming in at $138 million.",0.138,False
+LRCX,2021-01-27,2020Q4,Capital expenditures for the December quarter increased from September to a total of $92 million.,0.092,False
+LRCX,2023-07-27,2023Q2,"Capital expenditures were $79 million, which was down from the March quarter by approximately $41 million.",0.079;0.041,False
+LRCX,2024-04-24,2024Q1,"Capital expenditures in the March quarter were $104 million, down $12 million from the December quarter.",0.104;0.012,False
+LRCX,2019-10-23,2020Q1,"September quarter capital expenditures came in at $39 million, which was a decrease from $66 million in the June quarter.",0.039;0.066,False
+LRCX,2021-04-21,2021Q1,Capital expenditures for the March quarter were down slightly versus the December level coming in at $90 million.,0.09,False
+LRCX,2020-07-30,2020Q2,In quarter capital expenditures were consistent with the prior quarter amount coming in at $51 million.,0.051,False
+LRCX,2018-10-16,2019Q1,"Capital expenditures were $56 million, which was down from $80 million in the June quarter.",0.056;0.08,False
+LRCX,2019-01-24,2019Q2,"Capital expenditures came in at $106 million in the December quarter, which was an increase of $56 million from September.",0.106;0.056,False
+LRCX,2020-10-21,2020Q3,Capital expenditures in the September quarter increased from June to a total of $63 million.,0.063,False
+LRCX,2020-04-22,2020Q3,"March quarter capital expenditures were $51 million, which was a decrease from $62 million in the December quarter.",0.051;0.062,False
+LRCX,2021-07-29,2021Q2,"And as a result, capital expenditures for the June quarter were up from the March level and came in at $105 million.",0.105,False
+LRCX,2026-08-07,2026Q4,Capital expenditures in the June quarter were $189 million.,0.189,False
+LRCX,2026-08-07,2026Q4,"Yes, that metric, we talked about the $100 billion data center CapEx equating, if I remember the number to roughly $8 billion in WFE.",100;8,False
+SMCI,2018-08-22,2018Q4,"After deducting CAPEX of $8 million, we estimate free cash flow of $30 million for the fourth quarter.",0.008;0.03,False
+SMCI,2021-08-11,2021Q4,"Capex totaled $13 million, which resulted in free cash flow of $50 million.",0.013;0.05,False
+SMCI,2021-08-11,2021Q4,We expect capex for the fiscal first quarter of 2022 of approximately $14 million to $16 million.,0.014;0.016,True
+SMCI,2021-08-11,2021Q4,"Given the capex growth in fiscal year '21, almost $60 million and the buildup of the Taiwan facility, should we expect capex to moderate from here?
+Charles Liang
+--
+Founder, President, Chief Executive Officer and Chairman of the Board
+Absolutely, yes because our Taiwan operation is pretty much ready.",0.06,True
+SMCI,2020-05-08,2020Q3,Cash used in from Operations totaled $21 million as we invested in Inventory as a defensive measure and capex totaled $11 million resulting in free cash out flow of $32 million.,0.021;0.011;0.032,False
+SMCI,2025-02-11,2025Q2,Capex was $28 million.,0.028,False
+SMCI,2025-02-11,2025Q2,We also reduced our bank loans by $346 million net and we incurred capital expenditures of $28 million and had other uses of cash totaling $87 million.,0.346;0.028;0.087,False
+SMCI,2021-05-05,2021Q3,"Capex totaled $19 million, resulting in free cash flow used of $144 million.",0.019;0.144,False
+SMCI,2021-05-05,2021Q3,"We expect capex for the fiscal fourth quarter of 2021 to be in the range of $15 million to $20 million, inclusive of our ongoing Taiwan building project.",0.015;0.02,True
+SMCI,2021-02-03,2021Q2,"CapEx totaled $14 million, resulting in free cash flow of $49 million.",0.014;0.049,False
+SMCI,2021-02-03,2021Q2,"And we continue to expect our CapEx for fiscal 2021 to be in the range of $55 million to $60 million, inclusive of our ongoing Taiwan building project mentioned earlier by Charles.",0.055;0.06,True
+SMCI,2020-11-03,2020Q3,Capex totaled $12 million resulting in free cash flow of $109 million.,0.012;0.109,False
+SMCI,2020-11-03,2020Q3,We now expect our capex for fiscal 2021 to be in the range of $55 million to $60 million inclusive of the acceleration of the Taiwan building project mentioned earlier by Charles.,0.055;0.06,True
+SMCI,2020-08-11,2020Q4,"Capex totaled $9 million, resulting in free cash outflow of $105 million.",0.009;0.105,False
+SMCI,2021-11-03,2022Q1,capex totaled $11.9 million resulting in free cash flow consumption of $146.,0.0119,False
+SMCI,2021-11-03,2022Q1,We expect capex for the fiscal second quarter of 2022 to be in the range of $3 million to $5 million.,0.003;0.005,True
+SMCI,2026-08-18,2026Q4,"CapEx totaled $28 million in Q4, resulting in free cash flow of $722 million.",0.028;0.722,False
+SMCI,2026-08-18,2026Q4,"For fiscal year '26, CapEx was $162 million, compared with $127 million in fiscal year '25 as we invested in our expanding capacity globally.",0.162;0.127,False
+SMCI,2026-08-18,2026Q4,Capital expenditures for Q1 are expected to be in the range of $50 million to $60 million.,0.05;0.06,False
+TER,2021-01-28,2020Q4,"In 2020, our capex was $185 million.",0.185,True
+TER,2021-01-28,2020Q4,"So on the Memory side, we could be in the mid to upper mid 40's by then, I would say, is one way to think about it, but the other piece of color in terms of aggressive versus conservative that I'd add here is the recent investment profile of the front end with capex moving up into the $70 billion range is something we haven't modeled into our mid-term plan.",70,True
+TER,2018-10-24,2018Q3,"As we begin to model 2019, please note that we expect our tax rate to step up to 17%, CapEx to remain in our historical $90 million to $110 million range, test OpEx should remain flat and the expected 50% plus revenue growth in Industrial Automation will drive its OpEx up successively each quarter next year from about $35 million per quarter exiting this year.",0.09;0.11;0.035,True
+TER,2020-01-23,2019Q4,"In 2019, our capex was $135 million, used primarily for customer demonstration equipment, operations and engineering.",0.135,True
+TER,2020-07-22,2020Q2,"Capex investments year-to-date are $84 million, and we expect full year investments will total approximately $175 million.",0.084;0.175,True
+TER,2020-10-21,2020Q3,"Through nine months, we spent $147 million on capex, and we expect we'll spend $193 million for the full-year.",0.147;0.193,True
+TER,2021-10-27,2021Q3,"We had $493 million in free cash flow in the quarter, and through nine months, we've spent $103 million on Capex, and we expect we'll spend $148 million for the full year.",0.493;0.103;0.148,True
+CIEN,2025-12-11,2025Q4,Our capital expenditures for fiscal 2026 are expected to be between $250 million and $275 million.,0.25;0.275,True
+CIEN,2026-09-09,2026Q3,"Lastly, we expect to be on the high end of our capital expenditure range of $250 to $275 million.",0.275,True
+WDC,2024-04-25,2024Q3,"Cash capital expenditures, which include the purchase of property, plant, and equipment and activity related to Flash joint ventures on the cash flow statement represented a cash inflow of $33 million.",0.033,False
+WDC,2023-08-01,2023Q4,"It's almost $1 billion lower than the gross capex level, almost $1 billion lower than what our plan was at the beginning of the year for fiscal '23.",1;1,True
+WDC,2020-08-06,2020Q4,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to flash ventures on our cash flow statement, were an inflow of $89 million due to the timing of funds flowing to and from the joint ventures.",0.089,False
+WDC,2020-08-06,2020Q4,"Gross capital expenditures, which includes our portion of the joint venture leasing and self-operating funding, is expected to be approximately $3.1 billion in fiscal year 2021.",3.1,True
+WDC,2024-10-24,2025Q1,"Cash capital expenditures, which include the purchase of property, plant and equipment, and activity related to flash joint ventures on the cash flow statement, represented a cash outflow of $48 million.",0.048,False
+WDC,2021-01-28,2021Q2,"Capital expenditures, which include the purchase of property, plant and equipment, and activity related to flash joint ventures on our cash flow statement with a cash outflow of $276 million.",0.276,False
+WDC,2021-01-28,2021Q2,"And first of all, what I would say is in terms of gross capex, which we define as the -- our portion of the investments that are made in the flash joint ventures, as well as investments we make on our own balance sheet for the back end of the Flash business, as well as the Hard Drive business, we expect gross capex of around $3 billion this year, and that's been -- what I've said the last couple of quarters.",3,True
+WDC,2022-01-27,2022Q2,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to our flash joint ventures on our cash flow statement, with a cash outflow of $259 million.",0.259,False
+WDC,2022-01-27,2022Q2,We remain prudent in investing in manufacturing capacity and continue to expect gross capex for the current fiscal year to be around $3 billion.,3,True
+WDC,2022-01-27,2022Q2,We now expect cash capex to be around $1.5 billion as we actively manage our overall spending.,1.5,True
+WDC,2023-10-30,2024Q1,"Cash capital expenditures, which include the purchase and sale of property, plant, and equipment, including the proceeds from our sale leaseback of our Milpitas facility and activity related to our flash joint ventures on the cash flow statement, represented a net cash inflow of $82 million.",0.082,False
+WDC,2019-07-31,2019Q4,"For fiscal 2020, our preliminary estimate for total cash capital expenditures is less than $500 million, which is a significant reduction from the $1.36 billion spent in fiscal 2019.",0.5;1.36,True
+WDC,2019-07-31,2019Q4,"And just to clarify, I think you mentioned CapEx -- cash CapEx goes to $500 million for fiscal 2020 from $1.5 billion in fiscal 2019.",0.5;1.5,True
+WDC,2022-08-05,2022Q4,"Cash, capital expenditures, which include the purchase of property, plant, and equipment, and activity related to our Flash joint ventures on our cash flow statement, represented a cash outflow of $392 million in the fiscal fourth quarter.",0.392,False
+WDC,2022-08-05,2022Q4,Gross capex and cash capex for the fiscal year 2022 were $2.7 billion and $1.,2.7,True
+WDC,2022-08-05,2022Q4,Total gross capital expenditures are expected to be approximately $3.2 billion.,3.2,False
+WDC,2019-04-29,2019Q3,"Milligan
+--
+Chief Executive Officer
+So I think just to dimension it, we'd previously said for fiscal '19, our expectation for cash CapEx would be in the $1.5 billion to $1.",1.5,False
+WDC,2019-04-29,2019Q3,"For fiscal '20, as Mike indicated, we expect our cash CapEx to be lower, and it should be in the $1 billion range at this point.",1,True
+WDC,2023-05-08,2023Q3,"Cash capital expenditures, which include the purchase of property, plant, and equipment and activity related to our flash joint ventures on the cash flow statement, was $146 million.",0.146,False
+WDC,2023-05-08,2023Q3,"For fiscal year 2023, we project gross capital expenditures to be approximately $2.2 billion and cash capital expenditures to be approximately 0.",2.2,True
+WDC,2022-10-27,2023Q1,"Cash capital expenditures, which includes the purchase of property, plant, equipment, and activity related to our flash joint ventures on our cash flow statement represented a cash outflow of $221 million.",0.221,False
+WDC,2022-10-27,2023Q1,"For the fiscal year 2023, we are reducing our gross capital expenditures to $2.7 billion.",2.7,True
+WDC,2021-04-30,2021Q3,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to flash joint ventures on our cash flow statement was a cash outflow of $127 million.",0.127,False
+WDC,2021-04-30,2021Q3,"And we expected capex to be around $3 billion this year, pretty much all year.",3,False
+WDC,2025-01-29,2025Q2,"Cash capital expenditures, which include the purchase of property, plant, and equipment and activity related to Flash joint ventures on the cash flow statement represented a cash outflow of $68 million.",0.068,False
+WDC,2021-08-04,2021Q4,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to our flash joint ventures on our cash flow statement, was an outflow of $202 million.",0.202,False
+WDC,2021-08-04,2021Q4,We expect gross capex for the next fiscal year to be approximately $3 billion and cash capex to be around $2 billion.,3;2,True
+WDC,2021-08-04,2021Q4,You talked about gross capex for fiscal '22 being $3.1 billion and that would be roughly 15% of fiscal first-quarter revenue run rate.,3.1,False
+WDC,2021-08-04,2021Q4,"So first of all, in terms of capex, we exited FY '21 around $3 billion in gross capex and that's what we're expecting again in FY '22.",3,False
+WDC,2026-04-30,2026Q3,"1 billion and, in combination with a disciplined approach to capital expenditures—CapEx of $145 million—this resulted in strong free cash flow generation of $978 million for the quarter and a free cash flow margin of 29%.",0.145;0.978,False
+WDC,2020-05-01,2020Q3,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to flash ventures on our cash flow statement, were an inflow of $34 million due to the timing of funds flowing back and forth to the joint venture.",0.034,False
+WDC,2020-05-01,2020Q3,"Gross capital expenditures, which includes our portion of joint venture leasing and self-operating funding, is expected to be approximately $1.7 billion this fiscal year.",1.7,False
+WDC,2020-05-01,2020Q3,"Maybe my follow-up question is, you lowered your gross cash capex to $1.7 billion from I think last quarter, you said $2 billion to $2.",1.7;2,False
+WDC,2023-02-01,2023Q2,"Cash capital expenditure, which includes the purchase of property, plant and equipment, and activity related to our Flash joint ventures on our cash flow statement was $275 million.",0.275,False
+WDC,2023-02-01,2023Q2,"For the fiscal year 2023, we are reducing our gross capital expenditures to approximately $2.3 billion compared to our prior forecast of $3.",2.3,True
+WDC,2023-02-01,2023Q2,We are also aiming to reduce our cash capital expenditure to $900 million which is about 40% below our forecast six months ago.,0.9,False
+WDC,2020-10-29,2021Q1,"Capital expenditures, which include the purchase of property, plant, and equipment, and activity related to flash joint ventures on our cash flow statement was a cash outflow of $167 million.",0.167,False
+WDC,2020-10-29,2021Q1,"And as a follow-up, your cash capex for this year is -- fiscal year is projected at $1.3 billion.",1.3,False
+WDC,2020-10-29,2021Q1,"Should we assume that there won't be any meaningful other progress on either reducing debt or on capital return for this fiscal year?
+Bob Eulau
+--
+Chief Financial Officer
+Well, first of all, you're right, I mean our cash capex will be about $1.3 million and we're going to -- every incremental dollar of free cash flow, we're going to use to reduce our total debt.",0.0013,False
+WDC,2024-07-31,2024Q4,"Cash capital expenditures, which include the purchase of property, plant, and equipment, and activity related to Flash joint ventures on the cash flow statement represented a cash outflow of $84 million.",0.084,False
+WDC,2024-07-31,2024Q4,"For fiscal year 2024, cash capital expenditures were $244 million or 1.",0.244,True
+WDC,2022-04-29,2022Q3,"Cash and capital expenditures, which include the purchase of property, plant, and equipment, and activity related to our flash joint ventures on our cash flow statement represented a cash outflow of $250 million.",0.25,False
+WDC,2022-04-29,2022Q3,We remain disciplined in investing in manufacturing capacity and expect gross capex for the current fiscal year to be around $2.9 billion.,2.9,True
+WDC,2022-04-29,2022Q3,We expect cash capex to be around $1.3 billion as we actively manage our overall spending.,1.3,True
+WDC,2019-01-25,2019Q2,"I guess, you've previously talked about fiscal '19 cash CapEx of $1.5 billion to $1.",1.5,False
+WDC,2021-10-29,2022Q1,"Capital expenditures, which include the purchase of property, plant and equipment, and activity related to our flash joint ventures on our cash flow statement, was a cash outflow of $297 million.",0.297,False
+WDC,2021-10-29,2022Q1,We continue to expect gross capex for this fiscal year to be approximately $3 billion and cash capex to be around $2 billion.,3;2,True
+WDC,2020-01-30,2020Q2,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to Flash Ventures on our cash flow statement were an inflow of $120 million.",0.12,False
+WDC,2020-01-30,2020Q2,"Gross capital expenditures, which includes our portion of joint venture leasing and self-operating funding is expected to be between $2 billion and $2.5 billion.",2;2.5,False
+WDC,2019-10-31,2020Q1,"Capital expenditures, which include the purchase of property, plant and equipment and activity related to flash ventures on our cash flow statement, were an inflow of $41 million.",0.041,False
+WDC,2019-10-31,2020Q1,"For the full fiscal year, we continue to expect capital expenditures that will flow through our cash flow statement to be under $500 million.",0.5,True
+WDC,2019-10-31,2020Q1,"Total capital expenditures, which include our portion of joint venture leasing and self-operating funding is expected to be similar to last fiscal year between $2.5 billion and $3 billion.",2.5;3,False
+NVDA,2022-08-24,2023Q2,Capital expenditures are expected to be approximately $550 million to $600 million.,0.55;0.6,False
+NVDA,2020-02-14,2020Q4,Capital expenditures are expected to be approximately $150 million to $170 million.,0.15;0.17,False
+NVDA,2018-05-16,2019Q1,Capital expenditures were $118 million.,0.118,False
+NVDA,2018-05-16,2019Q1,Capital expenditures are expected to be approximately $130 million to $150 million.,0.13;0.15,False
+NVDA,2021-08-18,2022Q2,Capital expenditures are expected to be approximately $200 million to $225 million.,0.2;0.225,False
+NVDA,2022-11-16,2023Q3,Capital expenditures are expected to be approximately $500 million to $550 million.,0.5;0.55,False
+NVDA,2025-11-19,2026Q3,"Analyst expectations for the top CSPs and hyperscalers in 2026 aggregate CapEx have continued to increase and now sit roughly at $600 billion, more than $200 billion higher relative to the start of the year.",600;200,True
+NVDA,2020-08-20,2021Q2,Capital expenditures are expected to be approximately $225 million to $250 million.,0.225;0.25,False
+NVDA,2022-05-26,2023Q1,And capital expenditures are expected to be approximately $400 million to $450 million.,0.4;0.45,False
+NVDA,2021-02-25,2021Q4,Capital expenditures are expected to be approximately $300 million to $325 million.,0.3;0.325,False
+NVDA,2023-02-22,2023Q4,Capital expenditures are expected to be approximately $350 million to $400 million for the first quarter and in the range of $1.1 billion to $1.,0.35;0.4;1.1,False
+NVDA,2019-05-20,2020Q1,Capital expenditures are expected to be approximately $120 million to $140 million.,0.12;0.14,False
+NVDA,2026-08-31,2027Q2,"With cloud industry backlog now greater than $2 trillion, CapEx by the top 5 hyperscalers is expected to reach nearly $800 billion in 2026 and $1.",800,True
+NVDA,2022-02-17,2022Q4,Capital expenditures are expected to be approximately $350 million to $400 million.,0.35;0.4,False
+NVDA,2021-11-18,2021Q3,Capital expenditures are expected to be approximately $250 million to $275 million.,0.25;0.275,False
+NVDA,2021-05-27,2022Q1,Capital expenditures are expected to be approximately $300 million to $325 million.,0.3;0.325,False
+NVDA,2019-08-16,2020Q2,Capital expenditures are expected to be approximately $100 million to $120 million.,0.1;0.12,False
+NVDA,2019-11-14,2019Q3,Capital expenditures are expected to be approximately $130 million to $150 million.,0.13;0.15,False
+NVDA,2020-05-22,2021Q1,Capital expenditures are expected to be approximately $225 million to $250 million.,0.225;0.25,False
+NVDA,2020-05-22,2021Q1,"I guess I'm wondering, things are different now with A100 and what not, but my question is, how do you handicap your ability to this time maybe get through any digestion on the capex side and then I guess second question, Colette, stock comp had been running like $220 million [Phonetic] a quarter and the guidance implies that it goes to like $460 million [Phonetic] a quarter.",0.22;0.46,False
+NVDA,2019-02-15,2019Q4,Capital expenditures are expected to be approximately $150 million to $170 million.,0.15;0.17,False
+VRT,2026-04-22,2024Q3,"Noah Kaye:
+Okay, maybe just to sneak one more in that, you know, the net CapEx I think the guide is around $200 million for the year, and that implies something like $80 million in 4Q.",0.2;0.08,False
+PWR,2019-11-01,2019Q3,Cash flow provided by operating activities was $91 million and net capital expenditures were $61 million.,0.091;0.061,False
+PWR,2020-02-28,2019Q4,We estimate capital expenditures of approximately $300 million and free cash flow between $400 million and $600 million.,0.3;0.4;0.6,False
+PWR,2019-02-21,2018Q4,"Net capital expenditures were $261 million, resulting in free cash flow of $98 million, compared to $152 million of free cash flow in 2017.",0.261;0.098;0.152,True
+PWR,2019-02-21,2018Q4,We estimate our capital expenditures for the year to be between $260 million and $275 million.,0.26;0.275,False
+PWR,2026-04-30,2026Q1,"Just wondering why? I know your CapEx went up, but it only went up by like $50 million at the midpoint.",0.05,False
+PWR,2019-08-02,2019Q2,Cash flow used in operating activities was $109 million and net capital expenditures were $64 million.,0.109;0.064,False
+PWR,2018-11-01,2018Q3,"For the third quarter of 2018, cash flows provided by operating activities were $39 million and net capital expenditures were $68 million resulting in $29 million of negative free cash flow.",0.039;0.068;0.029,True
+PWR,2018-11-01,2018Q3,"As you look at these set of opportunities, even in your baseload business, are they sufficient to really offset a (inaudible) from there, or we have to wait and see right now?
+Earl Austin
+--
+Chief Executive Ofiicer
+No, I think we get fixated on those larger projects, but what we're not seeing and what we're trying to communicate is the underlying smaller transmission and when I say smaller, the $200 million to $300 million projects that are out there, as we see it, as we move forward, the base business, the CapEx, OpEx of our utility customers, there's multitude on both coastlines across the M",0.2;0.3;0.6;0.2;0.3,False
+PWR,2019-05-02,2019Q1,"Multiyear utility capex budgets in California and other regions in the Western United States exceed $40 billion in the aggregate, with a significant portion allocated to grid modernization and fire hardening.",40,False
+PWR,2019-05-02,2019Q1,Cash flow used by operating activities was $83 million and net capital expenditures were $58 million.,0.083;0.058,False
+IREN,2026-02-05,2026Q2,When we think about the CapEx required for the rest of the ARR growth target to the $3.4 million.,0.0034,False
+IREN,2026-08-31,2026Q4,"For FY '27, we're guiding CapEx of approximately $25 billion to $30 billion.",25;30,False
+IREN,2026-08-31,2026Q4,"Michael Ng:
+And I just wanted to follow-up on the CapEx outlook for next year, $25 billion to $30 billion.",25;30,True
+IREN,2026-08-31,2026Q4,So that covers all the CapEx requirements for the 2026 deployments to -- that contribute towards the $4 billion ARR target.,4,True
+IREN,2026-08-31,2026Q4,"So yes, we've guided total CapEx of $25 billion to $30 billion for FY '27.",25;30,False
+AVGO,2021-12-10,2021Q4,"We spent $443 million on capital expenditures, and free cash flow represented 49% of revenue or $13.3 billion.",0.443;13.3,False
+AVGO,2020-12-11,2020Q4,"We spent $463 million on capital expenditures, and free cash flow represented 49% of revenue or $11.6 billion.",0.463;11.6,False
+AVGO,2026-09-09,2026Q3,"And in Q4, we expect capital expenditures of $1.4 billion as we invest in capacity for semiconductors.",1.4,True
+AVGO,2018-06-07,2018Q2,Capital expenditure in the second quarter was $189 million or 3.,0.189,False
+AVGO,2018-06-07,2018Q2,"As a housekeeping matter, I would also note that CapEx was $61 million higher than depreciation.",0.061,False
+AVGO,2018-06-07,2018Q2,"Free cashflow, which we define was operating cashflow less CapEx in the second quarter was $2.12 billion or 42.",2.12,False
+AVGO,2018-06-07,2018Q2,CapEx will be approximately $125 million.,0.125,False
+AVGO,2018-06-07,2018Q2,"So, we're driving CapEx down to more like $100 million a quarter, which suggests you're going to be running closer to 2% as a percentage of revenue.",0.1,False
+AVGO,2019-12-12,2019Q4,We spent $96 million on capital expenditures and free cash flow represented 41% of revenue or $2.4 billion.,0.096;2.4,False
+AVGO,2019-12-12,2019Q4,We spent $432 million on capital expenditures and free cash flow represented 41% of revenue or $9.3 billion.,0.432;9.3,False
+AVGO,2018-12-06,2018Q4,CapEx is expected to be approximately $550 million.,0.55,False
+AVGO,2021-09-03,2021Q3,"And if I use normalized assumptions on cash interest payments, cash taxes, and capex, it looks like the team is going to generate about $13.7 billion-ish, roughly, in free cash flow this fiscal year, which roughly translates into a dividend increase to at least $16.",13.7,False
+AVGO,2019-09-12,2019Q3,Capex is expected to be approximately $500 million.,0.5,False
+AVGO,2019-06-13,2019Q2,"The tax rate is forecasted to be approximately 11%, depreciation is expected to be approximately $600 million, CapEx is expected to be approximately $500 million.",0.6;0.5,False
+AVGO,2017-12-08,2017Q4,Capital expenditure on the fourth quarter was $233 million or 4.,0.233,False
+AVGO,2017-12-08,2017Q4,CapEx will be approximately $210 million.,0.21,False
+AVGO,2019-03-14,2019Q1,Capex is expected to be approximately $550 million.,0.55,False
+AVGO,2018-03-15,2018Q1,Capital expenditure in the first quarter was $220 million or 4.,0.22,False
+AVGO,2018-03-15,2018Q1,"As a housekeeping matter, I'd also note that CapEx was $94 million higher than depreciation in the quarter.",0.094,False
+AVGO,2018-03-15,2018Q1,Operating expenses are estimated to be approximately $890 million; tax provision is forecasted to be approximately $103 million; net interest expense and other is expected to be $114 million; the diluted share cap forecast is for 461 million shares; share-based compensation expense will be approximately $305 million; CapEx will be approximately $190 million.,0.89;0.103;0.114;0.305;0.19,False
+FN,2021-08-16,2021Q4,5 million with capex of $13.5 million; free cash flow was $30 million in the quarter.,0.0135;0.03,False
+FN,2021-05-03,2021Q3,"With capex of $6.4 million, free cash flow was $27.",0.0064,False
+FN,2020-05-04,2020Q3,"And with capex of $12.1 million, free cash flow was $29.",0.0121,False
+FN,2019-02-04,2019Q2,"7 million and with CapEx of $4.3 million, free cash flow was $30.",0.0043,False
+FN,2026-02-02,2026Q2,"Capital expenditures of $52 million continued to run above maintenance CapEx levels, reflecting construction of Building 10 and capacity enhancements at our Pinehurst campus.",0.052,False
+FN,2026-05-04,2026Q3,"The CapEx is around $130 million to $132 million, depending on exchange rates.",0.13;0.132,False
+FN,2021-11-01,2022Q1,"With capex of $34.6 million, free cash flow was $4.",0.0346,False
+FN,2021-02-01,2021Q2,"With capex of $10.1 million, free cash flow was an outflow of $3.",0.0101,False
+FN,2021-02-01,2021Q2,We expect incremental capex of approximately $50 million over an estimated 1.,0.05,True
+FN,2018-08-21,2018Q4,"3 million, offset by a CAPEX of $5.6 million, share repurchase of $20 million and repayment of long-term bank loans of $1 million.",0.0056;0.02;0.001,False
+FN,2018-08-21,2018Q4,"Free cash flow, which is operating cash flow less CAPEX, was $42.7 million in the fourth quarter.",0.0427,False
+FN,2018-08-21,2018Q4,"After subtracting CAPEX of $33.8 million, free cash flow for the year was $104.",0.0338,False
+FN,2019-05-06,2019Q3,"2 million and with capex of $3.5 million, free cash flow was $32.",0.0035,False
+FN,2018-11-05,2019Q1,"6 million, offset by a CapEx of $5.4 million with holding tax related to net share settlement of RSUs of $8.",0.0054,False
+FN,2018-11-05,2019Q1,"Free cash flow, which is operating cash flow less CapEx, was $29.2 million in the first quarter.",0.0292,False
+FN,2026-08-24,2026Q4,Operating cash flow for the quarter was $55 million capital expenditures increased to $92 million with ongoing construction of Building 10 in Chonburi and the purchase of our new campus in Navanakorn for $11 million.,0.055;0.092;0.011,False
+FN,2019-08-20,2019Q4,"9 million, and with capex of $5.5 million, free cash flow was $36.",0.0055,False
+FN,2019-11-04,2020Q1,"6 million and with capex of $6.3 million, free cash flow was an outflow of $3.",0.0063,False
+ETN,2020-02-04,2019Q4,6 billion and capex of approximately $550 million.,0.55,False
+ETN,2019-10-29,2019Q3,"No change in our tax rate, we think our capex spending this year will be roughly $550 million and this is about $50 million lower than prior guidance and we estimate for our share purchases to be increased to roughly $1 billion and this is up from our prior guidance of $800 million as we continue to deploy our strong free cash flow.",0.55;0.05;1;0.8,False
+ETN,2019-10-29,2019Q3,"Deane Dray
+--
+RBC -- Analyst
+Craig, just last one for me, the lowering of the capex by $50 million.",0.05,False
+ETN,2021-08-03,2021Q2,"Having said that, we're going to extend roughly $200 million more in capex this year, which takes us down to $2.4 billion, which compares to the midpoint of our guide which is $2.",0.2;2.4,False
+ETN,2021-02-02,2020Q4,"7 billion, and capex will be approximately $500 million.",0.5,False
+ETN,2022-02-04,2021Q4,2 billion in capex will be approximately $650 million.,0.65,False
+ETN,2022-02-04,2021Q4,"Another element is capex, as you probably noted for our guide, we're up $75 million in capex investing to grow.",0.075,False
+ETN,2019-01-31,2018Q4,3 billion and we expect CapEx to be $600 million.,0.6,True
+ETN,2019-01-31,2018Q4,"2 operating cash flow on take out CapEx take out -- of about $600 million, take out dividends, take out the $400 million repurchases.",0.6;0.4,False
+ETN,2020-04-30,2020Q1,"Our capex forecast for the year is now approximately $40 million, down from our prior guidance of $550 million.",0.04;0.55,False
+ETN,2025-11-05,2025Q3,"But the CapEx, I think you were guiding to kind of call it $1.2 billion this year and next.",1.2,False
+JBL,2018-06-14,2018Q3,Net capital expenditures for third fiscal quarter totaled $265 million.,0.265,False
+JBL,2018-06-14,2018Q3,"Capital expenditures for the fiscal year to date totaled $572 million, while the full fiscal year remains on track with our previous expectations of $700 million.",0.572;0.7,False
+JBL,2018-06-14,2018Q3,"CapEx this year, we started the beginning of the year at $700 million.",0.7,False
+JBL,2021-09-29,2021Q4,Net capital expenditures for the fourth quarter were $202 million and for the full fiscal year came in better than expected at $793 million or 2.,0.202;0.793,False
+JBL,2021-09-29,2021Q4,Net capital expenditures are expected to be in the range of $830 million or 2.,0.83,False
+JBL,2022-03-16,2022Q2,"In spite of these two factors impacting inventory, our second quarter cash flows from operations were very robust, coming in at $246 million, and net capital expenditures totaled $201 million.",0.246;0.201,False
+JBL,2018-03-17,2018Q2,"Net capital expenditures for the second fiscal quarter totaled $110 million, and for the first half of the fiscal year, $308 million.",0.11;0.308,False
+JBL,2018-03-17,2018Q2,CAPEX of about $1.8 billion.,1.8,False
+JBL,2018-03-17,2018Q2,"And on your CAPEX of $700 million, how much of that would you say is maintenance versus expansionary?
+Mark Mondello
+--
+Chief Executive Officer
+Maintenance, roughly 250, something on 250, 300.",0.7,False
+JBL,2021-12-16,2022Q1,Cash flows used in operations were $46 million in Q1 and net capital expenditures totaled $73 million.,0.046;0.073,False
+JBL,2020-03-13,2020Q2,Cash flows provided by operations were $63 million in Q2 and net capital expenditures totaled $205 million.,0.063;0.205,False
+JBL,2017-12-15,2018Q1,Net capital expenditures for the first fiscal quarter totaled $198 million.,0.198,False
+JBL,2017-12-15,2018Q1,Net capital expenditures for the full fiscal year remained on track with our previous expectations of $700 million.,0.7,False
+JBL,2017-12-15,2018Q1,"Adam Kindle
+-- Raymond James -- Analyst
+OK, just to clarify for fiscal '18, I think, before you were talking about CAPEX in the neighborhood of $700 million but it's annualized a little bit higher than that.",0.7,False
+JBL,2019-09-24,2019Q4,Net capital expenditure for the fourth quarter was $165 million and for the full fiscal year came in slightly lower than expected at $787 million.,0.165;0.787,False
+JBL,2019-09-24,2019Q4,Net capital expenditures are expected to be $800 million consistent with fiscal year 2019.,0.8,True
+JBL,2019-09-24,2019Q4,"These factors, coupled with our disciplined capex, gives me confidence in our ability to deliver adjusted free cash flows of more than $500 million in FY 2020.",0.5,True
+JBL,2019-09-24,2019Q4,"As you upgrade more manufacturing sites with more automation, do you kind of see a structural change in some of that maintenance capex? Does that $550 million, kind of, maintenance capex will come down over time or should we just kind of think about 3% of sales as a correct way to kind of model capex spend longer term? Thanks.",0.55,False
+JBL,2018-09-25,2018Q4,"Net capital expenditures for the quarter were $114 million, and for the full fiscal year came in as expected at $686 million.",0.114;0.686,False
+JBL,2018-09-25,2018Q4,"As I highlighted in my prepared remarks, strong cash flows in Q4 of '18 through working capital optimization, discipline in capex management and cash allocation led back to $250 million of free cash flows.",0.25,False
+JBL,2018-09-25,2018Q4,"For FY19, we expect free cash flow to be in the region of $350 million, with a capex of $800 million, which approximates to about 3% of revenues.",0.35;0.8,True
+JBL,2020-12-17,2021Q1,"Cash flows provided by operations with $65 million in Q1, and net capital expenditures totaled $242 million.",0.065;0.242,False
+JBL,2020-12-17,2021Q1,"If capex goes up a bit, actually look at that as a good thing because with the disciplines we've put in, with the company being well-diversified, the pipeline that we have today on an organic basis is probably about $3.5 billion, $4 billion of -- of the top line, which by the way, we -- we -- we absolutely will intentionally walk away from some of that.",3.5;4,False
+JBL,2021-03-16,2021Q2,Cash flows provided by operations were $20 million in Q2 and capital expenditures net of customer co-investments total $152 million.,0.02;0.152,False
+JBL,2022-09-27,2022Q4,Net capital expenditures for the fiscal year were $841 million or 2.,0.841,False
+JBL,2022-09-27,2022Q4,Our net capital expenditures for the fiscal year amounted to $841 million.,0.841,False
+JBL,2022-09-27,2022Q4,Net capital expenditures are expected to be in the range of $875 million or 2.,0.875,False
+JBL,2019-06-18,2019Q3,Cash flows provided by operations were $5 million in Q3 and net capital expenditures totaled $229 million.,0.005;0.229,False
+JBL,2019-12-17,2020Q1,"Cash flows provided by operations were $21 million in Q1, and net capital expenditures totaled $207 million.",0.021;0.207,False
+JBL,2022-06-16,2022Q3,"Our third quarter cash flows from operations were $545 million, and net capital expenditures totaled $324 million.",0.545;0.324,False
+JBL,2021-06-17,2021Q3,Cash flows provided by operations were $585 million in Q3 and capital expenditures net of customer co-investments total $197 million.,0.585;0.197,False
+JBL,2020-09-24,2020Q4,Net capital expenditures for the fourth quarter were $241 million and for the full fiscal year came in as expected at $796 million.,0.241;0.796,False
+JBL,2020-09-24,2020Q4,"Net capital expenditures are expected to be in the range of $800 million, consistent with FY '20.",0.8,False
+JBL,2020-09-24,2020Q4,"These factors, coupled with our disciplined capex, gives me confidence in our ability to deliver adjusted free cash flows of more than $600 million in FY '21.",0.6,False
+JBL,2020-06-19,2020Q3,Cash flows provided by operations were $487 million in Q3 and net capital expenditures totaled $143 million.,0.487;0.143,False
+JBL,2019-03-14,2019Q2,Cash flows provided by operations grew $199 million in Q2 and net capital expenditures totaled $171 million.,0.199;0.171,False
+JBL,2019-03-14,2019Q2,"The asset light nature of our cloud business, coupled with the anticipated improvements in inventory days and disciplined capital expenditures, gives me confidence in our ability to deliver higher adjusted free cash flows approaching $400 million, along with $3 in core EPS on $25 billion in revenue for the year.",0.4;25,False
+NVT,2024-11-01,2024Q3,"A few additional 2024 assumptions include a tax rate of approximately 23%, net interest expense of approximately $105 million, shares of approximately $168 million, and capex of approximately $80 million.",0.105;0.168;0.08,True
+NVT,2026-05-01,2026Q1,"You reaffirmed CapEx at $130 million, that is up 40% year over year.",0.13,False
+NVT,2023-02-07,2022Q4,"Additionally, we anticipate corporate costs of approximately $95 million and capex of $55 million to $60 million.",0.095;0.055;0.06,True
+NVT,2022-02-08,2021Q4,"Additionally, we anticipate corporate costs of $75 million to $80 million and capex of $50 million to $55 million.",0.075;0.08;0.05;0.055,True
+NVT,2025-02-06,2024Q4,"And finishing up, we expect capex of $75 million to $80 million.",0.075;0.08,True
+NVT,2021-02-09,2020Q4,"Our strong and resilient cash flow enabled us to maintain capex at $40 million, similar to prior year.",0.04,False
+NVT,2021-02-09,2020Q4,"We expect capex to be between $40 million and $45 million in 2021, reflecting our asset-light model and continued investments.",0.04;0.045,True
+NVT,2024-02-06,2023Q4,"A few additional 2024 assumptions include higher net interest expense of approximately $90 million; shares of approximately 168 million, corporate costs of approximately $95 million and capex of $85 million to $90 million.",0.09;0.095;0.085;0.09,True
+NVT,2024-02-06,2023Q4,"So your company had a trend line capex of, I don't know, $40 million to $45 million for several years before 2023.",0.04;0.045,True
+NVT,2023-07-28,2023Q2,"And lastly, we are raising our capex expectations of $15 million to a range of $70 million to $75 million to reflect the impact of acquisitions and investments to expand capacity for our Data Solutions business.",0.015;0.07;0.075,False
+NVT,2019-01-31,2018Q4,"In addition, we've got some CapEx in total that's probably between $50 million to $55 million.",0.05;0.055,False
+NVT,2020-10-30,2020Q3,"We continue to invest in new products and our digital transformation and maintain a full year capex forecast of approximately $40 million, in line with prior year.",0.04,False
+NVT,2022-10-28,2022Q3,"We now expect a 4-point FX headwind to the top line, corporate cost expectations have moved up slightly to roughly $85 million, and we now expect capex of approximately $50 million at the low end of our prior range.",0.085;0.05,True
+NVT,2025-08-06,2025Q2,"And then just back to the capacity needs, I think you bumped CapEx this year for $10 million but by $10 million but just where is the greater need to add capacity near term? Is more on the building control solutions, more on the liquid cooling, both? It just seems like as we hear about this space kind of exploding, just a lot of a lot of push for, you know, we need it now.",0.01;0.01,False
+NVT,2020-04-29,2020Q1,"We decreased our full year capex spend to the lower end of our original estimate, targeting $40 million, which prioritizes strategic investments.",0.04,False
+MOD,2020-11-06,2021Q2,"So to your question, a big part of liabilities in costs, in future cost investments we're avoiding all relate to what we would view as additional plant moves, plant expansion, severance charges and ongoing capital investments that in this business is a liquid-cooled has has been averaging around $25 million a year.",0.025,False
+MOD,2019-02-01,2019Q3,Year-to-date capital spending is about $4 million higher than last year.,0.004,False
+MRVL,2022-12-01,2023Q3,"During the quarter, we generated $411 million in cash from operations, reflecting our strong earnings, offset by continued working capital investments to support our top-line revenue growth, including $94 million in payments for long-term back-end and substrate capacity agreements.",0.411;0.094,False
+MRVL,2023-11-30,2024Q3,Our capex was $54 million.,0.054,False
+MRVL,2023-08-24,2024Q2,"Capex was $111 million, which included a large number of leading node tapeouts that we expect to drive our future growth.",0.111,True
+MRVL,2018-12-04,2019Q3,Capital expenditures were $13 million and the depreciation was $39 million.,0.013;0.039,False

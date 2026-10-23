@@ -1,0 +1,13 @@
+# HPE - AI demand notes from earnings calls, 2022-03-01 to 2026-09-02
+(7 calls in sample; none between 2022-08 and 2025-06, and only alternate quarters after 2025-09)
+
+- 2022-03-01: Supply-constrained and order-rich: orders +20% YoY for a 3rd straight quarter. HPC & AI order growth >20% took the awarded-contract book to a record ~$2.7bn. Revenue +2% to $7bn; inventory built to $5.3bn; constraints expected "well into the second half of calendar year 2022"; FY22 growth guide 3-4%.
+- 2022-06-01: 4th straight quarter of >=20% order growth; HPC & AI backlog at a record ~$3bn. Revenue +1.5% to $6.7bn as supply limited conversion; dynamic pricing offset input costs.
+- 2022-08-30: Orders up double digits for a 7th quarter, backlog ~20x normal. First hint of a turn: supply could ease "if consumer demand continued to slow". Inventory peaked in Q3; supply to remain "challenged as we get into 2023".
+- 2025-06-03: AI systems net new orders $1.1bn (enterprise one-third), AI backlog $3.2bn. Orders "shifted very rapidly to Blackwell", including a large NVIDIA Grace Blackwell NVL72 cluster; a very large AI deal to ship in Q3.
+- 2025-09-03: AI orders nearly doubled QoQ to $2.1bn on sovereign (+~250%), record AI backlog $3.7bn; enterprise and sovereign are >50% of cumulative AI orders since Q1 2023. Server revenue $4.9bn (+16% YoY); Juniper acquisition closed in July.
+- 2026-03-09: Record AI systems backlog $5bn (enterprise and sovereign), with the pipeline at multiples of backlog. Networks-for-AI cumulative order target raised to $1.7-1.9bn from $1.5bn; data-center switching orders up mid-40%.
+- 2026-03-09: Memory shock: DRAM and NAND are now over half of a traditional server's BOM; portfolio-wide price increases; customers pulling orders forward ahead of price hikes. FY26 EPS raised to $2.30-2.50, but Cloud & AI growth was cut to mid-to-high single digits as HPE prioritised margin over AI volume.
+- 2026-09-02: Record orders (+42% normalized) and record backlog; revenue $12.2bn (+34%); AI systems orders $2.4bn (+30% QoQ); networks-for-AI orders $700M. Won a multibillion-dollar hyperscaler inference server deal; Oracle will deploy HPE Juniper routing and switching.
+- 2026-09-02: Raised FY26 (EPS $3.75-3.85, FCF >=$3.75bn) and lifted the FY27 framework to 13-17% revenue growth, excluding AMD Helios (ramp from late CY26). Supply constraints (DDR5, NAND, wafer capacity) limit conversion; inventory $11.8bn.
+Current state (latest call): 2026-09-02. Orders and backlog are at records across servers, AI systems and networking, and the FY27 growth framework is raised to 13-17% with Helios upside excluded. Revenue conversion is supply-limited (DDR5/NAND), and AI demand is broadening from sovereign and enterprise to hyperscaler inference.

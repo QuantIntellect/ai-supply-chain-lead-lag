@@ -1,0 +1,287 @@
+ticker,counterparty,relation,call_date,quote
+ADBE,Black Forest Labs,partner,2025-06-12,"Our support for third-party models, including from Google, OpenAI, and Black Forest Labs, gives creators the flexibility to choose the AI that works best for them"
+ADBE,Google,partner,2025-06-12,"Our support for third-party models, including from Google, OpenAI, and Black Forest Labs, gives creators the flexibility to choose the AI that works best for them"
+ADBE,Meta,partner,2025-06-12,"And so, you know, we already announced at Summit, including Meta, and a number of others, including Google and so on, and next week at Cannes."
+ADBE,OpenAI,partner,2025-06-12,"Our support for third-party models, including from Google, OpenAI, and Black Forest Labs, gives creators the flexibility to choose the AI that works best for them"
+ADBE,Amazon,partner,2025-12-10,"partnerships and integrations across AWS, Azure, Google Gemini, Humane, Microsoft Copilot, OpenAI"
+ADBE,Microsoft,partner,2025-12-10,"partnerships and integrations across AWS, Azure, Google Gemini, Humane, Microsoft Copilot, OpenAI"
+ADBE,Runway,partner,2025-12-10,"including Google, OpenAI, Black Forest Labs, Luma, Runway, Topaz Labs"
+ADBE,Amazon,customer,2026-09-10,"Notable customer wins this quarter include Amazon, Deutsche Post DHL, Honeywell,T-Mobile, Renault, and the US Department of Energy Los Alamos National Laboratory."
+AMZN,Anthropic,partner,2023-08-03,"with access to models from multiple leading large language model companies like Anthropic, Stability AI, AI21 Labs, Cohere, and Amazon's own developed large language models called Titan."
+AMZN,Cohere,partner,2023-08-03,"with access to models from multiple leading large language model companies like Anthropic, Stability AI, AI21 Labs, Cohere, and Amazon's own developed large language models called Titan."
+AMZN,Nvidia,supplier,2023-08-03,Customers are excited by Amazon EC2 P5 instances powered by NVIDIA H100 GPUs to train large models and develop generative AI applications.
+AMZN,Stability AI,partner,2023-08-03,"with access to models from multiple leading large language model companies like Anthropic, Stability AI, AI21 Labs, Cohere, and Amazon's own developed large language models called Titan."
+AMZN,Anthropic,partner,2023-10-26,"including a strategic collaboration with Anthropic, opening Amazon Bedrock up to general availability, adding Meta's Llama 2 model to Bedrock in the near future"
+AMZN,Meta,partner,2023-10-26,"including a strategic collaboration with Anthropic, opening Amazon Bedrock up to general availability, adding Meta's Llama 2 model to Bedrock in the near future"
+AMZN,Perplexity,customer,2024-04-30,"Perplexity AI trains models 40% faster than SageMaker, Workday reduces inference latency by 80% with SageMaker"
+AMZN,Anthropic,customer,2025-10-30,"Anthropic is using it now to build and deploy its industry-leading AI model, Claude, which we expect to be on more than 1 million Trainium2 chips by year-end."
+AMZN,Anthropic,partner,2025-10-30,our third quarter net income of $21.2 billion includes a pretax gain of $9.5 billion related to our investment in Anthropic.
+AMZN,Nvidia,supplier,2025-10-30,"We are not constrained in any way in buying NVIDIA, and I expect that we'll continue to buy more NVIDIA both next year and in the future."
+AMZN,Adobe,customer,2026-02-05,"Since our last call, we announced new agreements with OpenAI, Visa, MBA, BlackRock, Perplexity, Lyft, United Airlines, DoorDash, Salesforce, US Air Force, Adobe, Thomson Reuters"
+AMZN,OpenAI,customer,2026-02-05,"Since our last call, we announced new agreements with OpenAI, Visa, MBA, BlackRock, Perplexity, Lyft, United Airlines, DoorDash, Salesforce, US Air Force, Adobe, Thomson Reuters"
+AMZN,Salesforce,customer,2026-02-05,"Since our last call, we announced new agreements with OpenAI, Visa, MBA, BlackRock, Perplexity, Lyft, United Airlines, DoorDash, Salesforce, US Air Force, Adobe, Thomson Reuters"
+AMZN,Anthropic,customer,2026-04-29,That does not include the recent deal that we announced with Anthropic for over $100 billion.
+AMZN,Meta,customer,2026-04-29,"we have announced new agreements with OpenAI, Anthropic, Meta, NVIDIA, Uber, U.S."
+AMZN,OpenAI,customer,2026-04-29,"we have recently shared very large multiyear, multi-gigawatt training commitments from the two leading AI labs in the world, Anthropic and OpenAI"
+AMZN,OpenAI,partner,2026-04-29,"Yesterday, we added OpenAI's GPT-5.4 model, with 5.5 coming soon."
+AMZN,Nvidia,partner,2026-07-30,"We also continue to have a deep partnership with Nvidia, and we'll continue making AWS the best place to run Nvidia chips"
+APLD,Nvidia,investor,2024-10-09,"After the close of the quarter, our balance sheet significantly improved due to the strategic investments from a group of institutional and accredited investors, NVIDIA and related companies."
+APLD,Macquarie,investor,2025-01-14,give Macquarie the right of first refusal to invest up to an additional $4.1 billion across Applied Digital's future HPC data center pipeline.
+APLD,CoreWeave,customer,2026-04-08,"At Polaris Forge 1, the 400 megawatt CoreWeave campus, the first 100 megawatt building is now operating"
+APLD,Base Electron,supplier,2026-10-07,"entering into a long-term Power Purchase Agreement with Base Electron, an independent power producer in which we hold an approximate 10% equity stake."
+APLD,CoreWeave,customer,2026-10-07,we signed our first lease with CoreWeave in May of 2025 for our first 2 buildings at Polaris Forge 1
+APLD,MDU,supplier,2026-10-07,"In North Dakota, MDU's customers have saved about $45 million since our Ellendale project began because we use excess grid capacity"
+APLD,Microsoft,customer,2026-10-07,"During the quarter, ChronoScale announced plans with Microsoft for a 50-megawatt AI compute deployment in North America featuring NVIDIA GB300 NVL72 systems."
+BE,AEP,customer,2025-07-31,"Yesterday, AEP announced that Amazon Web Services and Coralogix, both data center operators, are deploying Bloom systems in Ohio."
+BE,Amazon,customer,2025-07-31,"Yesterday, AEP announced that Amazon Web Services and Coralogix, both data center operators, are deploying Bloom systems in Ohio."
+BE,Coralogix,customer,2025-07-31,"Yesterday, AEP announced that Amazon Web Services and Coralogix, both data center operators, are deploying Bloom systems in Ohio."
+BE,Oracle,customer,2025-07-31,"Just last week, for instance, we announced our partnership with Oracle to power their AI data centers."
+BE,Quanta Computer,customer,2025-07-31,"We informed you about our rapid deployment at their Fremont facility last year. Happy with our execution, they ordered an islanded load following microgrid, which we installed in Q2."
+BE,Brookfield,partner,2025-10-28,"Bloom will be the preferred on-site provider for Brookfield's trillion-dollar infrastructure portfolio of AI factories, data center operators, corporate facilities, and factories."
+BE,Equinix,customer,2025-10-28,"We work with many, including Equinix, which has deployed over 100 megawatts across data centers in multiple states."
+BE,Oracle,customer,2026-04-28,Becoming the sole power provider for Project Jupiter is a milestone for Bloom
+CEG,Comcast,customer,2022-05-12,"These deals support 350 megawatts of new renewable generation being built, represent 12% of Comcast power needs for its operations"
+CEG,Microsoft,partner,2022-05-12,"we announced our five-year collaboration with Microsoft for that 24/7, 365-day energy real-time matching solution."
+CEG,Sheetz,customer,2022-05-12,will supply 70% of Sheetz' entire Pennsylvania needs
+CEG,Microsoft,customer,2024-11-04,"Recall that when Microsoft announced the Crane offtake agreement, they explained that their agreement with Constellation enables them to use the energy in four different states"
+CEG,CyrusOne,customer,2026-05-11,we received PUCT approval of the net metering agreement associated with our powered land deal with CyrusOne at the Freestone Energy Center.
+CIFR,Amazon,customer,2026-02-24,we executed a long-term lease agreement with AWS
+CIFR,Fluidstack,customer,2026-02-24,"During the fourth quarter, we upsized our lease with FluidStacks supported by Google"
+CIFR,Google,partner,2026-02-24,"During the fourth quarter, we upsized our lease with FluidStacks supported by Google"
+CRM,OpenAI,customer,2023-05-31,"In Q1, we saw amazing momentum with customers, like the California Office of System Integration, Paramount Global, Revel, and OpenAI"
+CRM,Anthropic,partner,2023-08-30,"Now, through our $500 million generative AI fund, we're seeing the development of ethical AI with amazing companies like Anthropic, Cohere, Hugging Face"
+CRM,Amazon,partner,2023-11-29,"to make it easy to find, buy and manage Salesforce products to the AWS Marketplace."
+CRM,Alibaba,supplier,2025-02-26,"where we have Amazon, and we have Alibaba."
+CRM,Amazon,supplier,2025-02-26,"where we have Amazon, and we have Alibaba."
+CRM,Amazon,partner,2025-02-26,"AWS is a huge growth engine for us, helping us close a number of large deals."
+CRM,Google,partner,2025-02-26,"Earlier this week, we announced an expanded partnership with Google, as Marc mentioned, to empower customers to use Agentforce with Gemini"
+CRM,Anthropic,customer,2026-05-27,"Anthropic calls Slack, its core operating system."
+CRM,Google,customer,2026-05-27,"And OpenAI and Anthropic, Google, companies building the future of AI all of them Salesforce customers, all of them Slack customers"
+CRM,McAfee,customer,2026-05-27,McAfee has selected our new agentforce ITSM product or what we call agentforce IT service to replace ServiceNow.
+CRM,OpenAI,customer,2026-05-27,"And OpenAI and Anthropic, Google, companies building the future of AI all of them Salesforce customers, all of them Slack customers"
+CRM,ServiceNow,competitor,2026-05-27,McAfee has selected our new agentforce ITSM product or what we call agentforce IT service to replace ServiceNow.
+CRM,Anthropic,partner,2026-08-26,"This is the number one AI in the world, Anthropic, and the number one CRM, Salesforce, coming together for the first time in an incredibly powerful way to build a new product called Claudeforce."
+CRM,US Army,customer,2026-08-26,The Army Human Resources Command expects to drive up to 55 million Agentforce conversations every single month.
+CRWV,Nvidia,investor,2026-02-26,"of our commercial relationship with NVIDIA, which was accompanied by a $2 billion investment in CoreWeave, Inc. in support of our platform, team, and shared vision for AI infrastructure at scale."
+CRWV,Anthropic,customer,2026-05-07,"In Q1, we added Anthropic as a customer to support the development and deployment of the Claude family of AI models."
+CRWV,Cohere,customer,2026-05-07,the first to be syndicated in the public loan markets to finance contracts with OpenAI and Cohere.
+CRWV,Google,partner,2026-05-07,We recently announced CoreWeave Interconnect in collaboration with Google Cloud
+CRWV,Hudson River Trading,customer,2026-05-07,"driven by expanded commitments from existing partners like Jane Street, who added $6 billion of capacity in Q1 and new customers like Hudson River Trading."
+CRWV,Jane Street,customer,2026-05-07,"expanded commitments from existing partners like Jane Street, who added $6 billion of capacity in Q1"
+CRWV,Jane Street,investor,2026-05-07,While the $1 billion strategic investment we received from Jane Street highlights the value and differentiation our customers see in our platform.
+CRWV,Meta,customer,2026-05-07,"We also signed multiple new orders with Meta, including the $21 billion agreement announced in early April."
+CRWV,OpenAI,customer,2026-05-07,"Following this transaction, we have secured all financing required to deliver the entirety of our existing commitments with OpenAI."
+CRWV,Perplexity,customer,2026-05-07,"For example, Perplexity will power its next generation of inference workloads on CoreWeave's platform"
+CRWV,IBM,customer,2026-08-11,"IBM is using CoreWeave to experiment securely with reinforcement learning, agent tool use and model evaluation."
+CRWV,Nvidia,supplier,2026-08-11,Building on our close partnerships with NVIDIA and our OEM and ODM partners
+CRWV,Solidigm,supplier,2026-08-11,our recent long-term agreement with Solidigm is one illustration of how we are derisking access to the critical inputs
+DLR,Graphcore,customer,2022-02-17,"Graphcore, a British semiconductor company that develops accelerators and systems for AI and machine learning, selected PlatformDIGITAL to address their density, security and scale requirements."
+DLR,Brookfield,partner,2022-07-28,"We also have ventures like Ascenty in Latin America, which today is held by our partners Brookfield or Mitsubishi or MC Digital Realty"
+DLR,Dominion Energy,supplier,2022-07-28,"Dominion Energy, which is the primary power provider in that market, informed its major customers very recently regarding the call a potential pinch point in Eastern Loudoun County"
+DLR,Mitsubishi,partner,2022-07-28,"in Japan or our partners, Mitsubishi Corporation that are certainly a private partner today"
+DLR,Digital Core REIT,partner,2022-10-26,reached an agreement with digital core REIT to sell a 25% interest in our Frankfurt data center campus for $140 million
+DLR,GI Partners,partner,2023-07-27,two transactions where we would characterize as distinguished blue-chip investment partners in both GI and TPG.
+DLR,Nvidia,partner,2023-07-27,broadening our existing partnership with NVIDIA with the certification of our first DGX H-100 ready data center
+DLR,TPG,partner,2023-07-27,two transactions where we would characterize as distinguished blue-chip investment partners in both GI and TPG.
+DLR,Amazon,partner,2023-10-26,"we've added on ramps from a number of the largest cloud service providers, including AWS and Oracle."
+DLR,Oracle,partner,2023-10-26,"we've added on ramps from a number of the largest cloud service providers, including AWS and Oracle."
+DLR,Blackstone,partner,2024-02-15,the $7 billion development joint venture with Blackstone is our largest and most forward-looking transaction
+DLR,Brookfield,customer,2024-02-15,"In addition, Brookfield assumed three existing leases and amended three others in our portfolio to accelerate their expiration to the end of September 2024."
+DLR,Dominion Energy,supplier,2024-05-02,We were very pleased to come together and support our partner at Dominion with a very strategic easement to be the landing of the Mars substation
+DLR,Novo Nordisk Foundation,customer,2024-05-02,we were selected to host one of the most powerful AI supercomputers in one of our data centers in Copenhagen in a collaboration spearheaded on the Novo Nordisk Foundation
+DLR,Oracle,partner,2024-05-02,Digital Realty further strengthened its collaboration with Oracle to accelerate the growth and adoption of AI among enterprises
+DLR,Microsoft,partner,2024-07-25,we announced the deployment of a new Microsoft Azure ExpressRoute Cloud On-Ramp at our Dallas campus
+DLR,Oracle,partner,2025-07-24,we are providing enterprises with additional state-of-the-art services through our partnership with Oracle Solution Centers
+EQIX,PGIM,partner,2022-04-27,"In March, we closed our Australian JV with PGIM, which is expected to provide more than 55 megawatts of capacity in the Sydney market when closed and fully built out."
+EQIX,Bloom Energy,supplier,2023-08-02,"We actually use Bloom Energy fuel cells in Silicon Valley, not as a primary source."
+EQIX,Google,partner,2023-08-02,with Google Cloud as the first cloud partner to support this capability.
+EQIX,Hewlett Packard Enterprise,partner,2023-08-02,"In Q2, we announced our expanded partnership with Hewlett Packard Enterprise for pre-provisioned HPE GreenLake for private cloud enterprise"
+EQIX,CoreWeave,customer,2023-10-25,"There's definitely an emergent set of service providers, Core Wheat and Lambda we talked about that I think are really sources of incremental demand for us."
+EQIX,Lambda,customer,2023-10-25,"And Lambda, selecting Platform Equinix to offer customers expanded regional connectivity, higher networking performance, security and scale"
+EQIX,Nvidia,partner,2023-10-25,we announced our NVIDIA Launchpad offering with them over two years ago.
+EQIX,Avant,partner,2024-02-14,"We saw continued growth from partners like Avant, HPE, HCL, NVIDIA, and WWT"
+EQIX,HCL,partner,2024-02-14,"We saw continued growth from partners like Avant, HPE, HCL, NVIDIA, and WWT"
+EQIX,Nvidia,partner,2024-02-14,recently announced our expanded partnership for NVIDIA DGX private cloud at Equinix.
+EQIX,WWT,partner,2024-02-14,"We saw continued growth from partners like Avant, HPE, HCL, NVIDIA, and WWT"
+EQIX,PGIM,partner,2024-05-09,"in mid-April, we announced our first U.S. xScale joint venture with PGIM Real Estate for our SV12x asset."
+EQIX,InstaDeep,customer,2024-08-07,"InstaDeep, a leading provider of AI decision-making solutions deployed NVIDIA AI cluster at our Paris 10 asset"
+EQIX,CPP Investments,partner,2024-10-30,the agreement to form a greater than 15 billion joint venture with the CPP Investment Board and GIC.
+EQIX,GIC,partner,2024-10-30,the agreement to form a greater than 15 billion joint venture with the CPP Investment Board and GIC.
+EQIX,Neoen,supplier,2025-02-12,we signed our first power purchase agreement in Italy with Neoen to support 53 megawatts of new solar projects.
+EQIX,Adobe,partner,2025-10-29,"together with key partners and industry leaders including NVIDIA, Dell, Grok, HPE, Adobe, Zayo, Zoom, and WWT."
+EQIX,Ally Bank,customer,2025-10-29,"we saw continued momentum with key AI-related magnets and enterprises including Ally Bank, Bristol Myers Squibb, Nebios, and Grok amongst others."
+EQIX,Bristol Myers Squibb,customer,2025-10-29,"we saw continued momentum with key AI-related magnets and enterprises including Ally Bank, Bristol Myers Squibb, Nebios, and Grok amongst others."
+EQIX,Dell,partner,2025-10-29,"together with key partners and industry leaders including NVIDIA, Dell, Grok, HPE, Adobe, Zayo, Zoom, and WWT."
+EQIX,Groq,customer,2025-10-29,"we saw continued momentum with key AI-related magnets and enterprises including Ally Bank, Bristol Myers Squibb, Nebios, and Grok amongst others."
+EQIX,Lyceum,customer,2025-10-29,"Companies that I mentioned in my prepared remarks there like Zetaris, Lyceum who is a GPU as a service provider in Germany"
+EQIX,Nebius,customer,2025-10-29,"we saw continued momentum with key AI-related magnets and enterprises including Ally Bank, Bristol Myers Squibb, Nebios, and Grok amongst others."
+EQIX,Zayo,partner,2025-10-29,"together with key partners and industry leaders including NVIDIA, Dell, Grok, HPE, Adobe, Zayo, Zoom, and WWT."
+EQIX,Zetaris,customer,2025-10-29,"Companies that I mentioned in my prepared remarks there like Zetaris, Lyceum who is a GPU as a service provider in Germany"
+EQIX,Zoom,partner,2025-10-29,"together with key partners and industry leaders including NVIDIA, Dell, Grok, HPE, Adobe, Zayo, Zoom, and WWT."
+EQIX,Alembic,customer,2026-02-11,We are working with Alembic as they deploy the NVIDIA DGX SuperPOD with NVIDIA Grace Blackwell systems
+EQIX,Salesforce,customer,2026-02-11,"we are enabling private network connectivity between Salesforce's presence in AWS, Azure and other cloud service providers."
+EQIX,Orion VM,customer,2026-07-29,"Leading AI cloud infrastructure provider Orion VM, selected Equinix to power its fully managed private agentic AI bundle."
+ETN,Nvidia,partner,2026-05-05,"Our partnerships with NVIDIA resulted in a complete solution for their generation of chips, Vera Rubin."
+GEV,TVA,customer,2025-07-23,The NRC has now formally accepted TVA's application to construct at Clinch River site
+GEV,Xignux,partner,2025-10-22,"We are excited to update you on our announced acquisition of the remaining 50% of the Prolec GE joint venture from our partner, Xignux."
+GEV,Hitachi,partner,2026-04-22,announcement of up to $40 billion for GE Vernova Hitachi to build SMRs in the U.S.
+GOOGL,Cohere,customer,2023-07-25,"More than 70% of gen AI unicorns are Google Cloud customers, including Cohere, Jasper, Typeface, and many more."
+GOOGL,Nvidia,supplier,2023-07-25,"We provide the widest choice of AI supercomputer options with Google TPUs and advanced NVIDIA GPUs, and recently launched new A3 AI supercomputers powered by NVIDIA's H100."
+GOOGL,Accenture,partner,2024-01-30,Accenture has teamed up with Google Cloud to create a joint Generative AI Center of Excellence.
+GOOGL,Anthropic,customer,2024-01-30,"Customers like Anthropic, Character.AI, Essential AI, and Mistral AI are building and serving models on it."
+GOOGL,Mistral AI,customer,2024-01-30,"Customers like Anthropic, Character.AI, Essential AI, and Mistral AI are building and serving models on it."
+GOOGL,Anthropic,partner,2024-07-23,"We broadened support for third-party models including Anthropic's Claude 3.5 Sonnet and open-source models like Gemma 2, Llama, and Mistral."
+GOOGL,Anthropic,customer,2025-10-29,we are excited that Anthropic recently shared plans to access up to 1 million TPUs.
+GOOGL,Apple,customer,2026-02-04,"Before moving on, I'm pleased that we are collaborating with Apple as their preferred cloud provider and to develop the next generation of Apple Foundation models based on Gemini technology."
+GOOGL,Intersect,partner,2026-02-04,"In December, we announced our intent to acquire Intersect which provides data center and energy infrastructure solutions."
+GOOGL,Reliance,customer,2026-02-04,"Reliance Enterprise customers will also get access to Google Cloud Gemini Enterprise and TPUs, bringing the best of Google AI to every employee and workflow."
+GOOGL,Amazon,partner,2026-04-29,"Last week, we welcomed Amazon, Meta, Microsoft, Salesforce and Stripe as new members to the UCP tech Council."
+GOOGL,Hudson River Trading,customer,2026-04-29,"Our TPUs continue our leadership in performance, cost and power efficiency for customers like Thinking Machines Lab, Hudson River Trading and Boston Dynamics."
+GOOGL,Meta,partner,2026-04-29,"Last week, we welcomed Amazon, Meta, Microsoft, Salesforce and Stripe as new members to the UCP tech Council."
+GOOGL,Microsoft,partner,2026-04-29,"Last week, we welcomed Amazon, Meta, Microsoft, Salesforce and Stripe as new members to the UCP tech Council."
+GOOGL,Nvidia,supplier,2026-04-29,"Our custom TPUs, Axion CPUs and the latest NVDIA GPUs continue to form the industry's widest variety of compute options."
+GOOGL,Salesforce,partner,2026-04-29,"Last week, we welcomed Amazon, Meta, Microsoft, Salesforce and Stripe as new members to the UCP tech Council."
+GOOGL,Thinking Machines Lab,customer,2026-04-29,"Our TPUs continue our leadership in performance, cost and power efficiency for customers like Thinking Machines Lab, Hudson River Trading and Boston Dynamics."
+IREN,Microsoft,customer,2026-02-05,supporting our $9.7 billion AI contract with Microsoft.
+IREN,Microsoft,customer,2026-05-07,have Horizon One GPU commissioning now underway for Microsoft.
+IREN,Nvidia,customer,2026-05-07,this week signed a $3.54 billion five-year AI cloud contract with NVIDIA
+IREN,Nvidia,investor,2026-05-07,The $2.1 billion NVIDIA investment is structured to reflect that.
+IREN,Cohere,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+IREN,Fal AI,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+IREN,Figure AI,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+IREN,Higgsfield AI,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+IREN,Perplexity,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+IREN,Prometheus,customer,2026-08-27,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI"
+META,Nvidia,partner,2025-01-29,"In the second half of 2024, we introduced an innovative new machine learning system in partnership with NVIDIA called Andromeda."
+META,Blue Owl,partner,2025-10-29,You've recently struck a deal with Blue Owl.
+META,AMD,supplier,2026-04-29,we are rolling out more than one gigawatt of our own custom silicon that we are developing with Broadcom as well as a significant amount of AMD chips
+META,Broadcom,supplier,2026-04-29,we are rolling out more than one gigawatt of our own custom silicon that we are developing with Broadcom as well as a significant amount of AMD chips
+META,Nvidia,supplier,2026-04-29,as well as a significant amount of AMD chips to complement the new NVIDIA systems that we are rolling out as well.
+META,BlackRock,partner,2026-07-29,"we announced a new strategic venture with BlackRock to develop a new 1 gigawatt data center in El Paso, Texas."
+MSFT,AMD,supplier,2024-01-30,"in the most diverse selection of AI accelerators, including the latest from AMD and NVIDIA, as well as our own first-party silicon, Azure Maia."
+MSFT,Nvidia,supplier,2024-01-30,"in the most diverse selection of AI accelerators, including the latest from AMD and NVIDIA, as well as our own first-party silicon, Azure Maia."
+MSFT,Snowflake,customer,2024-07-30,"we introduced new Cobalt 100, which provides best-in-class performance for customers like Elastic, MongoDB, Siemens, Snowflake, and Teradata."
+MSFT,OpenAI,partner,2024-10-30,"Other income and expense is expected to be roughly negative $1.5 billion, primarily driven by our share of the expected loss from OpenAI, which is accounted for under the equity method."
+MSFT,OpenAI,customer,2025-10-29,"Already, we have roughly 10x'd our investment, and OpenAI has contracted an incremental $250 billion of Azure services."
+MSFT,SAP,customer,2025-10-29,"In Germany, for example, OpenAI and SAP will rely on Azure to deliver new AI solutions to the public sector."
+MSFT,xAI,partner,2025-10-29,"including as of this quarter, OpenAI's GPD-5 as well as XAI's GRAQ-4."
+MSFT,Anthropic,customer,2026-01-28,reflects multiyear demand needs as well as the previously announced Anthropic commitment from November
+MSFT,OpenAI,customer,2026-01-28,Approximately 45% of our commercial RPO balance is from OpenAI.
+MSFT,Anthropic,partner,2026-07-29,These included a $3.2 billion gain from our investment in Anthropic
+NBIS,Meta,partner,2025-05-20,We also announced some new partnerships this quarter to build our strong relationship with NVIDIA as well as Meta and Llama.
+NBIS,Nvidia,partner,2025-05-20,Nebius and NVIDIA announced that Nebius would be one of the first AI clouds to offer the NVIDIA Blackwell Ultra AI Factory platform.
+NBIS,1X,customer,2026-05-13,"such as Sword Health in healthcare, life sciences and Rhoda and 1X in physical AI"
+NBIS,Meta,customer,2026-05-13,"Formally, this is a $27 billion contract with Meta."
+NBIS,Microsoft,customer,2026-05-13,So we delivered all our capacity commitments across our Microsoft and Meta customers.
+NBIS,Nvidia,investor,2026-05-13,the NVIDIA strategic investment is meaningful across several dimensions beyond the $2 billion of equity and line of sight to 5 gigawatts of capacity commitment by the end of 2030
+NBIS,Revolut,customer,2026-05-13,"as well as Revolut and monday.com, new customer wins for Token Factory."
+NBIS,Rhoda,customer,2026-05-13,"such as Sword Health in healthcare, life sciences and Rhoda and 1X in physical AI"
+NBIS,Sword Health,customer,2026-05-13,"such as Sword Health in healthcare, life sciences and Rhoda and 1X in physical AI"
+NBIS,monday.com,customer,2026-05-13,"as well as Revolut and monday.com, new customer wins for Token Factory."
+NOKIA.HE,Google,partner,2026-07-23,"First, we expanded our partnership with Google Cloud, bringing Gemini-powered AI agents into our autonomous networks portfolio."
+NOKIA.HE,Nvidia,partner,2026-07-23,the NVIDIA GPUs that are now making -- they're now coming into our portfolio on the AI RAN platform
+NOKIA.HE,Google,partner,2026-10-22,Our partnership with Google in support of the EUR 13 billion investment in Finland is a great example of this.
+NOKIA.HE,Nvidia,partner,2026-10-22,We are positioning Nokia to lead this shift in partnership with NVIDIA.
+NOW,Microsoft,partner,2022-07-27,the Microsoft Azure arrangement where we can actually take advantage of customers that are moving to the cloud
+NOW,Accenture,partner,2023-07-26,"We have also introduced a new ServiceNow AI Lighthouse customer program, alongside NVIDIA and Accenture"
+NOW,Cognizant,partner,2023-07-26,We announced an expanded strategic partnership with Cognizant to accelerate adoption of AI-driven automation.
+NOW,Nvidia,partner,2023-07-26,"We have also introduced a new ServiceNow AI Lighthouse customer program, alongside NVIDIA and Accenture"
+NOW,Nvidia,customer,2023-10-25,Nvidia is accelerating its own ServiceNow journey with generative AI.
+NOW,Amazon,partner,2024-01-24,"Beginning this month, ServiceNow will be available as a SaaS offering in the AWS marketplace."
+NOW,IBM,partner,2024-04-24,"ServiceNow at IBM are combining the power of the Now Platform with Watson X to increase productivity for IBM's employees, customers, and partners."
+NOW,Microsoft,partner,2024-04-24,we expanded our long-standing partnership with Microsoft to include new generative AI capabilities
+NOW,Microsoft,supplier,2024-07-24,We announced plans to launch a ServiceNow UAE Cloud hosted on Microsoft Azure
+NOW,Databricks,partner,2024-10-23,"we're in great company with strong partners like NVIDIA, Microsoft, Snowflake and Databricks."
+NOW,Snowflake,partner,2024-10-23,"we're in great company with strong partners like NVIDIA, Microsoft, Snowflake and Databricks."
+NOW,Amazon,partner,2025-01-29,ServiceNow and AWS expanded our collaboration with new capabilities to accelerate AI transformation.
+NOW,Google,partner,2025-01-29,We're further augmenting data fabric capabilities with the new Oracle and Google Cloud integrations announced earlier today.
+NOW,Oracle,partner,2025-01-29,We're further augmenting data fabric capabilities with the new Oracle and Google Cloud integrations announced earlier today.
+NOW,Nvidia,supplier,2025-10-29,"And we built on NVIDIA Nemotron, the next generation of our platform enables customers to do extraordinary things"
+NOW,Anthropic,partner,2026-01-28,ServiceNow and Anthropic have announced an expanded partnership to integrate Claude models more deeply into the ServiceNow AI platform.
+NOW,Microsoft,partner,2026-01-28,"ServiceNow and Microsoft have announced a deep AI integration, connecting copilots, agents, and data across Microsoft 365 and the ServiceNow AI platform"
+NOW,OpenAI,partner,2026-01-28,"Under this agreement, OpenAI models will be a preferred intelligence capability for several agentic use cases offered to ServiceNow enterprise customers."
+NRG,GE Vernova,supplier,2025-11-06,"We are advancing numerous additional opportunities, including up to 5.4 gigawatts of new capacity for data through 2032 under our GE Vernova and KeyWit partnership."
+NRG,Kiewit,supplier,2026-02-24,including 5.4 gigs through our GEV and Kiewit venture
+NRG,GE Vernova,supplier,2026-08-04,The project is supported by the turbine and EPC capacity we secured through GE Vernova and Kiewit.
+NVT,Nvidia,partner,2024-11-01,"We are currently engaged with NVIDIA in the design of liquid cooling products, solutions, and architectures that meet the needs for the GB200 NVL72"
+OKLO,Diamondback Energy,customer,2024-11-14,"we've made new announcements in the data center market sector with Equinix and Prometheus Hyperscale, as well as an announcement with Diamondback Energy in the oil and gas sector."
+OKLO,Equinix,customer,2024-11-14,Oklo signed a similar strategic partnership agreement with Equinix earlier this year for 500 megawatts of power.
+OKLO,Prometheus Hyperscale,customer,2024-11-14,"we've made new announcements in the data center market sector with Equinix and Prometheus Hyperscale, as well as an announcement with Diamondback Energy in the oil and gas sector."
+OKLO,Siemens Energy,supplier,2024-11-14,Our deal with Siemens Energy is a good example of what our value chain partnerships can look like.
+OKLO,Centrus,supplier,2025-11-11,"Mid-term, our partnerships with Centrus, Hexium, and others expand fresh Hailey Waxes and reduce single vendor risk."
+OKLO,Meta,customer,2026-03-17,"We also signed the meta prepayment agreement in support of up to 1.2 gigawatts at Aurora, Ohio."
+OKLO,Nvidia,partner,2026-05-11,We also announced a collaboration with NVIDIA in Los Alamos National Laboratory to support fuel validation work for plutonium bearing fuels.
+OKLO,Switch,customer,2026-05-11,"We have advanced major customer relationships, including Switch and Meta."
+OKLO,Centrus,supplier,2026-08-07,Centrus would supply HALEU for multiple years of initial core and reload needs for up to 5 Aurora powerhouses with deliveries expected to begin in 2029.
+OKLO,Kiewit,supplier,2026-08-07,"During the quarter, we entered into an MOU with Kiewit to support engineering, procurement, construction and execution planning for the initial phase of the Ohio Power campus."
+ORCL,Adept AI,customer,2023-06-12,"has made Oracle the number one choice among cutting-edge AI development companies, including MosaicML, Adept AI, Cohere, Modal Labs, Character"
+ORCL,Cohere,customer,2023-06-12,"has made Oracle the number one choice among cutting-edge AI development companies, including MosaicML, Adept AI, Cohere, Modal Labs, Character"
+ORCL,Nvidia,partner,2023-06-12,"And we are partnering with NVIDIA to build the world's largest high-performance computer, an AI computer with 16,000 GPUs."
+ORCL,Microsoft,customer,2023-12-11,"We're building our own public regions based on direct customer demand, and then we're building partner regions like the 20 data centers for Microsoft."
+ORCL,Google,partner,2024-06-11,OCI and Google Cloud network interconnect is available immediately in 10 regions
+ORCL,Microsoft,partner,2024-06-11,"We have 11 Database at Azure sites live and more locations with Microsoft coming online soon, and we will have 12 Oracle Database at Google Cloud sites live this year."
+ORCL,OpenAI,customer,2024-06-11,"First, as you saw, OpenAI selected Oracle to run deep learning and AI workloads on Oracle Cloud Infrastructure."
+ORCL,xAI,customer,2024-06-11,"Well, here are a few names: Nvidia, Microsoft, Google, xAI, OpenAI, Cohere, and dozens more."
+ORCL,Amazon,partner,2024-09-09,"our partnership with Amazon Web Services, which has now joined Microsoft Azure and Google Cloud in making OCI and Oracle available in their respective clouds."
+ORCL,Nvidia,supplier,2024-12-09,"GPU consumption was up 336% in the quarter, and we delivered the world's largest and fastest AI supercomputer, scaling up to 65,000 Nvidia H200 GPUs."
+ORCL,OpenAI,partner,2025-03-10,"this is just a massive scale, American-first venture with Oracle joined by undisputed AI leaders like OpenAI and NVIDIA"
+ORCL,Broadcom,partner,2025-12-10,"Our marketplace consumption has grown 89% year over year, powered by partners like Broadcom and Palo Alto."
+ORCL,Meta,customer,2025-12-10,"Driven by contracts signed with Meta, NVIDIA, and others as we continue to diversify our customer backlog."
+ORCL,Nvidia,customer,2025-12-10,"Driven by contracts signed with Meta, NVIDIA, and others as we continue to diversify our customer backlog."
+ORCL,Nvidia,supplier,2025-12-10,"Our super cluster in Abilene, Texas is on track more than 96,000 NVIDIA Grace Blackwell GB 200 delivered."
+ORCL,AMD,supplier,2026-03-10,"We continually offer the latest in accelerators, from the most recent NVIDIA and AMD options to emerging designs from companies like Cerebras and PowerCharm."
+ORCL,Cerebras,supplier,2026-03-10,"We continually offer the latest in accelerators, from the most recent NVIDIA and AMD options to emerging designs from companies like Cerebras and PowerCharm."
+ORCL,Bloom Energy,supplier,2026-06-10,"Power design is based on gigawatts of clean, energy-efficient Bloom fuel cells."
+ORCL,Bloom Energy,partner,2026-06-10,excluding the net onetime investment gains we booked in fiscal year 2020 from Ampere and Bloom Energy.
+ORCL,OpenAI,partner,2026-09-10,"We expanded our OpenAI relationship to offer OpenAI API access, ChatGPT for work, and codex through Oracle Marketplace."
+PLTR,UK Defence Digital (British military),customer,2023-02-13,"the signing of Palantir's enterprise agreement with Defense Digital, a consolidated effort on the part of the British military to modernize its software systems."
+PLTR,Lockheed Martin,customer,2023-11-02,FedStart customers like CalypsoAI and PrimerAI and Apollo customers like Lockheed shared their acceleration journeys
+PLTR,Lowe's,customer,2024-05-06,"Lowe's accelerated its engagement from a starting point of no AI to utilizing production level AI for over 1,000 customer service agents"
+PLTR,Oracle,partner,2024-05-06,"And on the partnership front, you see -- you know, we announced our partnership with Oracle."
+PLTR,US Department of Defense,customer,2024-08-05,"a production contract from the Department of Defense Chief Digital and Artificial Intelligence Office, CDAO, to deploy and scale an AI-enabled operating system across the DoD"
+PLTR,US Army,customer,2024-11-04,"Palantir is also delivering AI through Maven Smart System, allowing customers like the 18th Airborne to match the performance of what used to be a 2,000-staff targeting cell"
+PLTR,US Department of Defense,customer,2025-08-04,The ceiling for our Maven Smart System contract was increased by $795 million
+PLTR,Johnson Controls,customer,2026-02-02,"As Johnson Controls noted about our work together, ""It is really incredible to see that you can transform a 140-year-old company with the power of AI."""
+PLTR,US Navy,customer,2026-02-02,The US Navy awarded Palantir Technologies Inc. a contract worth up to $448 million to modernize the shipbuilding supply chain and accelerate delivery of naval vessels.
+PLTR,GE Aerospace,customer,2026-05-04,GE Aerospace deepened their partnership with Palantir Technologies Inc. last quarter to deploy agentic AI-powered solutions across their production system and military aviation supply chain
+PLTR,Nvidia,partner,2026-08-03,we built a partnership with NVIDIA.
+PWR,NiSource,customer,2025-10-30,"NiSource has engaged Quanta for a design, procurement, and construction execution of generation and infrastructure resources"
+PWR,Zachry,partner,2025-10-30,"Certainly, we have aspects of this that we will perform internally, and then Zachary has aspects of this that they will perform really well."
+PWR,Nvidia,partner,2026-02-19,"We work with NVIDIA and others to make sure that we see where they are going, make sure we have the craft that is necessary."
+SMR,Doosan Enerbility,supplier,2025-11-06,Doosan has come out and publicly stated they have the current capacity of producing 20 NuScale Power Corporation modules per year and looking to expand that as needed.
+SMR,ENTRA1,partner,2025-11-06,our global strategic partner InterOne announced the landmark agreement with TVA to deploy new nuclear generation capacity powered by NuScale Power Corporation's SMR technology.
+SMR,Fluor,partner,2025-11-06,"To continue work on Fluor's Phase two front-end engineering design, or FEED, to study for the Row Power Dorchester power plant"
+SMR,TVA,customer,2025-11-06,They include the recent Tennessee Valley Authority or TVA and InterOne Energy announcement on the deployment of up to six gigawatts of new nuclear capacity using NuScale Power Corporation technology.
+SMR,Framatome,supplier,2026-05-07,"We continue to strengthen our critical supply chain partnerships, particularly our fuel supplier Framatome and manufacturing partner, Doosan Enerbility."
+SMR,RoPower,customer,2026-05-07,"We also saw progress on the RoPower project in Doicesti, Romania, where Nuclearelectrica shareholders voted to advance the project."
+SMR,Paragon,supplier,2026-08-05,"This quarter, we announced that Paragon has been awarded a contract to complete the final design development of the safety instrumentation and control systems for our NuScale power modules."
+SNOW,Nvidia,partner,2023-08-23,"With Snowflake Container Services, we are bringing LLM models like Reka and Nvidia's NeMo into Snowflake."
+SNOW,Anthropic,partner,2024-11-20,we just announced a partnership with Anthropic to bring their most powerful models to our customers through Snowflake Cortex AI.
+SNOW,Microsoft,partner,2024-11-20,We're also partnering with Microsoft and ServiceNow to increase data interoperability
+SNOW,ServiceNow,partner,2024-11-20,We're also partnering with Microsoft and ServiceNow to increase data interoperability
+SNOW,Blue Yonder,customer,2025-02-26,"The Blue Yonder platform processes over 20 billion AI predictions daily to help retailers, manufacturers, and logistics providers better manage inventory"
+SNOW,OpenAI,partner,2025-08-27,ensuring day-one availability of OpenAI's new open-source as well as advanced GPT-5 model
+SNOW,Google,partner,2026-02-25,"And through our partnership with Google Cloud, customers now have access to the latest Gemini models natively within Snowflake Inc., further expanding model choice and availability."
+SNOW,OpenAI,partner,2026-02-25,We also recently announced a $200 million expanded partnership with OpenAI.
+SNOW,SAP,partner,2026-02-25,"Our landmark partnership with SAP is delivering incredible value, helping customers like Xcel Energy unite mission-critical business data across their core systems within our AI Data Cloud."
+SNOW,Amazon,supplier,2026-05-27,"During the quarter, we entered into a 5-year $6 billion contract with AWS more than doubling our prior contract signed in FY '23."
+SNOW,Amazon,partner,2026-05-27,"The announcement comes as Snowflake surpassed $7 billion in lifetime AWS Marketplace sales, reflecting the growing demand for AI and data workloads running on Snowflake."
+SNOW,Indeed,customer,2026-09-02,"On the world's number 1 job site, Indeed, has rolled out Cortex Code and CoWork across its data teams"
+STMPA.PA,Nvidia,partner,2026-07-23,"Finally, we announced a further expansion of our collaboration with NVIDIA to accelerate physical AI."
+TLN,Amazon,customer,2025-11-05,"First, we continue to execute under our existing agreements with AWS."
+TLN,Amazon,customer,2026-02-26,We signed a revamped and doubled front-of-the-meter PPA with Amazon at Susquehanna.
+VRT,Nvidia,partner,2024-10-23,We make sure our technology enables NVIDIA roadmaps today and in the future.
+VRT,CoreWeave,partner,2025-07-30,"With CoolWeave and Dell, we were the first to launch and deploy NVIDIA's GB 300 and VL 7."
+VRT,Dell,partner,2025-07-30,"With CoolWeave and Dell, we were the first to launch and deploy NVIDIA's GB 300 and VL 7."
+VRT,Oklo,partner,2025-07-30,Our collaboration with Oclo is about making access to advanced nuclear power plants easier.
+VRT,Nvidia,partner,2026-07-29,"we are collaborating for the world's first AI data center adopting 800V DC, well, DC architectures at the rack and pod level featuring NVIDIA 'Vera Rubin'."
+VRT,VisionBay AI,customer,2026-07-29,VisionBay AI awarded the power thermal and services business to Vertiv for what is Taiwan's first AI data center featuring NVIDIA GB 300.
+VST,Amazon,customer,2026-02-26,The first agreement we announced in September is a 20-year contract with Amazon at our Comanche Peak nuclear plant in Texas.
+VST,Meta,customer,2026-02-26,"Building on that momentum, in January we announced long-term power purchase agreements with Meta."
+WULF,Fluidstack,customer,2026-02-26,"Third, we signed a 450 megawatt lease with FluidStack supported by Google's credit."
+WULF,Google,investor,2026-02-26,"With Google's warrants, it will be our largest shareholder."
+WULF,Core42,customer,2026-05-08,bringing all Core42 capacity into service and generating revenue as of the end of the first quarter.
+WULF,Hypertec,supplier,2026-05-08,the Abernathy joint venture project is being delivered under a lump sum EPC agreement with Hypertec with Fluidstack leading development and construction.
+WULF,Anthropic,customer,2026-08-05,"Following quarter end, we executed a 401-megawatt lease with Anthropic at the Justified Data"
+WULF,Google,partner,2026-08-05,That delivery also satisfied the applicable conditions for $600 million of Google's credit support for FluidStack's obligations to become effective.
+WULF,Kentucky Power,supplier,2026-08-05,Kentucky Power is expected to construct a new 345-kilovolt substation connected to AEP's existing 765 kV transmission network

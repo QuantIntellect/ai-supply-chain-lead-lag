@@ -1,0 +1,847 @@
+<title>AI Supply-Chain Lead-Lag</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,400..800&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<style>
+/* Layout: a research note. One 68ch reading column inside a 1120px frame; figures and tables use the full frame. */
+:root {
+  --page: #f6f6f3; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --line: #e1e0d9; --axis: #c3c2b7; --accent: #1c5cab; --accent-wash: #e6effb;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a;
+  --pos: #256abf; --neg: #d03b3b; --mid: #f0efec;
+  --good: #0ca30c; --warn: #fab219; --bad: #d03b3b; --good-ink: #006300; --warn-ink: #8a5a00; --bad-ink: #a32424;
+  --ring: rgba(11,11,11,0.10);
+  --f-display: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --f-ui: "Archivo", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --line: #2c2c2a; --axis: #383835; --accent: #6da7ec; --accent-wash: #16263a;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70;
+    --pos: #5598e7; --neg: #e66767; --mid: #383835;
+    --good-ink: #0ca30c; --warn-ink: #fab219; --bad-ink: #e66767;
+    --ring: rgba(255,255,255,0.10);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+  --line: #2c2c2a; --axis: #383835; --accent: #6da7ec; --accent-wash: #16263a;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70;
+  --pos: #5598e7; --neg: #e66767; --mid: #383835;
+  --good-ink: #0ca30c; --warn-ink: #fab219; --bad-ink: #e66767;
+  --ring: rgba(255,255,255,0.10);
+  color-scheme: dark;
+}
+body { background: var(--page); color: var(--ink); font-family: var(--f-body); font-size: 17px; line-height: 1.55; }
+.frame { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 40px 96px; display: flex; flex-direction: column; gap: 56px; }
+.prose { max-width: 68ch; display: flex; flex-direction: column; gap: 14px; }
+.prose p, .prose li { margin: 0; }
+h1, h2, h3 { font-family: var(--f-display); text-wrap: balance; margin: 0; color: var(--ink); }
+h1 { font-size: clamp(2.1rem, 5.2vw, 3.6rem); font-weight: 760; font-stretch: 112%; letter-spacing: -0.015em; line-height: 1.02; }
+h2 { font-size: clamp(1.45rem, 2.6vw, 1.95rem); font-weight: 700; font-stretch: 108%; letter-spacing: -0.01em; line-height: 1.12; }
+h3 { font-size: 1.08rem; font-weight: 650; font-stretch: 104%; line-height: 1.25; }
+.kicker { font-family: var(--f-ui); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.09em; text-transform: uppercase; color: var(--ink-2); margin: 0; }
+.dek { font-size: 1.22rem; line-height: 1.45; color: var(--ink-2); max-width: 60ch; margin: 0; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+code, .mono { font-family: var(--f-mono); font-size: 0.86em; }
+.num { font-variant-numeric: tabular-nums; }
+section { display: flex; flex-direction: column; gap: 22px; scroll-margin-top: 16px; }
+.sec-head { display: flex; flex-direction: column; gap: 8px; }
+.mast { display: flex; flex-direction: column; gap: 18px; padding-bottom: 8px; }
+.inv { display: flex; flex-wrap: wrap; gap: 10px 28px; margin: 6px 0 0; padding: 18px 0 0; border-top: 1px solid var(--line); }
+.inv div { display: flex; flex-direction: column; min-width: 110px; }
+.inv dt { font-family: var(--f-ui); font-size: 0.74rem; color: var(--muted); letter-spacing: 0.04em; text-transform: uppercase; order: 2; }
+.inv dd { margin: 0; font-family: var(--f-display); font-size: 1.55rem; font-weight: 650; font-stretch: 100%; order: 1; }
+.toc { display: flex; flex-wrap: wrap; gap: 8px 18px; font-family: var(--f-ui); font-size: 0.92rem; padding: 12px 0; border-block: 1px solid var(--line); }
+.toc a { color: var(--ink-2); text-decoration: none; }
+.toc a:hover { color: var(--accent); text-decoration: underline; }
+/* verdict board */
+.board { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+.board li { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 6px 22px; padding: 16px 0; border-bottom: 1px solid var(--line); align-items: start; }
+.board .claim { font-family: var(--f-display); font-weight: 650; font-size: 1.04rem; line-height: 1.3; margin: 0 0 4px; }
+.board .ev { margin: 0; color: var(--ink-2); font-size: 0.98rem; }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-family: var(--f-ui); font-size: 0.8rem; font-weight: 650; padding: 3px 10px 3px 8px; border-radius: 999px; border: 1px solid var(--ring); background: var(--surface); white-space: nowrap; justify-self: start; }
+.chip svg { width: 14px; height: 14px; flex: none; }
+.chip.good { color: var(--good-ink); } .chip.good svg { color: var(--good); }
+.chip.warn { color: var(--warn-ink); } .chip.warn svg { color: var(--warn); }
+.chip.bad { color: var(--bad-ink); } .chip.bad svg { color: var(--bad); }
+/* five-layer cake */
+.cake { display: flex; flex-direction: column; gap: 2px; border-radius: 6px; overflow: hidden; border: 1px solid var(--line); }
+.cake-row { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 16px; padding: 14px 16px; background: var(--surface); }
+.cake-row:nth-child(odd) { background: color-mix(in srgb, var(--surface) 70%, var(--page)); }
+.cake-name { font-family: var(--f-display); font-weight: 700; font-stretch: 110%; font-size: 1.02rem; display: flex; flex-direction: column; gap: 2px; }
+.cake-name small { font-family: var(--f-ui); font-weight: 500; font-stretch: 100%; font-size: 0.76rem; color: var(--muted); letter-spacing: 0.03em; text-transform: uppercase; }
+.cake-body { display: flex; flex-direction: column; gap: 6px; min-width: 0; font-size: 0.95rem; }
+.cake-body .lab { font-family: var(--f-ui); font-size: 0.74rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; margin-right: 6px; }
+.tick { font-family: var(--f-mono); font-size: 0.8rem; padding: 1px 6px; border-radius: 4px; background: var(--page); border: 1px solid var(--line); white-space: nowrap; display: inline-block; margin: 2px 2px 2px 0; }
+.tick.berlin { border-color: var(--accent); color: var(--accent); }
+.privn { color: var(--ink-2); }
+/* figures */
+figure { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+figcaption { font-family: var(--f-ui); font-size: 0.86rem; color: var(--ink-2); max-width: 90ch; line-height: 1.45; }
+figcaption b { color: var(--ink); font-weight: 650; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px; }
+.scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.chart { width: 100%; min-height: 40px; }
+.chart svg { display: block; overflow: visible; }
+.chart text { font-family: var(--f-ui); fill: var(--ink-2); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-family: var(--f-ui); font-size: 0.82rem; color: var(--ink-2); align-items: center; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+.legend .ln { display: inline-block; width: 18px; height: 2px; margin-right: 6px; vertical-align: 3px; border-radius: 1px; }
+.legend .ringdot { width: 10px; height: 10px; border-radius: 50%; border: 2px solid var(--accent); box-sizing: border-box; display: inline-block; margin-right: 6px; vertical-align: -1px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; font-family: var(--f-ui); font-size: 0.84rem; }
+.seg button { border: 0; background: var(--surface); color: var(--ink-2); padding: 6px 12px; cursor: pointer; font: inherit; }
+.seg button[aria-pressed="true"] { background: var(--accent-wash); color: var(--accent); font-weight: 650; }
+.row { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
+.grid-sm { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.grid-sm .cell { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 10px 4px; min-width: 0; }
+.grid-sm h3 { font-size: 0.9rem; font-stretch: 100%; display: flex; justify-content: space-between; gap: 8px; }
+.grid-sm h3 span { font-family: var(--f-mono); font-weight: 400; font-size: 0.74rem; color: var(--muted); }
+.grid-2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
+.grid-2 > * { min-width: 0; }
+@media (max-width: 900px) { .grid-sm { grid-template-columns: repeat(2, minmax(0, 1fr)); } .grid-2 { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 560px) { .grid-sm { grid-template-columns: minmax(0, 1fr); } .board li { grid-template-columns: minmax(0, 1fr); } .cake-row { grid-template-columns: minmax(0, 1fr); gap: 8px; } }
+/* tables */
+.tbl-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-family: var(--f-ui); font-size: 0.86rem; }
+th, td { padding: 7px 10px; text-align: left; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 650; color: var(--ink-2); font-size: 0.78rem; letter-spacing: 0.02em; background: color-mix(in srgb, var(--surface) 60%, var(--page)); white-space: nowrap; }
+td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+td.t { font-family: var(--f-mono); font-size: 0.8rem; white-space: nowrap; }
+td.wrap { min-width: 220px; max-width: 520px; color: var(--ink-2); }
+tr:last-child td { border-bottom: 0; }
+.pos { color: var(--good-ink); } .neg { color: var(--bad-ink); }
+.sig { font-weight: 650; }
+details { border-top: 1px solid var(--line); padding-top: 10px; }
+summary { cursor: pointer; font-family: var(--f-ui); font-size: 0.9rem; color: var(--accent); }
+details[open] summary { margin-bottom: 10px; }
+.callout { border-left: 3px solid var(--accent); padding: 4px 0 4px 16px; max-width: 72ch; }
+.callout p { margin: 0; }
+.notes-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+@media (max-width: 900px) { .notes-grid { grid-template-columns: minmax(0, 1fr); } }
+.note { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; font-size: 0.9rem; display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.note h3 { font-size: 0.95rem; }
+.note ul { margin: 0; padding-left: 18px; color: var(--ink-2); display: flex; flex-direction: column; gap: 4px; }
+.note .cur { font-family: var(--f-ui); font-size: 0.84rem; color: var(--ink); }
+.note details { border-top: 0; padding-top: 0; }
+.note summary { font-size: 0.8rem; }
+#tip { position: fixed; z-index: 50; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--line); box-shadow: 0 6px 24px rgba(0,0,0,0.12); border-radius: 6px; padding: 8px 10px; font-family: var(--f-ui); font-size: 0.8rem; line-height: 1.4; max-width: 300px; }
+#tip b { font-weight: 650; }
+#tip .k { color: var(--muted); }
+.foot { font-family: var(--f-ui); font-size: 0.82rem; color: var(--muted); }
+.timeline { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; max-width: 80ch; border-left: 2px solid var(--line); }
+.timeline li { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 4px 18px; padding: 10px 0 10px 18px; position: relative; }
+.timeline li::before { content: ""; position: absolute; left: -6px; top: 17px; width: 10px; height: 10px; border-radius: 50%; background: var(--accent); border: 2px solid var(--page); }
+.timeline time { font-family: var(--f-ui); font-weight: 650; font-size: 0.86rem; color: var(--ink); padding-top: 2px; }
+.timeline p { margin: 0; font-size: 0.96rem; color: var(--ink-2); }
+@media (max-width: 560px) { .timeline li { grid-template-columns: minmax(0, 1fr); } }
+ul.plain { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 6px; }
+@media (prefers-reduced-motion: no-preference) { .net-edge, .net-node { transition: opacity 120ms ease; } }
+</style>
+
+<div class="frame">
+
+<header class="mast">
+  <p class="kicker">Research note · prices and filings through 22 Oct 2026</p>
+  <h1>AI Supply-Chain Lead-Lag</h1>
+  <p class="dek">How the companies in NVIDIA's five-layer AI stack move when one of them reports, what their filings and calls say about demand, and which of those patterns still make money once you test them properly.</p>
+  <dl class="inv" id="inv"></dl>
+</header>
+
+<section id="verdict" aria-labelledby="verdict-h">
+  <div class="sec-head">
+    <h2 id="verdict-h">What holds up</h2>
+  </div>
+  <ol class="board" id="board"></ol>
+  <div class="callout prose">
+    <p>The result is a map of the chain rather than a trading signal. Use the same-day betas to size and hedge positions around a report. Use the capex and order leads to forecast revenue one to three quarters ahead. Don't expect to profit from buying or selling a stock in the days after a supply-chain partner reports: once you measure against AI stocks instead of the S&amp;P 500 and pay trading costs, that edge is gone.</p>
+  </div>
+</section>
+
+<nav class="toc" aria-label="Sections">
+  <a href="#map">The map</a><a href="#sympathy">Same-day moves</a><a href="#cascade">Demand cascade</a><a href="#orders">Orders pace</a><a href="#trade">Backtests</a><a href="#model">The model today</a><a href="#method">Method and caveats</a><a href="#files">Files</a>
+</nav>
+
+<section id="map" aria-labelledby="map-h">
+  <div class="sec-head"><h2 id="map-h">The map</h2></div>
+  <div class="prose">
+    <p>At GTC Berlin on 21 October 2026, Jensen Huang described AI as a five-layer cake: energy powers chips, chips fill AI factories, factories run models, and models power applications. His "Building Europe's AI Economy" slide put European names in each layer. Most of them are private. The ones you can trade are Schneider Electric, Siemens, Siemens Energy, Rolls-Royce, NVIDIA, Deutsche Telekom, Nokia and Nebius.</p>
+    <p>A stock's reaction to someone else's earnings depends on the whole chain behind that slide, so this study widens it to the listed companies that build global AI capacity: <b data-v="companies"></b> companies in ten layers across the US, Europe and Asia. The Asian names (TSMC's Taiwan line, SK Hynix, Samsung, Foxconn and the Taiwanese server makers, Tokyo Electron, Advantest, SoftBank) are signal-only: they appear as reporters and as a reference, and are left out of the trading tests, which use US and European stocks.</p>
+  </div>
+  <div class="cake" id="cake" aria-label="Five-layer stack with the companies tracked in each layer"></div>
+  <figure>
+    <div class="row">
+      <div class="legend" id="net-legend"></div>
+      <span class="foot">Hover a company to see its links</span>
+    </div>
+    <div class="panel scroll-x"><div class="chart" id="net" style="min-width:980px"></div></div>
+    <figcaption><b>Supply and partnership links between tracked companies.</b> Columns run from chip equipment on the left to applications on the right. A line joins a supplier to a customer, or two partners. The <span data-v="edges"></span> links come from 10-K/20-F customer disclosures, company statements, NVIDIA keynote announcements and relationships stated on earnings calls (<span data-v="edges_call"></span> of them). <span data-v="edges_ik"></span> are marked "industry knowledge" and are lower-confidence; their lines are fainter. Partnerships and equity stakes are dashed. They are drawn but excluded from the supply-link tests.</figcaption>
+  </figure>
+  <details>
+    <summary>Private companies on the GTC Berlin slide (<span data-v="n_private"></span>)</summary>
+    <div class="tbl-wrap"><table id="tbl-private"></table></div>
+  </details>
+</section>
+
+<section id="sympathy" aria-labelledby="sym-h">
+  <div class="sec-head"><h2 id="sym-h">Who moves when someone reports</h2></div>
+  <div class="prose">
+    <p>Each of the <b data-v="events"></b> earnings releases has an exact time stamp from SEC filing records, the companies' own European regulatory announcements or exchange calendars. For every other stock I take the first trading session on its own exchange that closes after the release. A Microsoft report at 16:05 New York time therefore lands on the next session in Taipei, Frankfurt and New York alike. On that session I measure the stock's market-adjusted return and regress it on the reporter's own market-adjusted move.</p>
+    <p>Since 2023, a 1% surprise move in a reporter moves its same-layer peers by <b data-v="same_b"></b>% on average (t = <span data-v="same_t"></span>). It moves the reporter's suppliers by <b data-v="cust_b"></b>% (t = <span data-v="cust_t"></span>), about three times the pre-2023 figure of <span data-v="cust_b_pre"></span>%. News now travels from customers back up the chain more strongly than before the AI build-out. Layer-level betas fitted on data through 2024 still predicted the 2025–26 moves out of sample (slope <span data-v="h1_slope"></span>, t = <span data-v="h1_t"></span>). They explain only a small part of any single day's move (correlation <span data-v="h1_corr"></span>), so they work as a hedge ratio, not a forecast.</p>
+  </div>
+  <figure>
+    <div class="row">
+      <div class="seg" role="group" aria-label="Period"><button type="button" id="heat-ai" aria-pressed="true">Since 2023</button><button type="button" id="heat-pre" aria-pressed="false">2015–2022</button></div>
+      <div class="legend" id="heat-legend"></div>
+    </div>
+    <div class="panel scroll-x"><div class="chart" id="heat" style="min-width:620px"></div></div>
+    <figcaption><b>Same-day sympathy beta by layer.</b> Each cell: how much a responder layer (column) moves per 1% market-adjusted move of a reporter in the row layer, on the reporter's reaction session. Responders reporting within a day of the reporter are excluded. Standard errors are clustered by reaction date.</figcaption>
+    <details><summary>Table view</summary><div class="tbl-wrap"><table id="tbl-heat"></table></div></details>
+  </figure>
+  <h3>The tightest pairs</h3>
+  <div class="tbl-wrap"><table id="tbl-pairs"></table></div>
+  <p class="foot">Ranked by the lower end of the 95% interval of the correlation between the reporter's move and the responder's move, 2015–2026, pairs with at least 20 releases. β is the responder's move per 1% of the reporter's.</p>
+</section>
+
+<section id="cascade" aria-labelledby="cas-h">
+  <div class="sec-head"><h2 id="cas-h">The demand cascade</h2></div>
+  <div class="prose">
+    <p>The four large cloud platforms plus Oracle spent <b data-v="capex_last"></b> billion dollars on capital expenditure in <span data-v="capex_last_q"></span>, against about 44 billion at the end of 2023 (cash capex from their 10-Q filings, finance leases excluded). That spending reaches suppliers in a fixed order. To see it without the shared upward trend that makes every AI series look correlated, I compare quarter-to-quarter <i>changes</i> in year-on-year growth.</p>
+    <p>GPU and custom-chip revenue moves first: NVIDIA, AMD and Broadcom accelerate about a quarter before the cloud companies' capex does. TSMC, Dell and Eaton move in the same quarter. Fabless network silicon, optical modules, power and cooling follow two to three quarters later: Vertiv (+2 quarters), Fabrinet (+2), Monolithic Power (+2), Marvell (+3), Arista (+3), Ciena (+3), Quanta Services (+3).</p>
+  </div>
+  <div class="grid-2">
+    <figure>
+      <div class="panel"><div class="chart" id="capex"></div></div>
+      <figcaption><b>Hyperscaler capital expenditure, US$ billion per quarter.</b> Microsoft, Alphabet, Amazon, Meta and Oracle. Cash purchases of property and equipment from XBRL filings, by calendar quarter.</figcaption>
+      <details><summary>Table view</summary><div class="tbl-wrap"><table id="tbl-capex"></table></div></details>
+    </figure>
+    <figure>
+      <div class="legend" id="ll-legend"></div>
+      <div class="panel scroll-x"><div class="chart" id="leadlag" style="min-width:420px"></div></div>
+      <figcaption><b>When each supplier's revenue moves relative to hyperscaler capex.</b> Correlation between the change in capex growth in quarter t and the change in the supplier's revenue growth in quarter t+k, 2015–2026. Positive k: capex leads the supplier. The dot marks each supplier's peak.</figcaption>
+    </figure>
+  </div>
+  <h3>Revenue nowcast from that lag</h3>
+  <div class="prose"><p>Capex growth jumped <b data-v="capex_jump"></b> points in 2026 Q1, then eased in Q2. For suppliers that lag capex, the fitted lag turns that jump into revenue predictions for the quarters they are about to report. These are in-sample fits on 20 to 36 quarters, so treat them as a direction with a wide band. The quarter-ahead residual spread is shown next to each one.</p></div>
+  <div class="tbl-wrap"><table id="tbl-nowcast"></table></div>
+  <h3>Management demand tone by layer</h3>
+  <div class="prose"><p>Two reading passes went through every call digest since 2022 and logged each concrete demand statement as positive (guidance raise, order acceleration, record backlog, supply constraint, capacity expansion) or negative (cut, digestion, push-out, inventory correction, customer loss), with a verbatim quote: <b data-v="n_signals"></b> statements in all. The share of positive statements per layer and quarter shows the 2022–23 slump moving through the chain and the 2025–26 shortage phase.</p></div>
+  <figure>
+    <div class="legend" id="tone-legend"></div>
+    <div class="panel scroll-x"><div class="chart" id="tone" style="min-width:640px"></div></div>
+    <figcaption><b>Net demand tone, management statements on earnings calls.</b> (positive − negative) / all statements, by calendar quarter of the call. Blank cells have fewer than 3 statements.</figcaption>
+  </figure>
+  <h3>The order of events, 2022–2026</h3>
+  <div class="prose"><p>Read in date order, the call notes show the same cascade the numbers show: shocks start at one end of the chain and reach the other end two to four quarters later.</p></div>
+  <ol class="timeline">
+    <li><time>Jul 2022</time><p>The downturn starts in consumer chips. TSMC, Seagate, Lam Research, Intel and KLA cut their outlooks between 14 and 28 July.</p></li>
+    <li><time>Jul 2022 – Aug 2023</time><p>Cloud digestion. Azure growth slows from 40% to 31%, AWS from 33% to 12%, and Google holds 2023 capex flat. Suppliers follow: Western Digital (Oct 2022), Marvell (Dec 2022), AMD (Jan 2023), Arista and Cisco (May–Jul 2023).</p></li>
+    <li><time>Mar – Oct 2023</time><p>The AI turn. Broadcom puts a number on AI networking (2 Mar), NVIDIA guides to $11bn (24 May), Microsoft says it will accelerate investment (Jul) and TSMC flags a CoWoS shortage (20 Jul). Marvell, Lam, KLA and Coherent follow within about two quarters, AMD on 31 Oct.</p></li>
+    <li><time>Oct 2023 – Sep 2024</time><p>AI spending crowds out the rest. Seagate (Oct 2023) and Intel (Jan 2024) report weak non-AI demand; Broadcom's non-AI business bottoms in Sep 2024.</p></li>
+    <li><time>Jan – Apr 2024</time><p>Memory and storage lead the equipment recovery: Lam (24 Jan), Western Digital (25 Jan), Applied Materials (15 Feb), KLA (25 Apr).</p></li>
+    <li><time>Jul 2024 onward</time><p>Cloud capacity falls short of demand on almost every hyperscaler call. The one easing call (Microsoft, Jan 2025) reverses by Oct 2025.</p></li>
+    <li><time>Oct – Dec 2025</time><p>Shortage. NVIDIA says the clouds are sold out (19 Nov), Broadcom reports a $73bn AI backlog (11 Dec) and Micron's HBM is sold out (17 Dec). Multi-year supply contracts follow at Micron (Mar 2026) and SanDisk (Aug 2026).</p></li>
+    <li><time>Dec 2025 – 2026</time><p>Contracted backlogs jump with frontier-lab deals: Oracle's remaining performance obligations go from $130bn (Mar 2025) to $638bn, Microsoft's reach $678bn (45% OpenAI), Amazon $496bn, Alphabet $462bn, CoreWeave $104bn.</p></li>
+    <li><time>2026</time><p>The bottleneck moves to power and components. GE Vernova's gas-turbine pipeline grows from 55 to 100 GW with 2029–30 nearly sold (22 Apr). Memory becomes the binding constraint for Dell, HPE and Super Micro. GPU rental renewals price higher (Oracle about +20%, CoreWeave about +25%). Schneider's data-center demand grows at triple-digit rates in Q2 and Q3, and ABB's orders rise 40% in Q3.</p></li>
+    <li><time>Oct 2026</time><p>Mixed signals at the top of the chain. Meta narrows 2026 capex to $135–145bn, stresses efficiency and gives no 2027 number (21 Oct); nVent's orders slowed in July. Equipment makers keep raising: ASML guides 2026 to €44–45bn as customers raise their forecasts (14 Oct), and Lam sees 2027 wafer-fab spending above $200bn (21 Oct).</p></li>
+  </ol>
+  <h3>What the calls sound like</h3>
+  <div class="prose"><p>Across <b data-v="transcripts"></b> call transcripts from <span data-v="transcript_companies"></span> companies, mentions of AI rose from about 7 per 10,000 words in 2022 to about 58 in 2024. Data-center mentions are still climbing. Words about supply constraints have risen again in 2026, and words about digestion, push-outs and inventory correction are at their lowest since 2018.</p></div>
+  <div class="grid-sm" id="text-sm"></div>
+  <p class="foot">Mentions per 10,000 spoken words, averaged over every call in the half-year (count of calls in the tooltip). Lexicons: AI (AI, inference, GPU, accelerator…), data center (data center, hyperscale, gigawatt…), constraint (supply-constrained, shortage, lead times, allocation…), digestion (digestion, push-out, inventory correction, slowdown…).</p>
+</section>
+
+<section id="orders" aria-labelledby="ord-h">
+  <div class="sec-head"><h2 id="ord-h">Orders pace</h2></div>
+  <div class="prose">
+    <p>European capital-goods companies report order intake every quarter, which US chip and power names mostly don't. The European IR collection covered <span data-v="ir_companies"></span> companies and <span data-v="ir_docs"></span> documents. For every company that reports orders I compared the change in order growth with the change in its own revenue growth and with its share price.</p>
+    <p>Order acceleration tends to show up in the company's own revenue growth two quarters later (pooled correlation <span data-v="ol_k2_c"></span>, t = <span data-v="ol_k2_t"></span>; the other lags are weaker, so this is suggestive rather than firm). Group order indices lead the matching US revenue by zero to three quarters. On release day the market pays for order surprises: the reporter gains <span data-v="op_i_b"></span>% per point of acceleration (t = <span data-v="op_i_t"></span>), and peers react to the order number beyond what the reporter's own move explains (t = <span data-v="op_ii_t"></span>; <span data-v="op_ii_t_ai"></span> since 2023). Over the next 20 trading days there is no follow-through (t = <span data-v="op_iii_t"></span>). European order surprises also don't predict how the later US reporters react (t = <span data-v="op_iv_t"></span>).</p>
+  </div>
+  <div class="grid-sm" id="orders-sm"></div>
+  <p class="foot">Order intake (bookings for ASML, ASM and BESI), change on the same quarter a year earlier, %. ASML stopped disclosing bookings after 2025 Q4. Each panel has its own scale.</p>
+  <h3>Latest order and demand readings, European reporters</h3>
+  <div class="tbl-wrap"><table id="tbl-eu"></table></div>
+</section>
+
+<section id="trade" aria-labelledby="tr-h">
+  <div class="sec-head"><h2 id="tr-h">What a backtest keeps</h2></div>
+  <div class="prose">
+    <p>The trading question is whether a stock keeps drifting after a supplier or customer reports, so that you can still trade after the news is out. Every test enters at the first close after the reporter's reaction session ends, which avoids using a European or Asian price before a US move was knowable. Costs are 20 bp per round trip in the US and 30 bp in Europe. Two benchmarks are used: the local index, and an equal-weight basket of the AI stocks in the same region. The second matters. These stocks rose together from 2023 to 2026, so any strategy that is mostly long them looks good against the S&amp;P 500.</p>
+    <p>Buying suppliers for 20 days after a customer's strong report (reporter move of 6% or more) earned <b data-v="h2a_idx_bp"></b> bp per trade net against the index (t = <span data-v="h2a_idx_t"></span>). Against the AI basket it earned <b data-v="h2a_ai_bp"></b> bp (t = <span data-v="h2a_ai_t"></span>). A long-short version that weights every stock by its customers' recent news earned a Sharpe ratio of <span data-v="cm_orig_2324"></span> in 2023–24 while net long. Made dollar-neutral and measured against the AI basket, that falls to <span data-v="cm_neu_2324"></span>, and to <span data-v="cm_neu_all"></span> over 2016–2026 (t = <span data-v="cm_neu_all_t"></span>). Simply holding every stock that had any customer news earned a Sharpe of <span data-v="cm_base_all"></span> against the index, which is AI-sector exposure, not information. After neutralising, the result is positive in 2016–22 and 2025–26 and negative in 2023–24. The best window, 2025–26 (<span data-v="cm_neu_2526"></span>, t = <span data-v="cm_neu_2526_t"></span>), is too short to rely on.</p>
+  </div>
+  <figure>
+    <div class="legend" id="eq-legend"></div>
+    <div class="panel"><div class="chart" id="equity"></div></div>
+    <figcaption><b>Customer-news momentum, cumulative net return, %.</b> 20-day holding, costs included. The net-long version against the S&amp;P 500 is mostly sector exposure. The dollar-neutral version against the AI basket is the honest test. For scale, simply holding every stock that had any customer news returned <span data-v="base_cum"></span>% against the S&amp;P 500 over the same period.</figcaption>
+  </figure>
+  <h3>Every strategy tested</h3>
+  <div class="tbl-wrap"><table id="tbl-bt"></table></div>
+  <p class="foot">Per-trade means with standard errors clustered by reporter date. The move threshold θ was chosen on 2015–2024 and held fixed for 2025–26. Each trade uses 1/20 of the book, so exposure varies with the number of open trades. Sharpe is annualised on that book.</p>
+  <h3>The combined model</h3>
+  <div class="prose"><p>A walk-forward regression combines all of it: customer, supplier, same-layer and other companies' recent release reactions, each stock's own last reaction and its recent return. It refits every year on the previous four. Its daily rank correlation with the next five days' return is <span data-v="nw_ic"></span> (t = <span data-v="nw_ic_t"></span>, 2019–2026), which is statistically real but tiny. Dollar-neutral, it makes a gross Sharpe of <span data-v="nw_gross"></span> and <span data-v="nw_net"></span> after costs, because the book turns over about 19% a day.</p></div>
+  <div class="tbl-wrap"><table id="tbl-nw"></table></div>
+  <h3>Other tests</h3>
+  <div class="tbl-wrap"><table id="tbl-other"></table></div>
+</section>
+
+<section id="model" aria-labelledby="mod-h">
+  <div class="sec-head"><h2 id="mod-h">The model today</h2></div>
+  <div class="prose">
+    <p>Two parts are ready to use: a release-day exposure map for the reports still to come this season, and the revenue nowcast above. The Q3 season so far has been mixed. ASML, TSMC, Lam Research, Meta and ABB fell on their reports; SAP, Super Micro and BESI rose. Microsoft and Alphabet report on 28 October, Amazon on the 29th and NVIDIA on 17 November.</p>
+    <p>The capex guidance behind all of this keeps rising. For 2026, Alphabet guides $180–190bn, Amazon about $220bn, Meta $135–145bn and Microsoft about $175bn for the calendar year. That is roughly $710–730bn for the four. Oracle guides $90–95bn for fiscal 2027. In the filings, the five spent $<span data-v="capex_last"></span>bn in the latest quarter. Alphabet has already said 2027 will be significantly higher; Meta has given no 2027 number.</p>
+  </div>
+  <h3>Season so far, October 2026</h3>
+  <div class="tbl-wrap"><table id="tbl-season"></table></div>
+  <h3>Who to watch on each coming report</h3>
+  <div class="tbl-wrap"><table id="tbl-play"></table></div>
+  <p class="foot">The five tradeable stocks with the most reliable same-day co-movement for each reporter, ranked by the lower 95% bound of the correlation (at least 14 past releases). The typical move is the reporter's median absolute market-adjusted move over its last 12 releases; multiply by β for the co-mover's expected move. These are hedge ratios, not predictions of direction.</p>
+  <h3>Hyperscaler capex guidance, as stated on the calls</h3>
+  <div class="tbl-wrap"><table id="tbl-guide"></table></div>
+  <details><summary>Every capex guidance statement since 2024</summary><div class="tbl-wrap"><table id="tbl-guide-all"></table></div></details>
+  <h3>Company demand narratives</h3>
+  <div class="notes-grid" id="notes"></div>
+</section>
+
+<section id="method" aria-labelledby="met-h">
+  <div class="sec-head"><h2 id="met-h">Method and caveats</h2></div>
+  <div class="prose">
+    <ul class="plain">
+      <li><b>Prices.</b> Daily prices from 2 June 2014 to 22 October 2026 for every stock and benchmark. Abnormal return is the return minus a 250-day rolling beta (lagged 21 days) times the local index: S&amp;P 500 ETF, STOXX 600, TAIEX, KOSPI or Nikkei. The second measure uses an equal-weight basket of the region's tradeable AI stocks instead. History before a listing is dropped where the price series belonged to a SPAC, tracking stock or unrelated predecessor (Vertiv, Oklo, NuScale, Cipher, TeraWulf, Dell).</li>
+      <li><b>Release times.</b> US releases use the SEC "Accepted" stamp from each 8-K filing index page. The JSON field <code>acceptanceDateTime</code> is offset by 4 to 10 hours, so it was not used. European releases use the companies' own regulatory announcement stamps, collected per company. Yahoo dates fill the remaining gaps and are checked against abnormal volume. Releases from EDGAR traded at a median 2.8 times normal volume on the reaction day.</li>
+      <li><b>Contamination.</b> A responder is dropped from a reporter's event if it reported within one day itself. Drift tests also drop it if it reported within the next 30 days.</li>
+      <li><b>Hypotheses.</b> The primary hypotheses were the stability of the sympathy map, drift from customer to supplier and from supplier to customer, the earnings cascade, and TSMC's monthly sales. Hold-out years were fixed in advance: fit through 2024, test 2025–26. I wrote the hypotheses down after the first pooled regressions, so they are not formally pre-registered. Roughly 60 regression specifications were run in total, so expect three or four of them to clear |t| &gt; 2 by chance. The conclusions above rest on patterns that hold in both periods or under both benchmarks.</li>
+      <li><b>Survivorship.</b> The universe was chosen in October 2026 and is made of the AI build-out's winners. That biases any "long AI stocks" result upward, which is why the AI-basket benchmark and the dollar-neutral versions matter. Relative tests are much less affected.</li>
+      <li><b>Coverage gaps.</b> Motley Fool transcripts cover <span data-v="transcripts"></span> calls but miss some quarters, for example NVIDIA in February 2024 and May–August 2025, Meta in 2023, and Micron in 2021–23. The site rate-limited further downloads. European companies' own transcripts and documents fill most of their gaps. EPS surprises come from Yahoo. Supply links marked "industry knowledge" are unverified.</li>
+      <li><b>YouTube.</b> The keynote video itself could not be fetched (YouTube's bot check), so the keynote record comes from NVIDIA's live blogs and press kits: <span data-v="kevents"></span> keynotes and <span data-v="kdocs"></span> documents.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="files" aria-labelledby="fil-h">
+  <div class="sec-head"><h2 id="fil-h">Files</h2></div>
+  <div class="prose">
+    <p>Everything is in the <code>aimapping</code> project folder. <code>./run_all.sh</code> rebuilds every result from the downloaded data in about four minutes, and <code>PROGRESS.md</code> logs each step. Paths below are relative to that folder.</p>
+    <ul class="plain">
+      <li><code>config/universe.csv</code>, <code>config/edges.csv</code>, <code>config/private_companies.csv</code>: companies, links with evidence, and the Berlin slide.</li>
+      <li><code>data/processed/events.parquet</code>: every earnings release with time stamp, reaction session, abnormal return and volume.</li>
+      <li><code>data/processed/spill.parquet</code>: <span data-v="spill_rows"></span> responder-event rows with same-day and 1 to 40-day abnormal returns.</li>
+      <li><code>data/processed/transcripts/</code>, <code>edgar_text/</code>, <code>ir_text/</code>, <code>digests/</code>, <code>ir/*_notes.md</code>, <code>us_notes/</code>: the documents as text, and the per-company demand notes.</li>
+      <li><code>reports/tables/*.csv</code>: every table behind this page.</li>
+    </ul>
+  </div>
+</section>
+
+</div>
+<div id="tip" role="tooltip" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js" integrity="sha384-su5kReKyYlIFrI62mbQRKXHzFobMa7BHp1cK6julLPbnYcCW9NIZKJiTODjLPeDh" crossorigin="anonymous"></script>
+<script id="report-data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  "use strict";
+  const D = JSON.parse(document.getElementById("report-data").textContent);
+  const LAYERS = ["SEMICAP", "FOUNDRY_MEM", "CHIPS", "NETWORK", "SYSTEMS", "ENERGY", "DCINFRA", "AIFACTORY", "HYPERSCALER", "APPS"];
+  const LNAME = { SEMICAP: "Chip equipment", FOUNDRY_MEM: "Foundry & memory", CHIPS: "Chips", NETWORK: "Networking & optics",
+    SYSTEMS: "Servers & ODMs", ENERGY: "Energy & grid", DCINFRA: "Power & cooling", AIFACTORY: "AI factories & DCs",
+    HYPERSCALER: "Hyperscalers", APPS: "Applications" };
+  const UNI = new Map(D.universe.map(u => [u.ticker, u]));
+  const nm = t => (UNI.get(t) || {}).name || t;
+  const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const f = {
+    int: x => x == null ? "—" : d3.format(",")(Math.round(x)),
+    p1: x => x == null ? "—" : d3.format(".1f")(x),
+    p2: x => x == null ? "—" : d3.format(".2f")(x),
+    p3: x => x == null ? "—" : d3.format(".3f")(x),
+    sp1: x => x == null ? "—" : d3.format("+.1f")(x),
+    sp2: x => x == null ? "—" : d3.format("+.2f")(x),
+    bp: x => x == null ? "—" : d3.format("+.0f")(x),
+    pct: x => x == null ? "—" : d3.format("+.1f")(x) + "%",
+  };
+  const el = (tag, attrs, text) => { const e = document.createElement(tag); if (attrs) for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; };
+
+  /* ---------------- key numbers used in the prose ---------------- */
+  const inv = D.inventory;
+  const relRow = (era, r) => (D["contemp_rel_" + era] || []).find(x => x.rel === r) || {};
+  const bt = (s, b, p) => D.backtest_events.find(x => x.strategy === s && x.benchmark === b && x.period === p) || {};
+  const cm = (v, p) => D.custmom_perf.find(x => x.hold_days === 20 && x.variant === v && x.period === p) || {};
+  const nwAll = D.network_perf.find(x => x.signal === "pred_full" && x.period === "all") || {};
+  const h1 = D.h1.find(x => x.model === "beta_layer") || {};
+  const op = (test, era) => D.orders_price.find(x => x.test.startsWith(test) && x.era === era) || {};
+  const ol2 = D.orders_own_lead.find(x => x.lead_q === 2) || {};
+  const capLast = D.capex_q[D.capex_q.length - 1] || {};
+  const capQ = q => (D.capex_q.find(x => x.cq === q) || {});
+  const K = {
+    companies: f.int(inv.companies), events: f.int(inv.events), transcripts: f.int(inv.transcripts), transcript_companies: f.int(inv.transcript_companies),
+    edges: f.int(inv.edges), ir_docs: f.int(inv.ir_docs), ir_companies: f.int(inv.ir_companies), kevents: f.int(inv.keynote_events),
+    kdocs: f.int(inv.keynote_docs), spill_rows: f.int(inv.spill_rows), n_private: f.int(D.private.length),
+    same_b: f.p3(relRow("ai", "same_layer").beta), same_t: f.p1(relRow("ai", "same_layer").t),
+    cust_b: f.p3(relRow("ai", "B_supplies_A").beta), cust_t: f.p1(relRow("ai", "B_supplies_A").t), cust_b_pre: f.p3(relRow("pre", "B_supplies_A").beta),
+    h1_slope: f.p2(h1.slope), h1_t: f.p1(h1.t), h1_corr: f.p2(h1.corr),
+    capex_last: f.int(capLast.capex_bn), capex_last_q: (capLast.cq || "").replace("Q", " Q"),
+    capex_jump: f.int((capQ("2026Q1").yoy || 0) - (capQ("2025Q4").yoy || 0)),
+    ol_k2_c: f.p2(ol2.corr_pooled), ol_k2_t: f.p1(ol2.t),
+    op_i_b: f.p3(op("(i)", "all").b), op_i_t: f.p1(op("(i)", "all").t), op_ii_t: f.p1(op("(ii)", "all").t), op_ii_t_ai: f.p1(op("(ii)", "2023+").t), op_iii_t: f.p1(op("(iii)", "all").t), op_iv_t: f.p1(op("(iv)", "all").t),
+    h2a_idx_bp: f.bp(bt("H2a_customer_news_to_suppliers", "vs index", "train_2015_2024").mean_net_bp), h2a_idx_t: f.p1(bt("H2a_customer_news_to_suppliers", "vs index", "train_2015_2024").t_net),
+    h2a_ai_bp: f.bp(bt("H2a_customer_news_to_suppliers", "vs AI basket", "train_2015_2024").mean_net_bp), h2a_ai_t: f.p1(bt("H2a_customer_news_to_suppliers", "vs AI basket", "train_2015_2024").t_net),
+    cm_orig_2324: f.p2(cm("signal | net-long | vs index (original)", "2023-2024").net_sharpe),
+    cm_neu_2324: f.p2(cm("signal | dollar-neutral | vs AI basket", "2023-2024").net_sharpe),
+    cm_neu_all: f.p2(cm("signal | dollar-neutral | vs AI basket", "2016-2026").net_sharpe),
+    cm_neu_all_t: f.p1(cm("signal | dollar-neutral | vs AI basket", "2016-2026").net_t),
+    cm_neu_2526: f.p2(cm("signal | dollar-neutral | vs AI basket", "2025-2026").net_sharpe),
+    cm_neu_2526_t: f.p1(cm("signal | dollar-neutral | vs AI basket", "2025-2026").net_t),
+    cm_base_all: f.p2(cm("baseline: long all signalled names | vs index", "2016-2026").net_sharpe),
+    base_cum: f.sp1((D.custmom_equity[D.custmom_equity.length - 1] || {}).baseline_vs_index),
+    n_signals: f.int(D.signal_rows),
+    edges_call: f.int(D.edges.filter(e => String(e.evidence || "").includes("earnings call")).length),
+    edges_ik: f.int(D.edges.filter(e => String(e.evidence || "").includes("industry knowledge")).length),
+    nw_ic: f.p3(nwAll.mean_IC), nw_ic_t: f.p1(nwAll.IC_t), nw_gross: f.p2(nwAll.gross_sharpe), nw_net: f.p2(nwAll.net_sharpe),
+  };
+  document.querySelectorAll("[data-v]").forEach(e => { const k = e.getAttribute("data-v"); e.textContent = K[k] != null ? K[k] : "—"; });
+
+  /* ---------------- inventory strip ---------------- */
+  const invItems = [["companies", inv.companies], ["earnings releases", inv.events], ["call transcripts", inv.transcripts],
+    ["SEC documents", inv.edgar_docs], ["European IR documents", inv.ir_docs], ["keynote documents", inv.keynote_docs], ["supply links", inv.edges]];
+  const invEl = document.getElementById("inv");
+  invItems.forEach(([k, v]) => { const d = el("div"); d.appendChild(el("dd", { class: "num" }, f.int(v))); d.appendChild(el("dt", null, k)); invEl.appendChild(d); });
+
+  /* ---------------- verdict board ---------------- */
+  const ICON_PATH = { good: "M3 8.5l3 3 7-7", warn: "M3 8h10", bad: "M4 4l8 8M12 4l-8 8" };
+  function icon(kind) {
+    const NS = "http://www.w3.org/2000/svg";
+    const svg = document.createElementNS(NS, "svg"); svg.setAttribute("viewBox", "0 0 16 16"); svg.setAttribute("aria-hidden", "true");
+    const p = document.createElementNS(NS, "path"); p.setAttribute("d", ICON_PATH[kind]); p.setAttribute("fill", "none"); p.setAttribute("stroke", "currentColor");
+    p.setAttribute("stroke-width", "2"); p.setAttribute("stroke-linecap", "round"); p.setAttribute("stroke-linejoin", "round");
+    svg.appendChild(p); return svg;
+  }
+  const LABEL = { good: "Holds up", warn: "Mixed", bad: "Not supported" };
+  const tsmcMaxT = d3.max(D.h5, r => Math.abs(r.t));
+  const kn = D.keynote_effect.find(r => r.named_definition === "all named" && r.y === "ar0") || {};
+  const casPre = D.cascade.find(r => r.model === "surprise_on_surprise" && r.era === "pre" && r.y === "surp_pos") || {};
+  const casAi = D.cascade.find(r => r.model === "surprise_on_surprise" && r.era === "ai" && r.y === "surp_own") || {};
+  const casPeer = D.cascade.find(r => r.model === "peers" && r.era === "ai" && r.y === "ar_own") || {};
+  const board = [
+    ["good", "Peers and suppliers move together on release day.",
+      `Same-layer peers move ${K.same_b}% per 1% of the reporter's move (t = ${K.same_t}). Suppliers move ${K.cust_b}% on a customer's report (t = ${K.cust_t}), up from ${K.cust_b_pre}% before 2023. Betas fitted through 2024 held out of sample in 2025–26 (slope ${K.h1_slope}, t = ${K.h1_t}).`],
+    ["good", "Hyperscaler capex reaches suppliers in a fixed order.",
+      "Chip revenue (NVIDIA, AMD, Broadcom) accelerates about a quarter before capex does. Optics, network silicon, power and cooling follow two to three quarters after it (Vertiv +2, Fabrinet +2, Marvell +3, Arista +3, Ciena +3)."],
+    ["warn", "Orders lead revenue, but noisily.",
+      `A company's order acceleration tends to show up in its own revenue growth two quarters later (t = ${K.ol_k2_t}, 11 companies, the best of five lags tested). Group order indices lead the matching US revenue by 0–3 quarters with correlations of 0.3–0.4 on short samples.`],
+    ["warn", "Earnings surprises cascade, but prices barely do.",
+      `Peers' EPS surprises predicted a later reporter's surprise before 2023 (t = ${f.p1(casPre.t_fs_layer)}). The effect is weaker since then (t = ${f.p1(casAi.t_fs_layer)}). Peers' price reactions predict a later reporter's own reaction only faintly (t = ${f.p1(casPeer.t_f_layer)}, R² under 1%).`],
+    ["bad", "Drift along supply links after a report.",
+      `Suppliers earned ${K.h2a_idx_bp} bp per trade over 20 days after a big customer report against the S&P 500, but ${K.h2a_ai_bp} bp against the AI basket (t = ${K.h2a_ai_t}). Dollar-neutral customer momentum: Sharpe ${K.cm_neu_all} over 2016–2026 (t = ${K.cm_neu_all_t}).`],
+    ["bad", "Trading on order surprises after the release.",
+      `Order acceleration moves the reporter (t = ${K.op_i_t}) and its peers (t = ${K.op_ii_t}) on the day. Nothing follows over the next 20 days (t = ${K.op_iii_t}).`],
+    ["bad", "TSMC monthly sales and keynote mentions.",
+      `TSMC's monthly revenue surprises don't predict AI-chip returns (largest |t| ${f.p1(tsmcMaxT)}). Stocks named in NVIDIA keynotes and press kits moved ${f.sp1(kn.diff_pct)}% more than unnamed stocks on the day (t = ${f.p1(kn.t)}; the ${f.int(kn.keynotes)} of ${f.int(inv.keynote_events)} keynotes with an exact start time).`],
+  ];
+  const boardEl = document.getElementById("board");
+  board.forEach(([s, claim, ev]) => {
+    const li = el("li");
+    const chip = el("span", { class: "chip " + s });
+    chip.appendChild(icon(s));
+    chip.appendChild(document.createTextNode(LABEL[s]));
+    li.appendChild(chip);
+    const d = el("div");
+    d.appendChild(el("p", { class: "claim" }, claim));
+    d.appendChild(el("p", { class: "ev" }, ev));
+    li.appendChild(d);
+    boardEl.appendChild(li);
+  });
+
+  /* ---------------- five-layer cake ---------------- */
+  const CAKE = [
+    ["Applications", "Layer 5", ["APPS"], "Applications"],
+    ["Models", "Layer 4", [], "Models"],
+    ["Infrastructure", "Layer 3 · AI factories", ["AIFACTORY", "HYPERSCALER", "SYSTEMS", "NETWORK"], "AI Factories"],
+    ["Chips", "Layer 2 · compute", ["CHIPS", "FOUNDRY_MEM", "SEMICAP"], "Compute"],
+    ["Energy", "Layer 1", ["ENERGY", "DCINFRA"], "Energy"],
+  ];
+  const privByLayer = {};
+  D.private.forEach(p => {
+    const L = String(p.layer || "");
+    const key = /appl/i.test(L) ? "Applications" : /model/i.test(L) ? "Models" : /factor|infra/i.test(L) ? "AI Factories" : /energy/i.test(L) ? "Energy" : /comput/i.test(L) ? "Compute" : "Applications";
+    (privByLayer[key] = privByLayer[key] || []).push(p.name);
+  });
+  const cake = document.getElementById("cake");
+  CAKE.forEach(([name, sub, layers, pkey]) => {
+    const row = el("div", { class: "cake-row" });
+    const n = el("div", { class: "cake-name" }); n.appendChild(document.createTextNode(name)); n.appendChild(el("small", null, sub)); row.appendChild(n);
+    const body = el("div", { class: "cake-body" });
+    if (layers.length) {
+      const pub = el("div"); pub.appendChild(el("span", { class: "lab" }, "Listed"));
+      D.universe.filter(u => layers.includes(u.layer)).sort((a, b) => (b.berlin_slide - a.berlin_slide) || a.ticker.localeCompare(b.ticker)).forEach(u => {
+        const t = el("span", { class: "tick" + (u.berlin_slide === "1" || u.berlin_slide === 1 ? " berlin" : ""), title: u.name }, u.ticker); pub.appendChild(t);
+      });
+      body.appendChild(pub);
+    }
+    const priv = privByLayer[pkey] || [];
+    if (priv.length) { const p = el("div", { class: "privn" }); p.appendChild(el("span", { class: "lab" }, "Private, Berlin slide")); p.appendChild(document.createTextNode([...new Set(priv)].join(", "))); body.appendChild(p); }
+    if (!layers.length && !priv.length) body.appendChild(el("div", { class: "privn" }, "No listed pure-play model companies; frontier labs are private."));
+    row.appendChild(body); cake.appendChild(row);
+  });
+  const cakeNote = el("div", { class: "cake-row" });
+  cakeNote.appendChild(el("div", { class: "cake-name" }, ""));
+  const cn = el("div", { class: "cake-body privn" }); cn.textContent = "Tickers outlined in blue appear on the GTC Berlin slide. Asian tickers (.TW, .KS, .T) are signal-only.";
+  cakeNote.appendChild(cn); cake.appendChild(cakeNote);
+
+  /* ---------------- tooltip ---------------- */
+  const tip = document.getElementById("tip");
+  function showTip(evt, lines) {
+    tip.replaceChildren();
+    lines.forEach((ln, i) => {
+      const p = el("div");
+      if (Array.isArray(ln)) { p.appendChild(el("span", { class: "k" }, ln[0] + " ")); p.appendChild(el("b", null, ln[1])); }
+      else { const b = el(i === 0 ? "b" : "span", null, ln); p.appendChild(b); }
+      tip.appendChild(p);
+    });
+    tip.hidden = false;
+    const r = tip.getBoundingClientRect();
+    let x = evt.clientX + 14, y = evt.clientY + 14;
+    if (x + r.width > window.innerWidth - 8) x = evt.clientX - r.width - 14;
+    if (y + r.height > window.innerHeight - 8) y = evt.clientY - r.height - 14;
+    tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px";
+  }
+  const hideTip = () => { tip.hidden = true; };
+
+  /* ---------------- generic table ---------------- */
+  function table(id, rows, cols) {
+    const t = document.getElementById(id); if (!t) return;
+    t.replaceChildren();
+    const thead = el("thead"); const tr = el("tr");
+    cols.forEach(c => tr.appendChild(el("th", { class: c.n ? "n" : "" }, c.h)));
+    thead.appendChild(tr); t.appendChild(thead);
+    const tb = el("tbody");
+    rows.forEach(r => {
+      const row = el("tr");
+      cols.forEach(c => {
+        const v = typeof c.v === "function" ? c.v(r) : r[c.v];
+        const td = el("td", { class: (c.n ? "n " : "") + (c.cls || "") + (c.color && typeof v === "number" ? (v > 0 ? " pos" : v < 0 ? " neg" : "") : "") + (c.sig && c.sig(r) ? " sig" : "") });
+        td.textContent = c.f ? c.f(v) : (v == null ? "—" : v);
+        row.appendChild(td);
+      });
+      tb.appendChild(row);
+    });
+    t.appendChild(tb);
+  }
+
+  /* ---------------- private companies table ---------------- */
+  table("tbl-private", D.private, [
+    { h: "Company", v: "name" }, { h: "Country", v: "country" }, { h: "Layer", v: "layer" },
+    { h: "What it does", v: "description", cls: "wrap" }, { h: "Last funding / valuation", v: r => [r.last_funding, r.valuation].filter(Boolean).join(" · "), cls: "wrap" },
+    { h: "Listed links", v: r => String(r.public_links || "").replace(/\|/g, ", "), cls: "wrap" }]);
+
+  /* ---------------- network ---------------- */
+  function drawNetwork() {
+    const host = document.getElementById("net"); host.replaceChildren();
+    const W = Math.max(980, host.clientWidth), colW = W / LAYERS.length, rowH = 21, top = 44;
+    const nodes = D.universe.map(u => ({ id: u.ticker, layer: u.layer, region: u.region, berlin: String(u.berlin_slide) === "1" }));
+    const byId = new Map(nodes.map(n => [n.id, n]));
+    const links = D.edges.filter(e => byId.has(e.src) && byId.has(e.dst)).map(e => ({ s: byId.get(e.src), t: byId.get(e.dst), rel: e.rel, conf: e.confidence }));
+    const nbr = new Map(nodes.map(n => [n.id, []]));
+    links.forEach(l => { nbr.get(l.s.id).push(l.t); nbr.get(l.t.id).push(l.s); });
+    const cols = LAYERS.map(L => nodes.filter(n => n.layer === L));
+    cols.forEach(c => c.sort((a, b) => a.region.localeCompare(b.region) || a.id.localeCompare(b.id)).forEach((n, i) => { n.y = i; }));
+    for (let pass = 0; pass < 6; pass++) {
+      cols.forEach(c => {
+        c.forEach(n => { const ns = nbr.get(n.id); n.bc = ns.length ? d3.mean(ns, m => m.y) : n.y; });
+        c.sort((a, b) => a.bc - b.bc).forEach((n, i) => { n.y = i; });
+      });
+    }
+    const maxN = d3.max(cols, c => c.length);
+    const H = top + maxN * rowH + 12;
+    cols.forEach((c, ci) => c.forEach(n => { n.px = ci * colW + 16; n.py = top + (n.y + 0.5) * rowH + (maxN - c.length) * rowH / 2; }));
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Network of supply links between companies, by layer");
+    LAYERS.forEach((L, i) => {
+      const words = LNAME[L].split(" "), t = svg.append("text").attr("x", i * colW + 10).attr("y", 12).attr("font-size", 11.5).attr("font-weight", 650).style("fill", css("--ink"));
+      const l1 = words.length > 2 ? words.slice(0, 2).join(" ") : words[0], l2 = words.length > 2 ? words.slice(2).join(" ") : words.slice(1).join(" ");
+      t.append("tspan").attr("x", i * colW + 10).attr("dy", 0).text(l1);
+      if (l2) t.append("tspan").attr("x", i * colW + 10).attr("dy", 13).text(l2);
+    });
+    const regC = { US: css("--s1"), EU: css("--s2"), ASIA: css("--s3") };
+    const lineC = css("--axis"), acc = css("--accent");
+    const path = l => {
+      const x1 = l.s.px + 4, y1 = l.s.py, x2 = l.t.px + 4, y2 = l.t.py;
+      if (l.s.layer === l.t.layer) { const dx = 30; return `M${x1},${y1} C${x1 + dx},${y1} ${x2 + dx},${y2} ${x2},${y2}`; }
+      const mx = (x1 + x2) / 2; return `M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}`;
+    };
+    const gE = svg.append("g").attr("fill", "none");
+    const eSel = gE.selectAll("path").data(links).join("path").attr("class", "net-edge").attr("d", path)
+      .attr("stroke", lineC).attr("stroke-width", l => l.conf === "high" ? 1.4 : 1).attr("stroke-opacity", l => l.conf === "low" ? 0.45 : 0.75)
+      .attr("stroke-dasharray", l => (l.rel === "partner" || l.rel === "investment") ? "3 3" : null);
+    const gN = svg.append("g");
+    const nSel = gN.selectAll("g").data(nodes).join("g").attr("class", "net-node").attr("transform", n => `translate(${n.px},${n.py})`).attr("tabindex", 0).style("cursor", "default");
+    nSel.append("rect").attr("x", -6).attr("y", -10).attr("width", colW - 14).attr("height", 20).attr("fill", "transparent");
+    nSel.append("circle").attr("r", 4.5).attr("cx", 4).attr("fill", n => regC[n.region]).attr("stroke", n => n.berlin ? acc : css("--surface")).attr("stroke-width", n => n.berlin ? 2.5 : 2);
+    nSel.append("text").attr("x", 13).attr("y", 4).attr("font-size", 11).style("font-family", "var(--f-mono)").style("fill", css("--ink")).text(n => n.id);
+    function focus(n) {
+      const keep = new Set([n.id, ...nbr.get(n.id).map(m => m.id)]);
+      eSel.attr("stroke", l => (l.s === n || l.t === n) ? acc : lineC).attr("stroke-opacity", l => (l.s === n || l.t === n) ? 1 : 0.08).attr("stroke-width", l => (l.s === n || l.t === n) ? 2 : 1);
+      nSel.attr("opacity", m => keep.has(m.id) ? 1 : 0.25);
+    }
+    function reset() { eSel.attr("stroke", lineC).attr("stroke-opacity", l => l.conf === "low" ? 0.45 : 0.75).attr("stroke-width", l => l.conf === "high" ? 1.4 : 1); nSel.attr("opacity", 1); hideTip(); }
+    nSel.on("mouseenter focus", function (evt, n) {
+      focus(n);
+      const outs = links.filter(l => l.s === n).map(l => l.t.id), ins = links.filter(l => l.t === n).map(l => l.s.id);
+      const lines = [nm(n.id) + " (" + n.id + ")", ["Layer", LNAME[n.layer]], ["Region", n.region]];
+      if (ins.length) lines.push(["From", ins.join(", ")]);
+      if (outs.length) lines.push(["To", outs.join(", ")]);
+      const r = evt.type === "focus" ? this.getBoundingClientRect() : null;
+      showTip(r ? { clientX: r.right, clientY: r.top } : evt, lines);
+    }).on("mousemove", (evt, n) => { if (!tip.hidden) { tip.style.left = Math.min(window.innerWidth - tip.offsetWidth - 8, evt.clientX + 14) + "px"; tip.style.top = Math.min(window.innerHeight - tip.offsetHeight - 8, evt.clientY + 14) + "px"; } })
+      .on("mouseleave blur", reset);
+    const lg = document.getElementById("net-legend"); lg.replaceChildren();
+    [["US", "--s1"], ["Europe", "--s2"], ["Asia (signal only)", "--s3"]].forEach(([k, v]) => { const s = el("span"); const i = el("i"); i.style.background = `var(${v})`; s.appendChild(i); s.appendChild(document.createTextNode(k)); lg.appendChild(s); });
+    const b = el("span"); b.appendChild(el("span", { class: "ringdot" })); b.appendChild(document.createTextNode("On the GTC Berlin slide")); lg.appendChild(b);
+    const p = el("span"); const pl = el("span", { class: "ln" }); pl.style.borderTop = `2px dashed var(--axis)`; pl.style.height = "0"; p.appendChild(pl); p.appendChild(document.createTextNode("Partnership or equity stake")); lg.appendChild(p);
+  }
+
+  /* ---------------- heatmap ---------------- */
+  let heatEra = "ai";
+  function divColor(v, max) {
+    const t = Math.max(-1, Math.min(1, v / max));
+    return t >= 0 ? d3.interpolateLab(css("--mid"), css("--pos"))(t) : d3.interpolateLab(css("--mid"), css("--neg"))(-t);
+  }
+  function drawHeat() {
+    const host = document.getElementById("heat"); host.replaceChildren();
+    const rows = D["heat_" + heatEra];
+    const W = Math.max(620, host.clientWidth), left = 136, topM = 92, cw = (W - left - 4) / LAYERS.length, ch = Math.min(34, cw * 0.75), H = topM + ch * LAYERS.length + 6;
+    const max = 0.10;
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Heatmap of same-day sympathy betas between layers");
+    LAYERS.forEach((L, j) => svg.append("text").attr("transform", `translate(${left + j * cw + cw / 2},${topM - 8}) rotate(-38)`).attr("font-size", 11).text(LNAME[L]));
+    svg.append("text").attr("x", left).attr("y", 12).attr("font-size", 11).style("fill", css("--muted")).text("Responder layer →");
+    LAYERS.forEach((L, i) => svg.append("text").attr("x", left - 8).attr("y", topM + i * ch + ch / 2 + 4).attr("text-anchor", "end").attr("font-size", 11).text(LNAME[L]));
+    svg.append("text").attr("x", 0).attr("y", topM - 8).attr("font-size", 11).style("fill", css("--muted")).text("Reporter layer ↓");
+    const cells = [];
+    LAYERS.forEach((A, i) => LAYERS.forEach((B, j) => { const r = rows.find(x => x.layerA === A && x.layerB === B); cells.push({ A, B, i, j, r }); }));
+    svg.append("g").selectAll("rect").data(cells).join("rect")
+      .attr("x", c => left + c.j * cw + 1).attr("y", c => topM + c.i * ch + 1).attr("width", cw - 2).attr("height", ch - 2).attr("rx", 3)
+      .attr("fill", c => c.r ? divColor(c.r.beta, max) : css("--surface")).attr("stroke", c => c.A === c.B ? css("--ink-2") : "none").attr("stroke-width", 1)
+      .on("mousemove", (evt, c) => showTip(evt, [`${LNAME[c.A]} reports → ${LNAME[c.B]}`, ["β", c.r ? f.p3(c.r.beta) : "—"], ["t", c.r ? f.p1(c.r.t) : "—"], ["obs", c.r ? f.int(c.r.n) : "—"], ["release dates", c.r ? f.int(c.r.clusters) : "—"]]))
+      .on("mouseleave", hideTip);
+    const lg = document.getElementById("heat-legend"); lg.replaceChildren();
+    [-0.04, 0, 0.04, 0.08].forEach(v => { const s = el("span"); const i = el("i"); i.style.background = divColor(v, max); i.style.borderRadius = "2px"; s.appendChild(i); s.appendChild(document.createTextNode((v > 0 ? "+" : "") + v.toFixed(2))); lg.appendChild(s); });
+    const s2 = el("span", null, "outlined: same layer"); lg.appendChild(s2);
+    const tr = rows.map(r => ({ ...r, A: LNAME[r.layerA], B: LNAME[r.layerB] })).sort((a, b) => b.beta - a.beta);
+    table("tbl-heat", tr, [{ h: "Reporter layer", v: "A" }, { h: "Responder layer", v: "B" }, { h: "β", v: "beta", n: 1, f: f.p3 }, { h: "t", v: "t", n: 1, f: f.p1 }, { h: "Obs", v: "n", n: 1, f: f.int }]);
+  }
+  document.getElementById("heat-ai").addEventListener("click", () => { heatEra = "ai"; document.getElementById("heat-ai").setAttribute("aria-pressed", "true"); document.getElementById("heat-pre").setAttribute("aria-pressed", "false"); drawHeat(); });
+  document.getElementById("heat-pre").addEventListener("click", () => { heatEra = "pre"; document.getElementById("heat-pre").setAttribute("aria-pressed", "true"); document.getElementById("heat-ai").setAttribute("aria-pressed", "false"); drawHeat(); });
+
+  table("tbl-pairs", D.top_pairs, [
+    { h: "Reporter", v: "A", cls: "t" }, { h: "Responder", v: "B", cls: "t" }, { h: "Link", v: r => ({ A_supplies_B: "reporter supplies responder", B_supplies_A: "responder supplies reporter", same_layer: "same layer", other: "other" })[r.rel] },
+    { h: "Releases", v: "n_all", n: 1, f: f.int }, { h: "β 2015–26", v: "beta_all", n: 1, f: f.p2 }, { h: "Correlation", v: "corr_all", n: 1, f: f.p2 },
+    { h: "95% low", v: "corr_lo_all", n: 1, f: f.p2 }, { h: "β pre-2023", v: "beta_pre", n: 1, f: f.p2 }, { h: "β 2023+", v: "beta_ai", n: 1, f: f.p2 }]);
+
+  /* ---------------- capex bars ---------------- */
+  function drawCapex() {
+    const host = document.getElementById("capex"); host.replaceChildren();
+    const data = D.capex_q.filter(d => d.capex_bn != null);
+    const W = Math.max(300, host.clientWidth), H = 260, m = { l: 34, r: 8, t: 18, b: 26 };
+    const x = d3.scaleBand().domain(data.map(d => d.cq)).range([m.l, W - m.r]).paddingInner(0.18);
+    const y = d3.scaleLinear().domain([0, d3.max(data, d => d.capex_bn) * 1.1]).nice().range([H - m.b, m.t]);
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Hyperscaler quarterly capex bar chart");
+    svg.append("g").selectAll("line").data(y.ticks(4)).join("line").attr("x1", m.l).attr("x2", W - m.r).attr("y1", d => y(d)).attr("y2", d => y(d)).attr("stroke", css("--line"));
+    svg.append("g").selectAll("text").data(y.ticks(4)).join("text").attr("x", m.l - 6).attr("y", d => y(d) + 4).attr("text-anchor", "end").attr("font-size", 10.5).attr("class", "num").text(d => d);
+    const r = Math.min(4, x.bandwidth() / 2);
+    svg.append("g").selectAll("path").data(data).join("path")
+      .attr("d", d => { const x0 = x(d.cq), w = x.bandwidth(), y0 = y(d.capex_bn), yb = y(0); const rr = Math.min(r, (yb - y0) / 2); return `M${x0},${yb} V${y0 + rr} Q${x0},${y0} ${x0 + rr},${y0} H${x0 + w - rr} Q${x0 + w},${y0} ${x0 + w},${y0 + rr} V${yb} Z`; })
+      .attr("fill", css("--s1"))
+      .on("mousemove", (evt, d) => showTip(evt, [d.cq, ["Capex", "$" + f.p1(d.capex_bn) + "bn"], ["YoY", d.yoy == null ? "—" : f.pct(d.yoy)]])).on("mouseleave", hideTip);
+    svg.append("line").attr("x1", m.l).attr("x2", W - m.r).attr("y1", y(0)).attr("y2", y(0)).attr("stroke", css("--axis"));
+    svg.append("g").selectAll("text").data(data.filter(d => d.cq.endsWith("Q1") && +d.cq.slice(0, 4) % 2 === 0)).join("text").attr("x", d => x(d.cq)).attr("y", H - 8).attr("font-size", 10.5).text(d => d.cq.slice(0, 4));
+    const last = data[data.length - 1];
+    svg.append("text").attr("x", x(last.cq) + x.bandwidth()).attr("y", y(last.capex_bn) - 6).attr("text-anchor", "end").attr("font-size", 11).attr("font-weight", 650).style("fill", css("--ink")).text("$" + Math.round(last.capex_bn) + "bn");
+    table("tbl-capex", data.slice().reverse(), [{ h: "Quarter", v: "cq" }, { h: "Capex $bn", v: "capex_bn", n: 1, f: f.p1 }, { h: "YoY %", v: "yoy", n: 1, f: f.sp1 }]);
+  }
+
+  /* ---------------- lead-lag heat table ---------------- */
+  function drawLeadLag() {
+    const host = document.getElementById("leadlag"); host.replaceChildren();
+    const peaks = D.leadlag_peaks.slice().sort((a, b) => a.lead_q - b.lead_q || b.corr_diff - a.corr_diff);
+    const sup = peaks.map(p => p.supplier);
+    const ks = [-2, -1, 0, 1, 2, 3, 4];
+    const W = Math.max(420, host.clientWidth), left = 54, topM = 26, cw = (W - left - 4) / ks.length, ch = 17, H = topM + ch * sup.length + 4;
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Lead-lag correlation between hyperscaler capex and supplier revenue");
+    ks.forEach((k, j) => svg.append("text").attr("x", left + j * cw + cw / 2).attr("y", 14).attr("text-anchor", "middle").attr("font-size", 10.5).attr("class", "num").text((k > 0 ? "+" : "") + k + "Q"));
+    sup.forEach((s, i) => svg.append("text").attr("x", left - 6).attr("y", topM + i * ch + ch / 2 + 4).attr("text-anchor", "end").attr("font-size", 10.5).style("font-family", "var(--f-mono)").text(s === "TSMC" ? "TSMC" : s));
+    const cells = [];
+    sup.forEach((s, i) => ks.forEach((k, j) => { const r = D.leadlag.find(x => x.supplier === s && x.lead_q === k); cells.push({ s, k, i, j, v: r ? r.corr_diff : null, n: r ? r.n_diff : null }); }));
+    svg.append("g").selectAll("rect").data(cells).join("rect").attr("x", c => left + c.j * cw + 1).attr("y", c => topM + c.i * ch + 1).attr("width", cw - 2).attr("height", ch - 2).attr("rx", 2)
+      .attr("fill", c => c.v == null ? css("--surface") : divColor(c.v, 0.6))
+      .on("mousemove", (evt, c) => showTip(evt, [nm(c.s === "TSMC" ? "TSM" : c.s), ["Lead", (c.k > 0 ? "capex leads by " : c.k < 0 ? "supplier leads by " : "same quarter ") + (c.k ? Math.abs(c.k) + "Q" : "")], ["Correlation of changes", f.p2(c.v)], ["Quarters", f.int(c.n)]])).on("mouseleave", hideTip);
+    svg.append("g").selectAll("circle").data(peaks).join("circle").attr("cx", p => left + ks.indexOf(p.lead_q) * cw + cw / 2).attr("cy", p => topM + sup.indexOf(p.supplier) * ch + ch / 2).attr("r", 3.2).attr("fill", css("--ink"));
+    const lg = document.getElementById("ll-legend"); lg.replaceChildren();
+    [-0.3, 0, 0.3, 0.6].forEach(v => { const s = el("span"); const i = el("i"); i.style.background = divColor(v, 0.6); i.style.borderRadius = "2px"; s.appendChild(i); s.appendChild(document.createTextNode((v > 0 ? "+" : "") + v.toFixed(1))); lg.appendChild(s); });
+    const pk = el("span"); const dot = el("i"); dot.style.background = "var(--ink)"; dot.style.width = "7px"; dot.style.height = "7px"; pk.appendChild(dot); pk.appendChild(document.createTextNode("peak")); lg.appendChild(pk);
+  }
+
+  /* nowcast table */
+  table("tbl-nowcast", D.nowcast.filter(r => r.n >= 20), [
+    { h: "Supplier", v: "supplier", cls: "t" }, { h: "Lag behind capex", v: r => "+" + r.lead_q + "Q", n: 1 }, { h: "Fit (corr, n)", v: r => f.p2(r.corr_diff) + " · " + r.n, n: 1 },
+    { h: "Revenue quarter", v: "target_quarter" }, { h: "Driven by capex in", v: "capex_quarter" }, { h: "Capex growth change", v: "capex_accel_pp", n: 1, f: x => f.sp1(x) + " pt" },
+    { h: "Predicted change in revenue growth", v: "pred_rev_growth_change_pp", n: 1, f: x => f.sp1(x) + " pt", color: 1 }, { h: "± typical miss", v: "resid_sd_pp", n: 1, f: x => f.p1(x) + " pt" },
+    { h: "Last reported growth", v: r => f.p1(r.last_rev_yoy_pct) + "% (" + r.last_rev_quarter + ")", n: 1 }]);
+
+  /* ---------------- small multiples (line) ---------------- */
+  function smallLine(host, series, opts) {
+    const W = Math.max(160, host.clientWidth), H = opts.h || 120, m = { l: 30, r: 34, t: 8, b: 18 };
+    const xs = series.map(d => d.x);
+    const x = d3.scalePoint().domain(xs).range([m.l, W - m.r]);
+    const ext = d3.extent(series, d => d.y);
+    const lo = Math.min(0, ext[0]), hi = Math.max(0, ext[1]);
+    const y = d3.scaleLinear().domain([lo, hi]).nice(3).range([H - m.b, m.t]);
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", opts.label);
+    svg.append("g").selectAll("line").data(y.ticks(3)).join("line").attr("x1", m.l).attr("x2", W - m.r).attr("y1", d => y(d)).attr("y2", d => y(d)).attr("stroke", d => d === 0 ? css("--axis") : css("--line"));
+    svg.append("g").selectAll("text").data(y.ticks(3)).join("text").attr("x", m.l - 5).attr("y", d => y(d) + 3.5).attr("text-anchor", "end").attr("font-size", 9.5).attr("class", "num").text(d => d);
+    const pts = series.filter(d => d.y != null);
+    svg.append("path").datum(pts).attr("fill", "none").attr("stroke", css("--s1")).attr("stroke-width", 2).attr("stroke-linejoin", "round").attr("d", d3.line().x(d => x(d.x)).y(d => y(d.y)));
+    const last = pts[pts.length - 1];
+    if (last) {
+      svg.append("circle").attr("cx", x(last.x)).attr("cy", y(last.y)).attr("r", 3.5).attr("fill", css("--s1")).attr("stroke", css("--surface")).attr("stroke-width", 2);
+      svg.append("text").attr("x", x(last.x) + 6).attr("y", y(last.y) + 4).attr("font-size", 10.5).attr("font-weight", 650).style("fill", css("--ink")).text(opts.fmt(last.y));
+    }
+    const first = xs[0], lastX = xs[xs.length - 1];
+    svg.append("text").attr("x", m.l).attr("y", H - 4).attr("font-size", 9.5).text(opts.xl ? opts.xl(first) : first);
+    svg.append("text").attr("x", W - m.r).attr("y", H - 4).attr("text-anchor", "end").attr("font-size", 9.5).text(opts.xl ? opts.xl(lastX) : lastX);
+    const hit = svg.append("g");
+    hit.selectAll("rect").data(pts).join("rect").attr("x", d => x(d.x) - Math.max(6, (W - m.l - m.r) / xs.length / 2)).attr("y", m.t).attr("width", Math.max(12, (W - m.l - m.r) / xs.length)).attr("height", H - m.t - m.b).attr("fill", "transparent")
+      .on("mousemove", (evt, d) => showTip(evt, opts.tip(d))).on("mouseleave", hideTip);
+  }
+  function drawOrders() {
+    const host = document.getElementById("orders-sm"); host.replaceChildren();
+    const order = ["ABBN.SW", "SIE.DE", "ENR.DE", "VRT", "ASML.AS", "ASM.AS", "BESI.AS", "VACN.SW"];
+    order.forEach(tk => {
+      const rows = D.orders_series.filter(r => r.ticker === tk && r.orders_yoy != null).sort((a, b) => a.cq.localeCompare(b.cq));
+      if (!rows.length) return;
+      const c = el("div", { class: "cell" }); const h = el("h3"); h.appendChild(document.createTextNode(nm(tk))); h.appendChild(el("span", null, tk)); c.appendChild(h);
+      const ch = el("div", { class: "chart" }); c.appendChild(ch); host.appendChild(c);
+      smallLine(ch, rows.map(r => ({ x: r.cq, y: Math.max(-100, Math.min(400, r.orders_yoy)), raw: r })), {
+        label: nm(tk) + " order growth", fmt: v => f.sp1(v) + "%", xl: q => q.replace("Q", " Q"),
+        tip: d => [nm(tk) + " · " + d.x, ["Orders YoY", f.pct(d.raw.orders_yoy)], ["Book-to-bill", d.raw.btb == null ? "—" : f.p2(d.raw.btb)]] });
+    });
+  }
+  function drawText() {
+    const host = document.getElementById("text-sm"); host.replaceChildren();
+    const T = D.text_trends.slice().sort((a, b) => a.half.localeCompare(b.half));
+    [["ai_per10k", "AI"], ["dc_per10k", "Data center"], ["constraint_per10k", "Supply constraint"], ["digestion_per10k", "Digestion, push-outs"]].forEach(([k, lab]) => {
+      const c = el("div", { class: "cell" }); const h = el("h3"); h.appendChild(document.createTextNode(lab)); h.appendChild(el("span", null, "per 10k words")); c.appendChild(h);
+      const ch = el("div", { class: "chart" }); c.appendChild(ch); host.appendChild(c);
+      smallLine(ch, T.map(r => ({ x: r.half, y: r[k], raw: r })), { label: lab + " mentions", fmt: v => f.p1(v), xl: q => q.replace("H", " H"),
+        tip: d => [lab + " · " + d.x, ["Per 10k words", f.p1(d.y)], ["Calls", f.int(d.raw.n)]] });
+    });
+  }
+
+  /* ---------------- equity curves ---------------- */
+  function drawEquity() {
+    const host = document.getElementById("equity"); host.replaceChildren();
+    const S = [["net_long_vs_index", "Net long, vs S&P 500", "--s1"], ["neutral_vs_ai", "Dollar-neutral, vs AI basket", "--s2"]];
+    const data = D.custmom_equity.map(d => ({ ...d, dt: new Date(d.date) }));
+    const W = Math.max(320, host.clientWidth), H = 300, m = { l: 40, r: 120, t: 12, b: 26 };
+    const x = d3.scaleTime().domain(d3.extent(data, d => d.dt)).range([m.l, W - m.r]);
+    const y = d3.scaleLinear().domain([d3.min(data, d => d3.min(S, s => d[s[0]])) * 1.05, d3.max(data, d => d3.max(S, s => d[s[0]])) * 1.05]).nice().range([H - m.b, m.t]);
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Cumulative return of customer-news momentum variants");
+    svg.append("g").selectAll("line").data(y.ticks(5)).join("line").attr("x1", m.l).attr("x2", W - m.r).attr("y1", d => y(d)).attr("y2", d => y(d)).attr("stroke", d => d === 0 ? css("--axis") : css("--line"));
+    svg.append("g").selectAll("text").data(y.ticks(5)).join("text").attr("x", m.l - 6).attr("y", d => y(d) + 4).attr("text-anchor", "end").attr("font-size", 10.5).attr("class", "num").text(d => d + "%");
+    svg.append("g").selectAll("text").data(x.ticks(W < 500 ? 4 : 8)).join("text").attr("x", d => x(d)).attr("y", H - 8).attr("text-anchor", "middle").attr("font-size", 10.5).text(d => d.getFullYear());
+    S.forEach(([k, lab, c]) => svg.append("path").datum(data).attr("fill", "none").attr("stroke", css(c)).attr("stroke-width", 2).attr("d", d3.line().x(d => x(d.dt)).y(d => y(d[k]))));
+    const last = data[data.length - 1];
+    const ends = S.map(([k, lab, c]) => ({ k, lab, c, y: y(last[k]), v: last[k] })).sort((a, b) => a.y - b.y);
+    for (let i = 1; i < ends.length; i++) if (ends[i].y - ends[i - 1].y < 14) ends[i].y = ends[i - 1].y + 14;
+    ends.forEach(e => { svg.append("text").attr("x", W - m.r + 6).attr("y", e.y + 4).attr("font-size", 10.5).attr("font-weight", 650).style("fill", css("--ink")).text(f.sp1(e.v) + "%"); });
+    const cross = svg.append("line").attr("y1", m.t).attr("y2", H - m.b).attr("stroke", css("--axis")).attr("opacity", 0);
+    svg.append("rect").attr("x", m.l).attr("y", m.t).attr("width", W - m.l - m.r).attr("height", H - m.t - m.b).attr("fill", "transparent")
+      .on("mousemove", evt => { const [mx] = d3.pointer(evt); const dt = x.invert(mx); const i = Math.min(data.length - 1, d3.bisector(d => d.dt).left(data, dt)); const d = data[i]; cross.attr("x1", x(d.dt)).attr("x2", x(d.dt)).attr("opacity", 1); showTip(evt, [d.date].concat(S.map(([k, lab]) => [lab, f.sp1(d[k]) + "%"]))); })
+      .on("mouseleave", () => { cross.attr("opacity", 0); hideTip(); });
+    const lg = document.getElementById("eq-legend"); lg.replaceChildren();
+    S.forEach(([k, lab, c]) => { const s = el("span"); const l = el("span", { class: "ln" }); l.style.background = `var(${c})`; s.appendChild(l); s.appendChild(document.createTextNode(lab)); lg.appendChild(s); });
+  }
+
+  /* ---------------- backtest tables ---------------- */
+  const SNAME = { H2a_customer_news_to_suppliers: "Customer reports → buy/sell its suppliers, 20d", H2b_supplier_news_to_customers: "Supplier reports → its customers, 2d",
+    edge_both_5d: "Either link direction, 5d", same_layer_reversal_5d: "Fade same-layer peers, 5d", same_layer_reversal_20d: "Fade same-layer peers, 20d" };
+  const PNAME = { train_2015_2024: "2015–24 (fit)", OOS_2025_2026: "2025–26 (hold-out)" };
+  table("tbl-bt", D.backtest_events.filter(r => PNAME[r.period]), [
+    { h: "Strategy", v: r => SNAME[r.strategy] || r.strategy }, { h: "Benchmark", v: "benchmark" }, { h: "Period", v: r => PNAME[r.period] },
+    { h: "θ", v: "theta", n: 1, f: x => x == null ? "—" : Math.round(x * 100) + "%" }, { h: "Trades", v: "n", n: 1, f: f.int },
+    { h: "Net bp/trade", v: "mean_net_bp", n: 1, f: f.bp, color: 1 }, { h: "t", v: "t_net", n: 1, f: f.p1, sig: r => Math.abs(r.t_net) >= 2 }, { h: "Hit rate", v: "hit", n: 1, f: x => x == null ? "—" : Math.round(x * 100) + "%" },
+    { h: "Sharpe", v: "sharpe", n: 1, f: f.p2 }, { h: "Max DD", v: "max_dd", n: 1, f: x => x == null ? "—" : Math.round(x * 100) + "%" }]);
+  table("tbl-nw", D.network_perf.filter(r => r.signal === "pred_full" || r.signal === "pred_event"), [
+    { h: "Signal", v: r => r.signal === "pred_full" ? "All features" : "Supply-chain news only" }, { h: "Period", v: "period" },
+    { h: "Mean IC", v: "mean_IC", n: 1, f: f.p3 }, { h: "IC t", v: "IC_t", n: 1, f: f.p1, sig: r => Math.abs(r.IC_t) >= 2 }, { h: "Gross Sharpe", v: "gross_sharpe", n: 1, f: f.p2 },
+    { h: "Net Sharpe", v: "net_sharpe", n: 1, f: f.p2, color: 1 }, { h: "Daily turnover", v: "turnover_daily", n: 1, f: x => Math.round(x * 100) + "%" }]);
+  const other = [];
+  const addO = (name, period, est, t, n, note) => other.push({ name, period, est, t, n, note });
+  ["all", "2023+"].forEach(era => {
+    const a = op("(i)", era), b = op("(ii)", era), c = op("(iii)", era), d = op("(iv)", era);
+    addO("Orders acceleration → reporter's release-day move", era, f.p3(a.b) + "% per pt", a.t, a.n, "");
+    addO("Orders acceleration → peers' same-day move (beyond reporter's)", era, f.p3(b.b) + "% per pt", b.t, b.n, "");
+    addO("Orders acceleration → peers' next 20 days vs AI basket", era, f.p3(c.b) + "% per pt", c.t, c.n, "");
+    addO("Earlier orders acceleration → later US group member's release-day move", era, f.p3(d.b) + "% per pt", d.t, d.n, "");
+  });
+  D.keynote_effect.filter(r => r.y === "ar0" || r.y === "car_1_5_ind").forEach(r => addO("Named in keynote (" + r.named_definition + ") → " + (r.y === "ar0" ? "move on keynote day" : "next 5 days vs AI basket"), "2023–26", f.sp2(r.diff_pct) + "%", r.t, r.n_obs, r.keynotes + " keynotes"));
+  D.h5.filter(r => r.y === "car_1_20" || r.y === "ar_d0").forEach(r => addO("TSMC monthly sales " + (r.x === "accel" ? "acceleration" : "seasonal surprise") + " → AI-chip basket " + (r.y === "ar_d0" ? "same day" : "next 20 days"), r.era, f.p3(r.b) + "% per pt", r.t, r.n, ""));
+  const intr = (D.intraday || []).filter(r => r.era === "AI" && r.rel !== "other");
+  intr.forEach(r => addO("US after-close report → " + r.responder + " " + (r.rel === "edge" ? "linked" : "same-layer") + " stocks, open-to-close next session", "2023–26", f.p3(r.b_gapA), r.t_gapA, r.n, "diagnostic only: uses pre-market prices not available at the European/Asian open"));
+  table("tbl-other", other, [{ h: "Test", v: "name", cls: "wrap" }, { h: "Period", v: "period" }, { h: "Estimate", v: "est", n: 1 }, { h: "t", v: "t", n: 1, f: f.p1, sig: r => Math.abs(r.t) >= 2 }, { h: "Obs", v: "n", n: 1, f: f.int }, { h: "Note", v: "note", cls: "wrap" }]);
+
+  /* ---------------- model today ---------------- */
+  table("tbl-season", D.season_now, [{ h: "Date", v: "react_date" }, { h: "Company", v: r => r.name || nm(r.ticker) }, { h: "Ticker", v: "ticker", cls: "t" },
+    { h: "Market-adjusted move", v: "ar_pct", n: 1, f: f.pct, color: 1 }, { h: "Volume vs normal", v: "av", n: 1, f: x => x == null ? "—" : f.p1(x) + "×" }, { h: "EPS surprise", v: "surprise_pct", n: 1, f: x => x == null ? "—" : f.pct(x) }]);
+  const play = D.playbook.filter(r => r.movers && r.movers.length).filter(r => ["000660.KS", "ASM.AS", "VRT", "GEV", "KLAC", "MSFT", "GOOGL", "AMZN", "STMPA.PA", "ETN", "AMD", "ANET", "IFX.DE", "ENR.DE", "SIE.DE", "AMAT", "NVDA", "DELL", "MRVL", "AVGO", "ORCL", "MU", "CIEN", "COHR", "ARM", "005930.KS", "PWR", "TER", "INTC", "SNDK", "LR.PA", "DTE.DE"].includes(r.reporter));
+  table("tbl-play", play, [{ h: "Reporter", v: r => r.name + " (" + r.reporter + ")" }, { h: "Release (New York time)", v: "date_et" },
+    { h: "Typical move", v: "typical_abs_ar_pct", n: 1, f: x => "±" + f.p1(x) + "%" }, { h: "Stocks that move with it (β per 1% of the reporter's move, correlation)", v: r => r.movers_short || r.movers, cls: "wrap" }]);
+  const gAll = (D.capex_guidance || []).slice().sort((a, b) => (a.ticker + a.call_date).localeCompare(b.ticker + b.call_date)).filter(r => r.call_date >= "2024-01-01");
+  const gLatest = [...d3.group(gAll, r => r.ticker).values()].flatMap(v => v.slice(-2));
+  const gCols = [
+    { h: "Company", v: "ticker", cls: "t" }, { h: "Call", v: "call_date" }, { h: "Period", v: "period" },
+    { h: "Guide $bn", v: r => r.point_bn != null ? f.p1(r.point_bn) : (r.low_bn != null ? f.p1(r.low_bn) + "–" + f.p1(r.high_bn) : "—"), n: 1 }, { h: "Basis", v: r => String(r.basis || "").slice(0, 90), cls: "wrap" }];
+  table("tbl-guide-all", gAll, gCols);
+  table("tbl-guide", gLatest, [
+    { h: "Company", v: "ticker", cls: "t" }, { h: "Call", v: "call_date" }, { h: "Period", v: "period" },
+    { h: "Guide $bn", v: r => r.point_bn != null ? f.p1(r.point_bn) : (r.low_bn != null ? f.p1(r.low_bn) + "–" + f.p1(r.high_bn) : "—"), n: 1 }, { h: "Basis", v: "basis", cls: "wrap" }]);
+  table("tbl-eu", D.eu_latest, [{ h: "Company", v: r => nm(r.ticker) }, { h: "Period", v: "fiscal_period" }, { h: "Released", v: "release_date" },
+    { h: "Revenue YoY", v: "revenue_yoy_pct", n: 1, f: x => x == null ? "—" : f.pct(x) }, { h: "Orders YoY", v: "orders_yoy_pct", n: 1, f: x => x == null ? "—" : f.pct(x), color: 1 },
+    { h: "Book-to-bill", v: "book_to_bill", n: 1, f: x => x == null ? "—" : f.p2(x) }, { h: "Data-center / AI comment", v: r => { const t = String(r.ai_dc_notes || ""); return t.length > 170 ? t.slice(0, 167) + "…" : (t || "—"); }, cls: "wrap" }]);
+  const notesEl = document.getElementById("notes");
+  Object.entries(D.notes).sort((a, b) => a[0].localeCompare(b[0])).forEach(([tk, n]) => {
+    if (!n.bullets.length && !n.current) return;
+    const c = el("div", { class: "note" }); c.appendChild(el("h3", null, nm(tk) + " (" + tk + ")"));
+    if (n.current) c.appendChild(el("div", { class: "cur" }, n.current.replace(/^current state[^:]*:\s*/i, "Now: ")));
+    const det = el("details"); det.appendChild(el("summary", null, "Dated history (" + Math.min(5, n.bullets.length) + ")"));
+    const ul = el("ul"); n.bullets.slice(-5).forEach(b => ul.appendChild(el("li", null, b.replace(/^[-*]\s*/, "").replace(/\*\*/g, "")))); det.appendChild(ul); c.appendChild(det);
+    notesEl.appendChild(c);
+  });
+
+  /* ---------------- render + re-render ---------------- */
+  function drawTone() {
+    const host = document.getElementById("tone"); host.replaceChildren();
+    const rows = (D.signal_index || []).filter(r => r.q >= "2022Q1" && r.layer);
+    if (!rows.length) return;
+    const qs = [...new Set(rows.map(r => r.q))].sort();
+    const ls = LAYERS.filter(L => rows.some(r => r.layer === L));
+    const W = Math.max(640, host.clientWidth), left = 136, topM = 22, cw = (W - left - 4) / qs.length, ch = 22, H = topM + ch * ls.length + 4;
+    const svg = d3.select(host).append("svg").attr("width", W).attr("height", H).attr("viewBox", `0 0 ${W} ${H}`).attr("role", "img").attr("aria-label", "Net demand tone by layer and quarter");
+    qs.forEach((q, j) => { if (q.endsWith("Q1")) svg.append("text").attr("x", left + j * cw).attr("y", 12).attr("font-size", 10.5).text(q.slice(0, 4)); });
+    ls.forEach((L, i) => svg.append("text").attr("x", left - 8).attr("y", topM + i * ch + ch / 2 + 4).attr("text-anchor", "end").attr("font-size", 11).text(LNAME[L]));
+    const cells = [];
+    ls.forEach((L, i) => qs.forEach((q, j) => { const r = rows.find(x => x.layer === L && x.q === q); cells.push({ L, q, i, j, r }); }));
+    svg.append("g").selectAll("rect").data(cells).join("rect").attr("x", c => left + c.j * cw + 1).attr("y", c => topM + c.i * ch + 1).attr("width", Math.max(1, cw - 2)).attr("height", ch - 2).attr("rx", 2)
+      .attr("fill", c => (c.r && c.r.count >= 3) ? divColor(c.r.sum / c.r.count, 1) : css("--surface")).attr("stroke", c => (c.r && c.r.count >= 3) ? "none" : css("--line"))
+      .on("mousemove", (evt, c) => showTip(evt, [LNAME[c.L] + " · " + c.q, ["Net tone", c.r ? f.sp2(c.r.sum / c.r.count) : "—"], ["Statements", c.r ? f.int(c.r.count) : "0"]])).on("mouseleave", hideTip);
+    const lg = document.getElementById("tone-legend"); lg.replaceChildren();
+    [-1, -0.5, 0, 0.5, 1].forEach(v => { const sp = el("span"); const i = el("i"); i.style.background = divColor(v, 1); i.style.borderRadius = "2px"; sp.appendChild(i); sp.appendChild(document.createTextNode((v > 0 ? "+" : "") + v)); lg.appendChild(sp); });
+  }
+  function renderAll() { drawNetwork(); drawHeat(); drawCapex(); drawLeadLag(); drawTone(); drawOrders(); drawText(); drawEquity(); }
+  renderAll();
+  let rt; window.addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(renderAll, 150); });
+  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderAll);
+  new MutationObserver(renderAll).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+})();
+</script>

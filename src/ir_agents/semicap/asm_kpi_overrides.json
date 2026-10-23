@@ -1,0 +1,124 @@
+{
+ "2019Q2": {
+  "extra": {
+   "one_off": "orders and revenue include EUR103m patent-litigation settlement (Kokusai); ex-settlement new orders EUR270m, net sales EUR260m (stated in release)",
+   "orders_ex_settlement": 270,
+   "revenue_ex_settlement": 260
+  }
+ },
+ "2019Q4": {
+  "extra": {
+   "one_off": "orders and revenue include EUR56m arbitration settlement (Kokusai); ex-settlement new orders EUR373m, net sales EUR345m (stated in release)",
+   "orders_ex_settlement": 373,
+   "revenue_ex_settlement": 345
+  }
+ },
+ "2022Q1": {
+  "ai_dc_notes": "Record orders led by logic/foundry; strong momentum also in memory and power/analog/wafer.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2022Q2": {
+  "ai_dc_notes": "Record orders EUR943m (+73% cc), boosted by new-node logic/foundry spending and memory wins (ALD gap-fill 3D-NAND, HKMG in DRAM); led by foundry, then memory, then logic.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2022Q3": {
+  "ai_dc_notes": "Q3 bookings and backlog reduced to remove China orders hit by Oct-7-2022 US export rules (China = 16% of 9M22 revenue); initial impact estimate >=40% of China sales (cut to 15-25% on 2022-11-28).",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2022Q4": {
+  "ai_dc_notes": "Bookings EUR829m: steady logic/foundry demand plus record power/analog bookings, partly from LPE (exceptional SiC-epi orders, some for H2 2023 delivery).",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2023Q1": {
+  "ai_dc_notes": "Orders softened toward quarter-end; memory demand weakened further and expected to stay low; push-outs in leading-edge logic/foundry (softer end markets, fab-readiness delays) to hit Q2-Q3 orders.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2023Q2": {
+  "ai_dc_notes": "Order trough EUR486m (-48% yoy): leading-edge logic/foundry push-outs and backlog normalization after supply-chain easing.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2023Q3": {
+  "ai_dc_notes": "Orders EUR627m despite weak market; first meaningful GAA orders (expected Q4) partly booked in Q3.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2023Q4": {
+  "ai_dc_notes": "Bookings EUR678m slightly above expectations, driven by GAA pilot-line orders and continued strong China demand.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2024Q1": {
+  "ai_dc_notes": "Orders +10% cc supported by GAA 2nm orders and a strong increase in memory orders, mainly HBM-related DRAM.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2024Q2": {
+  "ai_dc_notes": "Orders EUR755m (+56% cc) mainly driven by GAA and HBM demand.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2024Q3": {
+  "ai_dc_notes": "Headline: 'AI-related demand drives robust growth in bookings and revenue'; orders +30% on GAA and HBM; China sales expected lower in H2 2024 and moderately lower in H1 2025; FY2025 revenue EUR3.2-3.6bn.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2024Q4": {
+  "ai_dc_notes": "Orders +8% on GAA and HBM DRAM; GAA orders up strongly q/q but offset by drop in China demand; healthy 2025 memory sales expected on HBM-related DRAM.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2025Q1": {
+  "ai_dc_notes": "Orders EUR834m (+14% cc) on strong GAA 2nm orders, HBM-related DRAM and solid China; tariff uncertainty -> switch to growth-rate guidance (FY2025 +10-20% cc).",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2025Q2": {
+  "ai_dc_notes": "Orders EUR703m: lower advanced logic/foundry orders due to timing; yoy decline vs high memory contribution in Q2 2024; H2 2025 ~ H1.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2025Q3": {
+  "ai_dc_notes": "Orders EUR637m (-17% cc): drop mainly China after strong H1; advanced logic/foundry orders up q/q but below initial expectations (see 2025-09-23 warning).",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2025Q4": {
+  "ai_dc_notes": "Orders EUR803m rebound: leading-edge logic/foundry plus quarter-end China recovery; 2026: logic/foundry strongest on AI-related demand, 1.4nm pilot lines in H2 2026, healthy DRAM growth; quarterly bookings disclosure discontinued from Q1 2026.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2026Q1": {
+  "ai_dc_notes": "AI-led demand accelerated further (customer capacity investment for AI infrastructure); leading-edge strength plus strong rebound in mature logic/foundry sales in China; macro caution (Middle East conflict, energy prices).",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ },
+ "2026Q2": {
+  "ai_dc_notes": "Record revenue EUR1,003m; AI momentum building; share gains in leading-edge logic/foundry, robust HBM DRAM growth, solid mature-node China; strong H1 order intake -> 2027 revenue expected above top of EUR3.7-4.6bn range.",
+  "extra": {
+   "ai_dc_notes_source": "curated from release text"
+  }
+ }
+}

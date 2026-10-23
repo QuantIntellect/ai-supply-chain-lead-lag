@@ -1,0 +1,11 @@
+# CEG — demand notes from earnings calls (2022–2026)
+
+Coverage: five calls in the corpus (2022-05, 2022-08, 2024-11, 2026-05, 2026-08). Calls from 2022-Q3 to 2024-Q2 and from 2024-Q4 to 2025 are missing.
+
+- 2022-05-12: Q1-22. Announced a five-year collaboration with Microsoft on 24/7 hourly carbon-free matching. Reported "incredibly strong interest from data center companies" for behind-the-fence supply at its Texas CCGTs. New business: $250m power and $150m non-power. Renewable deals support 350 MW of new build (12% of Comcast's power needs, 70% of Sheetz's PA needs).
+- 2022-08-04: Q2-22. No data-center demand content. Nuclear capacity factor 94.2%; serves ~23% of competitive C&I customers (three-quarters of the Fortune 100).
+- 2024-11-04: Q3-24. Raised and narrowed FY24 adjusted EPS guidance to $8.00–8.40 (midpoint $8.20 vs $8.00). The Crane restart is contracted to Microsoft (usable across four states) and targeted for 2027. "2,000 megawatts of new nuclear" from 2027, plus ≥1,000 MW of possible uprates. PJM utility filings show 5–6 GW more load for the next auction. Hyperscaler negotiation intensity "keeps going up and up".
+- 2026-05-11: Q1-26. Calpine closed (~$2/share accretion in guidance); affirmed FY26 adjusted EPS $11–12. Hyperscale compute/power demand "has not slowed": projected 2026 hyperscaler spending is ~75% above 2025 and still being revised up. Submitted ~5,000 MW of new capacity (uprates, gas, storage) into the PJM queue. PUCT approved net metering for the CyrusOne powered-land deal at Freestone. Three data-center projects in Texas.
+- 2026-08-06: Q2-26. Signed ~920 MW of long-term nuclear deals since the last call (average 18.5 years, investment-grade, buyers undisclosed; later start dates, immaterial to 2029). Raised FY26 adjusted EPS guidance to $11.50–12.50 (from $11–12). The Crane fuel amendment was approved, with return in 2H27. PJM set a 6.8 GW reliability-backstop target and is running bilateral matchmaking. Flagged data-center moratoria and local opposition.
+
+Current state (latest call, 2026-08-06): Contracting continues: ~920 MW of new 18.5-year nuclear deals, guidance raised, and hyperscaler capex cited as +75% for 2026. Grid and permitting politics (PJM backstop, local opposition) are now the gating factor, not demand.

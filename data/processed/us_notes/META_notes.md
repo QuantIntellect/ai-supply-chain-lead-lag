@@ -1,0 +1,16 @@
+# META — demand notes from earnings calls (2022–2026)
+
+Coverage: 10 calls, 2022-02-02 to 2026-10-21 (actual call dates). Missing: Q3-22 through Q2-24, plus Q1-25 and Q2-25. Capex includes principal payments on finance leases.
+
+- 2022-02-02: 2022 capex was guided to $29–34bn, unchanged. Meta is "focused on further scaling our computing power and transforming our AI infrastructure", while advertisers report macro pressure on budgets.
+- 2022-04-27: Meta started multiyear projects to accelerate AI-infrastructure investment. The capex range held at $29–34bn even as the total-expense guide was cut to $87–92bn from $90–95bn.
+- 2022-07-27: The capex range was narrowed to $30–34bn. Q2 capex was $7.7bn, a step-up driven by servers, "including for our AI infrastructure". This came alongside "weak advertising demand" and a third expense cut, to $85–88bn.
+- 2024-10-30: 2024 capex was guided to $38–40bn, from $37–40bn, implying $15–17bn in Q4. Management expects "significant capital expenditure growth in 2025".
+- 2025-01-29: 2025 capex was guided to $60–65bn. About 1GW is coming online in 2025, and a 2GW+ AI data center is under construction. Adoption of Meta's custom MTIA chips will ramp, and supply availability is a factor in capex timing.
+- 2025-10-29: 2025 capex was raised to $70–72bn from $66–72bn, and 2026 capex dollar growth was guided "notably larger" than 2025's. Meta will also contract third-party cloud capacity. In the Blue Owl data-center joint venture, construction cost will no longer be recorded in capex. AI-powered ad tools passed a $60bn run-rate. Capacity is being planned for 2027–28.
+- 2026-01-28: This transcript gives a first 2026 capex range of $115–135bn; the April call calls the prior range $120–135bn, so the source disagrees. 2026 expenses were guided to $162–169bn, led by infrastructure including third-party cloud. "We do continue to be capacity constrained."
+- 2026-04-29: 2026 capex was raised to $125–145bn. Multiyear cloud deals and infrastructure purchase agreements added $107bn of contractual commitments, coming online through 2027. Meta is rolling out more than 1GW of custom silicon built with Broadcom, plus "a significant amount of AMD chips", alongside NVIDIA. There is no 2027 capex outlook ("a very dynamic planning process").
+- 2026-07-29: 2026 capex was narrowed to $130–145bn, raising the low end; Q2 capex was $31.1bn. Meta announced a 1GW El Paso data-center venture with BlackRock. It is still short of compute ("numerous ROI-positive places that we would put compute toward if we had it") and is laying data-center foundations for 2028 and beyond.
+- 2026-10-21: 2026 capex was narrowed to $135–145bn, raising the low end again; Q3 capex was $34.9bn. Meta plans to improve compute cost efficiency "by more than 10x over the next year" while building capacity for "more than a billion people". 2027 budget and capacity plans are "still being developed".
+
+Current state (latest call, 2026-10-21): 2026 capex is $135–145bn, with the low end raised at every call this year (from $115–135bn in January). There is still no 2027 guide. Meta is still compute-hungry but is now stressing more than 10x compute-efficiency gains, a possible moderating signal for 2027 hardware intensity.

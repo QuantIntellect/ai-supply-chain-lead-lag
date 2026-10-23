@@ -1,0 +1,33 @@
+group,lead_q,corr_diff,n,measure
+semicap,-1,0.30100984313513524,43,d orders-index vs d US revenue (z)
+semicap,0,0.2836953991583405,43,d orders-index vs d US revenue (z)
+semicap,1,0.2495714614839383,42,d orders-index vs d US revenue (z)
+semicap,2,0.29137764317128084,41,d orders-index vs d US revenue (z)
+semicap,3,-0.2970456492979327,40,d orders-index vs d US revenue (z)
+semicap,4,0.016931587004388637,39,d orders-index vs d US revenue (z)
+semicap,-1,0.545745889315259,44,levels (common-trend caveat)
+semicap,0,0.6623273342905442,44,levels (common-trend caveat)
+semicap,1,0.5969677612095613,43,levels (common-trend caveat)
+semicap,2,0.3882787571948663,42,levels (common-trend caveat)
+semicap,3,0.057320426879357324,41,levels (common-trend caveat)
+semicap,4,-0.08466326782124367,40,levels (common-trend caveat)
+semicap,0,0.46048458814680365,23,"d, 2021Q1+"
+semicap,1,0.3270674117166691,22,"d, 2021Q1+"
+semicap,2,0.3141580650913916,21,"d, 2021Q1+"
+semicap,3,-0.16392856963467026,20,"d, 2021Q1+"
+electrification,-1,-0.12565729979854462,21,d orders-index vs d US revenue (z)
+electrification,0,0.32615066901074347,21,d orders-index vs d US revenue (z)
+electrification,1,-0.12668945380231275,20,d orders-index vs d US revenue (z)
+electrification,2,0.1765636517232937,19,d orders-index vs d US revenue (z)
+electrification,3,0.39260498851723896,18,d orders-index vs d US revenue (z)
+electrification,4,-0.092037938049487,17,d orders-index vs d US revenue (z)
+electrification,-1,0.36501213498268037,23,levels (common-trend caveat)
+electrification,0,0.6226379773277114,23,levels (common-trend caveat)
+electrification,1,0.5540473023949883,22,levels (common-trend caveat)
+electrification,2,0.7221480167744665,21,levels (common-trend caveat)
+electrification,3,0.28263292785208444,20,levels (common-trend caveat)
+electrification,4,0.32900022501561765,19,levels (common-trend caveat)
+electrification,0,0.32615066901074347,21,"d, 2021Q1+"
+electrification,1,-0.12668945380231275,20,"d, 2021Q1+"
+electrification,2,0.1765636517232937,19,"d, 2021Q1+"
+electrification,3,0.39260498851723896,18,"d, 2021Q1+"

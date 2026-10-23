@@ -1,0 +1,33 @@
+event_slug,huang_speaker,timing_source,doc_source
+ces_2023,0,Kit docs dated 2023-01-03; 8 a.m. PT per NVIDIA CES 2023 announcement (guru3d/shacknews citing NVIDIA),press kit via Wayback snapshot (docs fetched live)
+gtc_2023,1,"NVIDIA release 2023-02-21 + blog 2023-03-16: 'Tuesday, March 21, at 8 a.m. Pacific'",press kit via Wayback snapshot (docs fetched live)
+computex_2023,1,Live blog: Huang 'today kicked off COMPUTEX' (pub 2023-05-29 UTC); 11:00 Taipei per pre-event press (pcgameshardware: 5 a.m. CEST),press kit via Wayback snapshot (docs fetched live)
+siggraph_2023,1,"NVIDIA blog 2023-08-04: 'Tuesday, Aug. 8, at 8 a.m. PT in Los Angeles'",press kit via Wayback snapshot (docs fetched live)
+sc23,0,NVIDIA H200 release: 'Watch Buck's SC23 special address on Nov. 13 at 6 a.m. PT' (= 7 a.m. MT),no press kit: NVIDIA newsroom archive items for 2023-11-13
+ces_2024,0,"NVIDIA blog 2023-12-19: special address 'Jan. 8, at 8 a.m. PT'",online press kit
+gtc_2024,1,"NVIDIA release 2024-02-20: 'Monday, March 18, at 1 p.m. Pacific time'",online press kit
+dell_tech_world_2024,1,"NVIDIA recap blog pub 2024-05-20 (Huang on stage with Michael Dell, Las Vegas); clock time not verified",no press kit: NVIDIA newsroom archive items for 2024-05-20
+computex_2024,1,NVIDIA blog 2024-05-08: 'livestreamed at 7 p.m. Taiwan time'; live blog pub 2024-06-02,online press kit
+snowflake_summit_2024,1,"NVIDIA recap blog (pub 2024-06-04T01:10Z): Huang 'told thousands of attendees Monday' (Mon 2024-06-03) at Snowflake Summit, San Francisco; clock time not verified (evening PT per blog timing)",no press kit: NVIDIA newsroom archive items for 2024-06-01
+siggraph_2024,1,"NVIDIA blog 2024-07-15: 'Monday, July 29'; times per SIGGRAPH release: Goode chat 2:30 p.m. MDT, Zuckerberg chat 4:00 p.m. MDT",online press kit
+ai_summit_dc_2024,0,"NVIDIA blog 2024-10-01: Bob Pette special address 'October 8, at 10 a.m. ET'",online press kit
+ai_summit_india_2024,1,NVIDIA blogs: fireside chat 'on October 24' / 'said Thursday'; clock time not published (Mumbai daytime = before US open),online press kit
+ai_summit_japan_2024,1,NVIDIA recap blog: 'At NVIDIA's AI Summit Japan on Wednesday' (Nov 13); clock time not published (Tokyo daytime = before US open),online press kit
+sc24,1,SC24 recap blog pub 2024-11-18 ('NVIDIA kicked off SC24'); clock time not found,online press kit
+ces_2025,1,NVIDIA blog 2024-12-16: 'Jan. 6 at 6:30 p.m. PT',online press kit
+gtc_2025,1,"NVIDIA release 2025-03-05: 'Tuesday, March 18, at 10 a.m. PT'; live blog 'At 10:00 a.m. PT, Huang takes the stage'",online press kit
+computex_2025,1,Live blog: Huang 'took the stage at a packed Taipei Music Center Monday'; 11 a.m. Taiwan time per TAITRA (embeddedcomputing.com),online press kit
+london_tech_week_2025,1,NVIDIA blog pub 2025-06-09: Huang and PM Starmer opened London Tech Week; clock time not verified (London morning = before US open),"no press kit: NVIDIA newsroom archive items for 2025-06-08, 2025-06-09"
+gtc_paris_2025,1,Kit/keynote recap dated 2025-06-11; 11 a.m. CEST per nvidia.com/en-eu/gtc/keynote and VivaTech release,online press kit
+siggraph_2025,0,Recap blog pub 2025-08-11; NVIDIA Research special address 4-5 p.m. PT per SIGGRAPH/NVIDIA listings,online press kit
+gtc_dc_2025,1,"Live blog: 'keynote address on Tuesday, Oct. 28, at 12 p.m. ET'",online press kit
+apec_korea_2025,1,NVIDIA blog pub 2025-10-31; AP: keynote at APEC CEO Summit special session Friday Oct 31 (KST); clock time not found. Partnership releases dated 2025-10-30 (US),"no press kit: NVIDIA newsroom archive items for 2025-10-30, 2025-10-31"
+sc25,0,"Kit docs dated 2025-11-17; 'AI Transforming Science' special address Monday Nov 17, 4-5:30 p.m. CT per nvevents.nvidia.com/sc25fireside",online press kit
+ces_2026,1,Kit docs dated 2026-01-05 ('presentation on Monday'); 1 p.m. PT per NVIDIA CES page (wccftech/techcrunch),online press kit
+davos_2026,1,NVIDIA blog pub 2026-01-21; Bloomberg: Huang-Fink conversation Wednesday Jan 21; session clock time not found,no press kit: NVIDIA newsroom archive items for 2026-01-21
+3dx_world_2026,1,"NVIDIA blog + Dassault/NVIDIA release both dated 2026-02-03 (3DEXPERIENCE World, Houston); clock time not verified",no press kit: NVIDIA newsroom archive items for 2026-02-03
+gtc_2026,1,"NVIDIA release 2026-03-03 + live blog: 'Monday, March 16, at 11 a.m. PT'",online press kit
+dell_tech_world_2026,1,"NVIDIA recap blog pub 2026-05-18 (Dell Technologies World, Las Vegas); clock time not verified",no press kit: NVIDIA newsroom archive items for 2026-05-18
+gtc_taipei_2026,1,"Live blog: 'keynote at COMPUTEX on Monday, June 1, at 11 a.m. Taipei time'",online press kit
+dreamforce_2026,1,"NVIDIA recap blog pub 2026-09-15 (Dreamforce, San Francisco); clock time not verified",no press kit: NVIDIA newsroom archive items for 2026-09-15
+gtc_berlin_2026,1,"News hub: keynote 'begins Wednesday, October 21 at 11 a.m. CEST'",online press kit

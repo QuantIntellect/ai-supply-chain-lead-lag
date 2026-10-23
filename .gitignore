@@ -1,0 +1,25 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# raw downloads: large, third-party, untrusted (rebuild with src/fetch_*.py and the collectors)
+data/raw/
+
+# full text of third-party documents (copyrighted; local only)
+data/processed/transcripts/
+data/processed/edgar_text/
+data/processed/ir_text/
+data/processed/digests/
+data/processed/keynotes/text/
+
+# large or regenerable intermediates (rebuild with fetch_prices.py + run_all.sh)
+data/processed/prices/
+data/processed/panel/
+data/processed/spill.parquet
+data/processed/network_features.parquet
+data/processed/*.pkl
+
+# logs
+*.log

@@ -1,0 +1,53 @@
+ticker,event_date,event_time_local,timezone,timing,event_type,fiscal_period,source_url
+IFX.DE,2015-01-29,,Europe/Berlin,UNKNOWN,Q1,FY2015Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2015-05-05,,Europe/Berlin,UNKNOWN,Q2,FY2015Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2015-07-30,,Europe/Berlin,UNKNOWN,Q3,FY2015Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2015-11-26,,Europe/Berlin,UNKNOWN,Q4,FY2015Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2016-02-02,,Europe/Berlin,UNKNOWN,Q1,FY2016Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2016-05-03,,Europe/Berlin,UNKNOWN,Q2,FY2016Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2016-08-02,,Europe/Berlin,UNKNOWN,Q3,FY2016Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2016-11-23,,Europe/Berlin,UNKNOWN,Q4,FY2016Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2017-02-02,,Europe/Berlin,UNKNOWN,Q1,FY2017Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2017-05-04,,Europe/Berlin,UNKNOWN,Q2,FY2017Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2017-08-01,,Europe/Berlin,UNKNOWN,Q3,FY2017Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2017-11-14,,Europe/Berlin,UNKNOWN,Q4,FY2017Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2018-01-31,,Europe/Berlin,UNKNOWN,Q1,FY2018Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2018-05-03,,Europe/Berlin,UNKNOWN,Q2,FY2018Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2018-08-01,,Europe/Berlin,UNKNOWN,Q3,FY2018Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2018-11-12,,Europe/Berlin,UNKNOWN,Q4,FY2018Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2019-02-05,,Europe/Berlin,UNKNOWN,Q1,FY2019Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2019-03-27,14:36,Europe/Berlin,INTRADAY,profit_warning,FY2019Q2,https://www.infineon.com/assets/row/public/documents/corporate/investors/ad-hoc-news/2019-ifx-ad-hoc-27-march-2019-14-36-uhr-v01-00-en.pdf
+IFX.DE,2019-05-07,,Europe/Berlin,UNKNOWN,Q2,FY2019Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2019-08-01,,Europe/Berlin,UNKNOWN,Q3,FY2019Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2019-11-12,,Europe/Berlin,UNKNOWN,Q4,FY2019Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2020-02-05,,Europe/Berlin,UNKNOWN,Q1,FY2020Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2020-03-26,13:30,Europe/Berlin,INTRADAY,profit_warning,FY2020Q2,https://www.infineon.com/assets/row/public/documents/corporate/investors/ad-hoc-news/2020-ifx-ad-hoc-26-march-2020-13-30-uhr-v01-00-en.pdf
+IFX.DE,2020-05-04,20:59,Europe/Berlin,AMC,profit_warning,FY2020Q2,https://www.infineon.com/assets/row/public/documents/corporate/investors/ad-hoc-news/2020-ifx-ad-hoc-4-may-2020-20-59-uhr-v01-00-en.pdf
+IFX.DE,2020-05-05,,Europe/Berlin,UNKNOWN,Q2,FY2020Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2020-08-04,,Europe/Berlin,UNKNOWN,Q3,FY2020Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2020-11-09,,Europe/Berlin,UNKNOWN,Q4,FY2020Q4,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2021-02-04,,Europe/Berlin,UNKNOWN,Q1,FY2021Q1,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2021-05-04,,Europe/Berlin,UNKNOWN,Q2,FY2021Q2,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2021-08-03,,Europe/Berlin,UNKNOWN,Q3,FY2021Q3,https://finance.yahoo.com/quote/IFX.DE/ (earnings date; no time)
+IFX.DE,2021-10-05,,Europe/Berlin,UNKNOWN,CMD,FY2022Q1,https://www.infineon.com/press-release/2021/infxx202110-002
+IFX.DE,2021-11-10,,Europe/Berlin,UNKNOWN,Q4,FY2021Q4,https://www.infineon.com/press-release/2021/infxx202111-016
+IFX.DE,2022-02-03,,Europe/Berlin,UNKNOWN,Q1,FY2022Q1,https://www.infineon.com/press-release/2022/infxx202202-046
+IFX.DE,2022-05-09,,Europe/Berlin,UNKNOWN,Q2,FY2022Q2,https://www.infineon.com/press-release/2022/infxx202205-078
+IFX.DE,2022-08-03,,Europe/Berlin,UNKNOWN,Q3,FY2022Q3,https://www.infineon.com/press-release/2022/infxx202208-109
+IFX.DE,2022-11-14,,Europe/Berlin,UNKNOWN,Q4,FY2022Q4,https://www.infineon.com/press-release/2022/infxx202211-025
+IFX.DE,2023-02-02,,Europe/Berlin,UNKNOWN,Q1,FY2023Q1,https://www.infineon.com/press-release/2023/infxx202302-054
+IFX.DE,2023-03-28,18:31,Europe/Berlin,AMC,prelim,FY2023Q2,https://www.infineon.com/assets/row/public/documents/corporate/investors/ad-hoc-news/2023-ifx-ad-hoc-28-march-2023-18-31-uhr-v01-00-en.pdf
+IFX.DE,2023-05-04,,Europe/Berlin,UNKNOWN,Q2,FY2023Q2,https://www.infineon.com/press-release/2023/infxx202305-102
+IFX.DE,2023-08-03,,Europe/Berlin,UNKNOWN,Q3,FY2023Q3,https://www.infineon.com/press-release/2023/infxx202308-141
+IFX.DE,2023-11-15,,Europe/Berlin,UNKNOWN,Q4,FY2023Q4,https://www.infineon.com/press-release/2023/infxx202311-022
+IFX.DE,2024-02-06,,Europe/Berlin,UNKNOWN,Q1,FY2024Q1,https://www.infineon.com/press-release/2024/infxx202402-056
+IFX.DE,2024-05-07,,Europe/Berlin,BMO,Q2,FY2024Q2,https://www.infineon.com/press-release/2024/infxx202405-100
+IFX.DE,2024-08-05,,Europe/Berlin,BMO,Q3,FY2024Q3,https://www.infineon.com/press-release/2024/infxx202408-130
+IFX.DE,2024-11-12,,Europe/Berlin,BMO,Q4,FY2024Q4,https://www.infineon.com/press-release/2024/infxx202411-020
+IFX.DE,2025-02-04,,Europe/Berlin,BMO,Q1,FY2025Q1,https://www.infineon.com/press-release/2025/infxx202502-050
+IFX.DE,2025-05-08,,Europe/Berlin,BMO,Q2,FY2025Q2,https://www.infineon.com/press-release/2025/INFXX202505-098
+IFX.DE,2025-08-05,,Europe/Berlin,UNKNOWN,Q3,FY2025Q3,https://www.infineon.com/press-release/2025/INFXX202508-130
+IFX.DE,2025-11-12,,Europe/Berlin,UNKNOWN,Q4,FY2025Q4,https://www.infineon.com/press-release/2025/infxx202511-021
+IFX.DE,2026-02-04,,Europe/Berlin,BMO,Q1,FY2026Q1,https://www.infineon.com/press-release/2026/infxx202602-042
+IFX.DE,2026-05-06,,Europe/Berlin,BMO,Q2,FY2026Q2,https://www.infineon.com/press-release/2026/infxx202605-082
+IFX.DE,2026-08-05,,Europe/Berlin,BMO,Q3,FY2026Q3,https://www.infineon.com/press-release/2026/infpr202608-125

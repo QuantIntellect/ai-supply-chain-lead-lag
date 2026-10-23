@@ -1,0 +1,753 @@
+ticker,counterparty,relation,call_date,quote
+NVDA,AMZN,customer,2022-02-16,These AI models are trained on video GPUs in AWS and perform inference 10x faster on the AWS GP service
+NVDA,CSCO,partner,2022-02-16,"Our ecosystem of NVIDIA-certified systems expanded with Cisco and Hitachi -- which joined Dell, HewlettPackard Enterprise, Insper, Lenovo, and Supermicro, among other sever manufacturers."
+NVDA,DELL,partner,2022-02-16,"Our ecosystem of NVIDIA-certified systems expanded with Cisco and Hitachi -- which joined Dell, HewlettPackard Enterprise, Insper, Lenovo, and Supermicro, among other sever manufacturers."
+NVDA,Lenovo,partner,2022-02-16,"Our ecosystem of NVIDIA-certified systems expanded with Cisco and Hitachi -- which joined Dell, HewlettPackard Enterprise, Insper, Lenovo, and Supermicro, among other sever manufacturers."
+NVDA,META,customer,2022-02-16,"Meta Platforms unveils its new AI supercomputer research, SuperCluster, with over 6,000 A100 GPUs"
+NVDA,MSFT,partner,2022-02-16,"Along with partners like Microsoft Azure, NVIDIA such records in the latest benchmarks for AI training"
+NVDA,SMCI,partner,2022-02-16,"Our ecosystem of NVIDIA-certified systems expanded with Cisco and Hitachi -- which joined Dell, HewlettPackard Enterprise, Insper, Lenovo, and Supermicro, among other sever manufacturers."
+NVDA,Samsung,partner,2022-02-16,"At CES, we announced a partnership with Samsung to integrate GeForce NOW in its smart TVs starting in Q2 of this year."
+NVDA,Snap,customer,2022-02-16,Social media company Snap used NVIDIA GPUs and Merlin deep recommendator software to improve inference cost efficiency by 50%
+NVDA,AMZN,customer,2022-05-25,Amazon is using Omniverse to better optimize warehouse design and flow and to train more intelligent robots.
+NVDA,Foxconn,partner,2022-05-25,"dozens of server models based on Grace will be brought to market by the first wave of system builders, including ASUS, Foxconn, Gigabyte, QCT, Supermicro and Wiwynn."
+NVDA,MSFT,customer,2022-05-25,"customers like Microsoft are increasingly deploying NVIDIA AI, including our NVIDIA Ampere architecture-based GPUs and full software stack."
+NVDA,SMCI,partner,2022-05-25,"dozens of server models based on Grace will be brought to market by the first wave of system builders, including ASUS, Foxconn, Gigabyte, QCT, Supermicro and Wiwynn."
+NVDA,Wistron,partner,2022-05-25,"dozens of server models based on Grace will be brought to market by the first wave of system builders, including ASUS, Foxconn, Gigabyte, QCT, Supermicro and Wiwynn."
+NVDA,DELL,customer,2022-08-24,"Top computer makers, including Dell, HPE, Inspur, Lenovo and Supermicro are adopting the new NVIDIA Grace CPU Superchip and Grace Hopper Superchip"
+NVDA,HPE,customer,2022-08-24,"Top computer makers, including Dell, HPE, Inspur, Lenovo and Supermicro are adopting the new NVIDIA Grace CPU Superchip and Grace Hopper Superchip"
+NVDA,Lenovo,customer,2022-08-24,"Top computer makers, including Dell, HPE, Inspur, Lenovo and Supermicro are adopting the new NVIDIA Grace CPU Superchip and Grace Hopper Superchip"
+NVDA,MSFT,partner,2022-08-24,"as well as in Microsoft Azure cloud, with other product platforms available soon"
+NVDA,Pinterest,customer,2022-08-24,Pinterest transitioned to 100x larger recommender models by moving its inference from CPUs to NVIDIA GPUs.
+NVDA,SMCI,customer,2022-08-24,"Top computer makers, including Dell, HPE, Inspur, Lenovo and Supermicro are adopting the new NVIDIA Grace CPU Superchip and Grace Hopper Superchip"
+NVDA,Tesla,customer,2022-08-24,"And Tesla recently upgraded its supercomputer to use over 7,000 A100 GPUs for autopilot training."
+NVDA,AMZN,customer,2022-11-16,"Early next year, the first H-100 based cloud instances will be available on Amazon Web Services, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure."
+NVDA,DELL,customer,2022-11-16,"A100-based systems are available starting this month from leading server makers including Dell, Hewlett Packard Enterprise, Lenovo and SuperMicro."
+NVDA,GOOGL,customer,2022-11-16,"Early next year, the first H-100 based cloud instances will be available on Amazon Web Services, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure."
+NVDA,HPE,customer,2022-11-16,"A100-based systems are available starting this month from leading server makers including Dell, Hewlett Packard Enterprise, Lenovo and SuperMicro."
+NVDA,Lenovo,customer,2022-11-16,"A100-based systems are available starting this month from leading server makers including Dell, Hewlett Packard Enterprise, Lenovo and SuperMicro."
+NVDA,MSFT,partner,2022-11-16,"Earlier today, we announced a multiyear collaboration with Microsoft to build an advanced cloud-based AI supercomputer"
+NVDA,MSFT,customer,2022-11-16,"MacBook Azure will incorporate our complete AI stack, adding tens and thousands of A100 and A100 GPUs."
+NVDA,ORCL,customer,2022-11-16,"This includes bringing to Oracle Cloud infrastructure, the full NVIDIA accelerated computing stack and adding tens of thousands of NVIDIA GPUs, including the A100 and H-100."
+NVDA,SMCI,customer,2022-11-16,"A100-based systems are available starting this month from leading server makers including Dell, Hewlett Packard Enterprise, Lenovo and SuperMicro."
+NVDA,Foxconn,partner,2023-02-22,"At CES, we announced a strategic partnership with Foxconn to develop automated and autonomous vehicle platforms."
+NVDA,GOOGL,partner,2023-02-22,"NVIDIA DGX Cloud is already available through Oracle Cloud Infrastructure and Microsoft Azure, Google GCP, and others on the way."
+NVDA,MSFT,partner,2023-02-22,"NVIDIA DGX Cloud is already available through Oracle Cloud Infrastructure and Microsoft Azure, Google GCP, and others on the way."
+NVDA,ORCL,customer,2023-02-22,"we are serving an expanding list of fast-growing cloud service providers, including Oracle and GPU specialized CSPs."
+NVDA,ORCL,partner,2023-02-22,"NVIDIA DGX Cloud is already available through Oracle Cloud Infrastructure and Microsoft Azure, Google GCP, and others on the way."
+NVDA,AMZN,customer,2023-05-24,"Multiple CSPs announced the availability of H100 on their platforms, including private previews at Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, upcoming offerings at AWS"
+NVDA,Baidu,customer,2023-05-24,"BlueField-3 is in production and has been adopted by multiple hyperscale and CSP customers, including Microsoft Azure, Oracle Cloud, CoreWeave, Baidu, and others."
+NVDA,CRWV,customer,2023-05-24,"BlueField-3 is in production and has been adopted by multiple hyperscale and CSP customers, including Microsoft Azure, Oracle Cloud, CoreWeave, Baidu, and others."
+NVDA,GOOGL,customer,2023-05-24,Google Cloud is the first CSP to adopt our L4 inference platform with the launch of its G2 virtual machines for generative AI inference and other workloads
+NVDA,GOOGL,partner,2023-05-24,"And with the launch of DGX Cloud through our partnership with Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, we deliver the promise of NVIDIA DGX to customers from the cloud."
+NVDA,META,customer,2023-05-24,"For example, Meta has now deployed its H100-powered brand Teton AI supercomputer for its AI production and research teams."
+NVDA,MSFT,customer,2023-05-24,"Multiple CSPs announced the availability of H100 on their platforms, including private previews at Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, upcoming offerings at AWS"
+NVDA,MSFT,partner,2023-05-24,"And with the launch of DGX Cloud through our partnership with Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, we deliver the promise of NVIDIA DGX to customers from the cloud."
+NVDA,ORCL,customer,2023-05-24,"Multiple CSPs announced the availability of H100 on their platforms, including private previews at Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, upcoming offerings at AWS"
+NVDA,ORCL,partner,2023-05-24,"And with the launch of DGX Cloud through our partnership with Microsoft Azure, Google Cloud, and Oracle Cloud Infrastructure, we deliver the promise of NVIDIA DGX to customers from the cloud."
+NVDA,AMZN,customer,2023-08-23,"Major companies including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in-volume HGX systems"
+NVDA,DELL,customer,2023-08-23,"And in combination with HPE, Dell, and Lenovo's new server offerings based on L40S, any -- any enterprise could have a state-of-the-art AI data center"
+NVDA,GOOGL,customer,2023-08-23,"Major companies including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in-volume HGX systems"
+NVDA,HPE,customer,2023-08-23,"And in combination with HPE, Dell, and Lenovo's new server offerings based on L40S, any -- any enterprise could have a state-of-the-art AI data center"
+NVDA,Lenovo,customer,2023-08-23,"And in combination with HPE, Dell, and Lenovo's new server offerings based on L40S, any -- any enterprise could have a state-of-the-art AI data center"
+NVDA,META,customer,2023-08-23,"Major companies including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in-volume HGX systems"
+NVDA,MSFT,customer,2023-08-23,"Major companies including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in-volume HGX systems"
+NVDA,ORCL,customer,2023-08-23,"Major companies including AWS, Google Cloud, Meta, Microsoft Azure, and Oracle Cloud, as well as a growing number of GPU cloud providers are deploying in-volume HGX systems"
+NVDA,SoftBank,partner,2023-08-23,And Nvidia and SoftBank are collaborating on a platform based on GH200 for generative AI and 5G/6G applications.
+NVDA,ADBE,customer,2023-11-21,"Some of the most exciting generative AI applications are built and run on NVIDIA, including Adobe, Firefly, ChatGPT, Microsoft 365 Copilot, CoAssist, Now Assist with ServiceNow"
+NVDA,AMZN,customer,2023-11-21,"Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud will be among the first CSPs to offer H200 base instances starting next year."
+NVDA,Amdocs,customer,2023-11-21,SAP and Amdocs are the first customers of the NVIDIA AI foundry service on Microsoft Azure.
+NVDA,GOOGL,customer,2023-11-21,"Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud will be among the first CSPs to offer H200 base instances starting next year."
+NVDA,META,customer,2023-11-21,Companies like Meta are in full production with learning recommender systems
+NVDA,MSFT,customer,2023-11-21,"Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud will be among the first CSPs to offer H200 base instances starting next year."
+NVDA,MSFT,partner,2023-11-21,"At last week's Microsoft Ignite, we deepened and expanded our collaboration with Microsoft across higher stock."
+NVDA,NOW,customer,2023-11-21,"Some of the most exciting generative AI applications are built and run on NVIDIA, including Adobe, Firefly, ChatGPT, Microsoft 365 Copilot, CoAssist, Now Assist with ServiceNow"
+NVDA,ORCL,customer,2023-11-21,"Amazon Web Services, Google Cloud, Microsoft Azure, and Oracle Cloud will be among the first CSPs to offer H200 base instances starting next year."
+NVDA,OpenAI,customer,2023-11-21,"Some of the most exciting generative AI applications are built and run on NVIDIA, including Adobe, Firefly, ChatGPT, Microsoft 365 Copilot, CoAssist, Now Assist with ServiceNow"
+NVDA,SAP.DE,customer,2023-11-21,SAP and Amdocs are the first customers of the NVIDIA AI foundry service on Microsoft Azure.
+NVDA,AMZN,customer,2024-05-22,"Blackwell time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and XAi."
+NVDA,Anthropic,customer,2024-05-22,"Leading LLM companies such as OpenAI, Adept, Anthropic, Character.ai, Cohere, Databricks, DeepMind, Meta, Mistral, XAi, and many others are building on NVIDIA AI in the cloud."
+NVDA,GOOGL,customer,2024-05-22,"Blackwell time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and XAi."
+NVDA,META,customer,2024-05-22,"A big highlight this quarter was Meta's announcement of Llama 3, their latest large language model, which was trained on a cluster of 24,000 H100 GPUs."
+NVDA,MSFT,customer,2024-05-22,"Blackwell time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and XAi."
+NVDA,Mistral,customer,2024-05-22,"Leading LLM companies such as OpenAI, Adept, Anthropic, Character.ai, Cohere, Databricks, DeepMind, Meta, Mistral, XAi, and many others are building on NVIDIA AI in the cloud."
+NVDA,ORCL,customer,2024-05-22,"Blackwell time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and XAi."
+NVDA,OpenAI,customer,2024-05-22,The first H200 system was delivered by Jensen to Sam Altman and the team at OpenAI and powered their amazing GPT-4o demos last week.
+NVDA,Tesla,customer,2024-05-22,"We supported Tesla's expansion of their training AI cluster to 35,000 H100 GPUs."
+NVDA,xAI,customer,2024-05-22,"Blackwell time-to-market customers include Amazon, Google, Meta, Microsoft, OpenAI, Oracle, Tesla, and XAi."
+NVDA,DELL,customer,2024-08-28,"We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Super Micro."
+NVDA,Foxconn,supplier,2024-08-28,"The world's largest electronics manufacturer, Foxconn, is using NVIDIA Omniverse to power digital twins of the physical plants that produce NVIDIA Blackwell systems."
+NVDA,Foxconn,customer,2024-08-28,"We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Super Micro."
+NVDA,Lenovo,customer,2024-08-28,"We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Super Micro."
+NVDA,META,partner,2024-08-28,we announced a new NVIDIA AI foundry service to supercharge generative AI for the world's enterprises with Meta's Llama 3.1 collection of models.
+NVDA,Quanta Computer,customer,2024-08-28,"We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Super Micro."
+NVDA,SMCI,customer,2024-08-28,"We love the fact that our supply chain is disintegrated in the sense that we could service Quanta, Foxconn, HP, Dell, Lenovo, Super Micro."
+NVDA,xAI,customer,2024-08-28,"being adopted by CSPs, GPU cloud providers, and enterprises, including xAI to connect the largest GPU compute cluster in the world."
+NVDA,AMZN,customer,2024-11-20,"NVIDIA H200-powered cloud instances are now available from AWS, CoreWeave, and Microsoft Azure, with Google Cloud and OCI coming soon."
+NVDA,Amphenol,supplier,2024-11-20,"And we've got great partners, everybody from, of course, TSMC and Amphenol, the connector company, incredible company; Vertiv and SK Hynix and Micron"
+NVDA,CRWV,customer,2024-11-20,"NVIDIA H200-powered cloud instances are now available from AWS, CoreWeave, and Microsoft Azure, with Google Cloud and OCI coming soon."
+NVDA,Foxconn,supplier,2024-11-20,"Foxconn, the world's largest electronics manufacturer, is using digital twin and industrial AI built on NVIDIA Omniverse to speed the bring-up of its Blackwell factories"
+NVDA,GOOGL,customer,2024-11-20,"NVIDIA H200-powered cloud instances are now available from AWS, CoreWeave, and Microsoft Azure, with Google Cloud and OCI coming soon."
+NVDA,MSFT,customer,2024-11-20,"Yesterday, Microsoft announced they will be the first CSP to offer, in private preview, Blackwell-based cloud instances powered by NVIDIA GB200 and Quantum InfiniBand."
+NVDA,MU,supplier,2024-11-20,"And we've got great partners, everybody from, of course, TSMC and Amphenol, the connector company, incredible company; Vertiv and SK Hynix and Micron"
+NVDA,ORCL,customer,2024-11-20,"Oracle announced the world's first Zettascale AI cloud computing clusters that can scale to over 131,000 Blackwell GPUs"
+NVDA,OpenAI,customer,2024-11-20,"We shipped 13,000 GPU samples to customers in the third quarter, including one of the first Blackwell DGX engineering samples to OpenAI."
+NVDA,Quanta Computer,supplier,2024-11-20,"and there's Foxconn and the factories that they've built; and Quanta and Wiwynn; and, gosh, Dell and HP, and Super Micro, Lenovo."
+NVDA,SK hynix,supplier,2024-11-20,"And we've got great partners, everybody from, of course, TSMC and Amphenol, the connector company, incredible company; Vertiv and SK Hynix and Micron"
+NVDA,SoftBank,customer,2024-11-20,"In Japan, SoftBank is building the nation's most powerful AI supercomputer with NVIDIA DGX Blackwell and Quantum InfiniBand."
+NVDA,TSM,supplier,2024-11-20,"And we've got great partners, everybody from, of course, TSMC and Amphenol, the connector company, incredible company; Vertiv and SK Hynix and Micron"
+NVDA,VRT,supplier,2024-11-20,"And we've got great partners, everybody from, of course, TSMC and Amphenol, the connector company, incredible company; Vertiv and SK Hynix and Micron"
+NVDA,Wistron,supplier,2024-11-20,"and there's Foxconn and the factories that they've built; and Quanta and Wiwynn; and, gosh, Dell and HP, and Super Micro, Lenovo."
+NVDA,AMZN,customer,2025-02-26,"Large CSPs were some of the first to stand up Blackwell with Azure, GCP, AWS, and OCI bringing GB200 systems to cloud regions around the world"
+NVDA,CRWV,customer,2025-02-26,"Microsoft Azure, OCI, CoreWeave, and others are building large AI factories with Spectrum-X."
+NVDA,GOOGL,customer,2025-02-26,"Large CSPs were some of the first to stand up Blackwell with Azure, GCP, AWS, and OCI bringing GB200 systems to cloud regions around the world"
+NVDA,META,customer,2025-02-26,"Meta's cutting-edge Andromeda advertising engine runs on NVIDIA's Grace Hopper Superchip serving vast quantities of ads across Instagram, Facebook applications."
+NVDA,MSFT,customer,2025-02-26,"Large CSPs were some of the first to stand up Blackwell with Azure, GCP, AWS, and OCI bringing GB200 systems to cloud regions around the world"
+NVDA,ORCL,customer,2025-02-26,"Large CSPs were some of the first to stand up Blackwell with Azure, GCP, AWS, and OCI bringing GB200 systems to cloud regions around the world"
+NVDA,xAI,customer,2025-02-26,"For example, xAI is adopting the GB200 to train and inference its next generation of Grok AI models."
+NVDA,AMZN,customer,2025-11-19,"AWS and Humane expanded their including the deployment of up to 150,000 AI accelerators, including our GB 300"
+NVDA,ARM,partner,2025-11-19,Arm announced that it will be integrating NVLink IP for customers to build CPU SoCs that connect with NVIDIA Corporation.
+NVDA,Anthropic,customer,2025-11-19,"For the first time, Anthropic is adopting NVIDIA Corporation"
+NVDA,Anthropic,partner,2025-11-19,"For the first time, Anthropic is adopting NVIDIA Corporation and we are establishing a deep technology partnership"
+NVDA,CRWV,customer,2025-11-19,"We serve OpenAI, through their cloud partners. Microsoft Azure, OCI, and CoreWeave."
+NVDA,Humain,customer,2025-11-19,"AWS and Humane expanded their including the deployment of up to 150,000 AI accelerators, including our GB 300"
+NVDA,INTC,partner,2025-11-19,We also announced a collaboration with Intel to develop multiple generations of custom data center and PC products connecting NVIDIA Corporation and Intel's ecosystems using NVLink.
+NVDA,MSFT,customer,2025-11-19,"We serve OpenAI, through their cloud partners. Microsoft Azure, OCI, and CoreWeave."
+NVDA,ORCL,customer,2025-11-19,"We serve OpenAI, through their cloud partners. Microsoft Azure, OCI, and CoreWeave."
+NVDA,OpenAI,partner,2025-11-19,We are working on a strategic partnership with OpenAI focused on helping them build and deploy at least 10 gigawatts of AI data centers.
+NVDA,OpenAI,customer,2025-11-19,And everything that OpenAI does runs on NVIDIA Corporation today.
+NVDA,TSM,supplier,2025-11-19,"Last month, in partnership with TSMC, we celebrated the first Blackwell wafer produced on US soil."
+NVDA,AMZN,partner,2026-02-25,"In Q4, we announced that we will enable AWS with NVLink to integrate with their custom silicon."
+NVDA,Anthropic,partner,2026-02-25,"This quarter, we announced a partnership with Anthropic and a $10,000,000,000 investment in their company."
+NVDA,Anthropic,customer,2026-02-25,Anthropic will train and inference on Grace Blackwell and Vera Rubin systems.
+NVDA,Groq,partner,2026-02-25,"Finally, we recently entered into a non-licensing agreement with Groq for its low-latency inference technology and welcomed a team of brilliant engineers to NVIDIA Corporation."
+NVDA,META,customer,2026-02-25,"Last week, we announced that Meta is deploying millions of Blackwell and Rubin GPUs, NVIDIA Corporation CPUs, and Spectrum X Ethernet for training and inference."
+NVDA,OpenAI,customer,2026-02-25,"We recently celebrated OpenAI's launch of GPT-5.3 Codex, trained with and inferencing on Grace Blackwell and NVLink 72 systems."
+NVDA,xAI,partner,2026-02-25,"With partnerships spanning Anthropic, Meta, OpenAI, and xAI, NVIDIA Corporation is deployed across every cloud"
+NVDA,AMZN,customer,2026-05-20,"Starting this year, AWS will add more than 1 million Blackwell and Rubin GPUs and are collaborating on spectrum networking."
+NVDA,Anthropic,partner,2026-05-20,We have deepened our collaboration with Anthropic and are delighted to be a strategic partner to expand their compute capacity.
+NVDA,CRWV,customer,2026-05-20,"We will support the company's growth trajectory through AWS, Azure, CoreWeave, StacyX AI, and more."
+NVDA,GOOGL,customer,2026-05-20,"At Google, Blackwell will be offered to customers in the cloud including confidential computing capability"
+NVDA,MSFT,customer,2026-05-20,Microsoft's Farweave the world's most powerful AI data center is now live.
+NVDA,OpenAI,customer,2026-05-20,"Last month, we celebrated OpenAI's launch of GPT 5.5 codesigned for trained with, and served on Blackwell."
+NVDA,AMZN,customer,2026-08-26,AWS is deploying an additional 2 million GPUs starting this quarter through the second quarter of fiscal '29
+NVDA,Groq,partner,2026-08-26,"Since the announcement of our Groq partnership last year, we've been working to unite NVIDIA's high throughput and racks high interactivity architectures."
+NVDA,ORCL,customer,2026-08-26,"with shipments already underway to our lead partners, including OCI, SpaceX AI and starting this quarter, AWS."
+NVDA,OpenAI,customer,2026-08-26,OpenAI's existing and planned commitments represent approximately 12 gigawatts of NVIDIA compute.
+NVDA,Samsung,customer,2026-08-26,Samsung Electronics is using NVIDIA cuLitho to achieve up to 20x greater performance in computational lithography
+AMD,AMZN,customer,2022-02-01,"more than 130 new AMD-powered instances launched from Amazon Web Services, Alibaba, Google, IBM, Microsoft Azure"
+AMD,Alibaba,customer,2022-02-01,"more than 130 new AMD-powered instances launched from Amazon Web Services, Alibaba, Google, IBM, Microsoft Azure"
+AMD,CSCO,customer,2022-02-01,"the ongoing ramp of more than 100 third-gen EPYC platforms available from Dell, HP Enterprise, Lenovo, Supermicro, Cisco, and others"
+AMD,DELL,customer,2022-02-01,"the ongoing ramp of more than 100 third-gen EPYC platforms available from Dell, HP Enterprise, Lenovo, Supermicro, Cisco, and others"
+AMD,GOOGL,customer,2022-02-01,"more than 130 new AMD-powered instances launched from Amazon Web Services, Alibaba, Google, IBM, Microsoft Azure"
+AMD,IBM,customer,2022-02-01,"more than 130 new AMD-powered instances launched from Amazon Web Services, Alibaba, Google, IBM, Microsoft Azure"
+AMD,Lenovo,customer,2022-02-01,"the ongoing ramp of more than 100 third-gen EPYC platforms available from Dell, HP Enterprise, Lenovo, Supermicro, Cisco, and others"
+AMD,MSFT,customer,2022-02-01,"more than 130 new AMD-powered instances launched from Amazon Web Services, Alibaba, Google, IBM, Microsoft Azure"
+AMD,SMCI,customer,2022-02-01,"the ongoing ramp of more than 100 third-gen EPYC platforms available from Dell, HP Enterprise, Lenovo, Supermicro, Cisco, and others"
+AMD,Sony,customer,2022-02-01,We expect revenue to grow this year driven by continued strong demand for the latest Microsoft and Sony consoles.
+AMD,AMZN,customer,2022-05-03,"70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google and others"
+AMD,Alibaba,customer,2022-05-03,"70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google and others"
+AMD,Baidu,customer,2022-05-03,"70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google and others"
+AMD,CSCO,customer,2022-05-03,"Atos, Cisco, Dell, HPE, Lenovo and Supermicro all launched servers featuring the new CPUs in the quarter."
+AMD,DELL,customer,2022-05-03,"Atos, Cisco, Dell, HPE, Lenovo and Supermicro all launched servers featuring the new CPUs in the quarter."
+AMD,GOOGL,customer,2022-05-03,"70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google and others"
+AMD,HPE,customer,2022-05-03,"Atos, Cisco, Dell, HPE, Lenovo and Supermicro all launched servers featuring the new CPUs in the quarter."
+AMD,Lenovo,customer,2022-05-03,"Atos, Cisco, Dell, HPE, Lenovo and Supermicro all launched servers featuring the new CPUs in the quarter."
+AMD,MSFT,customer,2022-05-03,"70 new AMD-powered instances launched from Alibaba, Amazon, Baidu Cloud, Microsoft Azure, Google and others"
+AMD,SMCI,customer,2022-05-03,"Atos, Cisco, Dell, HPE, Lenovo and Supermicro all launched servers featuring the new CPUs in the quarter."
+AMD,TSM,supplier,2022-05-03,"both the Xilinx portfolio and sort of the organic AMD portfolio do use TSMC, so we are complementary there as our primary wafer supplier"
+AMD,AMZN,customer,2022-08-02,"more than 60 new instances powered by third-gen EPYC processors launched in the quarter from AWS, Baidu, Google, Microsoft Azure, and Oracle"
+AMD,Baidu,customer,2022-08-02,"more than 60 new instances powered by third-gen EPYC processors launched in the quarter from AWS, Baidu, Google, Microsoft Azure, and Oracle"
+AMD,CSCO,customer,2022-08-02,"Dell, HPE, Lenovo, Super Micro, Cisco, and others brought tailored solutions to market"
+AMD,DELL,customer,2022-08-02,"Dell, HPE, Lenovo, Super Micro, Cisco, and others brought tailored solutions to market"
+AMD,GOOGL,customer,2022-08-02,"more than 60 new instances powered by third-gen EPYC processors launched in the quarter from AWS, Baidu, Google, Microsoft Azure, and Oracle"
+AMD,HPE,customer,2022-08-02,"Dell, HPE, Lenovo, Super Micro, Cisco, and others brought tailored solutions to market"
+AMD,Lenovo,customer,2022-08-02,"Dell, HPE, Lenovo, Super Micro, Cisco, and others brought tailored solutions to market"
+AMD,MSFT,customer,2022-08-02,"more than 60 new instances powered by third-gen EPYC processors launched in the quarter from AWS, Baidu, Google, Microsoft Azure, and Oracle"
+AMD,ORCL,customer,2022-08-02,"more than 60 new instances powered by third-gen EPYC processors launched in the quarter from AWS, Baidu, Google, Microsoft Azure, and Oracle"
+AMD,SMCI,customer,2022-08-02,"Dell, HPE, Lenovo, Super Micro, Cisco, and others brought tailored solutions to market"
+AMD,AMZN,customer,2022-11-01,"more than 70 new AMD instances were launched by Microsoft Azure and Amazon, Tencent, Baidu, and others in the quarter"
+AMD,Baidu,customer,2022-11-01,"more than 70 new AMD instances were launched by Microsoft Azure and Amazon, Tencent, Baidu, and others in the quarter"
+AMD,DELL,customer,2022-11-01,"the introduction of fourth-gen EPYC processor platforms by HP Enterprise, Dell, Lenovo, Super Micro, and others"
+AMD,Lenovo,customer,2022-11-01,"the introduction of fourth-gen EPYC processor platforms by HP Enterprise, Dell, Lenovo, Super Micro, and others"
+AMD,MSFT,customer,2022-11-01,"more than 70 new AMD instances were launched by Microsoft Azure and Amazon, Tencent, Baidu, and others in the quarter"
+AMD,SMCI,customer,2022-11-01,"the introduction of fourth-gen EPYC processor platforms by HP Enterprise, Dell, Lenovo, Super Micro, and others"
+AMD,Tencent,customer,2022-11-01,"more than 70 new AMD instances were launched by Microsoft Azure and Amazon, Tencent, Baidu, and others in the quarter"
+AMD,AMZN,customer,2023-01-31,"following the launches of new AMD-based instances from AWS, Microsoft and others in the quarter"
+AMD,DELL,customer,2023-01-31,"more than 140 fourth-gen EPYC platforms in development from HPE, Dell, Lenovo, Super Micro and others"
+AMD,HPE,customer,2023-01-31,"more than 140 fourth-gen EPYC platforms in development from HPE, Dell, Lenovo, Super Micro and others"
+AMD,Lawrence Livermore National Laboratory,customer,2023-01-31,has been selected to power the two-plus exaflop El Capitan exascale supercomputer at Lawrence Livermore National Laboratories
+AMD,Lenovo,customer,2023-01-31,"more than 140 fourth-gen EPYC platforms in development from HPE, Dell, Lenovo, Super Micro and others"
+AMD,MSFT,customer,2023-01-31,"following the launches of new AMD-based instances from AWS, Microsoft and others in the quarter"
+AMD,SMCI,customer,2023-01-31,"more than 140 fourth-gen EPYC platforms in development from HPE, Dell, Lenovo, Super Micro and others"
+AMD,DELL,customer,2023-05-02,"For the enterprise, Dell, HPE, Lenovo, Super Micro and other leading providers entered production on new general server platforms"
+AMD,HPE,customer,2023-05-02,"For the enterprise, Dell, HPE, Lenovo, Super Micro and other leading providers entered production on new general server platforms"
+AMD,Lawrence Livermore National Laboratory,customer,2023-05-02,we're on track to launch MI300 later this year to support the El Capitan exascale supercomputer win at Lawrence Livermore
+AMD,Lenovo,customer,2023-05-02,"For the enterprise, Dell, HPE, Lenovo, Super Micro and other leading providers entered production on new general server platforms"
+AMD,MSFT,customer,2023-05-02,Microsoft Azure launched their first instance powered by our Pensando DPU and software stack
+AMD,SMCI,customer,2023-05-02,"For the enterprise, Dell, HPE, Lenovo, Super Micro and other leading providers entered production on new general server platforms"
+AMD,AMZN,customer,2023-08-01,"multiple Genoa instances announced by AWS, Alibaba, Microsoft, and Oracle"
+AMD,Alibaba,customer,2023-08-01,"multiple Genoa instances announced by AWS, Alibaba, Microsoft, and Oracle"
+AMD,DELL,customer,2023-08-01,"Dell, HPE, Lenovo, Supermicro, and other large server providers are on track to begin launching their new Bergamo platforms in the third quarter."
+AMD,HPE,customer,2023-08-01,"Dell, HPE, Lenovo, Supermicro, and other large server providers are on track to begin launching their new Bergamo platforms in the third quarter."
+AMD,Hugging Face,partner,2023-08-01,"Hugging Face announced plans to optimize thousands of their models for AMD Instinct, Ryzen, EPYC, Radeon, Versal, and Alveo platforms."
+AMD,Lenovo,customer,2023-08-01,"Dell, HPE, Lenovo, Supermicro, and other large server providers are on track to begin launching their new Bergamo platforms in the third quarter."
+AMD,META,customer,2023-08-01,"We were excited to be joined at our launch event by Meta, where they announced plans to deploy Bergamo broadly across their global data center infrastructure"
+AMD,MSFT,customer,2023-08-01,"multiple Genoa instances announced by AWS, Alibaba, Microsoft, and Oracle"
+AMD,MosaicML,partner,2023-08-01,"leading AI software company, MosaicML, recently highlighted that our Instinct MI250 accelerator delivers competitive training performance"
+AMD,ORCL,customer,2023-08-01,"multiple Genoa instances announced by AWS, Alibaba, Microsoft, and Oracle"
+AMD,SAP.DE,customer,2023-08-01,SAP selected EPYC processors to power RISE with SAP applications hosted on Google Cloud
+AMD,SMCI,customer,2023-08-01,"Dell, HPE, Lenovo, Supermicro, and other large server providers are on track to begin launching their new Bergamo platforms in the third quarter."
+AMD,AMZN,customer,2023-10-31,"Nearly 100 new AMD-powered cloud instances launched in the quarter from Amazon, Google, Microsoft, Oracle, Tencent, and others"
+AMD,DELL,customer,2023-10-31,"Dell, Lenovo, Super Micro, and others launched new platforms that expand our EPYC CPU TAM"
+AMD,GOOGL,customer,2023-10-31,"Nearly 100 new AMD-powered cloud instances launched in the quarter from Amazon, Google, Microsoft, Oracle, Tencent, and others"
+AMD,Hugging Face,partner,2023-10-31,Hugging Face models are now regularly updated and validated to run on Instinct accelerators
+AMD,Lamini,partner,2023-10-31,"AI start-up, Lamini, announced they achieved software parity with CUDA for LLMs running on Instinct MI250 GPUs"
+AMD,Lenovo,customer,2023-10-31,"Dell, Lenovo, Super Micro, and others launched new platforms that expand our EPYC CPU TAM"
+AMD,MSFT,customer,2023-10-31,"Nearly 100 new AMD-powered cloud instances launched in the quarter from Amazon, Google, Microsoft, Oracle, Tencent, and others"
+AMD,ORCL,customer,2023-10-31,"Nearly 100 new AMD-powered cloud instances launched in the quarter from Amazon, Google, Microsoft, Oracle, Tencent, and others"
+AMD,SMCI,customer,2023-10-31,"Dell, Lenovo, Super Micro, and others launched new platforms that expand our EPYC CPU TAM"
+AMD,Tencent,customer,2023-10-31,"Nearly 100 new AMD-powered cloud instances launched in the quarter from Amazon, Google, Microsoft, Oracle, Tencent, and others"
+AMD,AMZN,customer,2024-01-30,"Amazon, Alibaba, Google, Microsoft and Oracle brought more than 55 AMD-powered AI, HPC and general-purpose cloud instances into preview or general availability"
+AMD,Alibaba,customer,2024-01-30,"Amazon, Alibaba, Google, Microsoft and Oracle brought more than 55 AMD-powered AI, HPC and general-purpose cloud instances into preview or general availability"
+AMD,DELL,customer,2024-01-30,"HPE, Dell, Lenovo, Supermicro and other server vendors are on track to launch differentiated MI300 platforms later this quarter"
+AMD,GOOGL,customer,2024-01-30,"Amazon, Alibaba, Google, Microsoft and Oracle brought more than 55 AMD-powered AI, HPC and general-purpose cloud instances into preview or general availability"
+AMD,HPE,customer,2024-01-30,"HPE, Dell, Lenovo, Supermicro and other server vendors are on track to launch differentiated MI300 platforms later this quarter"
+AMD,Hugging Face,partner,2024-01-30,"our partnership with Hugging Face, the leading open platform for the AI community, now enables hundreds of thousands of AI models to run out of the box on AMD GPUs"
+AMD,Lenovo,customer,2024-01-30,"HPE, Dell, Lenovo, Supermicro and other server vendors are on track to launch differentiated MI300 platforms later this quarter"
+AMD,META,customer,2024-01-30,"In Cloud, we are working closely with Microsoft, Oracle, Meta and other large cloud customers on Instinct GPU deployments"
+AMD,MSFT,customer,2024-01-30,"In Cloud, we are working closely with Microsoft, Oracle, Meta and other large cloud customers on Instinct GPU deployments"
+AMD,ORCL,customer,2024-01-30,"In Cloud, we are working closely with Microsoft, Oracle, Meta and other large cloud customers on Instinct GPU deployments"
+AMD,OpenAI,partner,2024-01-30,our partnership with OpenAI on Triton and our work across a number of these open source models has helped us actually make very rapid progress
+AMD,SMCI,customer,2024-01-30,"HPE, Dell, Lenovo, Supermicro and other server vendors are on track to launch differentiated MI300 platforms later this quarter"
+AMD,TSM,supplier,2024-01-30,"Look, I feel very good about our partnership with TSMC, they continue to execute extremely well."
+AMD,AMZN,customer,2024-04-30,"as Amazon, Microsoft and Google all increased their fourth-gen EPYC processor offerings with new instances and regional deployments"
+AMD,DELL,customer,2024-04-30,"we're working very closely with Dell, HP, Lenovo, Super Micro, and others as multiple MI300 platforms enter volume production this quarter"
+AMD,GOOGL,customer,2024-04-30,"as Amazon, Microsoft and Google all increased their fourth-gen EPYC processor offerings with new instances and regional deployments"
+AMD,Lenovo,customer,2024-04-30,"we're working very closely with Dell, HP, Lenovo, Super Micro, and others as multiple MI300 platforms enter volume production this quarter"
+AMD,META,customer,2024-04-30,"In cloud, MI300X production deployments expanded at Microsoft, Meta, and Oracle to power generative AI training and inferencing"
+AMD,MSFT,customer,2024-04-30,"In cloud, MI300X production deployments expanded at Microsoft, Meta, and Oracle to power generative AI training and inferencing"
+AMD,ORCL,customer,2024-04-30,"In cloud, MI300X production deployments expanded at Microsoft, Meta, and Oracle to power generative AI training and inferencing"
+AMD,OpenAI,partner,2024-04-30,we made excellent progress adding upstream support for AMD hardware in the OpenAI Triton compiler
+AMD,SMCI,customer,2024-04-30,"we're working very closely with Dell, HP, Lenovo, Super Micro, and others as multiple MI300 platforms enter volume production this quarter"
+AMD,AVGO,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,CSCO,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,DELL,customer,2024-07-30,"Dell, HP, Lenovo, and Super Micro all have Instinct platforms in production"
+AMD,GOOGL,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,INTC,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,Lenovo,customer,2024-07-30,"Dell, HP, Lenovo, and Super Micro all have Instinct platforms in production"
+AMD,META,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,MSFT,customer,2024-07-30,Microsoft also became the first large hyperscaler to announce general availability of public MI300X instances in the quarter.
+AMD,MSFT,partner,2024-07-30,"Broadcom, Cisco, HP Enterprise, Intel, Google, Meta, and Microsoft, all joined us to announce Ultra Accelerator Link"
+AMD,SMCI,customer,2024-07-30,"Dell, HP, Lenovo, and Super Micro all have Instinct platforms in production"
+AMD,ADBE,customer,2024-10-29,"EPYC instance adoption with enterprise customers also grew in the quarter, highlighted by wins with Adobe, Boeing, Micron Nestle, Slack, Synopsys, Tata, and others"
+AMD,DELL,customer,2024-10-29,"widespread system availability from Dell, HPE, Lenovo, Super Micro and others starting in the first quarter of 2025"
+AMD,Databricks,customer,2024-10-29,"multiple start-ups and industry leaders adopting MI300 instances to power their models and services, including Essential AI, Fireworks AI, Luma AI and Databricks"
+AMD,Essential AI,customer,2024-10-29,"multiple start-ups and industry leaders adopting MI300 instances to power their models and services, including Essential AI, Fireworks AI, Luma AI and Databricks"
+AMD,Fireworks AI,customer,2024-10-29,"multiple start-ups and industry leaders adopting MI300 instances to power their models and services, including Essential AI, Fireworks AI, Luma AI and Databricks"
+AMD,GOOGL,customer,2024-10-29,"In Cloud, Google and OCI announced plans to launch fifth-gen EPYC instances early next year"
+AMD,HPE,customer,2024-10-29,"widespread system availability from Dell, HPE, Lenovo, Super Micro and others starting in the first quarter of 2025"
+AMD,Lenovo,customer,2024-10-29,"widespread system availability from Dell, HPE, Lenovo, Super Micro and others starting in the first quarter of 2025"
+AMD,Luma AI,customer,2024-10-29,"multiple start-ups and industry leaders adopting MI300 instances to power their models and services, including Essential AI, Fireworks AI, Luma AI and Databricks"
+AMD,META,customer,2024-10-29,Meta announced they have optimized and broadly deployed MI 300X to power their inferencing infrastructure at scale
+AMD,MSFT,customer,2024-10-29,Microsoft is now using MI 300X broadly for multiple co-pilot services powered by the family of GPT 4 models.
+AMD,MU,customer,2024-10-29,"EPYC instance adoption with enterprise customers also grew in the quarter, highlighted by wins with Adobe, Boeing, Micron Nestle, Slack, Synopsys, Tata, and others"
+AMD,NVDA,competitor,2024-10-29,delivers up to 20% higher inferencing performance compared to H200 and competitive training performance
+AMD,ORCL,customer,2024-10-29,"MI300X public cloud instance availability expanded in the quarter with Microsoft, Oracle Cloud and multiple AI specialized cloud providers"
+AMD,SMCI,customer,2024-10-29,"widespread system availability from Dell, HPE, Lenovo, Super Micro and others starting in the first quarter of 2025"
+AMD,AMZN,customer,2025-02-04,"AWS, Alibaba, Google, Microsoft, and Tencent launched more than 100 AMD general-purpose in AI instances in the fourth quarter alone."
+AMD,Alibaba,customer,2025-02-04,"AWS, Alibaba, Google, Microsoft, and Tencent launched more than 100 AMD general-purpose in AI instances in the fourth quarter alone."
+AMD,CSCO,customer,2025-02-04,"went into production in the fourth quarter from Cisco, Dell, HPE, Lenovo"
+AMD,DELL,customer,2025-02-04,Dell began offering MI300X as a part of their AI factory solution suite
+AMD,DigitalOcean,customer,2025-02-04,"IBM, Digital Ocean, Vultr, and several other AI-focused CSPs have begun deploying AMD Instinct accelerators for new instances."
+AMD,GOOGL,customer,2025-02-04,"AWS, Alibaba, Google, Microsoft, and Tencent launched more than 100 AMD general-purpose in AI instances in the fourth quarter alone."
+AMD,HPE,customer,2025-02-04,"went into production in the fourth quarter from Cisco, Dell, HPE, Lenovo"
+AMD,IBM,customer,2025-02-04,"IBM, Digital Ocean, Vultr, and several other AI-focused CSPs have begun deploying AMD Instinct accelerators for new instances."
+AMD,Lawrence Livermore National Laboratory,customer,2025-02-04,"the El Capitan system at Lawrence Livermore National Labs, debuted as the world's fastest supercomputer, using over 44,000 MI300 AI APUs"
+AMD,Lenovo,customer,2025-02-04,"went into production in the fourth quarter from Cisco, Dell, HPE, Lenovo"
+AMD,META,customer,2025-02-04,Meta exclusively used MI300X to serve their Llama 405B frontier model on meta.ai
+AMD,MSFT,customer,2025-02-04,Microsoft is using MI300X to power multiple GPT 4-based Copilot services
+AMD,Tencent,customer,2025-02-04,"AWS, Alibaba, Google, Microsoft, and Tencent launched more than 100 AMD general-purpose in AI instances in the fourth quarter alone."
+AMD,Vultr,customer,2025-02-04,"IBM, Digital Ocean, Vultr, and several other AI-focused CSPs have begun deploying AMD Instinct accelerators for new instances."
+AMD,DELL,customer,2025-08-05,"HPE, Dell, Lenovo and Super Micro launched 28 new Turin platforms in the quarter"
+AMD,GOOGL,customer,2025-08-05,including multiple Turin instances from Google and Oracle Cloud
+AMD,HPE,customer,2025-08-05,"HPE, Dell, Lenovo and Super Micro launched 28 new Turin platforms in the quarter"
+AMD,Humain,partner,2025-08-05,The HUMAIN opportunity that you're referring to that we announced with the Kingdom of Saudi Arabia
+AMD,Lenovo,customer,2025-08-05,"HPE, Dell, Lenovo and Super Micro launched 28 new Turin platforms in the quarter"
+AMD,NVDA,competitor,2025-08-05,MI355 matches or exceeds B200 in critical training and inference workloads and delivers comparable performance to GB200
+AMD,ORCL,customer,2025-08-05,"As one example, Oracle is building a 27,000-plus node AI cluster combining MI355X accelerators, fifth-gen EPYC Turin CPUs and Pollara 400 SmartNICs."
+AMD,SMCI,customer,2025-08-05,"HPE, Dell, Lenovo and Super Micro launched 28 new Turin platforms in the quarter"
+AMD,Sanmina,partner,2025-08-05,"We also announced last quarter that Sanmina intends to acquire ZT's U.S.-based manufacturing business, becoming our lead partner for AI rack manufacturing."
+AMD,AMZN,customer,2026-02-03,"EPYC-powered public cloud offerings grew significantly in the quarter, with AWS, Google, and others launching more than 230 new AMD instances."
+AMD,GOOGL,customer,2026-02-03,"EPYC-powered public cloud offerings grew significantly in the quarter, with AWS, Google, and others launching more than 230 new AMD instances."
+AMD,OpenAI,customer,2026-02-03,In addition to our multi-generation partnership with OpenAI to deploy six gigawatts of Instinct GPUs
+AMD,Sanmina,partner,2026-02-03,we closed the sale of ZT system manufacturing business to Sanmina in late October
+AMD,META,customer,2026-05-05,A key example is our expanded strategic partnership with Meta to deploy up to 6 gigawatts of AMD Instinct GPUs spanning several product generations.
+AMD,OpenAI,customer,2026-05-05,"Together with our previously announced OpenAI partnership, these engagements position AMD as a core partner to the world's largest AI infrastructure builders"
+AMD,AMZN,customer,2026-08-04,"including AWS, Microsoft, Google, Oracle and others"
+AMD,Anthropic,customer,2026-08-04,Anthropic will deploy up to 2 gigawatts of MI450 series GPUs in Helios with deployment of the first gigawatt beginning in the first half of 2027.
+AMD,DELL,customer,2026-08-04,"More than 230 fifth-gen EPYC platforms are now in market from HPE, Dell, Lenovo, Supermicro and others"
+AMD,GOOGL,customer,2026-08-04,"including AWS, Microsoft, Google, Oracle and others"
+AMD,HPE,customer,2026-08-04,"More than 230 fifth-gen EPYC platforms are now in market from HPE, Dell, Lenovo, Supermicro and others"
+AMD,Hugging Face,partner,2026-08-04,we are partnering with Hugging Face to include 1 year of Hugging Face Pro with every Ryzen AI Halo system
+AMD,Lenovo,customer,2026-08-04,"More than 230 fifth-gen EPYC platforms are now in market from HPE, Dell, Lenovo, Supermicro and others"
+AMD,META,customer,2026-08-04,"We are very happy with our strategic anchor customers in OpenAI, Meta, and Anthropic."
+AMD,MSFT,customer,2026-08-04,"Microsoft will deploy Helios at scale on Azure for frontier model inferencing across Microsoft, its AI customers and Azure AI services."
+AMD,ORCL,customer,2026-08-04,"including AWS, Microsoft, Google, Oracle and others"
+AMD,OpenAI,customer,2026-08-04,"We are very happy with our strategic anchor customers in OpenAI, Meta, and Anthropic."
+AMD,SMCI,customer,2026-08-04,"More than 230 fifth-gen EPYC platforms are now in market from HPE, Dell, Lenovo, Supermicro and others"
+AVGO,ANET,customer,2022-03-03,"In particular, I'm referring to the Arista 7800 AI platform, which scales Ethernet to connect many tens of thousands of CPUs and GPUs in hyperscale."
+AVGO,NVDA,partner,2023-12-07,"VMware came out and announced, in partnership with NVIDIA, the VMware Private AI Cloud Foundation."
+AVGO,ANET,customer,2024-03-07,"they do buy all those are -- our networking components beginning with switches, routers even through people like Arista 7800"
+AVGO,NVDA,partner,2024-03-07,"VMware and NVIDIA entered into a partnership called VMware Private AI Foundation, which enables VCF to run GPUs."
+AVGO,ANET,customer,2024-06-12,"which we deployed successfully in close collaboration with partners like Arista Networks, Dell, Juniper, and Supermicro."
+AVGO,DELL,customer,2024-06-12,"which we deployed successfully in close collaboration with partners like Arista Networks, Dell, Juniper, and Supermicro."
+AVGO,Juniper,customer,2024-06-12,"which we deployed successfully in close collaboration with partners like Arista Networks, Dell, Juniper, and Supermicro."
+AVGO,NVDA,competitor,2024-06-12,"is something that is extremely powerful as a model, and it's something that Nvidia operates in a very, very effective manner."
+AVGO,SMCI,customer,2024-06-12,"which we deployed successfully in close collaboration with partners like Arista Networks, Dell, Juniper, and Supermicro."
+AVGO,NVDA,competitor,2024-09-05,"In terms of GPU growth, you should ask the guys who does merchant GPU, which is obviously, NVIDIA and ASD."
+AVGO,NVDA,partner,2025-03-06,"And as of today, in collaboration with NVIDIA, we have 39 enterprise customers for the VMware Private AI Foundation."
+AVGO,Anthropic,customer,2025-12-11,"As you are aware, last quarter, Q3 2025, we received a $10 billion order to sell the latest TPU ironwood racks to Anthropic."
+AVGO,GOOGL,customer,2025-12-11,And we see that in the TPU and we see that in all the accelerators we are doing for other customers.
+AVGO,OpenAI,customer,2025-12-11,And that 10 gigawatt announcement is an agreement to be aligned on developing 10 gigawatts for OpenAI over 27 to 29 time frame.
+AVGO,TSM,supplier,2025-12-11,"Silicon wise, now we go back to the same pressure source in Taiwan, TSMC."
+AVGO,Anthropic,customer,2026-03-04,"For Anthropic, we are off to a very good start in 2026 for 1 gigawatt of TPU compute."
+AVGO,GOOGL,customer,2026-03-04,"For Google, we continue our trajectory of growth in 2026 with strong demand for the seventh generation iNode TPU."
+AVGO,META,customer,2026-03-04,"Now contrary to recent analyst reports, Meta's custom accelerator MTIA roadmap is alive and well. We are shipping now."
+AVGO,NVDA,competitor,2026-03-04,"you are also competing against NVIDIA, who is by no means letting down their guard. They are producing better and better chips with every passing generation."
+AVGO,OpenAI,customer,2026-03-04,We expect OpenAI to be deploying in volume their first generation XPU in 2027 at over 1 gigawatt of compute capacity.
+AVGO,Anthropic,customer,2026-06-03,"In April, we entered into an agreement to enable Anthropic to access another 5 gigawatts of next-generation TPU-based compute beginning in 2027."
+AVGO,Apollo,partner,2026-06-03,we are creating the AI XPU platform with Apollo and Blackstone and other leading investors to deploy more than 20 gigawatts of compute capacity through 2028.
+AVGO,Blackstone,partner,2026-06-03,we are creating the AI XPU platform with Apollo and Blackstone and other leading investors to deploy more than 20 gigawatts of compute capacity through 2028.
+AVGO,GOOGL,customer,2026-06-03,"with Google , we announced in April that we entered into a long-term agreement to develop and supply multiple generations of TPUs and AI networking."
+AVGO,META,customer,2026-06-03,"For Meta in April, we announced a partnership to deliver multiple generations of MTIA X XPUs."
+AVGO,OpenAI,customer,2026-06-03,"For OpenAI, we have delivered silicon and we are on track for production late 26."
+AVGO,Anthropic,customer,2026-09-02,"During the quarter, we delivered Ironwood TPU v7, version 7 in high volume to both Anthropic and Google."
+AVGO,Apollo,partner,2026-09-02,"In June, we established the AI XPV platform in partnership with Apollo and Blackstone to enable more than 20 gigawatts of compute infrastructure for OpenAI and Anthropic by the end of 2028."
+AVGO,Blackstone,partner,2026-09-02,"In June, we established the AI XPV platform in partnership with Apollo and Blackstone to enable more than 20 gigawatts of compute infrastructure for OpenAI and Anthropic by the end of 2028."
+AVGO,GOOGL,customer,2026-09-02,"Under this agreement, we are planning to deliver multi-tens of billions of dollars of TPUs annually over the next several years."
+AVGO,META,customer,2026-09-02,"And for Meta, we expect production shipments of their custom MTIA accelerator optimized for inference and recommendation at scale."
+AVGO,MediaTek,competitor,2026-09-02,"Broadcom is now shipping the TPU version 8i ahead of the MediaTek version v8t, which, in fact, was initiated earlier."
+AVGO,NVDA,competitor,2026-09-02,"In Q3, we also shipped Jalapeno, OpenAI's first-generation custom accelerator, which outperforms Grace Blackwell GPU for inference workloads."
+AVGO,OpenAI,customer,2026-09-02,"In Q3, we also shipped Jalapeno, OpenAI's first-generation custom accelerator, which outperforms Grace Blackwell GPU for inference workloads."
+MRVL,NOKIA.HE,customer,2022-12-01,"Nokia will be using our new OCTEON 10 DPU, the industry's leading 5G transport processor built on Marvell's cutting-edge five-nanometer platform"
+MRVL,AMZN,customer,2023-03-02,"Marvell is a strategic supplier to AWS, delivering cloud optimized silicon that helps meet the infrastructure needs of AWS customers"
+MRVL,NVDA,customer,2023-11-30,"we released a video highlighting our long-standing collaboration with NVIDIA, we're using Marvell's optical interconnect technology"
+MRVL,TSM,supplier,2024-03-07,we announced the extension of our long-standing collaboration with TSMC to develop the industry's first technology platform to produce two-nanometer semiconductors
+MRVL,MSFT,customer,2024-08-29,we are pleased that Microsoft will begin integrating Marvell's FIPS 140 Level 3-compliant LiquidSecurity hardware modules in their Azure Key Vault offerings.
+MRVL,AMZN,customer,2024-12-03,"Yesterday, we announced the expansion of our strategic relationship with Amazon Web Services through a comprehensive multi-generational five-year agreement."
+MRVL,META,customer,2025-03-05,We'd announced the design win at Meta for a custom NIC at OCP last October
+MRVL,TSM,supplier,2025-03-05,"Produced on TSMC's two-nanometer process, this working silicon is a critical part of the Marvell platform"
+MRVL,NVDA,partner,2026-05-27,"Now let me turn to the expanded partnership we announced with NVIDIA, which reflects the growing importance of high speed connectivity, optical interconnect, and accelerated infrastructure"
+MRVL,GOOGL,customer,2026-08-27,"we're very honored to be a part of the ecosystem, the TPU ecosystem."
+MRVL,NVDA,partner,2026-08-27,as well as our partnership with NVIDIA around NVLink Fusion.
+INTC,AMZN,customer,2022-01-26,"all of our major cloud customers have announced instances, including our third instance with Amazon Web Services."
+INTC,DELL,customer,2022-01-26,we had all-time record shipments with customers like Dell.
+INTC,HPE,partner,2022-01-26,"Customers remain excited about Sapphire Rapids, and it has been chosen, along with HPE, to power the new Kestrel supercomputer."
+INTC,AMZN,customer,2022-04-28,Our launch of the Habana Gaudi-based AWS EC2 DL1 instance has shown end customers how they can reduce training costs by as much as 40% versus GPU-based instances.
+INTC,Apple,customer,2022-04-28,"CCG revenue was $9.3 billion, down 13% year over year on ramp-down of the Apple CPU and modem business"
+INTC,CSCO,customer,2022-04-28,"IFS revenue was $283 million, up 175% year over year on increased IMF tool shipments, increased automotive demand, and initial revenue from Amazon and Cisco."
+INTC,META,customer,2022-04-28,"For example, we were able to partner with Meta to improve their Xeon supply and meet their needs."
+INTC,Tower Semiconductor,partner,2022-04-28,"Finally, we have seen tremendous enthusiasm from customers for our acquisition of Tower."
+INTC,AMZN,partner,2022-07-28,"Also in Q2, we agreed to expand our partnership with AWS to include the co-development of multigenerational data center solutions optimized for AWS infrastructure."
+INTC,META,customer,2022-07-28,"For example, we expanded our supply agreement with Meta, leveraging our IDM advantage to ensure Meta can meet its expanding compute needs."
+INTC,MSFT,partner,2022-07-28,"In Q2, we also launched the IFS Cloud Alliance, a partnership with leading cloud providers, including Microsoft Azure and AWS"
+INTC,MediaTek,customer,2022-07-28,we announced MediaTek as our next major foundry customer
+INTC,NVDA,customer,2022-07-28,NVIDIA announced the selection of Sapphire Rapids for use in their new DGX H100
+INTC,AMZN,customer,2022-10-27,Amazon will be accelerating large transform models with Gaudi instances in EC2.
+INTC,Brookfield,investor,2022-10-27,We continue to see skips like our partnership with Brookfield as an innovative financial structure to more closely align fab build-out costs with fab output returns.
+INTC,GOOGL,customer,2022-10-27,"Google gave the first preview of its C3 instances showing Sapphire Rapids capabilities, as well as our leadership IPU, the E3200 or Mount Evans."
+INTC,NVDA,partner,2022-10-27,we are excited to welcome NVIDIA to the RAMP-C program
+INTC,Brookfield,investor,2023-01-26,Embedded in our assumptions are capital offsets of around 20% to 30% of growth capex including our innovative Skip partnership with Brookfield.
+INTC,DELL,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,GOOGL,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,HPE,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,Lenovo,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,MSFT,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,MediaTek,customer,2023-01-26,"Such as MediaTek, we now have lifetime deal value of greater than $4 billion for IFS."
+INTC,NVDA,customer,2023-01-26,"including testimonials from Dell, Google Cloud, HPE, Lenovo, Microsoft Azure and NVIDIA, among many others."
+INTC,ARM,partner,2023-04-27,We took a major step forward in building our ecosystem this month when we announced a multi-generation agreement with ARM Holdings.
+INTC,Alibaba,customer,2023-04-27,"leading cloud service providers signaled readiness for Intel TDX instances, including Alibaba Cloud, with Microsoft announcing their preview on Azure and Google releasing joint research"
+INTC,Ericsson,partner,2023-04-27,"In particular, Ericsson has been working closely with us to enable the cloudification of the network, making possible industry-scale open RAN."
+INTC,GOOGL,partner,2023-04-27,"leading cloud service providers signaled readiness for Intel TDX instances, including Alibaba Cloud, with Microsoft announcing their preview on Azure and Google releasing joint research"
+INTC,Hugging Face,partner,2023-04-27,Recent endorsements by Hugging Face and Stability AI are strong proof points of the validation in our AI road map and strategy.
+INTC,MSFT,customer,2023-04-27,"leading cloud service providers signaled readiness for Intel TDX instances, including Alibaba Cloud, with Microsoft announcing their preview on Azure and Google releasing joint research"
+INTC,NVDA,competitor,2023-04-27,"the Habana Gaudi2 is in the market and offering substantial performance advantage over A100 in training and inferencing, vision, and language models."
+INTC,Stability AI,partner,2023-04-27,Recent endorsements by Hugging Face and Stability AI are strong proof points of the validation in our AI road map and strategy.
+INTC,US Government,partner,2023-04-27,We're engaging right now with the Department of Commerce and working through our grant applications in that area.
+INTC,AMZN,customer,2023-07-27,The value of our AI products is demonstrated by the public instances of Gaudi at AWS and the new commitments to our Gaudi product line from leading AI companies such as Hugging Face and Stability AI
+INTC,ARM,partner,2023-07-27,"RAMP-C continues to build on recent customer and partner announcements by IFS, including MediaTek, ARM and a leading cloud edge and data center solutions provider."
+INTC,Ericsson,customer,2023-07-27,"Reinforcing customer confidence in our road map, Ericsson will be utilizing Intel's 18A process technology for its future custom 5G SoC offerings."
+INTC,GOOGL,customer,2023-07-27,"This quarter, we also announced the general availability of 4th Gen Cloud Instances by Google Cloud."
+INTC,Hugging Face,customer,2023-07-27,The value of our AI products is demonstrated by the public instances of Gaudi at AWS and the new commitments to our Gaudi product line from leading AI companies such as Hugging Face and Stability AI
+INTC,IBM,partner,2023-07-27,"In addition, in July, we announced that Boeing and Northrop Grumman will join the RAMP-C program along with IBM, Microsoft and NVIDIA."
+INTC,MSFT,partner,2023-07-27,"In addition, in July, we announced that Boeing and Northrop Grumman will join the RAMP-C program along with IBM, Microsoft and NVIDIA."
+INTC,MediaTek,customer,2023-07-27,"RAMP-C continues to build on recent customer and partner announcements by IFS, including MediaTek, ARM and a leading cloud edge and data center solutions provider."
+INTC,NVDA,partner,2023-07-27,"In addition, in July, we announced that Boeing and Northrop Grumman will join the RAMP-C program along with IBM, Microsoft and NVIDIA."
+INTC,Stability AI,customer,2023-07-27,The value of our AI products is demonstrated by the public instances of Gaudi at AWS and the new commitments to our Gaudi product line from leading AI companies such as Hugging Face and Stability AI
+INTC,ARM,partner,2023-10-26,We announced the ARM relationship in April and they're now seeing very positive results on power performance area from 18 a.
+INTC,DELL,partner,2023-10-26,Dell is partnering with us to deliver Gaudi for cloud and enterprise customers with its next-generation PowerEdge systems featuring Xeon and Gaudi AI accelerators
+INTC,Stability AI,customer,2023-10-26,"Together with stability.ai, we are building one of the world's largest AI supercomputers entirely on the fourth-gen Xeon processors and 4000 Intel Gaudi-2 AI accelerators."
+INTC,TSM,investor,2023-10-26,"In addition, we added TSMC as a minority investor in our IMS nanofabrication business in Q3."
+INTC,TSM,partner,2023-10-26,"And as we think about the relationship with TSMC, hey, this is a great company and one that we partner with."
+INTC,Tower Semiconductor,partner,2023-10-26,"We have also established an important business relationship with Tower Semiconductor, utilizing our manufacturing assets in New Mexico"
+INTC,ARM,partner,2024-01-25,Critical agreements with ARM and Synopsys continue to gain momentum.
+INTC,Alibaba,customer,2024-01-25,5th Gen Xeon has reached general availability at Alibaba is entering public and private previews with several CSPs and is on track to ship with OEMs next month.
+INTC,Brookfield,investor,2024-01-25,"With growing contributions from our SCIP agreement with Brookfield and progress toward government incentives in the U.S., Europe, and Israel."
+INTC,Synopsys,partner,2024-01-25,Critical agreements with ARM and Synopsys continue to gain momentum.
+INTC,UMC,partner,2024-01-25,"We are also very pleased to have completed a major agreement with United Microelectronics, or UMC, to develop a 12-nanometer process platform targeting high-growth markets"
+INTC,US Government,partner,2024-01-25,"In Q4, we also recognized $845 million of advanced manufacturing investment credits, or AMIC, as defined in the CHIPS Act."
+INTC,DELL,customer,2024-04-25,"We were joined by Naver, Dell, Bosch, Super Micro, and Roche, among many others who shared how they are benefiting from Intel solutions."
+INTC,IBM,customer,2024-04-25,It was CSPs like Naver and Ola and IBM Cloud.
+INTC,MSFT,customer,2024-04-25,We were pleased to announce Microsoft as our fifth Intel 18A customer.
+INTC,Naver,customer,2024-04-25,It was CSPs like Naver and Ola and IBM Cloud.
+INTC,SMCI,customer,2024-04-25,"We were joined by Naver, Dell, Bosch, Super Micro, and Roche, among many others who shared how they are benefiting from Intel solutions."
+INTC,Apollo,investor,2024-08-01,"Combined with strong execution of our smart capital strategy, including our second SCIP with Apollo, we expect net capital spending in 2024 of between 11 billion and 13 billion."
+INTC,DELL,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,Foxconn,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,GOOGL,partner,2024-08-01,"A recent IPU adapter for the enterprise, supported by Dell Technologies and Red Hat, brought its access to the solution co-developed with Google Cloud."
+INTC,HPE,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,Lenovo,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,MSFT,partner,2024-08-01,"Microsoft has qualified Lunar Lake to power more than 80 new Copilot+ PCs across more than 20 OEMs, which will begin to ship this quarter."
+INTC,NVDA,competitor,2024-08-01,we expect Gaudi 3 to deliver roughly 2x performance per dollar in both inference and training versus H100.
+INTC,Quanta Computer,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,SMCI,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,Wistron,partner,2024-08-01,"Gaudi 3 has strong ecosystem support, including Dell Technologies, Hewlett Packard Enterprise, Lenovo, Supermicro, Foxconn, Gigabyte, Inventek, Quanta Cloud Technology, and Wistron."
+INTC,AMD,partner,2024-10-31,I am particularly excited about our recent announcement with AMD to create the x86 ecosystem advisory group.
+INTC,AMZN,customer,2024-10-31,"we are finalizing a multiyear, multibillion dollar commitment by AWS to expand our existing partnership to include a new custom Xeon 6 chip on Intel 3"
+INTC,IBM,customer,2024-10-31,we are pleased by our recent collaboration with IBM to deploy Gaudi 3 as a service on IBM Cloud
+INTC,TSM,supplier,2024-10-31,"That said, TSMC has been a great partner."
+INTC,US Government,customer,2024-10-31,We were also awarded an additional $3 billion in direct funding under the Secure Enclave program to produce leading edge semiconductors for the U.S. government.
+INTC,TSM,supplier,2025-01-30,"TSMC is a valued supplier to Intel products, an important partner to IMS, and they've established a very high standard for what it takes to be a world-class foundry."
+INTC,Tower Semiconductor,partner,2025-01-30,"In addition, we continue to have good momentum in advanced packaging and in our collaboration with Tower Semiconductor and UMC."
+INTC,UMC,partner,2025-01-30,"In addition, we continue to have good momentum in advanced packaging and in our collaboration with Tower Semiconductor and UMC."
+INTC,US Government,partner,2025-01-30,Department of Commerce a definitive agreement awarding us up to $7.86 billion in grants.
+INTC,NVDA,customer,2025-07-24,One of these Xeon 6 SKUs was selected as the host node for NVIDIA DGX D300 AI-accelerated systems
+INTC,US Government,customer,2025-07-24,"The Intel 18A family is also important as we continue to advance our work for the US government within the secure engrave programs, as well as for other initial committed customers."
+INTC,NVDA,investor,2025-10-23,We expect NVIDIA's $5 billion investment to close by Q4.
+INTC,NVDA,partner,2025-10-23,"By connecting our architectures through NVIDIA NVLink, we combine Intel CPU and x86 leadership with NVIDIA's unmatched AI and accelerated computing strengths"
+INTC,SoftBank,investor,2025-10-23,"In Q3, we received $5.7 billion from the US government, $2 billion from SoftBank Group, $4.3 billion from the Altera closure, and $900 million from the Mobileye stake sale."
+INTC,US Government,investor,2025-10-23,"In Q3, we received $5.7 billion from the US government, $2 billion from SoftBank Group, $4.3 billion from the Altera closure, and $900 million from the Mobileye stake sale."
+INTC,NVDA,investor,2026-01-22,NVIDIA's $5 billion investment closed in Q4 as expected.
+INTC,NVDA,customer,2026-01-22,We also continue to work closely with NVIDIA to build a custom Xeon fully integrated with their NVLink technology to bring best-in-class x86 performance to AI host nodes.
+INTC,SoftBank,investor,2026-01-22,accelerated funding from the U.S. government and investments by the SoftBank Group and NVIDIA
+INTC,US Government,investor,2026-01-22,accelerated funding from the U.S. government and investments by the SoftBank Group and NVIDIA
+INTC,AMD,competitor,2026-04-23,we are going to have it in Coral Rapids so we can compete effectively with AMD
+INTC,ARM,competitor,2026-04-23,"On ARM, clearly we know ARM well. Rene is a good friend of mine. They have a licensing model and have been effective; of course they continue to raise license fees."
+INTC,GOOGL,customer,2026-04-23,"With Google, we have the Xeon in production, and we are building a long-term, trusted partnership."
+INTC,NVDA,customer,2026-04-23,"In addition, Xeon 6 was selected as the host CPU for NVIDIA’s DGX Rubin NVL8 systems"
+INTC,SpaceX,partner,2026-04-23,"We recently announced our partnership with SpaceX, xAI, and Tesla to support TeraFab."
+INTC,TSM,supplier,2026-04-23,"Just to add, TSMC is a very important partner for us."
+INTC,Tesla,partner,2026-04-23,"We recently announced our partnership with SpaceX, xAI, and Tesla to support TeraFab."
+INTC,xAI,partner,2026-04-23,"We recently announced our partnership with SpaceX, xAI, and Tesla to support TeraFab."
+ARM,Ampere,customer,2023-11-08,So whether you're using a standard product from an Ampere or building a custom chip based upon Arm-based cores.
+ARM,Cadence,partner,2023-11-08,"our partner program, where we are engaged with people like TSMC, Cadence, Synopsys, Intel, etc."
+ARM,INTC,partner,2023-11-08,"our partner program, where we are engaged with people like TSMC, Cadence, Synopsys, Intel, etc."
+ARM,NVDA,partner,2023-11-08,"Nvidia has been doing us a big benefit in terms of making the CUDA drivers for the A100, and H100 is available on Arm."
+ARM,SoftBank,investor,2023-11-08,one of the things we did during the SoftBank years to invest is we actually got out of a number of commodity businesses
+ARM,Synopsys,partner,2023-11-08,"our partner program, where we are engaged with people like TSMC, Cadence, Synopsys, Intel, etc."
+ARM,TSM,partner,2023-11-08,"our partner program, where we are engaged with people like TSMC, Cadence, Synopsys, Intel, etc."
+ARM,AMZN,customer,2024-02-07,"So, proof points such as NVIDIA's Grace Hopper, the Microsoft Cobalt design, the work that AWS has been doing in Graviton."
+ARM,GOOGL,customer,2024-02-07,"to edge devices such as the Gemini Nano Pixel 6 from Google or the Samsung Galaxy S24, more and more AI is running on more end devices, and that's all running on Arm."
+ARM,MSFT,customer,2024-02-07,"One of the very first designs that was made public that uses this is the Microsoft Cobalt, which uses our Neoverse cores of 128 CPUs to be specific."
+ARM,NVDA,customer,2024-02-07,"From the most complex devices on the planet for training and inference, the NVIDIA Grace Hopper 200"
+ARM,Samsung,customer,2024-02-07,"to edge devices such as the Gemini Nano Pixel 6 from Google or the Samsung Galaxy S24, more and more AI is running on more end devices, and that's all running on Arm."
+ARM,AMZN,customer,2024-05-08,"I think if you go back to the original design win we had with the hyperscalers, and that was with AWS and Graviton"
+ARM,Apple,customer,2024-05-08,The Apple ecosystem has completely converted over.
+ARM,GOOGL,customer,2024-05-08,"Google, the latest hyperscaler announced their Axion processor based on Arm custom chip intended for the data center."
+ARM,MSFT,customer,2024-05-08,"And our first customer in the Neoverse space doing a design, Microsoft, their Cobalt chip is now ramping."
+ARM,NVDA,customer,2024-05-08,"but I think now with NVIDIA's most recent announcement, Grace Blackwell, you are going to see an acceleration of Arm in the data center in these AI applications."
+ARM,AMZN,customer,2024-07-31,"We had recent announcements in the last quarter of Google's Axion processor for the cloud, AWS Graviton for general availability."
+ARM,GOOGL,customer,2024-07-31,"We had recent announcements in the last quarter of Google's Axion processor for the cloud, AWS Graviton for general availability."
+ARM,MSFT,customer,2024-07-31,"But now with some of the projects coming online with both Cobalt from Microsoft and Axion from Google, we expect to see that number continue to accelerate."
+ARM,NVDA,partner,2024-07-31,"We think that Grace Blackwell, just given the performance and power, will be a very, very good ship for us in the AI data center, partnering with NVIDIA."
+ARM,Apple,customer,2024-11-06,"We had new announcements, one of them being Apple's new iPhone 16 and iPhone 16 Pro on Arm Version 9"
+ARM,GOOGL,customer,2024-11-06,"We've had new shipments now from Microsoft Azure Cobalt and Google GCP Axion, both Armv9-based data center now in general availability."
+ARM,META,partner,2024-11-06,"In the past quarter, Arm and Meta worked together on optimizing Llama 3.2 using Arm's libraries, enabling faster on-device AI processing."
+ARM,MSFT,customer,2024-11-06,"We've had new shipments now from Microsoft Azure Cobalt and Google GCP Axion, both Armv9-based data center now in general availability."
+ARM,MediaTek,customer,2024-11-06,"MediaTek announced their newest chipset, the Dimensity 9400 using Arm's v9 CSS for client"
+ARM,NVDA,customer,2024-11-06,NVIDIA's Grace Blackwell shipments have started integrating the NVIDIA GPU Blackwell with Arm CPU in Grace.
+ARM,Qualcomm,customer,2024-11-06,"But at a base level, contractual consent was required by Qualcomm to sign a Nuvia license, and that consent was not obtained."
+ARM,AMZN,customer,2025-02-05,"We are gaining share in the data center with AWS Graviton, Microsoft Cobalt, Google Axion, and NVIDIA's Grace Arm-based chips."
+ARM,GOOGL,customer,2025-02-05,"We are gaining share in the data center with AWS Graviton, Microsoft Cobalt, Google Axion, and NVIDIA's Grace Arm-based chips."
+ARM,MSFT,customer,2025-02-05,"We are gaining share in the data center with AWS Graviton, Microsoft Cobalt, Google Axion, and NVIDIA's Grace Arm-based chips."
+ARM,MSFT,partner,2025-02-05,"And this is a partnership with OpenAI and Oracle and SoftBank, technology partners being those companies in addition to ourselves, Microsoft, and NVIDIA."
+ARM,MediaTek,customer,2025-02-05,New flagship smartphones from OPPO and vivo take advantage of MediaTek's new Dimensity 9400 system-on-chip.
+ARM,NVDA,customer,2025-02-05,"We are gaining share in the data center with AWS Graviton, Microsoft Cobalt, Google Axion, and NVIDIA's Grace Arm-based chips."
+ARM,NVDA,partner,2025-02-05,"And this is a partnership with OpenAI and Oracle and SoftBank, technology partners being those companies in addition to ourselves, Microsoft, and NVIDIA."
+ARM,ORCL,partner,2025-02-05,"And this is a partnership with OpenAI and Oracle and SoftBank, technology partners being those companies in addition to ourselves, Microsoft, and NVIDIA."
+ARM,OpenAI,partner,2025-02-05,"And this is a partnership with OpenAI and Oracle and SoftBank, technology partners being those companies in addition to ourselves, Microsoft, and NVIDIA."
+ARM,SoftBank,partner,2025-02-05,"And this is a partnership with OpenAI and Oracle and SoftBank, technology partners being those companies in addition to ourselves, Microsoft, and NVIDIA."
+ARM,AMZN,customer,2025-11-05,"Our compute forms the foundation of custom silicon from leading partners, including NVIDIA Grace, AWS Graviton, Google Axion, and Microsoft Cobalt."
+ARM,GOOGL,customer,2025-11-05,"As a result, Google is migrating the majority of their internal workloads to run on Arm Holdings plc American Depositary Shares."
+ARM,META,partner,2025-11-05,"During the quarter, we announced a strategic partnership with Meta to scale AI efficiency across every layer of compute"
+ARM,MSFT,customer,2025-11-05,"Our compute forms the foundation of custom silicon from leading partners, including NVIDIA Grace, AWS Graviton, Google Axion, and Microsoft Cobalt."
+ARM,NVDA,customer,2025-11-05,"Our compute forms the foundation of custom silicon from leading partners, including NVIDIA Grace, AWS Graviton, Google Axion, and Microsoft Cobalt."
+ARM,Samsung,customer,2025-11-05,"We also expanded our collaboration with Samsung, which is leveraging CSS for its Exynos family of chipsets"
+ARM,AMZN,customer,2026-02-04,"AWS launched its fifth-generation Graviton processor with 192 cores, doubling the core count from Graviton four"
+ARM,GOOGL,customer,2026-02-04,"Google has now migrated over 30,000 applications to the Arm Holdings plc American Depositary Shares instruction set."
+ARM,MSFT,customer,2026-02-04,"Microsoft introduced Cobalt 200, built on the higher performance Arm Holdings plc American Depositary Shares Neoverse CSS v3 with 132 cores"
+ARM,NVDA,customer,2026-02-04,"NVIDIA's next-generation Vera CPU features 88 Arm Holdings plc American Depositary Shares-based cores, up from 72 cores in the gray CPU generation."
+ARM,SoftBank,customer,2026-02-04,"SoftBank has become an increasingly important customer as they build out their AI compute strategy, including their recent acquisitions such as Ampere and Graphcore."
+ARM,Tesla,customer,2026-02-04,Tesla's upcoming Optimus humanoid robot is also powered by a custom Arm Holdings plc American Depositary Shares-based AI processor
+ARM,AMZN,customer,2026-05-06,AWS continues to scale its custom silicon strategy with Arm-based Graviton alongside Trainium and Nitro
+ARM,Cerebras,customer,2026-05-06,"Cerebras, OpenAI, Rebellions and Positron are doing the same with the Arm AGI CPU."
+ARM,Cloudflare,customer,2026-05-06,"Cloudflare will deploy Arm across its global network to support traffic management, security and AI inference closer to users."
+ARM,GOOGL,customer,2026-05-06,"At Google Cloud Next, Google announced TPU 8t for training and TPU 8i for inference, in both cases, replacing x86 host processors with custom Arm Axion CPUs."
+ARM,META,partner,2026-05-06,Meta is our lead partner and co-developer and is working with us on a multi-generation road map to support personal super intelligence for more than 3 billion users.
+ARM,META,customer,2026-05-06,"We also talked about a lot of customers such as Cloudflare, such as Meta, such as SAP, SK Telecom, OpenAI"
+ARM,MSFT,customer,2026-05-06,while Microsoft is advancing its Arm-based strategy with Cobalt
+ARM,NVDA,customer,2026-05-06,"NVIDIA, Amazon and Google are already using Arm-based CPUs as head nodes along the accelerator-based systems."
+ARM,OpenAI,customer,2026-05-06,"Cerebras, OpenAI, Rebellions and Positron are doing the same with the Arm AGI CPU."
+ARM,SAP.DE,customer,2026-05-06,"For example, SAP will move their core database and business application workloads to Arm, starting with AWS Graviton and expanding to the Arm AGI CPU."
+ARM,SoftBank,customer,2026-05-06,"Of the $819 million of license revenue, our agreement with SoftBank for technology licensing and design services contributed $200 million, flat with the prior quarter."
+ARM,AMZN,customer,2026-07-29,AWS announced plans to deploy tens of millions of Graviton5 cores to power agentic AI workloads.
+ARM,GOOGL,customer,2026-07-29,Google has stated that its Arm-based Axion CPU is a core component of its AI infrastructure strategy and the host CPU for its latest TPU AI systems.
+ARM,META,customer,2026-07-29,"We also talked about Meta and Cloudflare, which are around agentic applications, but also general-purpose server."
+ARM,MSFT,customer,2026-07-29,Microsoft expanded Azure Cobalt 200 virtual machines built on Arm Neoverse CSS.
+ARM,NVDA,customer,2026-07-29,NVIDIA has now brought Vera into production.
+ARM,OpenAI,customer,2026-07-29,"we had folks like Cerebras and OpenAI, which were largely around head node type applications."
+ARM,Qualcomm,customer,2026-07-29,"Additionally, Qualcomm has also announced plans to enter the AI data center CPU market with Arm-based Dragonfly C1000."
+ARM,SoftBank,customer,2026-07-29,"Of the $574 million of license revenue, our agreement with SoftBank for technology licensing and design services contributed $193 million."
+ALAB,AMD,partner,2026-02-10,"Subsequently, AMD has also announced that their MI 500 series will also support UA Link, again in 2027."
+ALAB,AMZN,customer,2026-02-10,we did file under an 8-K a warrant agreement with Amazon today. So it demonstrates our strong relationship with Amazon.
+ALAB,AMZN,partner,2026-02-10,"both Amazon, the hyperscaler, as well as NVIDIA have chosen Astera Labs, Inc. Common Stock as a partner"
+ALAB,INTC,partner,2026-02-10,"We are excited to announce our partnership with Microsoft, Intel, and SAP to enable customers to evaluate CXL memory expansion capabilities"
+ALAB,MSFT,partner,2026-02-10,"We are excited to announce our partnership with Microsoft, Intel, and SAP to enable customers to evaluate CXL memory expansion capabilities"
+ALAB,NVDA,partner,2026-02-10,"both Amazon, the hyperscaler, as well as NVIDIA have chosen Astera Labs, Inc. Common Stock as a partner"
+ALAB,SAP.DE,partner,2026-02-10,"We are excited to announce our partnership with Microsoft, Intel, and SAP to enable customers to evaluate CXL memory expansion capabilities"
+ALAB,AMD,partner,2026-05-05,"Both Amazon as well as AMD have said that their ASIC and GPU will launch sometime in 2027, and we will certainly be prepared to intercept that launch with our UALink switch."
+ALAB,AMZN,customer,2026-05-05,"Both Amazon as well as AMD have said that their ASIC and GPU will launch sometime in 2027, and we will certainly be prepared to intercept that launch with our UALink switch."
+ALAB,MSFT,customer,2026-05-05,our Leo memory controller is on track for an early ramp of CXL‑attached memory with Microsoft Azure M‑series virtual machines
+ALAB,NVDA,partner,2026-05-05,"First, we are engaging with multiple customers to enable NVIDIA NVLink Fusion’s scale‑up architecture for hybrid racks."
+ALAB,NVDA,partner,2026-08-04,"We are executing across multiple vectors with custom solutions for hybrid rack architecture, including NVLink fusion-based designs"
+CRDO,TSM,supplier,2022-08-31,"Of course, we are actively planning wafers with TSMC, and that's a very regular discussion we have with them."
+CRDO,TSM,partner,2022-08-31,We also recently announced availability of our 112-gig SerDes IP in TSMC's five- and four-nanometer processes.
+CRDO,Tesla,partner,2022-08-31,we were honored to be mentioned by Tesla at TSMC's Technology Symposium in June as their key connectivity partner for their leading-edge Dojo supercomputer
+CRDO,TSM,supplier,2025-06-02,"the longest lead time that we've got is really on the silicon side. And that's, you know, with TSMC and our assembly partners."
+CRDO,xAI,customer,2025-06-02,"there's one customer we've, you know, publicly talked about being XAI, and that's, you know, gone very, very well"
+CRDO,Positron,customer,2026-03-02,"Our first OmniConnect customer, Positron, plans to leverage this architecture to deliver an inference XPU with 2 TB of memory capacity"
+CRDO,TensorWave,customer,2026-03-02,"As noted in our recent press release, we began production shipments with our first neocloud customer, TensorWave."
+CRDO,Upscale AI,customer,2026-03-02,"The Blue Heron product that we introduced and announced our first customer, Upscale AI, is a 200G per lane retimer that supports UALink, ESUN, Ethernet."
+CRDO,MSFT,customer,2026-09-01,"Our first customer, Microsoft, the reason that they converted to AECs was really the functionality that we offered"
+CRDO,Positron,customer,2026-09-01,"And so our first customer, Positron, is doing really great things when we look at memory limitations"
+MPWR,AMD,partner,2022-05-02,"it was clearly an inflection point for us, inflection year, which will gain momentum as we see both Intel and AMD are positioned for product releases for the coming up year."
+MPWR,INTC,partner,2022-05-02,"it was clearly an inflection point for us, inflection year, which will gain momentum as we see both Intel and AMD are positioned for product releases for the coming up year."
+MPWR,GOOGL,customer,2026-07-30,"that is kind of a big bucket that would including power solutions for not only top of rack switches, but TPUs, NIC cards, and other things in the rack."
+TSM,Sony,partner,2022-01-13,"So that made us make the decision of a joint venture fab with Sony, where we have a majority share."
+TSM,INTC,competitor,2023-10-19,"our N3P -- now, I'll repeat again, N3P technology, demonstrated comparable PPA to 18A, my competitors' technology, but with an earlier time to market"
+TSM,Amkor,partner,2024-04-18,"Actually, we are working with Amkor and try to support all our customers in AZ and for their demand, for their need."
+TSM,ASML.AS,supplier,2026-07-16,TSMC make it clear that we work with ASML and try to make it more suitable for manufacturing in terms of the cost and in terms of the maturity.
+TSM,ASML.AS,supplier,2026-10-15,we are also working very closely with our ASML to establish a 12 in photomask by 2031.
+MU,NVDA,customer,2024-12-18,We are proud to share that Micron's HBM3E 8-high is designed into NVIDIA's Blackwell B200 and GB200 platforms.
+MU,TSM,supplier,2024-12-18,an option to customize the logic base die for certain customers using an advanced logic foundry manufacturing process from TSMC
+MU,TSM,partner,2024-12-18,"establishing deep partnerships with customers, industry enablers, and key technology partners like TSMC"
+MU,US Government,partner,2024-12-18,we finalized an agreement with the U.S. Department of Commerce for an award of up to $6.1 billion under the CHIPS and Science Act
+MU,NVDA,customer,2025-03-20,"Micron's HBM3E 8-high is designed into NVIDIA's GB200 system, and our HBM3E 12-high is designed into the GB300."
+MU,NVDA,partner,2025-03-20,Micron's SOCAMM was developed in collaboration with NVIDIA to support the GB300.
+MU,Samsung,customer,2025-03-20,our LP5X DRAM and UFS 4.0 NAND were featured in the high end of the Samsung Galaxy S25 Series
+MU,AMD,customer,2025-06-25,Micron's HVM 3e 36 gigabyte MI355X 12 high has been designed into AMD's Instinct GPU platform
+MU,NVDA,partner,2025-06-25,"our data center 95.5 performance SSD, which is on the NVIDIA GB200, NVL 72 recommended vendor list"
+MU,NVDA,customer,2026-03-18,has begun volume shipment of its HBM4 36GB 12-Hi in 2026 and is designed for NVIDIA Vera Rubin
+MU,Powerchip,supplier,2026-03-18,the successful closing of the acquisition of the Tongluo site from Powerchip Semiconductor
+MU,NVDA,customer,2026-09-30,"we've been working with NVIDIA for over a year on HBM4E, what's called NV HBM"
+WDC,Elliott Investment Management,investor,2022-08-05,Elliott Management is participating alongside us under a nondisclosure agreement
+WDC,Apollo Global Management,investor,2023-01-31,Western Digital has entered into agreements with Apollo Global Management and Elliott Investment Management for convertible preferred equity investments totaling $900 million
+WDC,Elliott Investment Management,investor,2023-01-31,Western Digital has entered into agreements with Apollo Global Management and Elliott Investment Management for convertible preferred equity investments totaling $900 million
+WDC,Kioxia,partner,2023-01-31,demonstrating the benefits of Western Digital's strong partnership with Kioxia
+WDC,Kioxia,partner,2023-05-08,low-cost flash supply from our joint venture fab with Kioxia
+WDC,Kioxia,partner,2023-07-31,"BiCS 8 solidifies Western Digital and Kioxia's leadership in cost, capital efficiency, and I/O performance into the future"
+WDC,Kioxia,partner,2023-10-30,"Our successful 23-year partnership with Kioxia continues to provide us a reliable of high-performance, low-cost flash"
+WDC,Kioxia,partner,2024-01-25,optimizing capital efficiency through our joint venture partnership with Kioxia
+WDC,Kioxia,partner,2024-04-25,all of that is done in tandem with Kioxia
+WDC,Kioxia,partner,2024-07-31,BiCS8 reinforces Western Digital and Kioxia's leadership in cost and capital efficiency
+WDC,NVDA,partner,2024-10-24,That's what was qualified by NVIDIA in their reference architecture
+WDC,Qolab,partner,2026-01-29,we announced a strategic investment in Qolab
+WDC,SNDK,partner,2026-04-30,"we significantly strengthened our balance sheet by monetizing 5.8 million shares of SanDisk, which led to a $3.1 billion reduction in our debt"
+STX,AVGO,partner,2024-04-23,"Today, we announced that Broadcom has acquired our ASIC assets, including development engineering and related IP for $600 million in cash."
+STX,AMZN,customer,2025-01-21,"Consistent with feedback we've received from many cloud customers, AWS highlighted at their recent Reinvent conference that adopting the highest capacity hard disk drives"
+STX,TDK,partner,2025-10-28,"We are not buying heads today from TDK. And I would say TDK is a great partner, has been for a long time."
+SNDK,Kioxia,partner,2026-01-29,we have reached an agreement with Kyoccia to extend the Yokohama joint venture through 12/31/2034
+SNDK,Kioxia,partner,2026-04-30,Both the extension of our joint venture with Kioxia and the supply agreement for DRAM following our investment in Nanya further strengthen our supply chain resiliency.
+SNDK,Nanya,supplier,2026-04-30,the supply agreement for DRAM following our investment in Nanya
+SNDK,Nanya,partner,2026-04-30,investing approximately $1 billion in Nanya to secure long-term DRAM supply
+SNDK,Nanya,partner,2026-08-05,a gain of $807 million from our investment in Nanya
+AMAT,INTC,customer,2022-02-16,"If you look at Intel, pretty committed to spending and announcing new fabs."
+AMAT,TSM,customer,2022-02-16,"So if you look at TSMC has put long-term spending out -- forecast of $100 billion kind of capex, $40 billion, $42 billion in capex next -- this year."
+AMAT,Leti,partner,2024-02-15,"During the quarter, we announced an expansion of our long-term partnership with Leti, which is focused on accelerating ICAPS innovation"
+AMAT,MIT,partner,2024-02-15,"and we launched a new collaboration with MIT, which is centered around next-generation power electronics."
+AMAT,TSM,customer,2024-08-15,TSMC was a 10% customer in Q3.
+AMAT,Samsung,partner,2026-02-12,"This week, we also announced our first EPIC co-development agreement with Samsung Electronics."
+AMAT,Advantest,partner,2026-05-14,"We've announced 8 partners that we talked about earlier, TSMC, Samsung, Hynix, Micron, Advantest, ASU, RPI, Stanford, and we will be adding more soon."
+AMAT,MU,partner,2026-05-14,"Earlier this week, we announced our EPIC co-development engagement with TSMC, who joined as a founding partner together with Micron, Samsung and SK Hynix."
+AMAT,SK hynix,partner,2026-05-14,"Earlier this week, we announced our EPIC co-development engagement with TSMC, who joined as a founding partner together with Micron, Samsung and SK Hynix."
+AMAT,Samsung,partner,2026-05-14,"Earlier this week, we announced our EPIC co-development engagement with TSMC, who joined as a founding partner together with Micron, Samsung and SK Hynix."
+AMAT,TSM,partner,2026-05-14,"Earlier this week, we announced our EPIC co-development engagement with TSMC, who joined as a founding partner together with Micron, Samsung and SK Hynix."
+AMAT,AVGO,partner,2026-08-13,we announced that Broadcom will join Epic as an innovation partner to accelerate development of advanced chip packaging technologies for next generation AI systems.
+LRCX,Entegris,partner,2022-07-27,"In collaboration with Entegris and Gelest, we look to provide our customers with reliable access to precursor chemicals for Lam's dry photoresist technology."
+LRCX,Gelest,partner,2022-07-27,"In collaboration with Entegris and Gelest, we look to provide our customers with reliable access to precursor chemicals for Lam's dry photoresist technology."
+LRCX,SK hynix,customer,2022-07-27,we announced that SK Hynix has selected Lam's innovative dry resist fabrication technology as a development tool of record for two key steps in the patterning process for advanced DRAM chips.
+KLAC,INTC,customer,2026-04-29,Intel was public about increasing their metrology usage as you heard on their call.
+TER,Quantifi Photonics,partner,2025-04-29,we believe that we are on track to close the acquisition of Quantifi Photonics in the second quarter.
+TER,Quantifi Photonics,partner,2025-07-30,"we closed the acquisition of Quantifi Photonics, accelerating an important element of our strategy to gain share in AI compute"
+TER,Advantest,competitor,2026-02-03,Teradyne and Advantest are going to be competing on a generational basis for new design wins.
+TER,Infineon,partner,2026-02-03,because of the acquisition of the power group that we got from Infineon last year to cover the wideband gap power market.
+TER,MultiLane,partner,2026-02-03,Teradyne announced an agreement with MultiLane to form a joint venture.
+TER,Advantest,competitor,2026-04-29,So bearing in mind how far off both Teradyne and Advantest were about the 2025 TAM when it was April.
+TER,Generalist,partner,2026-04-29,we recently demonstrated a complex physical AI work cell in partnership with Generalist as part of the recent NVIDIA GTC.
+TER,MultiLane,partner,2026-04-29,"Our MultiLane Test Products joint venture closed on April 8, and we believe this partnership will accelerate the development of high-speed I/O and data center interconnect test solutions"
+TER,TestInsight,partner,2026-04-29,"On April 16, we closed on the acquisition of TestInsight business, furthering our wafer to AI data center product penetration."
+ASML.AS,Mistral,partner,2025-10-15,"As you know, we were the lead investor for their Series C funding round. And by being the lead investor, we took approximately an 11% share in Mistral."
+ASML.AS,SK hynix,customer,2025-10-15,"SK Enix, who announced the start of the installation of their first 5,200 in their production fab"
+ASML.AS,INTC,customer,2026-07-15,Intel Foundry is using ASML High-NA EUV technology on the Intel 18A process node to produce a subset of its Intel Core Ultra Series 3 processors.
+ASML.AS,INTC,customer,2026-10-14,Intel announced that it has exposed more than 1 million wafers using its High-NA EUV systems with performance that meets or exceeds comparable layers pattern using low-NA EUV.
+ASML.AS,Mistral,partner,2026-10-14,includes around €500 million as a result of an increase in the valuation of our initial investment in Mistral AI
+ASML.AS,Samsung,customer,2026-10-14,"Samsung and TSMC announced plans to introduce High-NA EUV into high volume manufacturing in 2028 and 2030, respectively."
+ASML.AS,TSM,customer,2026-10-14,"Samsung and TSMC announced plans to introduce High-NA EUV into high volume manufacturing in 2028 and 2030, respectively."
+ASML.AS,TSM,partner,2026-10-14,we also in collaboration with TSMC began an industry wide initiative to develop larger formats EUV photomask.
+ASML.AS,Zeiss,supplier,2026-10-14,"This is something that we take into account, starting with Zeiss. We do not see, Zeiss today as a bottleneck."
+ANET,META,customer,2022-02-14,"We do expect Meta, formerly Facebook, to become our second 10% revenue customer in 2022 as we improve lead times."
+ANET,META,partner,2022-02-14,"The Arista 7388, which we co-developed with Meta and announced at OCP November last year, is also now running successfully in production data centers."
+ANET,MSFT,customer,2022-02-14,Microsoft was the only greater-than-10% customer at a 15% contribution.
+ANET,MSFT,partner,2022-05-02,We consider Microsoft a very strategic and preferred partner.
+ANET,NVDA,partner,2022-05-02,"Well, we've always viewed NVIDIA as a partner, especially for the DPUs and NIC so when they were Mellanox, and we continue to view that."
+ANET,NVDA,competitor,2022-05-02,And I think NVIDIA's focus on Spectrum 4 is more as a vertical stack for their captive customer opportunities.
+ANET,Ericsson,partner,2022-08-01,"Pluribus pioneered a new class of unified cloud fabric networking endorsed by our partners, Ericsson for telco and 5G cloud and NVIDIA for DPU-based networking."
+ANET,META,customer,2022-08-01,"As we disclosed in previous calls, Microsoft and Meta are very special customers and expected to each be over 10% of our revenue for the full year."
+ANET,MSFT,customer,2022-08-01,"As we disclosed in previous calls, Microsoft and Meta are very special customers and expected to each be over 10% of our revenue for the full year."
+ANET,NVDA,partner,2022-08-01,"Pluribus pioneered a new class of unified cloud fabric networking endorsed by our partners, Ericsson for telco and 5G cloud and NVIDIA for DPU-based networking."
+ANET,META,customer,2022-10-31,Our Cloud Titan customers are now expected to account for approximately 45% of our revenue for the year with major contributions from Meta and Microsoft.
+ANET,MSFT,customer,2022-10-31,Our Cloud Titan customers are now expected to account for approximately 45% of our revenue for the year with major contributions from Meta and Microsoft.
+ANET,AVGO,supplier,2023-02-13,"We also introduced several new products based on Tomahawk 4 and our deep buffer, which will output your systems based on Jericho 2 to 7280 and the 7800R3 modular systems."
+ANET,META,customer,2023-02-13,"Both Meta and Microsoft are now far greater than 10% customers at 25.5% and 16% contribution, respectively."
+ANET,META,partner,2023-02-13,"At Meta, we have our co-developed platforms such as the Tomahawk-3 7368 and 7388, which helps them improve throughput and data center power efficiency."
+ANET,MSFT,customer,2023-02-13,"Both Meta and Microsoft are now far greater than 10% customers at 25.5% and 16% contribution, respectively."
+ANET,AVGO,supplier,2023-05-01,"by the time Broadcom has a chip, the chip gets built into a system by us, and then the system gets deployed by our cloud customers, it can be one to two years."
+ANET,EQIX,partner,2023-05-01,"Arista has partnered with Equinix to develop and deploy the WAN routing systems, and WAN routing will be included as part of our network adjacency category."
+ANET,META,customer,2023-07-31,We will continue to run both SONiC and FBOSS in the case of Microsoft and Meta along with our EOS.
+ANET,MSFT,customer,2023-07-31,We will continue to run both SONiC and FBOSS in the case of Microsoft and Meta along with our EOS.
+ANET,AVGO,supplier,2023-10-30,"we decided to work with the best-of-breed companies, Broadcom being one of our favorite and major suppliers."
+ANET,Apple,customer,2023-10-30,"And as a result of this combination, Oracle OCI becomes a new member of the sector, while Apple shifts to cloud specialty providers."
+ANET,INTC,supplier,2023-10-30,"Of course, in the past, we worked with Intel, Cavium, and we don't rule out other suppliers as well."
+ANET,META,customer,2023-10-30,"If I recall the numbers, Meta was at 26%"
+ANET,MSFT,customer,2023-10-30,"Microsoft was 16%, 17%."
+ANET,ORCL,customer,2023-10-30,"And as a result of this combination, Oracle OCI becomes a new member of the sector, while Apple shifts to cloud specialty providers."
+ANET,AMD,partner,2024-02-12,"We will also be working with our partners in AMD and Intel so we will be the Switzerland of XPUs, whatever the GPU might be, and we look to supply the best network ever."
+ANET,INTC,partner,2024-02-12,"We will also be working with our partners in AMD and Intel so we will be the Switzerland of XPUs, whatever the GPU might be, and we look to supply the best network ever."
+ANET,META,customer,2024-02-12,"Both Meta and Microsoft are greater than 10% customer concentration at 21% and 18%, respectively."
+ANET,MSFT,customer,2024-02-12,"Both Meta and Microsoft are greater than 10% customer concentration at 21% and 18%, respectively."
+ANET,NVDA,partner,2024-05-07,"I think, it's important to understand that we wouldn't have a massive AI networking opportunity if NVIDIA didn't build some fantastic GPUs."
+ANET,META,customer,2024-07-30,I expect both Microsoft and Meta to be greater than 10% customers for us.
+ANET,MSFT,customer,2024-07-30,I expect both Microsoft and Meta to be greater than 10% customers for us.
+ANET,META,partner,2024-11-07,The 77R4 DES platform was developed in close collaboration with Meta.
+ANET,NVDA,partner,2024-11-07,"We certainly welcome NVIDIA as a partner on the GPU side and a fierce competitor, and we look to compete with them on the Ethernet switching."
+ANET,NVDA,competitor,2024-11-07,"We certainly welcome NVIDIA as a partner on the GPU side and a fierce competitor, and we look to compete with them on the Ethernet switching."
+ANET,AMD,partner,2025-02-18,"As we move forward, we see not only that we connect to them, that we can connect to AMD GPUs and built-in in-house AI accelerators."
+ANET,Apple,customer,2025-02-18,"Enterprise and financials were strong at approximately 35%, while the providers, which now includes Apple, was at 17% approximately."
+ANET,META,customer,2025-02-18,"Both Microsoft and Meta are greater than 10% concentration customers at approximately 20% and 14.6%, respectively."
+ANET,MSFT,customer,2025-02-18,"Both Microsoft and Meta are greater than 10% concentration customers at approximately 20% and 14.6%, respectively."
+ANET,ORCL,customer,2025-02-18,"Our cloud and AI titans contributed significantly at approximately 48%, keeping in mind that Oracle is a new member of this category."
+ANET,AMD,partner,2026-02-12,"Today, when we look at our deployments, we see about 20%, maybe a little more, 20 to 25%, where AMD is becoming the preferred accelerator of choice."
+ANET,ARM,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,AVGO,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,Anthropic,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,Apple,customer,2026-02-12,"Enterprise and financials recorded at 32%, while AI and specialty providers, which now includes Apple, Oracle, and their initiatives, as well as emerging Neo Cloud, performed strongly at 20%."
+ANET,NVDA,partner,2026-02-12,"Of course, we interoperate with NVIDIA, the recognized worldwide market leader in GPUs"
+ANET,ORCL,customer,2026-02-12,"Enterprise and financials recorded at 32%, while AI and specialty providers, which now includes Apple, Oracle, and their initiatives, as well as emerging Neo Cloud, performed strongly at 20%."
+ANET,OpenAI,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,Pure Storage,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,TSM,supplier,2026-02-12,"Add to that we are expecting increases from silicon fabrication that all the chips are made, as you know, essentially with one Taiwan Semiconductor."
+ANET,VAST Data,partner,2026-02-12,"leading companies such as AMD, Anthropic, Arm, Broadcom, OpenAI, Pure Storage, and Vast Data to name a few, that create the modern AI stack of the twenty-first century."
+ANET,AMD,partner,2026-05-05,"was selected as a commercially proven and reliable scale-out architecture, with unmatched stability of EOS and the ability to connect AMD MI series XPUs."
+ANET,GOOGL,partner,2026-05-05,"This time, I will definitely give a nod to the TPUs, because in particularly scale-across use cases, we are seeing multi-tenants connecting to different AI accelerators"
+ANET,META,customer,2026-05-05,"First of all, the two big ones—we never take them for granted—Microsoft and Meta, they are all-time favorites."
+ANET,MSFT,customer,2026-05-05,"First of all, the two big ones—we never take them for granted—Microsoft and Meta, they are all-time favorites."
+ANET,Palo Alto Networks,partner,2026-05-05,"Here, we saw great results from our technology partnership with Palo Alto Networks, ensuring the routing edge integrated securely and seamlessly with our overarching security architecture."
+ANET,AMD,partner,2026-08-04,"The second is the non-NVIDIA accelerators, and you've heard me talk about our enthusiasm with the MI series from AMD."
+ANET,GOOGL,partner,2026-08-04,We're excited about the Google TPUs.
+ANET,META,customer,2026-08-04,"And undoubtedly, we remain very committed to our 2 longest partners, Microsoft and Meta."
+ANET,MSFT,customer,2026-08-04,"And undoubtedly, we remain very committed to our 2 longest partners, Microsoft and Meta."
+ANET,NVDA,competitor,2026-08-04,"So it will take time to go from a proprietary scale-up that's been around a long time with NVLink to these other alternatives, even if Ethernet is really good."
+CSCO,MSFT,partner,2022-11-16,An example of this is our partnership with Microsoft to bring Microsoft teams to Cisco meeting room devices.
+CSCO,Apple,partner,2023-08-16,"In addition, we are working with Apple to incorporate Cisco Secure Access solution into iOS and macOS."
+CSCO,AMD,partner,2023-11-15,"We also are working very closely with AMD, Intel, and NVIDIA to create solutions, including Ethernet technologies, GPU-enabled infrastructure jointly tested and validated reference architectures."
+CSCO,INTC,partner,2023-11-15,"We also are working very closely with AMD, Intel, and NVIDIA to create solutions, including Ethernet technologies, GPU-enabled infrastructure jointly tested and validated reference architectures."
+CSCO,NVDA,partner,2023-11-15,"And we think that a partnership with NVIDIA, in that case, with our underlying technology and our strength of go-to-market, we think will be a winning combination."
+CSCO,NVDA,partner,2024-02-14,"This quarter, we announced the next phase in our partnership with NVIDIA to offer enterprises simplified cloud-based and on-prem AI infrastructure."
+CSCO,NVDA,partner,2024-05-15,our partnership with NVIDIA will offer easy-to-deploy cloud-based and on-prem networking solutions for AI inferencing.
+CSCO,NVDA,partner,2024-08-14,Our HyperFabric AI cluster solution created with NVIDIA helps our enterprise customers build infrastructure to run generative AI models and inference applications.
+CSCO,NVDA,supplier,2024-11-13,"We announced our AI compute platform that is -- the first phase of that is based on NVIDIA GPUs, and we announced AI pods, which are also based on NVIDIA GPUs."
+CSCO,NVDA,competitor,2024-11-13,"When you look at the competitive positioning of NVIDIA, I think, look, we live in a world where we have great customers, great partners that we also compete with."
+CSCO,AMD,supplier,2025-02-12,"I can't speak to exactly why the team chose the AMD, DPU other than I'm sure they did an analysis and thought it was the best solution for us."
+CSCO,NVDA,partner,2025-02-12,"Now, we believe with the NVIDIA partnership, the hyper fabric stack, the AI pods, the things that we're building"
+CSCO,G42,customer,2025-11-12,"We recently announced an expansion of our partnership with G42 in The UAE to power, connect and secure G42's large-scale AI clusters."
+CSCO,NVDA,supplier,2025-11-12,"In addition, Cisco announced an expansion of our NVIDIA partnership and our new N9100 switch based on Spectrum X silicon."
+CSCO,NVDA,partner,2025-11-12,We are now the first NVIDIA partner to offer networking with their cloud reference architecture.
+CSCO,AMD,partner,2026-02-11,"In Q2, we announced plans to form a joint venture with AMD and HUMAIN to deliver up to 1 gigawatt of AI infrastructure by 2030."
+CSCO,Humain,partner,2026-02-11,"In Q2, we announced plans to form a joint venture with AMD and HUMAIN to deliver up to 1 gigawatt of AI infrastructure by 2030."
+CSCO,NVDA,partner,2026-02-11,"But by and large, we are the network standard, particularly when we're partnering with NVIDIA in the enterprise right now."
+CSCO,Anthropic,partner,2026-05-13,Cisco is a founding member of Project Glasswing and is participating in private testing of Anthropic's Claude Mythos preview model
+CSCO,NVDA,partner,2026-05-13,"In March, we announced a major expansion of our Secure AI factory with NVIDIA, giving customers a framework for deploying AI across their entire infrastructure"
+CSCO,OpenAI,partner,2026-05-13,"As a founding design partner with OpenAI on Codex, our engineers have been using it from the beginning."
+CSCO,TSM,supplier,2026-08-12,"On the TSMC, specific question, I think that, you know, the biggest thing is we are we are not waiting on any sort of allocation."
+CIEN,Huawei,competitor,2022-06-02,"continued incremental opportunity to displace Huawei in many countries, particularly in Europe"
+CIEN,Bharti Airtel,customer,2022-09-01,"we expect a very robust 2023 in India, driven by all of the Spectrum stuff with Jio and Bharti, etc."
+CIEN,Huawei,competitor,2022-09-01,"residential broadband funding, and opportunities to displace Huawei."
+CIEN,Reliance Jio,customer,2022-09-01,"we expect a very robust 2023 in India, driven by all of the Spectrum stuff with Jio and Bharti, etc."
+CIEN,AT&T,customer,2025-06-05,"The largest customer was 13.4%, and the second one was our service provider, AT&T, at 10.4%."
+CIEN,AT&T,customer,2025-12-11,"The three plus 10% customers that we had in Q4, one was AT&T."
+CIEN,META,customer,2025-12-11,"Today, I'm pleased to announce that our DCOM business with Meta has expanded, as they plan to deploy in multiple new data centers."
+CIEN,META,partner,2025-12-11,"On the DCOM part of that, obviously, that was co-created specifically with Meta over a period of time."
+CIEN,META,partner,2026-03-05,DCOM was initially designed with Meta to meet hyperscale provisioning and configuration requirements.
+CIEN,META,customer,2026-06-04,"In addition to Meta, we've received initial orders from a second hyperscaler customer"
+COHR,Denso,investor,2023-11-07,our silicon carbide business in which we recently announced $1 billion of investments by Mitsubishi Electric and Denso
+COHR,Mitsubishi Electric,investor,2023-11-07,our silicon carbide business in which we recently announced $1 billion of investments by Mitsubishi Electric and Denso
+COHR,Denso,investor,2024-02-06,"with Mitsubishi Electric and DENSO Corporation, in which they invested in aggregate of $1 billion in our silicon carbide business and entered into long-term supply agreements"
+COHR,Denso,customer,2024-02-06,"with Mitsubishi Electric and DENSO Corporation, in which they invested in aggregate of $1 billion in our silicon carbide business and entered into long-term supply agreements"
+COHR,Mitsubishi Electric,investor,2024-02-06,"with Mitsubishi Electric and DENSO Corporation, in which they invested in aggregate of $1 billion in our silicon carbide business and entered into long-term supply agreements"
+COHR,Mitsubishi Electric,customer,2024-02-06,"with Mitsubishi Electric and DENSO Corporation, in which they invested in aggregate of $1 billion in our silicon carbide business and entered into long-term supply agreements"
+COHR,Apple,customer,2026-02-04,"we won, you know, significant new agreement with Apple that they announced as part of their American manufacturing program, this past summer."
+COHR,NVDA,investor,2026-05-06,"This partnership includes both NVIDIA's $2 billion equity investment in Coherent, Inc. and a multiyear supply agreement extending through the end of the decade."
+COHR,NVDA,customer,2026-05-06,"In March, we announced a strategic partnership with NVIDIA focused on multiple CPO-related products and solutions."
+COHR,NVDA,customer,2026-08-12,Our Texas facility has also begun ramping our ultra high power CW laser for CPO solutions. Including those covered by our NVIDIA partnership.
+LITE,Huawei,customer,2022-05-04,And it had its day when we were shipping meaningful revenue to Huawei on their handsets.
+LITE,GOOGL,customer,2026-05-05,"I would say that Google is driving a lot of demand on our business, right"
+LITE,NVDA,investor,2026-05-05,with the increase primarily driven by NVIDIA's direct investment in Lumentum.
+FN,AMZN,customer,2025-04-30,"This is our first direct relationship with the leading hyperscaler, where we will be providing Amazon with advanced manufacturing services in a multi-year agreement."
+FN,AMZN,investor,2025-04-30,Our agreement with Amazon reinforces our longer-term optimism and further aligns our interests through a warrant purchase agreement for up to 1% of our outstanding shares.
+FN,NVDA,customer,2025-04-30,our understanding is that the 1.6 terabit transceivers that we produce will be used for the customer’s Blackwell Ultra product.
+FN,AMZN,customer,2026-02-02,"we're pursuing other HPC customers, of course, as our relationship with AWS is not exclusive, but the timelines for these can be fairly long."
+FN,Raytec Semiconductor,partner,2026-05-04,"we have made a minority investment in Raytec Semiconductor, a Taiwan-based provider of advanced wafer-level packaging technologies, as an ecosystem partner."
+FN,AMZN,customer,2026-08-17,"These were Cisco at 20% NVIDIA at 16%, Nokia at 11%, and Amazon at 11% of total revenue."
+FN,CSCO,customer,2026-08-17,"These were Cisco at 20% NVIDIA at 16%, Nokia at 11%, and Amazon at 11% of total revenue."
+FN,NOKIA.HE,customer,2026-08-17,"These were Cisco at 20% NVIDIA at 16%, Nokia at 11%, and Amazon at 11% of total revenue."
+FN,NVDA,customer,2026-08-17,"These were Cisco at 20% NVIDIA at 16%, Nokia at 11%, and Amazon at 11% of total revenue."
+FN,Raytec Semiconductor,partner,2026-08-17,"Our partnership with Raytec, we think, will be very important for us"
+SMCI,NVDA,supplier,2025-02-11,"Moving on to our technology progress, we are excited to announce that our NVIDIA Blackwell products are shipping now."
+SMCI,xAI,customer,2025-02-11,"featuring the latest DLC technology, exemplified by the xAI Colossus, the world's largest liquid-cooled AI supercomputer."
+SMCI,AMD,supplier,2026-05-05,"We continue to build on strong momentum of our AMD MI350 platform as we prepare for the next generation of AMD CDNA solutions, featuring EPYC “Venus” and MI400 series products."
+SMCI,AVGO,supplier,2026-05-05,"Our relationship with vendors has been very long term, including NVIDIA, AMD, Intel, Broadcom."
+SMCI,INTC,supplier,2026-05-05,"In the last six months, as you know, memory and SSD prices grew so much—double, triple, more than triple—and there is some CPU shortage, especially from Intel, and even some GPU shortage."
+SMCI,NVDA,supplier,2026-05-05,"We continue to grow and expand our partnerships with many key suppliers, especially with NVIDIA."
+SMCI,AMD,supplier,2026-08-11,"With AMD, we launched completely new Helios product line and MI450 Total Solution alongside strong EPYC CPU, MI350 and MI355X momentum."
+SMCI,INTC,supplier,2026-08-11,"Working with Intel, we brought Panther Lake Edge AI systems to market and shipping Xeon 6+ platforms in volume."
+SMCI,NVDA,supplier,2026-08-11,"Through our long-term NVIDIA partnership, we are shipping volume SKUs across the GB300 NVL72, HGX B300, B200 NVL4, and RTX 6000 Pro product lines"
+DELL,NVDA,supplier,2025-11-25,So in our backlog of $18.4 billion there's been a significant shift towards GB 300 as expected.
+DELL,NVDA,supplier,2026-02-26,"So on the $43,000,000,000 backlog, Samik, it is predominantly—overwhelmingly—Grace Blackwell."
+DELL,CrowdStrike,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,GOOGL,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,Mistral,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,NOW,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,NVDA,partner,2026-05-28,"At GTC, we marked the 2-year anniversary of the Dell AI factory with NVIDIA and extended our leadership in accelerated computing."
+DELL,OpenAI,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,PLTR,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,SpaceX AI,partner,2026-05-28,"We continue to expand the Dell AI factory ecosystem with partners including NVIDIA, Google Cloud, OpenAI, SpaceX AI, ServiceNow, Palantir, Mistral, and CrowdStrike."
+DELL,NVDA,supplier,2026-09-01,We demonstrated those capabilities again by becoming the first to ship Rack Systems engineered on the NVIDIA Vera Rubin platform.
+HPE,NVDA,supplier,2025-06-03,One of the cluster build-outs we are working on right now with NVIDIA is a large deployment of NVIDIA Grace Blackwell MVL72 systems.
+HPE,AMD,supplier,2025-09-03,"During the quarter, we expanded the Gen12 compute portfolio to include the latest AMD fifth-generation EPYC processors."
+HPE,NVDA,supplier,2025-09-03,"Last month, we launched HPE servers with the new NVIDIA Pro 6,000 Blackwell and NVIDIA Blackwell Ultra accelerated computing platforms."
+HPE,AMD,partner,2026-09-02,"And when I think about 2027, in our guide, we have not included the AMD Helios opportunity at all, which is going to start ramping sometime end of this calendar year and 2027."
+HPE,NVDA,partner,2026-09-02,"some are using the full stack like a private cloud AI, which in many ways, the AI factory that we co-engineered with NVIDIA."
+HPE,ORCL,customer,2026-09-02,Oracle will deploy HPE Juniper networking routers and switches across one of the largest AI cloud infrastructure build-outs.
+CLS,GOOGL,customer,2026-01-29,"As a preferred manufacturing partner, for Google's Tensor Processing Unit, or TPU systems Celestica is committed to making long term investments in both capacity and capabilities"
+CLS,AMD,partner,2026-04-28,"First, we announced in March we are collaborating with AMD on the design and manufacturing of a scale-up networking switch for the Helios rack scale AI architecture."
+CLS,AVGO,supplier,2026-04-28,We actually believe it is the first major production-scale deployment of co-packaged optics using Broadcom Tomahawk [inaudible] module and designing that directly into our system.

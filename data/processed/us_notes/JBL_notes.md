@@ -1,0 +1,12 @@
+# JBL - AI demand notes from earnings calls, 2022-03-16 to 2026-09-30
+(7 calls in sample; none between 2022-09 and 2025-06; the 2025-06-17 and 2025-12-17 digest sections are near-empty, so their numbers come from the transcripts)
+
+- 2022-03-16: Supply-chain tightness is inflating inventory (71 days net of customer deposits). Q3 guide: DMS ~$4.2bn (+17%), EMS ~$4bn (+11%). EV, cloud and 5G are cited as secular drivers; AI is not yet a theme.
+- 2022-06-16: Revenue +15% YoY, with demand continuing "to outstrip supply"; cloud and semi-cap are among the resilient end markets. Shanghai shutdowns hit supply chains; FY23 capex similar to FY22 as a % of revenue.
+- 2022-09-27: Q4 revenue ~$9bn beat on 5G, cloud and networking/storage, but FY23 was guided to only ~3% growth "in spite of an economic slowdown". Net capex ~$875M (2.5% of revenue); semi-cap customers still executing (CHIPS Act).
+- 2025-06-17: AI inflection: FY25 AI-related revenue ~$8.5bn (+50%+); Intelligent Infrastructure $3.4bn (+~51%) on cloud and data-center work (power, cooling, racks). FY25 revenue guide raised to ~$29bn; a $500M Southeast US AI data-center site (operational mid-2026).
+- 2025-12-17: FY26 AI-related revenue raised to ~$12.1bn (+35%, vs 25% growth expected in September); FY26 revenue guide $32.4bn (+$1.1bn). The second hyperscaler (AI storage racks, Mexico) is targeted at ~$1bn vs $750M earlier; liquid-cooling capacity retrofits underway.
+- 2026-03-18: FY26 revenue raised to ~$34bn (+$1.6bn) and AI-related revenue to ~$13.1bn (+46%); cloud/DCI $10.4bn (+$600M). Capital equipment $3bn (+$100M), with WFE "improving beyond our earlier assumptions"; memory and PCB constraints tightening.
+- 2026-09-30: FY26 revenue $36.0bn (+21%), AI-related revenue $14.4bn (+$5.4bn). 4 customers have >$1bn of AI revenue (vs 1 two years earlier). After being capacity-constrained for most of the year, capacity investments are now driving growth.
+- 2026-09-30: FY27 guide: revenue ~$44.5bn (+24%), AI-related ~$22.1bn (+54%), 6 Intelligent Infrastructure customers >$1bn. Adding 4M sq ft of capacity tied to booked programs; memory is being "reallocated towards AI and hyperscale demand".
+Current state (latest call): 2026-09-30. FY27 AI-related revenue is guided +54% to ~$22.1bn on booked programs (hyperscaler racks, AI networking, power and cooling). Capacity (+4M sq ft) and memory allocation are the main constraints, not demand.

@@ -1,0 +1,1011 @@
+ticker,call_date,signal_type,direction,magnitude,quote
+ADBE,2024-09-12,ai_revenue_milestone,+1,12bn+ Firefly generations,we have now surpassed 12 billion Firefly powered generations across Adobe tools.
+ADBE,2024-09-12,other,+1,Q3 NN DM ARR $504m,"In Q3, we achieved net new Digital Media ARR of $504 million and revenue of $4 billion, which grew 12% year over year"
+ADBE,2024-12-11,orders_accel,+1,,We're seeing strong customer demand for Adobe GenStudio for Performance Marketing since its general availability at MAX.
+ADBE,2024-12-11,other,+1,FY24 NN DM ARR >$2bn,We ended the year with just over $2 billion of net new Digital Media ARR for the first time ever
+ADBE,2024-12-11,other,-1,FY25 rev $23.30-23.55bn; DM ARR +11%,For FY '25 we are targeting total Adobe revenue of $23.30 to $23.55 billion; Digital Media segment revenue of $17.25 to $17.40 billion; Digital Media ending ARR book of business growth of 11%
+ADBE,2025-03-12,ai_revenue_milestone,+1,AI-first book >$125m,which have already contributed greater than $125 million book of business exiting Q1 fiscal '25.
+ADBE,2025-03-12,ai_revenue_milestone,+1,AI book to 2x by FYE25,And we expect this AI book of business to double by the end of fiscal '25.
+ADBE,2025-03-12,other,+1,FY25 targets reaffirmed,"given Q1 performance, we are pleased to reaffirm our fiscal '25 targets."
+ADBE,2025-06-12,ai_revenue_milestone,+1,AI direct ARR >$250m target,"services, and Gen Studio for performance marketing, is tracking ahead of the $250 million ending ARR target by the end of fiscal 2025."
+ADBE,2025-06-12,guidance_raise,+1,FY25 rev $23.5-23.6bn from $23.30-23.55bn,"For FY 2025, we are now targeting total Adobe revenue of $23.5 to $23.6 billion, Digital Media segment revenue of $17.45 to $17.5 billion, Digital Media ending ARR book of business growth of 11% year"
+ADBE,2025-06-12,other,+1,Firefly services/custom models ARR 4x,Continued demand for Firefly services and custom models as part of the GenStudio solution resulting in 4x year over year ARR growth.
+ADBE,2025-12-10,ai_revenue_milestone,+1,,"In fiscal 2025, Adobe delivered significant AI-influenced and AI-first ending ARR, which accelerated through the year."
+ADBE,2025-12-10,other,+1,FY26 rev $25.9-26.1bn; ARR +10.2%,"For FY 2026, we're targeting total Adobe revenue of $25.9 to $26.1 billion."
+ADBE,2025-12-10,other,+1,total ARR $25.2bn +11.5%,"Total Adobe ending ARR across business professionals and consumers, and creative and marketing professionals of $25.2 billion, growing 11.5% year over year."
+ADBE,2026-03-12,ai_revenue_milestone,+1,Firefly ARR +75% q/q,Firefly subscription and credit pack ending ARR grew 75% quarter-over-quarter.
+ADBE,2026-03-12,other,+1,gen credit consumption +45% q/q,Firefly momentum is strong with generative credit consumption growing over 45% quarter-over-quarter.
+ADBE,2026-03-12,other,+1,total ARR $26.06bn +10.9%,"Q1 financial highlights included total Adobe ending ARR of $26.06 billion, growing 10.9% year-over-year."
+ADBE,2026-06-11,ai_revenue_milestone,+1,"AI-first ARR >$500m, >3x y/y",Adobe's AI innovation has driven an impressive 3x year-over-year increase in AI first ARR to greater than $500 million
+ADBE,2026-06-11,guidance_raise,+1,,"Based on our strong first half revenue performance and the inclusion of Semrush, we are pleased to raise our fiscal year revenue and non GAAP EPS targets."
+ADBE,2026-06-11,other,+1,Firefly ARR ~$300m,"Firefly ending ARR across Firefly app Firefly credit packs, and Firefly enterprise is approaching $300 million exiting Q2."
+ADBE,2026-09-10,ai_revenue_milestone,+1,AI-first ARR >$650m +150% y/y,Now exceeding $650 million and growing >150% year over year.
+ADBE,2026-09-10,customer_win,+1,,"Notable customer wins this quarter include Amazon, Deutsche Post DHL, Honeywell,T-Mobile, Renault, and the US Department of Energy Los Alamos National Laboratory."
+ADBE,2026-09-10,guidance_raise,+1,FY26 rev $26.576-26.626bn,"For FY 2026, we are targeting total Adobe revenue of $26.576 billion to $26.626 billion Business Professionals and Consumer subscription revenue of $7.47 billion to $7.49 billion Creative and"
+ADBE,2026-09-10,other,+1,,"Intensity of AI usage continues with credit consumption accelerating quarter on quarter, across Creative Cloud and the Firefly app."
+AMZN,2022-02-03,capex_raise,+1,2022 capex incl finance leases up y/y,"So, if you wrap that up, you know, we expect capex, including equipment finance leases, to increase year over year."
+AMZN,2022-04-28,capex_cut,-1,2022 operations capex lowered,We have lowered our operation's capital expenditures for 2022 and are evaluating other ways to increase our fixed cost leverage.
+AMZN,2022-04-28,digestion_warning,-1,excess fulfillment capacity,"Despite still seeing strong customer demand and expansion of our FBA business, we currently have excess capacity in our fulfillment and transportation network."
+AMZN,2022-07-28,capex_cut,-1,2022-23 ops expansion slowed,We have slowed our 2022 and 2023 operations expansion plans to better align with expected customer demand.
+AMZN,2022-07-28,digestion_warning,-1,,"Just like when the slowdown in 2020, we are prepared to help customers optimize their costs and we'll help them -- any who are scaling down."
+AMZN,2022-07-28,other,+1,"AWS $19.7bn, +33%","We saw another strong quarter of innovation and customer engagement in AWS where net sales were $19.7 billion in Q2, up 33% year over year"
+AMZN,2022-10-27,capex_cut,-1,2022 capex ~$60bn; fulfillment/transport -$10bn,This represents an estimated reduction in fulfillment and transportation capital investments of approximately $10 billion compared to last year
+AMZN,2022-10-27,digestion_warning,-1,,"But when I talk about enterprise customers in AWS, yes, we've been working with customers to lower their bills."
+AMZN,2022-10-27,orders_decel,-1,"AWS $20.5bn, +28% ex-FX","In AWS, net sales increased to $20.5 billion in Q3, up 28% year over year, excluding the impact of foreign exchange"
+AMZN,2022-10-27,other,+1,AWS backlog growth 60%+,"Backlog has been running 60-plus percent, so the divergence between revenue and backlog is pretty large."
+AMZN,2023-02-02,orders_decel,-1,AWS +20%,"Net sales increased $21.4 billion in Q4, up 20% year over year and now representing an annualized sales run rate of more than $85 billion."
+AMZN,2023-04-27,capex_cut,-1,2023 capital investments < $59bn,"For the full year 2023, we expect capital investments to be lower than our $59 billion investment level in 2022"
+AMZN,2023-04-27,digestion_warning,-1,,"And so, we're spending a lot of time with customers, trying to help them think of smart ways, not short-term ways, but smart ways to optimize their costs and to be able to scale up and down."
+AMZN,2023-04-27,orders_decel,-1,"AWS $21.4bn, +16%","In AWS, net sales were $21.4 billion in the first quarter, up 16% year over year and representing an annualized sales run rate of more than $85 billion."
+AMZN,2023-08-03,capex_cut,-1,2023 capital investments slightly >$50bn vs $59bn,"Looking ahead to the full year 2023, we expect capital investments to be slightly more than $50 billion compared to $59 billion in 2022."
+AMZN,2023-08-03,capex_raise,+1,AWS/GenAI infrastructure capex up,"partially offset by increased infrastructure capex to support growth of our AWS business, including additional investments related to generative AI and large language model efforts."
+AMZN,2023-08-03,other,+1,AWS optimization moderating,"What we're seeing in the quarter is that those cost optimizations, while still going on, are moderating, and many maybe behind us in some of our large customers."
+AMZN,2023-10-26,capex_cut,-1,2023 ~$50bn vs $59bn in 2022,"For the full year 2023, we expect capital investments to be approximately $50 billion, compared to $59 billion in 2022."
+AMZN,2023-10-26,customer_win,+1,Anthropic strategic collaboration,"Customers are excited about our approach to generative AI, with several new announcements made during the quarter, including a strategic collaboration with Anthropic"
+AMZN,2023-10-26,other,+1,AWS +12%,"And while we still saw elevated cost optimization relative to a year ago, it's continued to attenuate as more companies transition to deploying net new workloads."
+AMZN,2024-02-01,ai_revenue_milestone,+1,GenAI 'tens of billions' over several years,where we really believe we're going to drive tens of billions of dollars of revenue over the next several years.
+AMZN,2024-02-01,capex_raise,+1,2023 capex $48.4bn; 2024 up y/y,"As we look forward to 2024, we anticipate capex to increase year over year, primarily driven by increased infrastructure capex, support growth of our AWS business"
+AMZN,2024-02-01,orders_accel,+1,AWS +13% (from +12%),"Shifting to AWS, revenue in the quarter grew 13% year over year in Q4 versus 12% year over year in Q3, and we're now approaching an annualized revenue run rate of $100 billion."
+AMZN,2024-02-01,orders_accel,+1,,Our customer pipeline remains strong as existing customers are renewing at larger commitments over longer periods and migrations are growing.
+AMZN,2024-04-30,ai_revenue_milestone,+1,AI multibillion run-rate,We see considerable momentum on the AI front where we've accumulated a multibillion-dollar revenue run rate already.
+AMZN,2024-04-30,capex_raise,+1,2024 capex meaningfully up; Q1 $14bn,"We anticipate our overall capital expenditures to meaningfully increase year over year in 2024, primarily driven by higher infrastructure capex to support growth in AWS, including generative AI."
+AMZN,2024-04-30,orders_accel,+1,AWS ~+16% ex leap year,"As I mentioned, we're seeing strong AWS demand in both generative AI and our non-generative AI workloads, with customers signing up for longer deals, making bigger commitments."
+AMZN,2024-08-01,ai_revenue_milestone,+1,AWS run-rate >$105bn; AI multibillion,Our AI business continues to grow dramatically with a multibillion-dollar revenue run rate despite it being such early days.
+AMZN,2024-08-01,backlog_record,+1,"AWS backlog $156.6bn, +19% y/y","So, at the end of the second quarter, it was $156.6 billion."
+AMZN,2024-08-01,capex_raise,+1,H1-24 $30.5bn; H2 higher,"Looking ahead to the rest of 2024, we expect capital investments to be higher in the second half of the year."
+AMZN,2024-10-31,ai_revenue_milestone,+1,"AI multibillion, triple-digit growth","As I was mentioning in my opening comments, our AI business is a multibillion-dollar business that's growing triple-digit percentages year over year"
+AMZN,2024-10-31,capex_raise,+1,2024 capex ~$75bn (YTD $51.9bn),We expect to spend approximately $75 billion in capex in 2024.
+AMZN,2024-10-31,capex_raise,+1,2025 capex higher,I suspect we'll spend more on that in 2025.
+AMZN,2024-10-31,orders_accel,+1,"AWS +19.1%, $110bn run-rate",AWS grew 19.1% year over year and now stands at a $110 billion annualized run rate.
+AMZN,2024-10-31,supply_constrained,+1,,I believe we have more demand that we could fulfill if we had even more capacity today.
+AMZN,2025-02-06,ai_revenue_milestone,+1,"AI multibillion, triple-digit growth","It is hard to complain when you have a multibillion-dollar annualized revenue run rate business in AI, like we do, and it's growing triple-digit percentage year over year."
+AMZN,2025-02-06,capex_raise,+1,Q4-24 $26.3bn run-rate ~2025 level (~$105bn),And we think that run rate will be reasonably representative of our 2025 capital investment rate.
+AMZN,2025-02-06,supply_constrained,+1,"AWS +19%, $115bn run-rate","However, it is true that we could be growing faster, if not for some of the constraints on capacity."
+AMZN,2025-02-06,supply_constrained,+1,power,It comes in the form of power constraints where I think the world is still constrained on power from where I think we all believe we could serve customers if we were unconstrained.
+AMZN,2025-10-30,ai_revenue_milestone,+1,"Trainium2 multibillion, +150% q/q","Trainium2 continues to see strong adoption, is fully subscribed is now a multibillion-dollar business that grew 150% quarter-over-quarter."
+AMZN,2025-10-30,capacity_expansion,+1,3.8GW added in 12 months; 2x again by 2027,"To put that into perspective, we're now double the power capacity that AWS was in 2022, and we're on track to double again by 2027."
+AMZN,2025-10-30,capex_raise,+1,2025 cash capex ~$125bn; 2026 higher,"Looking ahead, we expect our full year cash CapEx to be approximately $125 billion in 2025, and we expect that amount will increase in 2026."
+AMZN,2025-10-30,customer_win,+1,Anthropic >1m Trainium2 by YE25,"Anthropic is using it now to build and deploy its industry-leading AI model, Claude, which we expect to be on more than 1 million Trainium2 chips by year-end."
+AMZN,2025-10-30,orders_accel,+1,AWS backlog $200bn; Oct deals > all of Q3,"Backlog grew to $200 billion by Q3 quarter end and doesn't include several unannounced new deals in October, which together or more than our total deal volume for all of Q3."
+AMZN,2025-10-30,orders_accel,+1,"AWS $132bn run-rate, +$2.1bn q/q (+20.2% y/y)",AWS revenue increased $2.1 billion quarter-over-quarter and now has an annualized revenue run rate of $132 billion.
+AMZN,2026-02-05,ai_revenue_milestone,+1,chips (Graviton+Trainium) >$10bn run-rate,"And our chips business, inclusive of Graviton and Trainium, is now over $10 billion in annual revenue run rate growing triple-digit percentages year over year."
+AMZN,2026-02-05,backlog_record,+1,"AWS backlog $244bn, +40% y/y","Which is on backlog, our backlog is $244 billion."
+AMZN,2026-02-05,capacity_expansion,+1,+1.2GW in Q4; 3.99GW LTM,We added 1.2 gigawatts of power in Q4 just quarter over quarter.
+AMZN,2026-02-05,capex_raise,+1,2026 capex ~$200bn vs ~$125bn 2025,"We expect to invest about $200 billion in capital expenditures across Amazon.com, Inc., but predominantly in AWS, because we have very high demand."
+AMZN,2026-02-05,orders_accel,+1,"AWS +24%, fastest in 13 quarters","AWS growth continued to accelerate to 24%, the fastest we've seen in thirteen quarters."
+AMZN,2026-04-29,ai_revenue_milestone,+1,"chips run-rate >$20bn, ~+40% q/q","We saw nearly 40% quarter over quarter growth in Q1, and our annual revenue run rate is now over $20 billion and growing triple-digit percentages year over year"
+AMZN,2026-04-29,backlog_record,+1,AWS backlog $364bn ex Anthropic deal,"On the backlog, the backlog for Q1 is $364 billion."
+AMZN,2026-04-29,customer_win,+1,Anthropic >$100bn,That does not include the recent deal that we announced with Anthropic for over $100 billion.
+AMZN,2026-04-29,customer_win,+1,multi-GW Trainium commitments from Anthropic and OpenAI,"For our custom AI silicon, we have recently shared very large multiyear, multi-gigawatt training commitments from the two leading AI labs in the world, Anthropic and OpenAI"
+AMZN,2026-04-29,orders_accel,+1,"AWS +28%, fastest in 15 quarters","Starting with AWS, growth continued to accelerate, up 28% year over year, the fastest growth rate in 15 quarters, up $2 billion quarter over quarter, the largest Q4 to Q1 AWS revenue increase ever."
+AMZN,2026-04-29,supply_constrained,+1,,We are in a stage where there is just not enough capacity for the amount of demand.
+AMZN,2026-07-30,ai_revenue_milestone,+1,AI run-rate >$25bn; chips >$25bn,"Our AI revenue run rate climbed significantly quarter-over-quarter, and is now also over $25 billion, growing triple-digit percentages year-over-year."
+AMZN,2026-07-30,backlog_record,+1,AWS backlog $496bn,"Our backlog stands at $496 billion, growing triple digits year-over-year."
+AMZN,2026-07-30,capex_raise,+1,2026 cash capex ~$220bn from ~$200bn (memory),We now believe we will spend approximately $220 billion in cash CapEx in 2026.
+AMZN,2026-07-30,orders_accel,+1,"AWS +36.7%, fastest in 18 quarters","Revenue growth of 36.7% year-over-year, accelerating for the fifth straight quarter, our fastest growth in 18 quarters back when AWS was less than half its current revenue size."
+AMZN,2026-07-30,other,+1,2027 capacity largely reserved; 2028 partly,"is largely reserved, and we have quite a bit of capacity that's already been reserved for 2028."
+AMZN,2026-07-30,supply_constrained,+1,short of capacity in 2026 and 2027,"Even at that amount, we will still not have enough capacity to meet all the demand we have in 2026, and I believe this dynamic will also be true in 2027, too."
+APLD,2024-10-09,capacity_expansion,+1,>1.4 GW pipeline,"Simultaneously, we are exploring opportunities to accelerate the monetization of our over 1.4 gigawatt pipeline."
+APLD,2024-10-09,other,+1,"initial 100 MW lease, up to 400 MW",We are finalizing the lease with a US-based hyperscaler.
+APLD,2024-10-09,supply_constrained,+1,,we have seen a substantial increase in interest and demand from other top-tier hyperscalers for 2025 and 2026 capacity which is an extremely short supply.
+APLD,2025-01-14,capacity_expansion,+1,>2 GW fundable; 1.6 GW other campuses,"At today's build cost, we have a significant portion of the equity needed to construct over 2 gigawatts of the HPC data center capacity, including our Ellendale HPC campus."
+APLD,2025-01-14,other,+1,Macquarie $900m + ROFR up to $4.1bn,give Macquarie the right of first refusal to invest up to an additional $4.1 billion across Applied Digital's future HPC data center pipeline.
+APLD,2025-01-14,supply_constrained,+1,,I don't know of anything of this scale available in 2025 is going to allow us to break into full-stack development and operations in the hyperscale market.
+APLD,2026-04-08,backlog_record,+1,~$16bn contracted lease revenue,secured approximately $16 billion in contracted lease revenue.
+APLD,2026-04-08,capacity_expansion,+1,"Delta Forge One 300 MW, mid-2027","we also broke ground on Delta Forge One, a 300 megawatt critical IT load AI factory campus"
+APLD,2026-04-08,other,+1,,"We are seeing a clear acceleration in demand for high-performance AI data center capacity, as hyperscalers are as aggressive as we have ever seen them."
+APLD,2026-04-08,pricing_up,+1,,particularly in light of the significant recent increases in demand and GPU rental rates we are observing in the market.
+APLD,2026-10-07,backlog_record,+1,"~$36bn contracted revenue, 5 campuses","Today, we have approximately $36 billion in contracted revenue across 5 campuses, 3 states and 2 very different geographic regions of the country."
+APLD,2026-10-07,capacity_expansion,+1,3.5-4 GW by 2030,we believe we have the ability to grow our operating portfolio to 3.5 to 4 gigawatts by the end of calendar year 2030.
+APLD,2026-10-07,customer_win,+1,"Polaris Forge 3, Delta Forge 1 & 2; 15-yr",All of these are leased to the same Tier 1 investment-grade hyperscaler under 15-year take-or-pay leases.
+APLD,2026-10-07,customer_win,+1,50 MW GB300 (ChronoScale),"During the quarter, ChronoScale announced plans with Microsoft for a 50-megawatt AI compute deployment in North America featuring NVIDIA GB300 NVL72 systems."
+APLD,2026-10-07,other,+1,"~1.2 GW gas PPA, deliveries 2030","The agreement covers an approximately 1,200-megawatt natural gas facility that Base Electron is developing in Center, North Dakota"
+BE,2025-07-31,capacity_expansion,+1,factory 1GW->2GW/yr by end-2026,We will double our factory capacity from 1 gigawatt a year now to 2 gigawatts a year by the end of next year.
+BE,2025-07-31,customer_win,+1,,"Just last week, for instance, we announced our partnership with Oracle to power their AI data centers."
+BE,2025-07-31,customer_win,+1,,"Yesterday, AEP announced that Amazon Web Services and Coralogix, both data center operators, are deploying Bloom systems in Ohio."
+BE,2025-07-31,other,+1,hyperscaler capex >$1bn/day,"The large hyperscalers put together are going to spend more than $1 billion a day on CapEx, weekday and weekend."
+BE,2025-07-31,other,+1,islanded DC share 20%->~40%,"what we heard even 6 months ago of 20% of data centers may be islanded and not connected to the grid, that number is now hovering on 40%."
+BE,2025-10-28,capacity_expansion,+1,2GW capacity,"But as you saw, this two gigawatt capacity is all systems go based on that."
+BE,2025-10-28,customer_win,+1,Brookfield preferred on-site provider,"Bloom will be the preferred on-site provider for Brookfield's trillion-dollar infrastructure portfolio of AI factories, data center operators, corporate facilities, and factories."
+BE,2025-10-28,guidance_raise,+1,FY25 to beat prior guidance,"Based on what we see today, we expect 2025 to be better than our previously stated annual guidance on our financial metrics."
+BE,2025-10-28,other,+1,,"Today, we are able to provide our power faster than most of the others who have supply chain constraints."
+BE,2026-02-05,backlog_record,+1,product backlog ~$6bn +140% y/y; service ~$14bn,Our product backlog increased 140% year over year to about $6 billion.
+BE,2026-02-05,capacity_expansion,+1,,"Given our healthy backlog, and our robust funnel, I'm sure your questions will now shift from why we are expanding manufacturing capacity to when we will expand even more."
+BE,2026-02-05,customer_win,+1,~6 hyperscale/neocloud end customers vs 1,"The backlog we reported today includes half a dozen hyperscale and neo cloud end customers, compared to just one a year ago."
+BE,2026-02-05,other,+1,FY26 revenue $3.1-3.3bn,We expect 2026 revenue to be $3.1 billion to $3.3 billion.
+BE,2026-04-28,capacity_expansion,+1,5GW/yr manufacturing footprint,Our current manufacturing footprint will allow us to deliver 5 gigawatts of product annually.
+BE,2026-04-28,customer_win,+1,Oracle Project Jupiter up to 2.45GW,This up to 2.45 gigawatt power block will replace Project Jupiter's previously planned gas turbines and backup diesel generators with Bloom Energy Servers.
+BE,2026-04-28,guidance_raise,+1,FY26 revenue $3.4-3.8bn from $3.1-3.3bn,We are raising 2026 revenue guidance of $3.1 billion to $3.3 billion to $3.4 billion to $3.8 billion.
+BE,2026-04-28,other,+1,,"But well more than half of our current data center backlog comes from other hyperscalers, neo clouds and colocation providers."
+BE,2026-04-28,supply_constrained,+1,competitors' supply 2029+,"Their supply to current orders arrive only in 2029 or later, irrespective of the customers' needs."
+CEG,2022-05-12,customer_win,+1,deals supporting 350MW new renewables,"These deals support 350 megawatts of new renewable generation being built, represent 12% of Comcast power needs for its operations"
+CEG,2022-05-12,other,+1,,where we get incredibly strong interest from data center companies that come behind the fence line
+CEG,2022-05-12,other,+1,5-yr Microsoft 24/7 matching collaboration,"we announced our five-year collaboration with Microsoft for that 24/7, 365-day energy real-time matching solution."
+CEG,2024-11-04,capacity_expansion,+1,"2,000MW new nuclear from 2027","We've got 2,000 megawatts of new nuclear that we bring to the grid beginning in 2027."
+CEG,2024-11-04,customer_win,+1,Crane restart offtake (Microsoft),"Recall that when Microsoft announced the Crane offtake agreement, they explained that their agreement with Constellation enables them to use the energy in four different states"
+CEG,2024-11-04,guidance_raise,+1,"FY24 adj EPS $8.00-8.40, midpoint $8.20 from $8.00",The updated midpoint goes from $8 per share to $8.20 with a range of $8.00 to $8.40.
+CEG,2024-11-04,other,+1,PJM +5-6GW load in next auction,We note that the recent utility filings with PJM already indicate another 5 to 6 gigawatts of load in the next auction that we expect PJM to implement in its planning parameters.
+CEG,2024-11-04,other,+1,,The intensity of our negotiations with hyperscalers and others keeps going up and up.
+CEG,2026-05-11,capacity_expansion,+1,"~5,000MW new capacity into PJM queue","We have submitted approximately 5,000 MW of new capacity resources into PJM's interconnection queue, including unique nuclear uprates, new natural gas generation, and new battery storage projects."
+CEG,2026-05-11,customer_win,+1,,we received PUCT approval of the net metering agreement associated with our powered land deal with CyrusOne at the Freestone Energy Center.
+CEG,2026-05-11,other,+1,,"one point that has remained clear is that demand for additional compute and, by extension, additional power has not slowed from hyperscale customers."
+CEG,2026-05-11,other,+1,hyperscaler 2026 spend ~+75% y/y,"In fact, projected spending levels for 2026 are nearly 75% higher than last year and continue to be revised upward."
+CEG,2026-08-06,customer_win,+1,"~920MW nuclear contracts, avg 18.5yr","Since the last call, we have signed approximately 920 megawatts of long-term nuclear deals that are consistent with our view of long-term value."
+CEG,2026-08-06,guidance_raise,+1,FY26 adj EPS $11.50-12.50 from $11-12,"We are raising our full year adjusted operating earnings guidance range to $11.50 per share to $12.50 per share, up from our prior range of $11 to $12 per share."
+CEG,2026-08-06,other,+1,PJM RBP target 6.8GW,"PJM has also established a clear target of 6.8 gigawatts for the RBP, and we are currently in the bilateral matchmaking process"
+CEG,2026-08-06,other,-1,,"Like in the case of nuclear, the public reaction we are seeing to data centers in terms of moratoriums or opposition in places can be strong at times."
+CIFR,2026-02-24,backlog_record,+1,600 MW; ~$9.3bn contracted,"To date, we have executed two data center campus leases representing 600 megawatts of gross capacity, and approximately $9,300,000,000 in contracted revenue."
+CIFR,2026-02-24,capacity_expansion,+1,3.4 GW pipeline,Our 3.4 gigawatt pipeline combined with a best-in-class team positions us to continue to execute on this new business model by securing additional leases across sites.
+CIFR,2026-02-24,customer_win,+1,AWS lease ~$2bn,"During the fourth quarter, we upsized our lease with FluidStacks supported by Google, we executed a long-term lease agreement with AWS"
+CIFR,2026-02-24,supply_constrained,+1,,Demand for power-dense hyperscale infrastructure continues to outpace supply
+CIFR,2026-05-05,backlog_record,+1,$11.4bn contracted; 907 MW,That portfolio carries approximately $11.4 billion in contracted revenue across base lease terms of 10 to 15 years
+CIFR,2026-05-05,customer_win,+1,third lease,We signed our third data center campus lease with an investment-grade hyperscale tenant
+CIFR,2026-05-05,pricing_up,+1,,that also makes those timelines more realistic and gives you more pricing power.
+CRM,2022-03-01,capex_cut,-1,FY23 capex ~2% of revenue,"We expect capex to be approximately 2% of revenue in fiscal '23, which is an all-time low for the business."
+CRM,2022-03-01,guidance_raise,+1,FY23 rev guide $32.1bn high end (+21%),we're excited to raise our fiscal year '23 revenue guidance to $32.1 billion
+CRM,2022-03-01,other,+1,,We continue to see tremendous demand from our customers across the entire Customer 360 portfolio.
+CRM,2022-05-31,guidance_cut,-1,FY23 rev $31.7-31.8bn (cut $300m),we're lowering our fiscal '23 revenue guidance by $300 million to $31.7 billion to $31.8 billion or about 20% growth year over year.
+CRM,2022-05-31,other,+1,,Our demand environment where demand is very strong
+CRM,2022-08-24,guidance_cut,-1,FY23 rev $30.9-31.0bn from $31.7-31.8bn,"Given the significant impact of foreign exchange and buyers being more measured, we're revising our fiscal '23 revenue guidance to $30.9 billion to $31 billion"
+CRM,2022-08-24,orders_decel,-1,,while we see a more deliberate customer buying behavior
+CRM,2022-11-30,orders_decel,-1,FY23 OCF growth ~16% (low end),"We now expect our fiscal 2023 operating cash flow guidance to be approximately 16%, which is at the lower end of our previous guidance, driven by lower billings."
+CRM,2022-11-30,orders_decel,-1,,we felt a little bit of pressure on our tech industry right now
+CRM,2022-11-30,other,+1,FY23 rev $30.9-31.0bn maintained,we are pleased to maintain our fiscal year 2023 revenue guidance of $30.9 billion to $31 billion
+CRM,2023-03-01,orders_decel,-1,,we continue to see customer spending pressure in both Commerce and Marketing.
+CRM,2023-03-01,other,-1,FY24 rev guide to $34.7bn (~10% vs FY23 +18%),"And for fiscal year '24 revenue, we're guiding to $34.7 billion at the high end of the range, over 10% projected year-over-year growth."
+CRM,2023-05-31,customer_win,+1,,"In Q1, we saw amazing momentum with customers, like the California Office of System Integration, Paramount Global, Revel, and OpenAI"
+CRM,2023-05-31,orders_decel,-1,,"our professional service business started to see less demand for multiyear transformations, and, in some cases, delayed projects"
+CRM,2023-05-31,other,+1,FY24 rev $34.5-34.7bn maintained,We're maintaining our fiscal year '24 revenue guidance of approximately 34.5 billion to 34.7 billion
+CRM,2023-08-30,guidance_raise,+1,FY24 rev $34.7-34.8bn from $34.5-34.7bn,we're raising our fiscal '24 revenue guidance to 34.7 billion to 34.8 billion or about 11% projected growth year over year.
+CRM,2023-08-30,other,+1,,We're also seeing strong customer momentum on Einstein generative AI.
+CRM,2023-11-29,guidance_raise,+1,FY24 rev to $34.8bn high end (cc),we're raising our fiscal year '24 revenue guidance in constant currency to $34.8 billion at the high end of the range
+CRM,2023-11-29,other,+1,,"This was ahead of expectations, primarily driven by strong early renewal performance as well as a large customer win in the quarter."
+CRM,2024-02-28,ai_revenue_milestone,+1,"1,300 Einstein deals in FY24","In FY '24, we closed 1,300 Einstein deals as more customers are leveraging our generative and predictive AI capabilities."
+CRM,2024-02-28,capex_cut,-1,FY25 capex slightly <2% of rev (from slightly <2.5%),Capex for the fiscal year is expected to be slightly below 2% of revenue.
+CRM,2024-02-28,other,-1,FY25 rev guide to $38bn (+9%),"And we're guiding revenue to 38 billion at the high end of our range, 9% year over year"
+CRM,2024-02-28,other,-1,,we're not factoring in material contribution from these new products into our FY '25 revenue guidance at this time.
+CRM,2024-05-29,guidance_cut,-1,FY25 S&S growth ~10% cc from slightly above 10%,And we now expect fiscal year '25 subscription and support revenue growth to be approximately 10% year over year in constant currency.
+CRM,2024-05-29,orders_decel,-1,,We also continue to expect our professional services business to be a headwind to revenue with deal compression and customers delaying or slowing projects.
+CRM,2024-05-29,other,+1,,we also continue to see strong demand for data cloud and multi-cloud adoption
+CRM,2024-08-28,other,+1,FY25 rev $37.7-38.0bn maintained,"For the fiscal year '25, we continue to expect revenue at $37.7 billion to $38 billion"
+CRM,2024-08-28,other,+1,paid Data Cloud customers +130% y/y,"In Q2, the number of paid Data Cloud customers grew 130% year over year and the number of customers spending more than $1 million annually have already doubled."
+CRM,2024-12-03,ai_revenue_milestone,+1,"2,000+ AI deals; 200+ Agentforce; $1m+ AI wins 3x","In Q3, the number of wins greater than $1 million with AI more than tripled year over year and we signed more than 2,000 AI deals, including more than the 200 Agentforce wins that Marc shared."
+CRM,2024-12-03,guidance_raise,+1,FY25 rev $37.8-38.0bn from $37.7-38.0bn,we are raising the low end of our guidance range to $37.8 billion and maintaining the high end at $38 billion
+CRM,2024-12-03,other,-1,,"Similar to Q3, we do not expect a material contribution to cRPO from Q4 Agentforce-related bookings."
+CRM,2025-02-26,orders_decel,-1,,we continue to expect our professional services business to be a headwind to growth this year
+CRM,2025-02-26,other,-1,FY26 rev guide $40.5-40.9bn (+7-8%),"Starting with full fiscal year '26, we expect revenue of 40.5 billion to 40.9 billion, growth of approximately 7% to 8% year over year in nominal and constant currency."
+CRM,2025-02-26,other,+1,,"AWS is a huge growth engine for us, helping us close a number of large deals."
+CRM,2026-05-27,ai_revenue_milestone,+1,Agentforce ARR >$1bn,And we are seeing incredible demand for agentforce with ARR now greater than $1 billion.
+CRM,2026-05-27,ai_revenue_milestone,+1,AI + Data ARR $3.4bn,we have delivered $3.4 billion in AI and data ARR.
+CRM,2026-05-27,customer_win,+1,,McAfee has selected our new agentforce ITSM product or what we call agentforce IT service to replace ServiceNow.
+CRM,2026-05-27,guidance_raise,+1,FY27 rev $45.9-46.2bn,We are raising the midpoint of our FY 2027 revenue guidance.
+CRM,2026-05-27,other,+1,"28.6tn tokens, +152% q/q","And to date, we processed 28.6 trillion tokens, up 152% quarter over quarter."
+CRM,2026-08-26,ai_revenue_milestone,+1,Agentforce ARR >$1.5bn +240% y/y,"Agentforce ARR reached $1.5 billion, as you heard, driven by Slackbot and headless launches and continued AI momentum."
+CRM,2026-08-26,ai_revenue_milestone,+1,AI + Data ARR ~$3.9bn +210% y/y,Our ARR for AI and data is about to cross $4 billion.
+CRM,2026-08-26,customer_win,+1,US Army multi-billion expansion,The Army Human Resources Command expects to drive up to 55 million Agentforce conversations every single month.
+CRM,2026-08-26,guidance_raise,+1,FY27 rev $46.1-46.4bn (+$300m cc),"in the coming weeks, and we are raising our FY 2027 revenue guidance by about $300 million in constant currency."
+CRM,2026-08-26,orders_accel,+1,bookings doubled y/y,"When you look just at bookings, not just the cumulative ARR, our bookings, Elizabeth, grew triple digit, so we doubled year on year."
+CRWV,2026-02-26,backlog_record,+1,backlog $66.8bn (+$11.2bn q/q),"Grew our contracted revenue backlog to $66.8 billion, an increase of $11.2 billion sequentially, and more than $50 billion year over year."
+CRWV,2026-02-26,capacity_expansion,+1,850 MW in 2025; 1.7 GW in 2026,"We delivered 850 megawatts of power in this fiscal year, and for 2026, we expect to be at 1.7 gigawatts of power."
+CRWV,2026-02-26,capex_raise,+1,2026 capex $30-35bn (>2x 2025),"We expect 2026 CapEx of $30 billion to $35 billion, which is more than double our 2025 investment."
+CRWV,2026-02-26,other,+1,exit-2026 run-rate $17-19bn; >$30bn exit-2027,"we expect to exit 2026 with annualized run-rate revenue of $17 billion to $19 billion, which we expect to grow to more than $30 billion of annualized run-rate revenue as we exit 2027."
+CRWV,2026-02-26,supply_constrained,+1,,we are virtually sold out in 2026 of all of our capacity
+CRWV,2026-05-07,backlog_record,+1,bookings >$40bn; backlog $99.4bn,"We delivered our strongest quarter for customer bookings, signing more than $40 billion of new commitments and growing contracted revenue backlog to nearly $100 billion."
+CRWV,2026-05-07,capex_raise,+1,2026 capex $31-35bn (from $30-35bn),"For the full year, we now expect CapEx of $31 billion to $35 billion."
+CRWV,2026-05-07,customer_win,+1,Meta $21bn,"We also signed multiple new orders with Meta, including the $21 billion agreement announced in early April."
+CRWV,2026-05-07,customer_win,+1,,"In Q1, we added Anthropic as a customer to support the development and deployment of the Claude family of AI models."
+CRWV,2026-05-07,guidance_raise,+1,exit-2026 run-rate $18-19bn (from $17-19bn),"We now expect to end 2026 with $18 billion to $19 billion of annualized run rate revenue, increasing the low end of our expectations by $1 billion."
+CRWV,2026-05-07,pricing_up,+1,,Demand for CoreWeave Cloud is accelerating and we remain largely sold out of our 2026 capacity with prices increasing across the board from Ampere to Hopper to Blackwell.
+CRWV,2026-08-11,backlog_record,+1,backlog $104.2bn (+246% y/y); +$25bn early Q3,"Revenue backlog ended the quarter at $104.2 billion, up 246% year-over-year."
+CRWV,2026-08-11,capacity_expansion,+1,YE26 active power >1.85 GW (from >1.7 GW); contracted 4.2 GW,"we now expect to end the year with more than 1.85 gigawatts of active power, up from our previous guidance of more than 1.7 gigawatts."
+CRWV,2026-08-11,capex_raise,+1,2026 capex $35-39bn (from $31-35bn),we now expect 2026 CapEx in the range of $35 billion to $39 billion.
+CRWV,2026-08-11,guidance_raise,+1,exit-2026 ARR $18.5-19.5bn,So we increased the exit ARR number that we provided in guidance to you folks right now at $18.5 billion to $19.5 billion for 2026
+CRWV,2026-08-11,pricing_up,+1,~25% price increase across SKUs,our July pricing changes which included an approximately 25% increase across SKUs in response to the current demand environment
+CRWV,2026-08-11,supply_constrained,+1,,"In a market where new capacity is supply constrained and costs are rising, AI cloud infrastructure and production is a scarce, valuable asset."
+DLR,2022-02-17,capex_raise,+1,2022 capex $2.3-2.5bn,Our guidance range is a step-up of $2.3 billion to $2.5 billion of capex.
+DLR,2022-02-17,customer_win,+1,,"Graphcore, a British semiconductor company that develops accelerators and systems for AI and machine learning, selected PlatformDIGITAL to address their density, security and scale requirements."
+DLR,2022-02-17,orders_accel,+1,Q4 $156m; FY21 $500m bookings +15%,"ended the year with $500 million in new bookings, a 15% increase over the prior year."
+DLR,2022-02-17,pricing_up,+1,2022 cash renewals ~flat vs slightly negative 2021,"Given the tightened supply environment, we expect flat cash renewal rates in 2022, up from slightly negative in 2021."
+DLR,2022-02-17,supply_constrained,+1,,"We are bringing capacity online in both these markets, among others, given the robust demand backdrop and our tightening inventory position."
+DLR,2022-04-28,capacity_expansion,+1,"44 projects, >300MW, 58% pre-sold",Our active development pipeline reached an all-time high in the quarter with 44 projects underway supporting over 300 megawatts in of IT capacity in 28 metros around the world.
+DLR,2022-04-28,orders_accel,+1,record bookings $167m,"First, we kicked off the year on a high note with record bookings of $167 million, led by strength in the leases greater than one megawatt"
+DLR,2022-04-28,other,+1,,But it doesn't feel like the pace of demand is really slowing on the hyperscale front.
+DLR,2022-04-28,pricing_up,+1,,"So when demand exceeds supply, we've been able to raise our prices."
+DLR,2022-07-28,capacity_expansion,+1,>360MW under construction; >100MW new starts,we grew the size of our development pipeline to more than 360 megawatts under construction as we started over 100 megawatts of new projects in EMEA and North America
+DLR,2022-07-28,other,+1,bookings $113m,"And I would tell you that our hyperscale demand and our bookings this quarter were really strong, especially across Europe."
+DLR,2022-07-28,pricing_up,+1,,"has started to translate with price increases driving positive cash renewals, supporting our push for appropriate rent escalators"
+DLR,2022-07-28,supply_constrained,+1,NoVA power delays possibly to 2026,informed its major customers very recently regarding the call a potential pinch point in Eastern Loudoun County that could delay deliveries until 2026.
+DLR,2022-10-26,orders_accel,+1,record bookings $176m,"Our third quarter results were strong with a record $176 million of new bookings, making the third time in the past four quarters that our bookings have exceeded $150 million."
+DLR,2022-10-26,other,-1,,We are seeing sales cycle lengthen and global uncertainty extends decision times.
+DLR,2022-10-26,other,+1,,"When you look at the hyperscale, we continue to see strong demand on the hyperscale across all regions."
+DLR,2022-10-26,supply_constrained,+1,,"the reduced availability of power in several markets, including the world's largest market, Loudon County, Virginia, is constraining the ability to bring on new data center capacity"
+DLR,2023-02-16,backlog_record,+1,record backlog $477m,"the current backlog of signed, but not yet commenced, leases increased to a record $477 million at year-end"
+DLR,2023-02-16,orders_decel,-1,Q4-22 bookings $117m vs record $176m,"new leases signed moderated from the record we achieved in the prior quarter, but remained quite strong"
+DLR,2023-02-16,other,+1,,"we are on the forefront of the broader introduction of AI, which could spawn a wave of adoption and a proliferation of use cases and ultimately drive demand for compute infrastructure at scale."
+DLR,2023-02-16,pricing_up,+1,2023 cash re-leasing spreads >3%,"we expect Cash and GAAP releasing spreads to improve to greater than 3%, same capital cash NOI growth of 3% to 4%"
+DLR,2023-04-27,orders_decel,-1,Q1-23 bookings $83m; NoVA $2.5m vs ~$20m/qtr,"we signed approximately $20 million per quarter of new leases in Northern Virginia, versus $2.5 million of new leases signed in this market in 1Q '23."
+DLR,2023-04-27,other,+1,,"this is probably just a one-quarter timing issue, our hyperscale demand remains really healthy and varies a little bit by customer, but it's broad-based across the globe."
+DLR,2023-04-27,pricing_up,+1,+4.5% cash renewal spread,"During the first quarter, we signed $155 million of renewal leases with pricing increases of 4.5% on a cash basis, our strongest renewal pricing quarter since the early days of the pandemic."
+DLR,2023-04-27,supply_constrained,+1,,"For now, Ashburn remains highly constrained, and pricing is reflecting the decreased availability of data center capacity."
+DLR,2023-07-27,other,+1,,"growing part of that AI is definitely a part of not just the hyperscale piece of the business but also the 0-1 megawatt, and we've had some strong contributions on that front."
+DLR,2023-07-27,pricing_up,+1,+6.9% cash renewal spread,"During the second quarter, we signed $211 million of renewal leases with pricing increases of 6.9% on a cash basis, our strongest renewal pricing in three years."
+DLR,2023-07-27,pricing_up,+1,8MW re-leased at premium (Ashburn),we opportunistically took back 8 megawatts of lease capacity from an existing customer and released it to another customer at a substantial premium.
+DLR,2023-07-27,supply_constrained,+1,,"in terms of transmission lines and arrival of utility power, which has really created an environment of demand well outpacing supply."
+DLR,2023-10-26,capex_raise,+1,2023 dev capex $2.7-2.9bn (+$400m at midpoint),"we are increasing our full year development spend guidance to $2.7 billion to $2.9 billion for 2023, representing the $400 million increase at the midpoint."
+DLR,2023-10-26,customer_win,+1,"32,000 H100 deployment","And we are currently supporting one of our customers' AI infrastructure deployments that will incorporate 32,000 NVIDIA H100 GPUs."
+DLR,2023-10-26,pricing_up,+1,>1MW signed-lease pricing highest since 1H16,"outsized pricing power experienced within the greater than the megawatt segment, which saw pricing on signed leases at the highest level since the first half of 2016."
+DLR,2023-10-26,supply_constrained,+1,,"New supply in our top markets remains constrained and is likely to remain so due to limited availability of power, growing supply chain challenges and tighter financial conditions."
+DLR,2024-02-15,capacity_expansion,+1,"$7bn Blackstone dev JV, ~500MW",the $7 billion development joint venture with Blackstone is our largest and most forward-looking transaction
+DLR,2024-02-15,capex_raise,+1,2024 gross capex >$3.5bn (~+15% y/y),"we're expecting in '24 on a gross basis, we'd be spending north of $3.5 billion in terms of total capex and it would be -- which would be roughly 15% higher than the amount that we spent in 2023."
+DLR,2024-02-15,other,+1,,"2023 will be revered as the year of AI's arrival to the data center forefront, ushering in an unprecedented new wave of data center demand"
+DLR,2024-02-15,supply_constrained,+1,,Supply constraints driven by limited availability of power and global supply chain delays have continued to drive the pricing pendulum in our favor
+DLR,2024-05-02,orders_accel,+1,record bookings $252m vs prior record $176m,"Total bookings were $252 million, well ahead of our prior quarterly record of $176 million, reflecting the impact from the acceleration of AI and the improved pricing environment."
+DLR,2024-05-02,other,+1,~50% of bookings AI,"So pretty AI heavy, as Andy highlighted, of 50% of our bookings this quarter were AI."
+DLR,2024-05-02,pricing_up,+1,+11.8% cash renewal (3.4% normalized),"During the first quarter, we signed a record $248 million of renewal leases at a record increase of 11.8% on a cash basis."
+DLR,2024-05-02,supply_constrained,+1,~80MW leased in Eastern Loudoun,"During the first quarter, we leased approximately 80 megawatts of capacity in a supply constrained quarter in Eastern Loudoun County."
+DLR,2024-07-25,orders_decel,-1,bookings $164m vs $252m; backlog $527m -2% q/q,the 527 million backlog of signed and not yet commenced leases moderated by only 2% from last quarter's peak
+DLR,2024-07-25,other,+1,,"Demand for data center capacity remains as strong as we've ever seen, especially for larger capacity blocks in our core markets."
+DLR,2024-07-25,other,+1,hyperscale ~3x by 2030,the hyperscale business in and of itself between now and 2030 is expected to grow almost three times.
+DLR,2024-07-25,supply_constrained,+1,,"And lastly, all this is happening probably in the most supply constrained moment in the last 20 years of data centers."
+DLR,2024-10-24,backlog_record,+1,record backlog $859m (+60% q/q),"With a record $859 million backlog of favorably priced leases, largely commencing over the next 2 years, we are positioned for accelerating topline"
+DLR,2024-10-24,capacity_expansion,+1,644MW under construction (+~50% q/q),"we doubled our development underway in the Americas and added more projects in EMEA for an almost 50% increase in our pipeline, ending the quarter with 644 megawatts under construction."
+DLR,2024-10-24,orders_accel,+1,record $521m bookings ($450m >1MW),"We signed $521 million of new leases in the third quarter, of which $450 million fell into the greater than 1 megawatt category"
+DLR,2024-10-24,pricing_up,+1,+15.2% cash renewal (5.8% ex package deal),"record rates on new greater than 1 megawatt leases, 4% escalators on the majority of new leases and a record 15% uplift in cash renewal spreads in the quarter."
+DLR,2025-02-13,capacity_expansion,+1,"$7bn+ pipeline, 70% pre-leased",scaling our development pipeline by over 75% to 7 billion-plus of projects underway that are 70% pre-leased
+DLR,2025-02-13,capex_raise,+1,2025 capex $3.0-3.5bn net; ~$4.5bn gross,"capex net of partner contributions are expected to rise to between $3 billion and $3.5 billion, while gross capex will reach approximately $4.5 billion"
+DLR,2025-02-13,orders_decel,-1,Q4-24 bookings $100m vs $521m Q3,"the size of this demand is getting to a place where the spigot of demand is not running at full -- 24 hours a day, seven days a week, 365 days a year."
+DLR,2025-02-13,other,+1,backlog ~$800m,Our record bookings in 2024 pushed our backlog of booked but not yet billed leases up to roughly $800 million at year-end
+DLR,2025-07-24,capacity_expansion,+1,5GW land-to-shell runway,we now have a total of five gigawatts of COVID inventory runway from land to shells
+DLR,2025-07-24,orders_accel,+1,$177m gross ($135m share); record $90m 0-1MW+IX,"Record performance in the zero to one megawatt plus interconnection product set stole the show in the quarter, with $90 million of bookings."
+DLR,2025-07-24,pricing_up,+1,+7.3% cash renewal spread,"we signed $177 million of renewal leases at a blended 7.3% increase on a cash basis, above the high end of our original 4% to 6% full-year guidance."
+DLR,2025-07-24,supply_constrained,+1,,"So, yes, we have some certainly supply-constrained markets along the way."
+DLR,2025-10-23,capex_raise,+1,2026 spend > 2025 (qualitative),we're gonna be spending more in 2026.
+DLR,2025-10-23,other,+1,record AI bookings (0-1MW segment),"We also posted record AI bookings in this segment this past quarter, demonstrating the continued emergence of AI-oriented demand among our enterprise customers."
+DLR,2025-10-23,other,+1,backlog $852m,Our backlog grew to $852 million with the lion's share slated to commence through the end of next year
+DLR,2025-10-23,pricing_up,+1,+8% cash renewal spread,"During the third quarter, we signed $192 million of renewal leases at a blended 8% increase on a cash basis."
+DLR,2025-10-23,supply_constrained,+1,,"So I think we're, again, we're in a robust supply-constrained market, and we think looking forward, our mark to market opportunity is in a good position."
+DLR,2026-02-05,backlog_record,+1,record backlog ~$1.4bn (100% share); FY25 >$1bn bookings,"we concluded our second consecutive year with more than a billion dollars of total bookings at a 100% share, leaving us with a record backlog of nearly $1.4 billion at a 100% share."
+DLR,2026-02-05,capex_raise,+1,2026 capex $3.25-3.75bn net (FY25 spend $3bn),CapEx net of partner contributions are expected to rise to between $3.25 billion and $3.75 billion
+DLR,2026-02-05,orders_accel,+1,0-1MW+IX ~$340m FY25 (+35%),"posting nearly $340 million of bookings, easily a full-year record and 35% above 2024 levels"
+DLR,2026-02-05,other,+1,demand 2.5-3x over 5 years,you're looking at a demand profile that's expected to increase two and a half to three times over the next five years
+DLR,2026-02-05,supply_constrained,+1,,"whether it's power, whether it's nimbyism, whether it's zoning, whatever it may be, it's severely constrained."
+DLR,2026-04-23,backlog_record,+1,record backlog $1.8bn (100%); $1.0bn share,The total backlog at the end of the first quarter reached a new record of 1.8 billion
+DLR,2026-04-23,capex_raise,+1,2026 capex $3.5-4.0bn from $3.25-3.75bn,"CapEx, net of partner contributions, is poised to increase by another 250 million at the midpoint to a range of 3.5 billion to 4.0 billion."
+DLR,2026-04-23,customer_win,+1,largest lease in DLR history (Charlotte hyperscale),representing the largest lease in our history and our first hyperscale deployment in this market
+DLR,2026-04-23,guidance_raise,+1,FY26 core FFO guide raised,with core FFO coming in better than we expected and translating into a full-year guidance raise.
+DLR,2026-04-23,orders_accel,+1,>$700m signed (100%); $423m DLR share,"We signed over 700 million of new leases in the quarter, or 423 million at our share, representing our second-highest leasing quarter and nearly 70% above our next-highest quarter."
+DLR,2026-04-23,pricing_up,+1,2026 renewal spreads 6.5-8.5% (+50bp),"We also expect cash renewal spreads of 6.5% to 8.5%, up 50 basis points from last quarter"
+EQIX,2022-02-16,capacity_expansion,+1,"xScale JVs >$8bn, 36 facilities, >720MW",Total investment in our various hyperscale joint ventures when closed and fully built out is now expected to be more than $8 billion across 36 facilities globally with more than 720 megawatts
+EQIX,2022-02-16,orders_accel,+1,,"The Americas region had another outstanding quarter, delivering record bookings with robust channel activity, strong net positive pricing actions and lower churn."
+EQIX,2022-02-16,other,+1,2022 revenue growth 9-10%; capex $2.3-2.6bn,"For 2022, we expect top line growth of 9% to 10%, above the top end of our long-term range, reflecting the continued momentum in the business"
+EQIX,2022-02-16,supply_constrained,+1,,"Although Singapore remains capacity constrained, we welcome the government's recent decision to lift the moratorium on new data center builds."
+EQIX,2022-04-27,capex_cut,-1,2022 capex $2.3-2.5bn from $2.3-2.6bn (lower on-B/S xScale spend),"2022 capex is now expected to range between $2.3 billion and $2.5 billion, including approximately $170 million of recurring capex spend and about $60 million of on-balance sheet xScale spend."
+EQIX,2022-04-27,guidance_raise,+1,2022 adj. EBITDA +$40m vs prior guide,"We expect 2022 adjusted EBITDA margins of approximately 46%, excluding integration costs, an increase of about $40 million compared to our prior guidance"
+EQIX,2022-04-27,orders_accel,+1,record net bookings,"We had a great start to 2022, delivering the best net booking performance in our history, fueled by strong demand across all three regions, robust net pricing actions, and near-record low churn"
+EQIX,2022-04-27,pricing_up,+1,,the net pricing past pricing actions this quarter were substantial even when you take out the increased power pricing.
+EQIX,2022-07-27,capex_raise,+1,2022 capex $2.3-2.6bn from $2.3-2.5bn,"2022 capex is now expected to range between $2.3 billion and $2.6 billion, including about $185 million of recurring capex and about $110 million of on-balance sheet xScale spend."
+EQIX,2022-07-27,guidance_raise,+1,2022 AFFO/sh growth 8-9%,"2022 AFFO per share is now expected to grow between 8% and 9% on a normalized and constant currency basis, above the top end of our prior guide"
+EQIX,2022-07-27,orders_accel,+1,record gross and net bookings,"On the heels of a record Q1, we had an outstanding Q2, with strong and sustained demand across our product portfolio, broad pricing momentum and solid sales execution"
+EQIX,2022-07-27,pricing_up,+1,,"Second is actually just a broader increase in list pricing on space and power, that is already rolling through, and on interconnection."
+EQIX,2022-11-02,capacity_expansion,+1,"10 xScale projects, 80MW","We continue to build capacity under our xScale offering, including 10 ongoing xScale projects that we expect will deliver another 80 megawatts of capacity once opened."
+EQIX,2022-11-02,capex_cut,-1,2022 capex $2.1-2.3bn from $2.3-2.6bn (timing),"2022 capex is now expected to range between $2.1 billion and $2.3 billion, including about $190 million of recurring capex and about $135 million of on-balance sheet xScale spend, down slightly"
+EQIX,2022-11-02,orders_accel,+1,record gross and net bookings,"This vigorous demand backdrop fueled another great quarter, delivering record gross and net bookings with strong demand across all three regions"
+EQIX,2022-11-02,pricing_up,+1,,"translating to a robust pipeline, a highly favorable pricing environment and low churn"
+EQIX,2023-02-15,customer_win,+1,~8MW xScale leased (Tokyo/Osaka),"In our xScale business, we continue to see strong overall demand, leasing approximately eight megawatts of capacity across our Tokyo 12 and Osaka two assets"
+EQIX,2023-02-15,orders_accel,+1,,"We had a great finish to 2022, delivering one of the best bookings performances in our history, led by the Americas with continued strength in demand and favorable pricing trends"
+EQIX,2023-02-15,other,+1,2023 revenue growth 9-10% ex power; capex $2.7-2.9bn,"Excluding our power price pass-throughs, we expect top-line revenue growth to range between 9% and 10%, above the top end of our long-term growth rates"
+EQIX,2023-02-15,pricing_up,+1,~$350m 2023 power pass-through revenue,We expect these power price increases will generate approximately $350 million of incremental revenues and costs in 2023.
+EQIX,2023-05-03,guidance_raise,+1,"2023 revenue +$30m, adj. EBITDA +$20m","For the full year, we're raising our revenue guidance by $30 million and adjusted EBITDA guidance by $20 million, primarily due to favorable FX rates and lower integration costs."
+EQIX,2023-05-03,other,+1,"4,000 deals, >3,000 customers","Despite a challenging macro environment, customers remain committed to their digital transformation journeys, driving 4,000 deals in the quarter across more than 3,000 customers"
+EQIX,2023-05-03,pricing_up,+1,~$90m incremental Q1 revenue from price rises,"As previously discussed, we raised pricing in January to more than 7,000 customers across 16 countries, generating approximately $90 million of incremental revenue in the quarter"
+EQIX,2023-05-03,supply_constrained,+1,,"And obviously, in Singapore, there's a broader sort of capacity constraint concern, it's really critical that we recapture those."
+EQIX,2023-08-02,capacity_expansion,+1,53 projects; 11 xScale builds ~90MW,"We now have 53 major projects underway across 40 metros in 24 countries, including 11 xScale builds that we expect will deliver approximately 90 megawatts of capacity once opened."
+EQIX,2023-08-02,guidance_raise,+1,2023 adj. EBITDA +$20m; AFFO +$28m,"We're raising our underlying 2023 adjusted EBITDA guidance by $20 million, primarily due to favorable operating costs and lower integration spend."
+EQIX,2023-08-02,other,+1,,combined with an accelerating appetite for companies to rapidly integrate AI into their operations are driving increased demand for data center capacity
+EQIX,2023-08-02,pricing_up,+1,50-70% MRR uplift on recaptured cabinets,85% of those cabs in the 50% to 70% MRR uplift range.
+EQIX,2023-10-25,customer_win,+1,,"There's definitely an emergent set of service providers, Core Wheat and Lambda we talked about that I think are really sources of incremental demand for us."
+EQIX,2023-10-25,guidance_raise,+1,2023 adj. EBITDA +$17m; AFFO +$27m,We are raising our underlying 2023 adjusted EBITDA guidance by $17 million due to favorable operating costs and lower integration spend and we're raising our underlying AFFO guidance by $27 million
+EQIX,2023-10-25,other,+1,,"combined with now a meaningful acceleration in demand for training, I think, changes the supply demand profile."
+EQIX,2023-10-25,pricing_up,+1,,These supply constraints will help drive strong deal discipline and pricing power in these markets.
+EQIX,2023-10-25,supply_constrained,+1,,"given the tight supply environment across many of our metros, we and our customers continue to look for ways to optimize deployment, including increasing the power density of the cabinets sold."
+EQIX,2024-02-14,capex_raise,+1,initial 2024 capex $2.8-3.0bn (2023 guide $2.7-2.9bn),"2024 capex is expected to range between $2.8 billion and $3 billion, including about $220 million of recurring capex."
+EQIX,2024-02-14,digestion_warning,-1,,solid gross demand and strong pricing dynamics being offset by more deliberate buying decisions and slightly higher levels of churn.
+EQIX,2024-02-14,orders_accel,+1,90MW xScale leased since prior call; 300MW cumulative,"digital transformation and accelerating AI demand drove a record quarter for xScale leasing, robust pricing dynamics"
+EQIX,2024-02-14,other,-1,2024 revenue growth 7-8% normalized (2023 ~9% ex power),"For the full year 2024, we expect top-line growth of 7% to 9% on an as-reported basis or 7% to 8% on a normalized and constant-currency basis"
+EQIX,2024-02-14,supply_constrained,+1,,"As mentioned last quarter, capacity constraints exist across a few of our markets, driving continued firm pricing power, albeit with some moderation to short-term growth."
+EQIX,2024-05-09,capacity_expansion,+1,"xScale >$8bn, >35 facilities, >725MW",this new JV will bring the expected global xScale portfolio to more than $8 billion in investment across more than 35 facilities and greater than 725 megawatts of power capacity
+EQIX,2024-05-09,guidance_raise,+1,2024 AFFO/sh growth 8-11% from 8-10%,AFFO per share is now expected to grow between 8% and 11%.
+EQIX,2024-05-09,orders_accel,+1,record Q1 bookings,We had a great start to 2024 driven by our highest Q1 bookings performance on record
+EQIX,2024-05-09,orders_accel,+1,xScale ~350MW leased cumulative,And we again saw accelerating hyperscale demand translate into robust xScale leasing in both EMEA and Asia.
+EQIX,2024-05-09,other,+1,hyperscalers >$1.3bn annualized retail revenue,with these customers collectively representing more than $1.3 billion of annualized revenue in Q1 in our retail business alone
+EQIX,2024-08-07,capex_raise,+1,2024 capex $2.8-3.1bn from $2.8-3.0bn,"2024 capex is expected to range between $2.8 billion and $3.1 billion, including about $240 million of recurring capex."
+EQIX,2024-08-07,orders_accel,+1,record gross bookings,"We had record gross bookings, closing more than 4,000 deals with more than 3,000 customers."
+EQIX,2024-08-07,pricing_up,+1,"MRR/cabinet +7% y/y to $2,287","MRR per cabinet is rising, increasing 7% year over year on a normalized and constant-currency basis to $2,287 per cabinet, driven by favorable pricing environment"
+EQIX,2024-08-07,supply_constrained,+1,,"We know the digital environment is very friendly to Equinix, and we know the supply environment is going to continue to get more constrained."
+EQIX,2024-10-30,capacity_expansion,+1,">$15bn xScale JV (CPP, GIC)",we announced our plans to nearly triple the investment capital of our xScale program with the agreement to form a greater than 15 billion joint venture with the CPP Investment Board and GIC.
+EQIX,2024-10-30,guidance_raise,+1,"2024 revenue +$36m, adj. EBITDA +$10m","For the full year we're raising our revenue guidance by $36 million and our adjusted EBITDA guidance by $10 million due to strong bookings, performance, and favorable FX rates."
+EQIX,2024-10-30,orders_accel,+1,record Q3 gross bookings,"Given our record Q3 gross bookings and our elevated backlog of cabinets sold but not yet installed, we expect our net billable cabinet additions to remain strong through the end of the year."
+EQIX,2024-10-30,pricing_up,+1,,"Certainly in terms of what we're seeing from a pricing perspective, the pricing remains robust right across all theaters of operation"
+EQIX,2024-10-30,supply_constrained,+1,,"sort of the supply constraints, we're now, if you will, preselling into future development sites that are certainly under construction today."
+EQIX,2025-02-12,capacity_expansion,+1,"NY3, DC16, LD4 pulled forward >=1 year","when we look at NY3, DC16, and LD4, these are all examples of projects that have been accelerated at least a year as a result of the build bolder lens"
+EQIX,2025-02-12,capex_raise,+1,initial 2025 capex $3.2-3.5bn (2024 $2.8-3.1bn),"2025 capex is expected to range between $3.2 billion and $3.5 billion, including approximately $200 million of on-balance sheet xScale spend"
+EQIX,2025-02-12,orders_accel,+1,record gross bookings Q4 and FY24,"in both Q4 and 2024, we delivered the best gross bookings performing in our 26-year history, with solid pricing dynamics and strong execution across all three regions."
+EQIX,2025-02-12,other,+1,largest backlog in 3 years,given our bookings momentum and our largest backlog of three years and timing of capacity additions across our major metros
+EQIX,2025-02-12,supply_constrained,+1,,"Whilst we delivered record gross bookings in Q4, we could have delivered an even stronger bookings outcome if we had available capacity in our Tier 1 metros."
+EQIX,2025-10-29,capacity_expansion,+1,"~3GW developable, +~50% q/q",This brings our total developer capacity to approximately three gigawatts. A nearly 50% increase from last quarter.
+EQIX,2025-10-29,capex_raise,+1,2025 capex $3.8-4.3bn (Feb-25 guide $3.2-3.5bn),2025 CapEx is now expected to range between $3.8 and $4.3 billion including approximately $290 million of recurring CapEx spend.
+EQIX,2025-10-29,orders_accel,+1,"record AGB $394m, +25% y/y, +14% q/q","we also achieved record annualized gross bookings of $394 million, a meaningful 25% increase year over year and up 14% over Q2."
+EQIX,2025-10-29,supply_constrained,+1,pre-sold AGB $185m,"with demand continuing to outpace supply, we actually have seen the velocity of pre-sales increase over the course of 2025 through to Q3."
+EQIX,2026-02-11,backlog_record,+1,record cabinet backlog,"Our backlog of cabinets, sold but not yet installed, stands at a record given the bookings performance, especially in the second half of 2025."
+EQIX,2026-02-11,capacity_expansion,+1,Hampton ~240MW; initial 2026 capex $3.7-4.2bn,The Hampton facility will support approximately 240 megawatts of IT capacity when fully built out.
+EQIX,2026-02-11,orders_accel,+1,Q4 AGB $474m +42% y/y; FY25 $1.6bn +27%,"Our Q4 bookings were $474 million, up 42% year-over-year and 20% from Q3, well ahead of our plan."
+EQIX,2026-02-11,orders_accel,+1,">$100m presales QTD, largest presale quarter","signed an additional $100 million plus of presales as of today, already our largest presale quarter ever."
+EQIX,2026-02-11,other,+1,~60% of largest deals AI (from ~50%),"In Q4, approximately 60% of our largest deals were driven by AI workloads. That's up from approximately 50% earlier this year"
+EQIX,2026-04-29,backlog_record,+1,AGB $378m +9%; presales $140m; total sales activity +35%,"that is 35% growth in total sales activity in the quarter, resulting in a record backlog."
+EQIX,2026-04-29,capex_raise,+1,2026 capex ~$4.1bn (top of $3.7-4.2bn),"Excluding ExScale and land acquisitions, we now expect total capital expenditures to approximate the top end of our prior range at $4.1 billion"
+EQIX,2026-04-29,customer_win,+1,"8/10 AI model providers, 4/5 neoclouds; 110+ nodes","Eight of the top 10 AI model providers and four of the top five neo clouds are actively expanding with Equinix, Inc."
+EQIX,2026-04-29,guidance_raise,+1,"2026 revenue +$21m, adj. EBITDA +$24m, AFFO +~$40m","Based on the robust environment and the team's execution, we are raising guidance across key financial metrics."
+EQIX,2026-04-29,supply_constrained,+1,,Adaire Fox-Martin: The availability of power would be the largest constraint in our environment.
+EQIX,2026-07-29,capex_raise,+1,2026 capex $5-6bn from ~$4.1bn,"And excluding real estate acquisition and xScale, we expect total capital expenditures to be $5 to $6 billion as we accelerate capacity expansion into the year."
+EQIX,2026-07-29,capex_raise,+1,2027-29 capex $5-7bn/yr,We expect 5 billion to $7 billion of capital expenditures annually from 2027 to 2029 with the vast majority focus on capacity expansion
+EQIX,2026-07-29,customer_win,+1,134MW xScale leases incl. Hampton (~$120m fees),"As expected, we closed 134 megawatts of Xcel leases, including Hampton, which contributed approximately $120 million in nonrecurring fees."
+EQIX,2026-07-29,guidance_raise,+1,2026 revenue +$100m to 11-12% growth,We are raising total revenue guidance by $100 million improving our expected growth range to 11% to 12%.
+EQIX,2026-07-29,guidance_raise,+1,2027-29 revenue growth 10-13%/yr,Demand is clearly exceeding the assumptions in our prior long term outlook.
+EQIX,2026-07-29,orders_accel,+1,AGB $424m +23% y/y; ~$110m presales,Annualized gross bookings grew 23% our second highest volume on record.
+ETN,2022-02-04,orders_accel,+1,Electrical orders +21% R12M; backlog +56%,"For our combined Electrical business, orders were up 21% on a rolling 12-month basis and our backlog was up 56%."
+ETN,2022-02-04,other,+1,2022 Americas/Global growth 7-9%,"we expect these businesses to see growth really across all end markets, with particular strength continuing in data centers, distributed IT, and industrial markets."
+ETN,2022-02-04,supply_constrained,+1,,where we're challenged around our ability to really service customer demand to these really strong markets of data centers and residential that certainly have built very large backlogs.
+ETN,2022-05-03,backlog_record,+1,,"And our orders continue to accelerate, allowing us to post another record for backlog."
+ETN,2022-05-03,guidance_raise,+1,organic growth 9-11% (from 7-9%),which results in Eaton's total organic growth stepping up from a range of 7% to 9% to our -- now our expectation of 9% to 11%.
+ETN,2022-05-03,orders_accel,+1,Electrical orders +30% R12M (from +21%),"For our combined electrical business, orders on a rolling 12-month basis were up 30%, an acceleration from last quarter, which was up 21%."
+ETN,2022-05-03,supply_constrained,+1,,"And as you can imagine, we're still working through supply chain constraints, which saw modest improvements in the quarter but remain challenging."
+ETN,2022-08-02,backlog_record,+1,segment backlog +89% to record; orders +29% R12M,"So we continue to be pleased with strong demand that we're seeing in our end markets and with our backlog, which increased some 89% to a new record level."
+ETN,2022-08-02,capacity_expansion,+1,,"We are, in fact, making investments in brick-and-mortar to deal with this -- the secular growth trends that we see coming, to deal with the strong order growth that we have already"
+ETN,2022-08-02,orders_accel,+1,data center orders +25% R12M,our order growth on a rolling 12-month basis in data centers was up some 25% in the quarter.
+ETN,2025-11-04,backlog_record,+1,Electrical Americas backlog +20% y/y,"Our Electrical Americas backlog grew 20% year over year, reaching an all-time record."
+ETN,2025-11-04,orders_accel,+1,"data center orders +70%, sales +40%; DC book-to-bill 1.7","As we continue to deliver robust growth in the data center market, our orders accelerated 70% and our sales were up 40% versus Q3 2024."
+ETN,2025-11-04,other,+1,"Boyd ~$1.7bn 2026 sales, >80% data center","we were excited to announce the agreement to acquire Boyd's thermal business, a global leader in liquid cooling"
+ETN,2025-11-04,other,-1,,"One, residential being slower in September. And two, some small orders some orders being delayed from Q3 to Q4."
+ETN,2026-02-03,backlog_record,+1,"Electrical Americas backlog $13.2bn, +31% y/y","Our Electrical Americas backlog grew 31% year over year, reaching an all-time record."
+ETN,2026-02-03,orders_accel,+1,Electrical Americas orders +200%; Europe ~+80%,"our Electrical Americas orders grew 200%, and our orders in Europe grew almost 80% year over year."
+ETN,2026-02-03,other,+1,2026 organic growth 7-9%,We believe 2026 guidance represents strong organic growth and is supported by record backlog.
+ETN,2026-02-03,other,+1,,You probably noticed on recent news from the hyperscalers that they reconfirmed their CapEx plans for 2026.
+ETN,2026-05-05,backlog_record,+1,book-to-bill 1.2; EA backlog +44%,resulting in our backlog hitting a new record high in both Electrical and Aerospace with book-to-bill increasing to 1.2 combined on a rolling 12-month basis
+ETN,2026-05-05,capacity_expansion,+1,capex >$1bn,"The investments we are making over $1 billion in CapEx are at record scale for us, but well within our capability to navigate."
+ETN,2026-05-05,guidance_raise,+1,2026 organic 9-11% (from 7-9%),"Following a strong quarter, we now expect total company organic growth to be between 9% to 11%, up 200 basis points at the midpoint"
+ETN,2026-05-05,orders_accel,+1,data center orders +240%; EA R12M orders +42%,Our accelerating orders driven by data center orders up 240% prove continued strong demand and our winning value proposition as an end-to-end solutions provider.
+ETN,2026-05-05,other,+1,US DC backlog 228 GW = 12 yrs of 2025 builds,"Total data center backlog has grown to 228 gigawatts or 12 years of backlog at a 2025 build rates, up from the 11 years in our last update."
+ETN,2026-07-31,guidance_raise,+1,2026 organic 11-13% (from 9-11%),"we now expect total organic growth to be between 11% and 13%, up 200 basis points at the midpoint from the prior 9% to 11% range."
+ETN,2026-07-31,orders_accel,+1,EA record orders +41% R12M; book-to-bill 1.3,"Our negotiations pipeline was up 60% year-to-date over prior year, translating to record orders up 41% on a rolling 12-month basis and a book-to-bill increasing to 1.3."
+ETN,2026-07-31,other,+1,US DC backlog 307 GW = 15 yrs,"Total U.S. data center backlog has grown to 307 gigawatts or 15 years of backlog at 2025 build rates, up from 12 years in our last update."
+ETN,2026-07-31,other,+1,data center sales ~+65%,"Organic sales growth accelerated to 18%, driven primarily by strength in data centers, up about 65%"
+ETN,2026-07-31,pricing_up,+1,,"We have also pulled in our planned general price increase from Q4 to Q3, which gives us even more confidence in our full year guidance."
+GEV,2025-07-23,backlog_record,+1,gas backlog+SRAs 55GW from 50GW; SRAs 21->25GW,"This resulted in backlog remaining at 29 gigawatts, while growing slot reservation agreements from 21 to 25 gigawatts, building our total backlog in slot reservation agreements to 55 gigawatts"
+GEV,2025-07-23,guidance_raise,+1,FY25 FCF $3-3.5bn (+~$1bn),"In addition, we're raising our full year free cash flow guidance by approximately $1 billion to be in the range of $3 billion to $3.5 billion due to higher down payments from increased orders"
+GEV,2025-07-23,orders_accel,+1,Power orders +44%; gas equipment ~3x y/y,"Power orders grew 44%, led by Gas Power equipment nearly tripling year-over-year."
+GEV,2025-07-23,orders_accel,+1,,"We're seeing incremental demand for our aeroderivative technology, particularly to support data centers."
+GEV,2025-07-23,pricing_up,+1,>=60GW gas backlog+SRAs by YE25,We continue to see higher turbine prices and strong demand and still expect to have at least 60 gigawatts between backlog and reservation agreements by the end of the year
+GEV,2025-10-22,backlog_record,+1,gas backlog 29->33GW; SRAs 25->29GW; total 62GW from 55GW,Our gas turbine backlog grew this quarter from 29 to 33 gigawatts and our slot reservation agreements increased from 25 to 29 gigawatts
+GEV,2025-10-22,customer_win,+1,hyperscaler electrification orders $900m YTD vs $600m FY24 ($400m in Q3),"So far this year, we've booked roughly $900 million in electrification orders with hyperscalers compared to $600 million in all of '24."
+GEV,2025-10-22,guidance_raise,+1,YE25 gas commitments ~70GW (prior >=60GW),We now expect to approach 70 gigawatts of contractual gas power commitments by the end of '25 with significant momentum into '26.
+GEV,2025-10-22,guidance_raise,+1,Electrification organic growth ~25% from ~20%,"For the full year, we now expect Electrification organic revenue growth to trend towards 25% compared to our previous expectation of approximately 20%"
+GEV,2025-10-22,orders_accel,+1,Q3 orders $14.6bn +55%; book-to-bill ~1.5x,"We booked orders of $14.6 billion, a 55% increase year-over-year and a book-to-bill ratio of approximately 1.5x."
+GEV,2025-10-22,pricing_up,+1,,What I can tell you is that we continue to see stronger price and stronger margin trends in the third quarter in the business for gas turbines
+GEV,2026-01-28,backlog_record,+1,gas backlog+SRAs 83GW from 62GW; target ~100GW in 2026,"In 4Q, gas power equipment backlog and slot reservations increased from 62 to 83 gigawatts sequentially"
+GEV,2026-01-28,customer_win,+1,"data-center electrification orders >$2bn in 2025, >3x 2024","Of note, over $2 billion of Electrification's orders were signed directly for data centers in '25, more than triple the 24 total."
+GEV,2026-01-28,guidance_raise,+1,FY26 revenue $44-45bn from $41-42bn,"We now expect full year 2026 revenue to be in the range of $44 billion to $45 billion, up from $41 billion to $42 billion"
+GEV,2026-01-28,orders_accel,+1,FY25 orders $59bn +34%; backlog $150bn,"We booked $59 billion of orders, up 34% year-over-year."
+GEV,2026-01-28,pricing_up,+1,SRA pricing +10-20 pts vs backlog,"When we look at where we're trending with our slot reservation agreements today versus our existing backlog, there's another 10 to 20 points of pricing strength in the SRAs today."
+GEV,2026-01-28,supply_constrained,+1,2029-30 slots largely sold out at ~100GW,that 100 gigawatts directionally will have both '29 and '30 largely sold out based on where we see it today.
+GEV,2026-04-22,backlog_record,+1,gas GW under contract 100 from 83 (21GW signed); >=110GW by YE26,"signing 21 gigawatts in countries like the U.S., Vietnam, Mexico, Brazil, and Canada to grow our total gigawatts under contract from 83 to 100 gigawatts sequentially."
+GEV,2026-04-22,customer_win,+1,data-center electrification orders $2.4bn in Q1 > FY25,"This is being driven not just by traditional customers, but also data centers, which accounted for approximately $2.4 billion in orders in Q1—more than the full year of 2025."
+GEV,2026-04-22,guidance_raise,+1,FY26 revenue $44.5-45.5bn (+$0.5bn); EBITDA margin 12-14%,"For revenue, we now expect to be in the range of $44.5 billion to $45.5 billion, up $500 million compared to our previous expectation due to additional growth at Electrification."
+GEV,2026-04-22,orders_accel,+1,Q1 orders $18.3bn +71%; book-to-bill ~2,"In the first quarter, we booked orders of $18.3 billion, a 71% increase year over year and a book-to-bill ratio of approximately 2."
+GEV,2026-04-22,pricing_up,+1,2026 orders +10-20 pts $/kW vs Q4-25,"On pricing, we expect our orders in 2026 to be priced 10 to 20 points higher than our Q4 2025 orders on a dollar per kW basis."
+GEV,2026-04-22,supply_constrained,+1,~10GW left in 2029+2030 combined,"So what has changed is we still have about 10 gigawatts remaining cumulatively in 2029 and 2030 together, whereas in January we had 10 gigawatts in total for 2029."
+GOOGL,2022-02-01,capex_raise,+1,2022 capex: meaningful increase,"In 2022, we expect a meaningful increase in capex."
+GOOGL,2022-07-26,capex_raise,+1,2022 capex up y/y,We continue to expect an increase in capex in 2022 versus last year.
+GOOGL,2023-02-02,capex_cut,-1,2023 capex ~flat vs 2022,"For 2023, we expect total capex to be generally in line with 2022, with an increase in technical infrastructure versus a decline in office facilities."
+GOOGL,2023-07-25,capex_raise,+1,tech infra capex rising through H2-23 into 2024,We expect elevated levels of investment in our technical infrastructure increasing through the back half of 2023 and continuing to grow in 2024.
+GOOGL,2023-07-25,other,+1,>70% of gen AI unicorns on Google Cloud,"More than 70% of gen AI unicorns are Google Cloud customers, including Cohere, Jasper, Typeface, and many more."
+GOOGL,2023-07-25,supply_constrained,+1,Q2-23 capex step-up below plan,"One, the work that we're doing around office facilities, and then the delays in certain data center construction projects."
+GOOGL,2024-01-30,capex_raise,+1,Q4-23 capex $11bn; 2024 notably larger,"In 2024, we expect investment in capex will be notably larger than in 2023."
+GOOGL,2024-01-30,orders_accel,+1,Cloud >$9bn quarterly revenue,"Three, Cloud, which crossed $9 billion in revenues this quarter and saw accelerated growth, driven by our gen AI and product leadership"
+GOOGL,2024-04-25,capex_raise,+1,2024 quarterly capex >= $12bn,we do expect the quarterly capex throughout the year to be roughly at or above the $12 billion cash capex we had here in Q1.
+GOOGL,2024-04-25,other,+1,>60% of funded gen AI start-ups on Google Cloud,"Today, more than 60% of funded gen AI start-ups and nearly 90% of gen AI unicorns are Google Cloud customers."
+GOOGL,2024-07-23,ai_revenue_milestone,+1,AI infra + gen AI 'billions' YTD,"Year-to-date, our AI infrastructure and generative AI solutions for cloud customers have already generated billions in revenues and are being used by more than 2 million developers."
+GOOGL,2024-07-23,capex_raise,+1,Q2-24 capex $13bn; >= $12bn/qtr,"Looking ahead, we continue to expect quarterly capex throughout the year to be roughly at or above the Q1 capex of $12 billion"
+GOOGL,2025-02-04,capex_raise,+1,2025 capex ~$75bn; Q1 $16-18bn (Q4-24 $14bn),"We expect to invest approximately $75 billion in capex in 2025, with approximately $16 billion to $18 billion of that in the first quarter."
+GOOGL,2025-02-04,other,+1,cloud compute consumption 8x in 18 months,"In fact, today, Cloud customers consume more than eight times the compute capacity for training and inferencing compared to 18 months ago."
+GOOGL,2025-02-04,supply_constrained,+1,Cloud +30% to $12bn,"And as you've seen in the comment I've just made on Cloud, we do have demand that exceeds our available capacity."
+GOOGL,2025-07-23,backlog_record,+1,"Cloud backlog $106bn, +38% y/y","Google Cloud backlog increased 18% sequentially in Q2 and 38% year over year, reaching $106 billion at the end of the quarter."
+GOOGL,2025-07-23,capex_raise,+1,2025 capex ~$85bn from ~$75bn,"we now expect to invest approximately $85 billion in CapEx in 2025, up from a previous estimate of $75 billion."
+GOOGL,2025-07-23,capex_raise,+1,2026 capex: further increase,"Looking out to 2026, we expect a further increase in CapEx due to the demand we're seeing from customers as well as growth opportunities across the company."
+GOOGL,2025-07-23,orders_accel,+1,Cloud +32% to $13.6bn,"Revenues increased by 32% to $13.6 billion in the second quarter, reflecting growth in GCP across core and AI products"
+GOOGL,2025-07-23,supply_constrained,+1,tight into 2026,We expect to remain in a tight demand-supply environment going into 2026.
+GOOGL,2025-10-29,backlog_record,+1,"Cloud backlog $155bn, +46% q/q, +82% y/y","Google Cloud's backlog increased 46% sequentially and 82% year over year, reaching $155 billion at the end of the third quarter."
+GOOGL,2025-10-29,capex_raise,+1,2025 capex $91-93bn from ~$85bn,"We now expect CapEx to be in the range of $91 billion to $93 billion in 2025, up from our previous estimate of $85 billion"
+GOOGL,2025-10-29,capex_raise,+1,2026 capex: significant increase,"Looking out to 2026, we expect a significant increase in CapEx, and we'll provide more detail on our fourth-quarter earnings call."
+GOOGL,2025-10-29,customer_win,+1,Anthropic up to 1m TPUs,"We are investing in TPU capacity to meet the tremendous demand we are seeing from customers and partners, and we are excited that Anthropic recently shared plans to access up to 1 million TPUs."
+GOOGL,2025-10-29,orders_accel,+1,>$1bn deals in 9M-25 > prior 2 years,I think the number of deals greater than $1 billion that we signed in the first three quarters of this year are greater than the two years prior.
+GOOGL,2025-10-29,supply_constrained,+1,tight through 2026; Cloud +34% to $15.2bn,we still expect to remain in a tight demand-supply environment in Q4 and 2026.
+GOOGL,2026-02-04,backlog_record,+1,"Cloud backlog $240bn, +55% q/q","Google Cloud's backlog increased 55% sequentially and more than doubled year over year, reaching $240 billion at the end of the fourth quarter."
+GOOGL,2026-02-04,capex_raise,+1,2026 capex $175-185bn vs 2025 $91.4bn,"For the full year 2026, we expect CapEx to be in the range of $175 billion to $185 billion with investments ramping over the course of the year."
+GOOGL,2026-02-04,orders_accel,+1,Cloud +48% to $17.7bn,Cloud revenue accelerated meaningfully and were up 48% to $17.7 billion.
+GOOGL,2026-02-04,orders_accel,+1,2025 $1bn+ deals > prior 3 years combined,The number of deals in 2025 over $1 billion surpassed the previous three years combined.
+GOOGL,2026-02-04,other,+1,Gemini API 10bn tokens/min from 7bn,"Our first-party models like Gemini now process over 10 billion tokens per minute via direct API used by our customers, up from 7 billion last quarter."
+GOOGL,2026-02-04,supply_constrained,+1,,And we've been supply constrained even as we've been ramping up our capacity.
+GOOGL,2026-04-29,backlog_record,+1,"Cloud backlog $462bn, ~2x q/q (incl TPU hardware)","And Google Cloud's backlog nearly doubled sequentially, reaching $462 billion at the end of the first quarter."
+GOOGL,2026-04-29,capex_raise,+1,2026 capex $180-190bn from $175-185bn (Intersect),"We are updating our full year 2026 CapEx guidance range to $180 billion to $190 billion, up from our previous estimate of $175 billion to $185 billion"
+GOOGL,2026-04-29,capex_raise,+1,2027 capex significantly above 2026,"And as a result, we expect our 2027 CapEx to significantly increase compared to 2026."
+GOOGL,2026-04-29,orders_accel,+1,"Cloud +63%, >$20bn quarter","Revenue grew 63%, exceeding $20 billion for the first time and our backlog nearly doubled quarter-on-quarter to over $460 billion."
+GOOGL,2026-04-29,other,+1,TPU hardware sales to customer DCs,"In Google Cloud, as Sundar mentioned, we will begin to deliver TPU hardware to a select group of customers in their own data centers."
+GOOGL,2026-04-29,supply_constrained,+1,,"Obviously, we are compute constrained in the near term."
+HUBB,2022-02-03,backlog_record,+1,2021 orders +30%,"For the full year 2021, we grew orders more than 30% year over year, and are exiting the year with a record backlog."
+HUBB,2022-02-03,supply_constrained,+1,,While we expect supply chain dynamics to remain tight and continue to constrain output into 2022
+HUBB,2022-04-26,guidance_raise,+1,mid-teens EPS growth,"gives us the visibility and confidence to raise our full year outlook today, which now reflects mid-teens adjusted earnings-per-share growth."
+HUBB,2022-04-26,orders_accel,+1,orders +25% vs shipments +21%,"And despite the 21% increase in shipments, orders were up 25%, so we actually built more backlog in the quarter."
+HUBB,2022-04-26,supply_constrained,+1,,"I think as you know, we've been operating for a while constrained not by orders, but constrained by supply chain."
+HUBB,2022-07-26,capacity_expansion,+1,,primarily in certain power T&D and communication product lines where capacity is tight and customers have critical needs for our products.
+HUBB,2022-07-26,guidance_raise,+1,,"we are raising our full year expectations this morning, while at the same time, accelerating investments in the second half of the year"
+HUBB,2025-07-29,guidance_raise,+1,FY25 adj. EPS $17.65-18.15 (+$0.30),We are raising our full-year adjusted earnings per share outlook to a range of $17.65 to $18.15.
+HUBB,2025-07-29,orders_accel,+1,grid infrastructure orders +high teens H1,"Grid infrastructure orders remain strong, up high teens year-over-year in the first half, supporting our expectation for strong organic growth in the second half."
+HUBB,2025-07-29,other,+1,2025 data center sales +30%,"Clearly, the star of the show continues to be data centers. We are anticipating 30% growth there."
+HUBB,2025-10-28,guidance_cut,-1,utility segment revenue guide trimmed,"Operationally, we anticipate the impact of lower organic growth to be fully offset by stronger margin performance"
+HUBB,2025-10-28,guidance_raise,+1,FY25 adj. EPS $18.10-18.30 (from $17.65-18.15),We are raising our full-year 2025 outlook this morning.
+HUBB,2025-10-28,orders_accel,+1,Q4 organic 8-10%,That's really being driven by the order book which has really accelerated over the past two months.
+HUBB,2026-02-03,orders_accel,+1,,"we started to see this inflection in our order book in, like, the September time frame and particularly in the areas of T&D and data center."
+HUBB,2026-02-03,other,+1,Q4 data center growth >60%,Data center growth exceeded 60% in the quarter.
+HUBB,2026-02-03,other,+1,2026 sales growth 7-9%; EPS $19.15-19.85,we are initiating our 2026 outlook this morning for 7% to 9% total sales growth
+HUBB,2026-02-03,other,-1,,"I think we've seen non-res and heavy industrial have both been flattish, you know, low growth for the last couple of years."
+HUBB,2026-04-30,capacity_expansion,+1,,We will continue to do that as the year unfolds to increase our capacity and serve that growing demand.
+HUBB,2026-04-30,guidance_raise,+1,"2026 total 8-11%, organic 6-9%","We are raising our full-year 2026 outlook for total sales growth, organic sales growth, and adjusted earnings per share this morning"
+HUBB,2026-04-30,orders_accel,+1,DC ~+40% in Q1; FY DC guide >25% (from 15%),"Data center order activity remained robust in the first quarter, as buildout activity continues to accelerate across hyperscaler and colocation customers"
+HUBB,2026-04-30,pricing_up,+1,~3 pts price in 6-9% organic,"So our full-year 6% to 9% organic has about three points price, with the rest being volume."
+IREN,2026-02-05,ai_revenue_milestone,+1,ARR target $3.4bn end-2026; 140k GPUs,"we expect to deliver 140,000 GPUs by the end of 2026 positioning us to deliver $3.4 billion in annualized run rate revenue."
+IREN,2026-02-05,capacity_expansion,+1,4.5 GW secured power,Our $3.4 billion ARR target for the end of calendar 2026 reflects utilization of only around 10% of our 4.5 gigawatts of secured grid-connected power capacity.
+IREN,2026-02-05,other,+1,$9.7bn Microsoft contract; $3.6bn GPU financing,this provides funding coverage for approximately 95% of the GPU related CapEx supporting our $9.7 billion AI contract with Microsoft.
+IREN,2026-02-05,supply_constrained,+1,,"I mean, power and more pointedly to Dan's point earlier, data center capacity is the constraint."
+IREN,2026-05-07,capacity_expansion,+1,secured power 5 GW,"On capacity, we increased secured power to 5 gigawatts, added new sites in Europe and APAC"
+IREN,2026-05-07,customer_win,+1,NVIDIA $3.54bn 5-yr; ARR under contract $3.1bn,"We increased ARR under contract to $3.1 billion, remain on track to hit $3.7 billion exiting calendar 2026, and this week signed a $3.54 billion five-year AI cloud contract with NVIDIA"
+IREN,2026-05-07,guidance_raise,+1,exit-2026 ARR target $3.7bn (from $3.4bn); 150k GPUs,"We increased ARR under contract to $3.1 billion, remain on track to hit $3.7 billion exiting calendar 2026"
+IREN,2026-05-07,supply_constrained,+1,,"we are still seeing extremely strong levels of demand within the industry, certainly outstripping supply."
+IREN,2026-08-27,ai_revenue_milestone,+1,$4bn ARR contracted; $1bn operating,"Revenue, $4 billion of ARR is now contracted for our 2026 capacity and $1 billion of that is operating today."
+IREN,2026-08-27,capex_raise,+1,FY27 capex $25-30bn,"For FY '27, we're guiding CapEx of approximately $25 billion to $30 billion."
+IREN,2026-08-27,customer_win,+1,,"new multiyear cloud contracts, including Cohere, Prometheus, Perplexity, Figure AI, Fal AI, Higgsfield AI, and separately, a leading frontier AI lab"
+IREN,2026-08-27,other,+1,prepayments fund 45-55% of GPU capex,Recent customer prepayments are funding 45% to 55% of the GPU CapEx.
+IREN,2026-08-27,other,+1,,We're in late-stage discussions with a range of new customers over a significant portion of 2027 capacity and 2028 conversations are well underway
+META,2022-02-02,capacity_expansion,+1,,"Now looking ahead, we're focused on further scaling our computing power and transforming our AI infrastructure through advances in foundational research"
+META,2022-02-02,other,-1,,we're hearing from advertisers that macroeconomic challenges like cost inflation and supply chain disruptions are impacting advertiser budgets.
+META,2022-02-02,other,+1,2022 capex $29-34bn (unchanged),"We expect 2022 capital expenditures, including principal payments on finance leases, to be in the range of $29 billion to $34 billion, unchanged from our prior estimate."
+META,2022-04-27,capacity_expansion,+1,,"we kicked off a number of multiyear projects to accelerate some of our longer-term investments, especially in our AI infrastructure, business platform, and Reality Labs."
+META,2022-04-27,other,+1,2022 capex $29-34bn (unchanged),"We expect 2022 capital expenditures, including principal payments on finance leases to be in the range of $29 billion to $34 billion, unchanged from our prior estimate."
+META,2022-07-27,capex_raise,+1,2022 capex $30-34bn from $29-34bn,"We expect 2022 capital expenditures, including principal payments on finance leases to be in the range of $30 billion to $34 billion, narrowed from our prior range of $29 million to $34 billion."
+META,2022-07-27,other,-1,weak ad demand,"This outlook reflects a continuation of the weak advertising demand environment we experienced throughout the second quarter, which we believe is being driven by broader macroeconomic uncertainty."
+META,2022-07-27,other,+1,Q2-22 capex $7.7bn (servers/AI),"The big step-up in capex, both year over year and sequentially related to server spend, including for our AI infrastructure."
+META,2024-10-30,capex_raise,+1,2024 capex $38-40bn from $37-40bn,"We anticipate our full-year 2024 capital expenditures will be in the range of $38 billion to $40 billion, updated from our prior range of $37 billion to $40 billion."
+META,2024-10-30,capex_raise,+1,2025: significant capex growth,We continue to expect significant capital expenditure growth in 2025.
+META,2024-10-30,other,+1,ad pricing up 11%,"Pricing growth was driven by increased advertiser demand, in part due to improved ad performance."
+META,2025-01-29,capacity_expansion,+1,~1GW online in 2025,I announced last week that we expect to bring online almost a gigawatt of capacity this year.
+META,2025-01-29,capacity_expansion,+1,2GW+ AI data center,And we're building a two-gigawatt and potentially bigger AI data center that is so big that it will cover a significant part of Manhattan if we were placed there.
+META,2025-01-29,capex_raise,+1,2025 capex $60-65bn,We expect our full year 2025 capital expenses will be in the range of $60 billion to $65 billion.
+META,2025-10-29,ai_revenue_milestone,+1,AI ad tools run-rate >$60bn,And now the annual run rate going through our completely end-to-end AI-powered ad tools has passed $60 billion.
+META,2025-10-29,capacity_expansion,+1,own build + third-party cloud,But we expect to invest aggressively to meet these needs both by building our own infrastructure and contracting with third-party cloud providers.
+META,2025-10-29,capacity_expansion,+1,planning capacity for 2026-2028,"not only to ensure that we have the capacity we need in 2026, but also to give ourselves sort of flexibility and option value to have the capacity that we think we could need in '27 and '28."
+META,2025-10-29,capex_raise,+1,2025 capex $70-72bn from $66-72bn,"We currently expect 2025 capital expenditures including principal payments on finance leases, to be in the range of $70 to $72 billion increased from our prior outlook of $66 to $72 billion."
+META,2025-10-29,capex_raise,+1,2026 capex $ growth notably larger than 2025,"As a result, our current expectation is that CapEx dollar growth will be notably larger in 2026 than 2025."
+META,2026-01-28,capex_raise,+1,2026 capex $115-135bn (Apr call cites prior $120-135bn),"Anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $115 to $135 billion"
+META,2026-01-28,other,+1,"2026 expenses $162-169bn, led by infrastructure incl third-party cloud","The majority of expense growth will be driven by infrastructure costs, which includes third-party cloud spend, higher depreciation, and higher infrastructure operating expenses."
+META,2026-01-28,other,+1,Q1-26 revenue guide $53.5-56.5bn,"The range embeds an outlook for accelerated growth, and that's really underpinned by the strong demand that we saw through the end of Q4 and continuing into the start of 2026."
+META,2026-01-28,supply_constrained,+1,,"Susan Li: On your first question, we do continue to be capacity constrained."
+META,2026-04-29,capacity_expansion,+1,+$107bn contractual commitments in Q1,These multiyear cloud deals and our infrastructure purchase agreements drove a $107 billion step up in our contractual commitments this quarter.
+META,2026-04-29,capacity_expansion,+1,cloud deals coming online 2026-2027,"We are also signing cloud deals that will come online over the course of this year through 2027, allowing us to scale more quickly."
+META,2026-04-29,capex_raise,+1,2026 capex $125-145bn from $120-135bn,"We anticipate 2026 capital expenditures, including principal payments on finance leases, to be in the range of $125 to $145 billion, increased from our prior range of $120 to $135 billion."
+META,2026-04-29,other,+1,>1GW custom silicon (Broadcom) + AMD,we are rolling out more than one gigawatt of our own custom silicon that we are developing with Broadcom as well as a significant amount of AMD chips
+META,2026-07-29,capacity_expansion,+1,1GW El Paso JV with BlackRock,"Yesterday, as part of our Meta Compute effort, we announced a new strategic venture with BlackRock to develop a new 1 gigawatt data center in El Paso, Texas."
+META,2026-07-29,capacity_expansion,+1,2028+ foundations,our longer-term capacity strategy aims to give us the flexibility to continue growing compute in 2028 and beyond by laying down data center and network foundations
+META,2026-07-29,capex_raise,+1,2026 capex $130-145bn from $125-145bn,"to be in the range of $130 billion to $145 billion, narrowed from our prior outlook of $125 billion to $145 billion."
+META,2026-07-29,supply_constrained,+1,,"And that really includes our core business, too, where there are -- we still have numerous ROI-positive places that we would put compute toward if we had it."
+META,2026-10-21,capacity_expansion,+1,capacity for >1bn users,"On the compute side, we are building out the capacity to serve more than a billion people over the next few years."
+META,2026-10-21,capex_raise,+1,2026 capex $135-145bn from $130-145bn,to be in the range of $135 billion to $145 billion narrowed from our prior outlook of $130 billion to $145 billion.
+META,2026-10-21,other,-1,>10x compute cost efficiency in next year,"At the same time, we expect to improve compute cost efficiency by more than 10x over the next year driven by better utilization of off peak capacity, more efficient models, and inference optimization."
+META,2026-10-21,other,+1,,"Beyond serving other businesses, we have not yet found the limit of how effectively we can apply compute to accelerating our own core business."
+MOD,2025-10-29,capacity_expansion,+1,,"Last quarter, we announced plans to significantly expand our U.S. manufacturing capacity for data center products."
+MOD,2025-10-29,guidance_raise,+1,Climate Solutions +35-40%; DC sales >+60% FY26,"For Climate Solutions, we're raising our outlook for the full year sales to grow 35% to 40% with data center sales now expected to grow in excess of 60% this year."
+MOD,2025-10-29,other,+1,data center sales +42% (+$67m),"Driving this growth was data centers, which grew $67 million or 42%."
+MOD,2025-10-29,other,+1,DC revenue >$2bn by FY28,I currently see a path to deliver more than 60% revenue growth in data center this year on our way to achieve over $2 billion in revenues in fiscal 2028.
+MOD,2026-02-05,capacity_expansion,+1,FY capex $150-180m,We anticipate generating positive free cash flow in the fourth quarter and are now expecting CapEx to be in the range of $150 million to $180 million for the full fiscal year.
+MOD,2026-02-05,guidance_raise,+1,FY26 sales +20-25%; DC >+70%,"For Climate Solutions, we're raising our outlook for full year sales to grow 40% to 45%, up from 35% to 40%, with data center sales expected to grow in excess of 70% this year."
+MOD,2026-02-05,orders_accel,+1,record DC order intake,"In fact, we had record order intake this past quarter, further solidifying our confidence in our strategy and financial projections."
+MOD,2026-02-05,other,+1,DC revenue growth 50-70%/yr next 2 yrs,currently expect to deliver 50% to 70% annual growth in data center revenue over the next 2 years
+MOD,2026-02-05,other,+1,DC revenue +78% (+$130m),"The main growth driver was data centers, which grew $130 million or 78% as we begin to capitalize on our investments and utilize the new capacity."
+MSFT,2022-01-25,orders_accel,+1,commercial bookings +32% (+37% cc),"Commercial bookings grew 32% and 37% in constant currency, significantly ahead of expectations, driven by the large, long-term Azure contracts"
+MSFT,2022-04-26,capex_raise,+1,Q4 FY22 capex up q/q (Q3 $6.3bn),"Capital expenditures, we expect a sequential increase on a dollar basis as we continue to invest to meet growing global demand for our cloud services."
+MSFT,2022-04-26,orders_accel,+1,commercial bookings +28% (+35% cc),"Commercial bookings increased 28% and 35% in constant currency, significantly ahead of expectations, driven by strong execution across our core annuity sales motions."
+MSFT,2022-07-26,capex_cut,-1,Q1 FY23 capex down q/q from $8.7bn,"In capital expenditures, we expect a sequential decrease on a dollar basis, with normal quarterly spend variability and the timing of our cloud infrastructure build-out."
+MSFT,2022-07-26,digestion_warning,-1,,although we expect to continue to see growth moderation in our small- and medium-sized business segment.
+MSFT,2022-07-26,orders_decel,-1,"Azure +40% (+46% cc), ~1pt below plan","Azure and other cloud services revenue grew 40% and 46% in constant currency, about one point lower than expected, driven by a slight moderation in Azure consumption growth across customer segments."
+MSFT,2022-10-25,capex_raise,+1,Q2 FY23 capex up q/q,"In capital expenditures, we expect a sequential increase on a dollar basis with normal quarterly spend variability in the timing of our cloud infrastructure build-out."
+MSFT,2022-10-25,digestion_warning,-1,"Azure +35% (+42% cc), ~1pt below plan","Azure and other cloud services revenue grew 35% and 42% in constant currency, about one point lower than expected, driven by the continued moderation in Azure consumption growth"
+MSFT,2023-01-24,digestion_warning,-1,,"Just as we saw customers accelerate their digital spend during the pandemic, we are now seeing them optimize that spend."
+MSFT,2023-01-24,orders_decel,-1,commercial bookings +7% (+4% cc),"Commercial bookings increased 7% and 4% in constant currency, lower than expected."
+MSFT,2023-01-24,orders_decel,-1,Azure +31% (+38% cc),Azure and other cloud services revenue grew 31% and 38% in constant currency.
+MSFT,2023-07-25,ai_revenue_milestone,+1,"Azure +26% (+27% cc), ~1pt from AI","Azure and other cloud services revenue grew 26% and 27% in constant currency, including roughly one point from AI services as expected."
+MSFT,2023-07-25,capex_raise,+1,,"To support our Microsoft Cloud growth and demand for our AI platform, we will accelerate investment in our cloud infrastructure."
+MSFT,2023-07-25,capex_raise,+1,FY24 capex up q/q every quarter (Q4 FY23 $10.7bn),We expect capital expenditures to increase sequentially each quarter through the year as we scale to meet demand signals.
+MSFT,2023-07-25,other,-1,,"Even with strong demand and a leadership position, growth from our AI services will be gradual as Azure AI scales and our Copilots reach general availability dates."
+MSFT,2023-10-24,ai_revenue_milestone,+1,"Azure +29% (+28% cc), ~3pts from AI","Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services."
+MSFT,2023-10-24,capacity_expansion,+1,,growth was ahead of expectations primarily driven by increased GPU capacity and better-than-expected GPU utilization of our AI services
+MSFT,2023-10-24,capex_raise,+1,Q2 FY24 capex up q/q (Q1 $11.2bn),"We expect capital expenditures to increase sequentially on a dollar basis, driven by investments in our cloud and AI infrastructure."
+MSFT,2024-01-30,ai_revenue_milestone,+1,"Azure +30% (+28% cc), 6pts from AI","Azure and other cloud services revenue grew 30% and 28% in constant currency, including 6 points of growth from AI services."
+MSFT,2024-01-30,capex_raise,+1,Q3 FY24 capex to rise materially q/q,"We expect capital expenditures to increase materially on a sequential basis, driven by investments in our cloud and AI infrastructure"
+MSFT,2024-01-30,orders_accel,+1,commercial bookings +17% (+9% cc),"In our commercial business, strong demand for our Microsoft cloud offerings, including AI services, drove better-than-expected growth and large long-term Azure contracts."
+MSFT,2024-01-30,supply_constrained,+1,"Q2 FY24 capex $11.5bn, below plan","Capital expenditures, including finance leases, were $11.5 billion, lower-than-expected due to delivery for a third-party capacity contract shifting from Q2 to Q3."
+MSFT,2024-04-25,ai_revenue_milestone,+1,"Azure +31%, 7pts from AI","Azure and other cloud services revenue grew 31% ahead of expectations, while our AI services contributed 7 points of growth as expected."
+MSFT,2024-04-25,capex_raise,+1,FY25 capex > FY24; Q3 FY24 capex $14bn,"to scale to meet the growing demand signal for our cloud and AI products, we expect FY '25 capital expenditures to be higher than FY '24."
+MSFT,2024-04-25,orders_accel,+1,commercial bookings +29% (+31% cc),"In our commercial business, bookings increased 29% and 31% in constant currency, significantly ahead of expectations, driven by Azure commitments with an increase in average deal size and deal length"
+MSFT,2024-07-30,capex_raise,+1,Q4 FY24 capex $19bn; FY25 > FY24,"To meet the growing demand signal for our AI and cloud products, we will scale our infrastructure investments with FY '25 capital expenditures expected to be higher than FY '24."
+MSFT,2024-07-30,supply_constrained,+1,"Azure +29% (+30% cc), 8pts from AI","Azure growth included 8 points from AI services, where demand remained higher than our available capacity."
+MSFT,2024-07-30,supply_constrained,+1,constrained through H1 FY25,"Number one, you're right, capacity constraints, particularly on AI and Azure will remain in Q4 and will remain in H1."
+MSFT,2024-10-30,ai_revenue_milestone,+1,AI run-rate >$10bn next quarter,"All up, our AI business is on track to surpass an annual revenue run rate of $10 billion next quarter, which will make it the fastest business in our history to reach this milestone."
+MSFT,2024-10-30,ai_revenue_milestone,+1,"Azure +33% (+34% cc), ~12pts from AI",Azure growth included roughly 12 points from AI services similar to last quarter.
+MSFT,2024-10-30,capex_raise,+1,Q1 FY25 capex $20bn; Q2 up q/q,We expect capital expenditures to increase on a sequential basis given our cloud and AI demand signals.
+MSFT,2024-10-30,supply_constrained,+1,Q2 FY25 Azure guide 31-32% cc,"We expect the contribution from AI services to be similar to last quarter, given the continued capacity constraints as well as some capacity that shifted out of Q2."
+MSFT,2024-10-30,supply_constrained,+1,,"The supply pushout, as Satya said, was third parties that are delivering later than we had expected, that get pushed mainly into the second half of the year and in general, Q3."
+MSFT,2025-01-29,ai_revenue_milestone,+1,"AI run-rate >$13bn, +175% y/y","And our AI business has now surpassed an annual revenue run rate of $13 billion, up 175% year over year."
+MSFT,2025-01-29,capex_cut,-1,FY26 capex growth < FY25; Q3-Q4 FY25 flat at ~$22.6bn,"However, the growth rate will be lower than FY '25 and the mix of spend will begin to shift back to short-lived assets, which are more correlated to revenue growth."
+MSFT,2025-01-29,digestion_warning,-1,supply ~in line with demand by June 2025,"And while we expect to be AI capacity-constrained in Q3, by the end of FY '25, we should be roughly in line with near-term demand given our significant capital investments."
+MSFT,2025-01-29,other,-1,,Growth in our non-AI services was slightly lower than expected due to go-to-market execution challenges
+MSFT,2025-01-29,supply_constrained,+1,13pts AI in Azure; AI services +157% y/y,"Azure growth included 13 points from AI services, which grew 157% year over year, and was ahead of expectations even as demand continued to be higher than our available capacity."
+MSFT,2025-07-30,backlog_record,+1,"commercial RPO $368bn, +35% cc","Commercial remaining performance obligation increased to $368 billion, up 35% in constant currency."
+MSFT,2025-07-30,capacity_expansion,+1,>2GW added in 12 months,"We stood up more than two gigawatts of new capacity over the past twelve months alone, and we continue to scale our own data center capacity faster than any other competitor."
+MSFT,2025-07-30,capex_raise,+1,Q1 FY26 capex >$30bn (Q4 FY25 $24.2bn),We expect Q1 capital expenditures to be over $30 billion driven by the continued strong demand signals we see.
+MSFT,2025-07-30,orders_accel,+1,"FY25 commercial bookings >$100bn, +30% cc","For the first time, commercial bookings were over $100 billion, increasing 30% in constant currency, on a strong prior year comparable."
+MSFT,2025-07-30,supply_constrained,+1,constrained through Dec-2025,"Even as we continue bringing more data center capacity online, we currently expect to remain capacity constrained, through the first half of our fiscal year."
+MSFT,2025-10-29,backlog_record,+1,"commercial RPO $392bn, +51%",Commercial remaining performance obligation increased to $392 billion and was up 51% year over year.
+MSFT,2025-10-29,capacity_expansion,+1,AI capacity +80% this year; DC footprint 2x in 2 yrs,"We will increase our total AI capacity by over 80% this year and roughly double our total data center footprint over the next two years, reflecting the demand signals we see."
+MSFT,2025-10-29,capex_raise,+1,FY26 capex growth now > FY25 (reversal); Q1 FY26 $34.9bn,We now expect the FY '26 growth rate to be higher than FY '25.
+MSFT,2025-10-29,customer_win,+1,OpenAI +$250bn Azure commitment,"Already, we have roughly 10x'd our investment, and OpenAI has contracted an incremental $250 billion of Azure services."
+MSFT,2025-10-29,orders_accel,+1,commercial bookings +112% (+111% cc),"Commercial bookings increased 112% and 111% in constant currency and were significantly ahead of expectations, driven by Azure commitments from OpenAI"
+MSFT,2025-10-29,supply_constrained,+1,constrained through June 2026 (was Dec-2025),"Therefore, we now expect to be capacity constrained through at least the end of our fiscal year."
+MSFT,2026-01-28,backlog_record,+1,"commercial RPO $625bn, ~45% OpenAI","Commercial remaining performance obligation, continues to be reported net of reserves, increased to $625 billion."
+MSFT,2026-01-28,capacity_expansion,+1,~1GW added in Q2 FY26,"All up, we added nearly one gigawatt of total capacity this quarter alone."
+MSFT,2026-01-28,capex_cut,-1,Q3 FY26 capex down q/q from $37.5bn (lease timing),"Next, we expect capital expenditures to decrease on a sequential basis due to a normal variability from cloud infrastructure build-outs and the timing of delivery of finance leases."
+MSFT,2026-01-28,customer_win,+1,bookings +23% cc; Anthropic commitment,reflects multiyear demand needs as well as the previously announced Anthropic commitment from November
+MSFT,2026-01-28,other,+1,memory price inflation,"In addition, rising memory prices would impact capital expenditures, though the impact on Microsoft Corporation cloud gross margins will build more gradually."
+MSFT,2026-01-28,supply_constrained,+1,,Our customer demand continues to exceed our supply.
+MSFT,2026-04-29,ai_revenue_milestone,+1,"AI run-rate >$37bn, +123% y/y","As Satya shared, our AI business annual revenue run rate surpassed $37 billion this quarter, growing 123% year over year."
+MSFT,2026-04-29,capacity_expansion,+1,+1GW in Q3 FY26,"All up, we added another gigawatt of capacity this quarter and remain on track to double our overall footprint in just two years."
+MSFT,2026-04-29,capex_raise,+1,CY26 capex ~$190bn incl ~$25bn component pricing; Q4 FY26 >$40bn,"We expect to invest roughly $190 billion in capital expenditures, which includes approximately $25 billion from the impact of higher component pricing."
+MSFT,2026-04-29,orders_decel,-1,bookings ex-OpenAI +7%,"Commercial bookings grew 7% when excluding the impact from OpenAI, driven by consistent execution in our core annuity sales motions."
+MSFT,2026-04-29,other,+1,RPO ex-OpenAI +26%,Commercial remaining performance obligation grew 26% in line with historic seasonality when excluding OpenAI.
+MSFT,2026-04-29,supply_constrained,+1,constrained through CY2026,"Even with these additional investments and continued efforts to bring GPU, CPU, and storage capacity online faster, we expect to remain constrained at least through 2026."
+MSFT,2026-07-29,backlog_record,+1,"commercial RPO $678bn, +84%",Commercial remaining performance obligation grew 84% to $678 billion.
+MSFT,2026-07-29,capacity_expansion,+1,"31 DCs in Q4, 88 in FY26; +1GW in qtr","We added 31 new data centers across 5 continents this quarter, bringing the total to 88 this year as we expand our footprint in response to accelerating demand."
+MSFT,2026-07-29,capex_raise,+1,Q1 FY27 capex >$50bn (Q4 FY26 $41bn),"We expect CapEx spend will be over $50 billion, including the lease reclassification impact from the useful life update."
+MSFT,2026-07-29,capex_raise,+1,FY27 capex to grow y/y,And we expect FY '27 capital expenditures will grow year-over-year given demand signals across our portfolio.
+MSFT,2026-07-29,other,+1,q/q RPO growth all from non-frontier-lab customers,All sequential commercial RPO growth was driven by commitments from customers outside of frontier model companies.
+MSFT,2026-07-29,supply_constrained,+1,Azure Q4 FY26 +43%; Q1 FY27 guide ~45% cc,Customer demand continues to exceed available capacity.
+NBIS,2025-05-20,ai_revenue_milestone,+1,April ARR $310m,"April's annualized run rate revenue was $310 million, and we are continuing to experience strong demand into May."
+NBIS,2025-05-20,capacity_expansion,+1,>100 MW 2025; >1 GW pipeline,"For that, we are building a data center pipeline to provide scalability to more than 1 gigawatt of power."
+NBIS,2025-05-20,capex_raise,+1,2025 capex ~$2bn,"On CapEx, we're currently planning CapEx of approximately $2 billion for 2025."
+NBIS,2025-05-20,other,+1,YE25 ARR guide $750m-1bn,"So we feel very confident in our ability to achieve the ARR guidance for the whole year that we gave, which was $750 million to $1 billion."
+NBIS,2026-05-13,ai_revenue_milestone,+1,AI ARR $1.9bn (from $1.25bn),"Annualized run rate revenue for our Nebius AI business reached $1.9 billion at the end of March, up over 50% from $1.25 billion in the previous quarter."
+NBIS,2026-05-13,capex_raise,+1,2026 capex $20-25bn (from $16-20bn),"to raise our 2026 CapEx guidance to between $20 billion and $25 billion, which is up from our prior range of $16 billion to $20 billion."
+NBIS,2026-05-13,customer_win,+1,$27bn 5-yr ($12bn dedicated + $15bn option),"Formally, this is a $27 billion contract with Meta."
+NBIS,2026-05-13,pricing_up,+1,,We continue to see strong pricing across both old and new GPU generations as demand continues to exceed our available capacity.
+NBIS,2026-05-13,supply_constrained,+1,,"First of all, we are sold out again in Q1 as we have for several quarters as demand continues to significantly exceed available capacity."
+NBIS,2026-08-12,ai_revenue_milestone,+1,ARR $3bn at end-June (from $1.9bn),Annualized run rate revenue reached $3 billion at the end of June
+NBIS,2026-08-12,capacity_expansion,+1,YE26 contracted power target 5 GW,today raise our year-end contracted power target to 5 gigawatts.
+NBIS,2026-08-12,other,+1,committed backlog ~$40bn,"We currently have approximately $40 billion of committed backlog that we can borrow against, and we began utilizing this source of financing already in Q2."
+NBIS,2026-08-12,other,+1,2026 ARR $7-9bn; revenue $3.0-3.4bn; capex $20-25bn reaffirmed,"We continue to expect annualized run rate revenue of $7 billion to $9 billion, group revenue of between $3 billion and $3.4 billion"
+NBIS,2026-08-12,other,+1,>$9bn customer prepayments in 2026,We expect more than $9 billion of upfront customer prepayments in 2026.
+NOKIA.HE,2022-02-03,customer_loss,-1,Q4 sales EUR9.7bn -5% y/y,"EUR 9.7 billion sales, that's down 5% year over year, pretty much as we expected because of lower market share in North America"
+NOKIA.HE,2022-02-03,supply_constrained,+1,,"And of course, without the constraints that we see in the supply chain, I think we would see higher growth than this as well."
+NOKIA.HE,2022-04-28,other,+1,,"I want to emphasize that demand environment continues to be very strong, while the supply chain and inflation challenges remain as well"
+NOKIA.HE,2022-04-28,pricing_up,+1,,"The stronger your technology competitiveness is, the stronger pricing power you have and we have seen strong technology competitiveness."
+NOKIA.HE,2022-04-28,supply_constrained,+1,sales -4% cc despite strong backlog,"We have strong order backlog but because of continued supply chain challenges, we had 4% decline in the top line in comparable currencies."
+NOKIA.HE,2022-07-21,orders_accel,+1,,"In enterprise, our order intake remains strong and we expect to see accelerated growth in the second half of the year."
+NOKIA.HE,2022-07-21,other,+1,"FY22 net sales EUR23.5-24.7bn, higher end","our net sales outlook is now 23.5 billion to 24.7 billion, and we are currently tracking toward the higher end of this range."
+NOKIA.HE,2026-07-23,orders_accel,+1,AI&cloud sales EUR446m (>2x); orders EUR2.8bn,Net sales more than doubled year-on-year to EUR 446 million and order intake grew to EUR 2.8 billion.
+NOKIA.HE,2026-07-23,other,+1,,"And obviously, with the demand accelerating higher than what we said at Capital Markets Day, we've got optimism on progress there that will continue to improve."
+NOKIA.HE,2026-07-23,other,+1,,we entered trials with a U.S. hyperscaler for a new out-of-band management solution that goes inside the data center
+NOKIA.HE,2026-07-23,other,+1,,"if you think about the customers -- the level of sophistication and the customers that are placing these orders, we get to step back and ask what the incentive is for double ordering."
+NOKIA.HE,2026-07-23,supply_constrained,+1,,When we talk about lead times elongating it's because we're seeing constraints and particularly on the leading edge products.
+NOKIA.HE,2026-10-22,ai_revenue_milestone,+1,"AI&cloud sales +123%, 12% of group","In AI and cloud, net sales grew 123% year-over-year and represented 12% of total group net sales in the quarter."
+NOKIA.HE,2026-10-22,customer_win,+1,,"During this quarter, we secured a significant win with a large hyperscaler."
+NOKIA.HE,2026-10-22,guidance_raise,+1,Optical+IP 2027 growth 25-30%; 2026 above 18-20%,"For 2027, we now expect these businesses to grow between 25% and 30% on a combined basis, reflecting the strength of the underlying market and our position to capture that demand."
+NOKIA.HE,2026-10-22,orders_accel,+1,AI&cloud orders EUR1.5bn gross +118%,"Order intake was strong again, up 118% year-over-year to EUR 1.5 billion gross."
+NOKIA.HE,2026-10-22,other,+1,+EUR400m working capital,"Given the strength of the demand opportunity and the growth we now expect in 2027, we plan to invest an additional EUR 400 million in working capital"
+NOKIA.HE,2026-10-22,supply_constrained,+1,,"So the demand -- and again, the constraint here isn't demand, it's supply."
+NOW,2022-01-26,orders_accel,+1,,"For Q1, I'm pleased to announce that we expect subscription revenue growth to accelerate year over year on a constant currency basis."
+NOW,2022-01-26,other,+1,,We are not opportunity constrained as our customers' need for digital transformation is ever expanding.
+NOW,2022-07-27,guidance_cut,-1,FY22 sub rev $6.915-6.925bn (incremental $87m FX),"Primarily to reflect the incremental $87 million headwind we're seeing from FX since the end of March, we now expect subscription revenues between $6.915 billion and $6.925 billion"
+NOW,2022-07-27,orders_decel,-1,,"last couple of weeks of June, you saw some deals elongate their cycles based upon higher levels of authority having to approve them, and you saw that more in Europe"
+NOW,2022-10-26,other,+1,Q4 sub rev $1.834-1.839bn (+26-27% cc),"For Q4, we expect subscription revenues between $1.834 billion and $1.839 billion, representing 26% to 27% year-over-year growth on a constant currency basis"
+NOW,2023-01-25,other,-1,,"Heading into 2023, we believe we have prudently factored in the evolving macro crosswinds into our guidance."
+NOW,2023-01-25,other,+1,FY23 sub rev guide $8.44-8.5bn,"We expect subscription revenues between $8.44 billion and $8.5 billion, representing 22.5% to 23.5% year-over-year growth on both a reported and constant currency basis."
+NOW,2023-07-26,guidance_raise,+1,FY23 sub rev $8.58-8.6bn (+$95m),"For 2023, we are raising our subscription revenue outlook by $95 million at the midpoint to a range of $8.58 billion to $8.6 billion"
+NOW,2023-07-26,other,+1,cRPO +24% cc,"CRPO grew 24% in constant currency, 1.5% above our guidance"
+NOW,2023-07-26,other,+1,,"We have also introduced a new ServiceNow AI Lighthouse customer program, alongside NVIDIA and Accenture"
+NOW,2023-10-25,customer_win,+1,,Nvidia is accelerating its own ServiceNow journey with generative AI.
+NOW,2023-10-25,guidance_raise,+1,FY23 sub rev $8.635-8.640bn (+$48m),"For 2023, we're raising our subscription revenues outlook by 48 million at the midpoint to a range of 8.635 billion to 8.640 billion"
+NOW,2023-10-25,orders_accel,+1,,This investment is accelerating our already robust pipeline with customers lining up to be first movers in this next wave of business transformation.
+NOW,2024-01-24,backlog_record,+1,RPO ~$18bn +27.5% cc,RPO ended the quarter at approximately $18 billion representing an acceleration to 27.5% year-over-year constant-currency growth.
+NOW,2024-01-24,customer_win,+1,record 10 new $1m+ NNACV logos; $10m largest new logo,We had a record 10 new customers signing deals over 1 million in NNACV including a $10 million win with a very large global financial services firm
+NOW,2024-01-24,guidance_raise,+1,FY24 sub rev $10.555-10.575bn (+$165m),We are raising our subscription revenue outlook by $165 million at the midpoint to a range of $10.555 billion to $10.575 billion
+NOW,2024-04-24,guidance_raise,+1,FY24 sub rev +$20m midpoint,"For 2024, we are raising our subscription revenues by $20 million at the midpoint of the range to more than offset an incremental $17 million headwind from FX."
+NOW,2024-04-24,other,+1,,gen AI adoption remained on a tear in Q1.
+NOW,2024-07-24,guidance_raise,+1,FY24 sub rev +$33m midpoint,"For 2024, we are raising our subscription revenues by $33 million at the midpoint of the range to more than offset an incremental $20 million FX headwind."
+NOW,2024-07-24,orders_accel,+1,cRPO $8.78bn +22.5% cc,"Current RPO is $8.78 billion, representing 22.5% year-over-year constant currency growth, a 200 basis point beat versus our guidance and a 150 basis point acceleration from Q1."
+NOW,2024-10-23,guidance_raise,+1,FY24 sub rev $10.655-10.66bn (+$78m),"For 2024, we're raising our subscription revenues by $78 million at the midpoint to a range of $10.655 billion to $10.66 billion"
+NOW,2024-10-23,orders_accel,+1,cRPO $9.36bn +23.5% cc,"Current RPO was $9.36 billion, representing 23.5% year-over-year constant-currency growth, a 150-basis-point beat versus our guidance and a 100-basis-point acceleration from Q2."
+NOW,2024-10-23,other,+1,,the Now Platform and Now Assist continue to see robust demand.
+NOW,2025-01-29,ai_revenue_milestone,+1,,"In fact, gen AI net new ACV stepped up meaningfully in Q4 from Q3 as we saw momentum accelerate for our Plus SKUs."
+NOW,2025-01-29,capacity_expansion,+1,sub GM guide 83.5%,"incremental data center investments related to public cloud partners, geo expansion, and AI."
+NOW,2025-01-29,other,-1,FY25 sub rev guide $12.635-12.675bn (+20% cc vs ~23% FY24),"for 2025, we expect subscription revenues between 12.635 billion and 12.675 billion, representing 20% year-over-year growth at the midpoint in a constant currency basis."
+NOW,2025-01-29,other,+1,2+ gen AI product buyers doubled q/q,"Furthermore, the number of customers who bought two or more of our gen AI capabilities doubled quarter over quarter."
+NOW,2025-07-23,ai_revenue_milestone,+1,,"We had 21 deals with five or more NOW Assist products, and Plus products were included in 18 of our top 20 deals."
+NOW,2025-07-23,customer_win,+1,89 $1m+ deals; 11 >$5m,"We closed 89 deals greater than a million in net new ACV in the quarter, including 11 deals over $5 million."
+NOW,2025-07-23,guidance_raise,+1,FY25 sub rev $12.775-12.795bn (+$125m),"for 2025, we are raising our subscription revenue by $125 million at the midpoint, $12.775 billion to $12.795 billion"
+NOW,2025-10-29,ai_revenue_milestone,+1,Now Assist ACV >$500m by YE25,Our AI products are on pace to exceed a half a billion in ACV this year.
+NOW,2025-10-29,customer_win,+1,103 $1m+ deals; 3 >$20m,"We closed 103 deals greater than a million in net new ACV in the quarter, including three deals over $20 million."
+NOW,2025-10-29,guidance_raise,+1,FY25 sub rev midpoint $12.840bn (+$55m),"For 2025, we are raising our subscription revenues by $55 million at the midpoint to $12.835 billion to $12.845 billion, representing 20.5% year over year growth or 20% on a constant currency basis."
+NOW,2025-10-29,other,+1,,"you're seeing a bit of lower CapEx as a result of data center spend, rush as some of our workloads move to hyperscalers."
+NOW,2026-01-28,ai_revenue_milestone,+1,Now Assist ACV >$600m,"Now Assist NNACV outperformed expectations in Q4 and surpassed $600,000,000 in ACV."
+NOW,2026-01-28,customer_win,+1,244 $1m+ NNACV deals,"We had 244 deals greater than $1,000,000 in NNACV."
+NOW,2026-01-28,orders_accel,+1,,Net new ACV growth accelerated both quarter over quarter and year over year.
+NOW,2026-01-28,other,+1,FY26 sub rev guide $15.53-15.57bn (+19.5-20% cc),"For 2026, we expect subscription revenues between $15,530,000,000 and $15,570,000,000, representing 19.5% to 20% year over year growth on a constant currency basis."
+NOW,2026-01-28,other,+1,,the bulk of it is actually our very strategic focus on moving more towards hyperscalers that have slightly lower gross margins
+NOW,2026-04-22,ai_revenue_milestone,+1,2026 AI commitments $1.5bn from $1bn,"We just told you now that it's 50% higher than that, $1.5 billion in 2026, which is, I think, pretty darn good for a software company that's building AI into our platform, and enables our customers"
+NOW,2026-04-22,backlog_record,+1,RPO $27.7bn +23.5% cc,"RPO ended the quarter at approximately $27.7 billion, representing 23.5% year-over-year constant currency growth."
+NOW,2026-04-22,customer_win,+1,new logo ACV >+50%,"New logo ACV growth accelerated to over 50% year-over-year in Q1, which included our largest net new logo deal ever at over $15 million."
+NOW,2026-04-22,guidance_raise,+1,"FY26 sub rev $15.735-15.775bn (+$205m, incl Armis)","With that in mind, for 2026, we are raising our subscription revenues by $205 million at the midpoint to $15.735 billion to $15.775 billion, representing 20.5% to 21% year-over-year growth on a"
+NRG,2025-11-06,customer_win,+1,+150MW DC PPAs; total 445MW,"we expanded our data center customer portfolio through 150 megawatts of new premium long-term power agreements, bringing total contracted capacity to 445 megawatts across ERCOT and PJM."
+NRG,2025-11-06,orders_accel,+1,LOI/JDA pipeline 5.4GW,We also rapidly grew our pipeline of potential projects under joint development and letters of intent to 5.4 gigawatts.
+NRG,2025-11-06,other,+1,,And just really heightened interest from multiple hyperscalers and developers in a very accelerating fashion.
+NRG,2025-11-06,pricing_up,+1,DC PPA target >$80/MWh,"Given continued strength in customer demand and higher forward power curves, we are raising our target for new long-term data center agreements to above $80 per megawatt hour."
+NRG,2026-02-24,capacity_expansion,+1,>6GW gas reserved incl 5.4GW GEV/Kiewit,"We have more than 6 gigs of natural gas generation capacity reserved for customer-backed large load projects, including 5.4 gigs through our GEV and Kiewit venture"
+NRG,2026-02-24,other,+1,>=1GW signed DC contract targeted in 2026,We are also targeting at least 1 gigawatt plus signed long-term data center power contract under our Bring Your Own Power approach.
+NRG,2026-05-06,other,+1,ERCOT large-load requests >36GW by 2033,The preliminary long-term load forecast filed this month shows the pipeline of large load requests reaching over 36 gigawatts in by 2033.
+NRG,2026-05-06,other,+1,,Discussions on large load agreements are active and progressing.
+NRG,2026-08-04,capacity_expansion,+1,"$3.2bn ($2,700/kW) for 1.2GW; COD late 2029","Total investment for the 1.2 gigawatt project is expected to be $3.2 billion or $2,700 a kW, with capital deployed over 4 years"
+NRG,2026-08-04,customer_win,+1,"1.2GW Texas BYOP w/ hyperscaler, up to 2.4GW","We are aligned on the principal commercial terms with the leading global cloud and AI hyperscaler, including their capital commitment to support 1.2 gigawatts of new generation in Texas"
+NRG,2026-08-04,other,+1,95% of project FCF from capacity payments,"The commercial structure provides for 95% of the project's free cash flow to be supported by capacity payments over the term, independent of data center utilization."
+NRG,2026-08-04,other,+1,pipeline >2x 5.4GW secured turbine/EPC,Our broader development pipeline is more than twice the 5.4 gigawatts of capacity we have secured with every turbine slot tied to an active customer discussion.
+NRG,2026-08-04,other,-1,,"Through the first half of 2026, softer load and power prices in Texas and higher regional power supply costs incurred during Winter Storm Fern have us tracking below the midpoint of the ranges."
+NVT,2022-02-08,orders_accel,+1,Q4 orders +37%,We exited the year with orders up 37% in the fourth quarter and record backlog.
+NVT,2022-02-08,pricing_up,+1,carryover pricing 4-5 pts,we do expect strong carryover pricing in that 4- to 5-point range.
+NVT,2022-04-29,guidance_raise,+1,2022 organic 11-13% (from 6-9%),We now expect organic sales to grow 11% to 13% versus our prior guidance of 6% to 9%
+NVT,2022-04-29,other,+1,data centers and power utilities +40%,"For example, data centers and power utilities were up over 40% in the quarter."
+NVT,2022-07-29,guidance_raise,+1,2022 organic 15-17% (from 11-13%),"For organic growth, we now expect a range of 15% to 17% versus our prior guidance of 11% to 13% for the year."
+NVT,2022-07-29,supply_constrained,+1,,Volume in the quarter was impacted by supply chain constraints.
+NVT,2022-10-28,guidance_raise,+1,2022 organic 18-19% (from 15-17%),"For organic sales growth, we now expect a range of 18% to 19% versus our prior guidance of 15% to 17% for the year."
+NVT,2022-10-28,inventory_correction,-1,,our thinking there is that they may tend to modify their inventory positions as we go out of this fourth quarter.
+NVT,2023-02-07,inventory_correction,-1,,"Also, as we discussed in our Q3 earnings call, we expected orders to moderate as distributors returned to seasonal destocking."
+NVT,2023-02-07,other,+1,,"We expect continued strong growth with our portfolio in liquid cooling for data centers, given the energy efficiency benefits."
+NVT,2023-04-28,capacity_expansion,+1,,We are investing in added capacity and expansion of our data solutions business and expect this to ramp in Q2 and second half.
+NVT,2023-04-28,orders_decel,-1,,"I want to make the point that even though orders are down, we see good sell-through of our product and good demand from our end customers."
+NVT,2023-07-28,capacity_expansion,+1,capex $70-75m (+$15m),we are raising our capex expectations of $15 million to a range of $70 million to $75 million to reflect the impact of acquisitions and investments to expand capacity
+NVT,2023-07-28,inventory_correction,-1,,"As expected, we saw distributors adjusting their inventories in Q2 with improving supply chains and lead times."
+NVT,2023-07-28,orders_accel,+1,,"we've seen increasing orders in Data Solutions, particularly for our liquid cooling solutions, and we see that accelerating."
+NVT,2023-10-27,capacity_expansion,+1,,We're making good progress on expanding our footprint and capacity to meet growing demand for liquid cooling driven by the acceleration of AI.
+NVT,2023-10-27,guidance_cut,-1,2023 reported sales growth 12-13% (from 13-15%),Reported sales growth is now expected to be in the range of 12% to 13% versus our prior guidance of 13% to 15%.
+NVT,2023-10-27,inventory_correction,-1,organic -4%,"Organic growth declined 4%, mainly driven by infrastructure that stemmed from channel and customer inventory reductions."
+NVT,2024-02-06,capacity_expansion,+1,2023 capex +50% y/y,mostly investments in our capacity and capacity ahead of the great demand and visibility that we see in Data Solutions
+NVT,2024-02-06,other,+1,,we're continuing to work with several hyperscale customers on accelerating liquid cooling solutions
+NVT,2024-05-03,capacity_expansion,+1,liquid cooling capacity 4x,We expect this new space to come online in Q3 and give us the ability to expand capacity fourfold.
+NVT,2024-05-03,inventory_correction,-1,,"As expected, electrical and fastening solutions was downed due to a decline in infrastructure with customer and channel inventory normalization."
+NVT,2024-08-06,capacity_expansion,+1,,We are increasing investments in new capacity in liquid cooling to support the growing backlog in 2025 and beyond.
+NVT,2024-08-06,orders_decel,-1,,"Lastly, organic orders in Q2 declined year over year due to timing of Data Solutions orders."
+NVT,2024-08-06,other,+1,Data Solutions >$500m in 2024,"we expect it to be over $500 million of revenue, and we've seen very strong double-digit growth through the first half"
+NVT,2024-11-01,guidance_raise,+1,2024 Data Solutions >$575m (from >$500m),"We continue to see high demand for our data solutions products in cooling, power, and cable management and now expect 2024 Data Solutions sales to exceed $575 million."
+NVT,2024-11-01,other,+1,,"And again, I'll just go back to the order book has been strong there with continuing backlog growth as well."
+NVT,2025-02-06,inventory_correction,-1,,"what we saw in terms of the inventory reductions or just adjustments, I want to say, in our distribution channel was more than what we expected."
+NVT,2025-02-06,orders_accel,+1,Q4 orders +low teens,"Lastly, organic orders were up low teens in the quarter, including double-digit order growth in data solutions."
+NVT,2025-02-06,other,+1,backlog $750m,"Our backlog will exit 2024 with a backlog of $750 million, which is up meaningfully from the prior year."
+NVT,2025-08-01,guidance_raise,+1,"FY25 reported 24-26%, organic 8-10%","For organic sales growth, we now expect growth of 8% to 10% versus our previous guidance of 5% to 7%, reflecting our Q2 beat along with increasing visibility and strength in data centers and power"
+NVT,2025-08-01,orders_accel,+1,organic orders >+20%,"Organic orders accelerated up over 20%, led by strong double-digit growth in our data solutions business."
+NVT,2025-08-01,other,+1,backlog >4x y/y,"These orders, coupled with our acquisitions, have resulted in our backlog increasing more than fourfold what it was a year ago."
+NVT,2025-10-31,capacity_expansion,+1,,"which we tied to why we're investing in expanded capacity, which will be online here in 2026."
+NVT,2025-10-31,guidance_raise,+1,FY25 reported growth 27-28%,We now forecast reported sales growth of 27% to 28%.
+NVT,2025-10-31,orders_accel,+1,organic orders ~+65%,"Organic orders were up approximately 65%, primarily driven by large orders for the AI data center build-out."
+NVT,2026-02-06,ai_revenue_milestone,+1,2025 data center sales >$1bn (from $600m),"Infrastructure now makes up 45% of our annual sales, with data center sales representing approximately $1 billion in 2025."
+NVT,2026-02-06,orders_accel,+1,organic orders ~+30%,"Organic orders were up approximately 30%, primarily driven by large orders for the AI data center build-out."
+NVT,2026-02-06,other,+1,"backlog $2.3bn, 3x y/y","With the strong orders, we ended the year with $2.3 billion in backlog, triple what it was a year ago."
+NVT,2026-02-06,other,+1,"2026 reported +15-18%, organic +10-13%",Reported sales are expected to grow 15% to 18% with organic growth in the range of 10% to 13%.
+NVT,2026-05-01,guidance_raise,+1,2026 organic 21-23% (from 10-13%),"For organic sales growth, we now expect to grow 21% to 23% versus our prior guidance of 10% to 13%"
+NVT,2026-05-01,orders_accel,+1,organic orders ~+40%,"Organic orders were up approximately 40%, primarily driven by orders for the AI data center buildout."
+NVT,2026-05-01,other,+1,backlog $2.6bn,"In addition, we continue to see our backlog grow, up low double digits sequentially to $2.6 billion, giving us visibility through the year."
+NVT,2026-07-31,ai_revenue_milestone,+1,2026 data center sales ~$2bn (>2x),"We expect our total data center sales to be $2 billion in 2026, more than double last year's sales."
+NVT,2026-07-31,capacity_expansion,+1,capex ~$130m (+40%); Blaine 2 H1-27,"given the strong orders, backlog, and visibility we have with our customers on liquid cooling demand, this expansion is not going to be enough."
+NVT,2026-07-31,guidance_raise,+1,2026 organic 32-34% (from 21-23%),We now expect to grow 32% to 34% versus our prior guidance of 21% to 23%.
+NVT,2026-07-31,orders_decel,-1,orders +LDD (Q1 ~+40%); backlog $2.5bn (from $2.6bn),"Organic orders growth was broad based, up low-double digits."
+OKLO,2024-11-14,backlog_record,+1,signed agreements 2.1GW (from >700MW),"With the two LOIs I mentioned earlier, this takes our total level of signed agreements to 2.1 gigawatts."
+OKLO,2024-11-14,customer_win,+1,LOIs w/ 2 data centers up to 750MW,"On the customer side, we signed letters of intent with 2 major data centers for up to 750 megawatts of power."
+OKLO,2024-11-14,customer_win,+1,Equinix 500MW; $25m prepayment,Oklo signed a similar strategic partnership agreement with Equinix earlier this year for 500 megawatts of power.
+OKLO,2024-11-14,pricing_up,+1,>=$100/MWh benchmark,These deals have played an important role in establishing a price for baseload low-carbon electricity with some expected to be at or above $100 per megawatt hour
+OKLO,2025-11-11,backlog_record,+1,14GW pipeline mostly DC/hyperscaler,"So I would say, the 14 gigawatts is still predominantly made up of data center and hyperscaler customers."
+OKLO,2025-11-11,supply_constrained,+1,,And they are increasingly looking at the longer-term views just given how constrained the power are as a whole realizing they need to expand those horizons.
+OKLO,2026-03-17,customer_win,+1,"Meta prepayment, up to 1.2GW Aurora-Ohio","We also signed the meta prepayment agreement in support of up to 1.2 gigawatts at Aurora, Ohio."
+OKLO,2026-03-17,other,+1,phase 1 150MW ~2030,The agreement advances plans for phase deployment with an initial phase of 150 megawatts targeted around 2030
+OKLO,2026-03-17,other,+1,2026 investing cash $350-450m,We expect cash used in investing activities to range between $350 million and $450 million in 2026.
+OKLO,2026-05-11,other,+1,,"Finally, our potential customer pipeline reflects strong demand across data centers, utilities, industrials, oil and gas and government applications."
+OKLO,2026-08-07,capex_raise,+1,2026 PP&E $400-500m from $350-450m,"We also now expect cash used for purchases of property, plant and equipment to be in the range of $400 million to $500 million compared with our prior range of $350 million to $450 million."
+OKLO,2026-08-07,other,+1,Centrus HALEU LOI up to 5 Aurora units from 2029,Centrus would supply HALEU for multiple years of initial core and reload needs for up to 5 Aurora powerhouses with deliveries expected to begin in 2029.
+OKLO,2026-08-07,supply_constrained,+1,,"No matter how strong the customer demand or how mature the reactor design, no nuclear deployment can scale without a reliable fuel supply."
+ORCL,2022-03-10,other,+1,cloud@customer +43%,"And total cloud at customer revenue was up 43%, with the backlog for cloud at customer machines growing to triple digits."
+ORCL,2022-06-13,capacity_expansion,+1,+6 regions in FY23 (38 live),We expect to add another six regions in fiscal 2023 in addition to the 38 cloud regions across 20 countries that we have already serving our customers.
+ORCL,2022-06-13,capex_raise,+1,FY23 capex higher,"As such, I expect our capex spend will be higher in FY '23 to meet the demand."
+ORCL,2022-06-13,other,+1,FY23 cloud growth to accelerate,"Going forward and despite the macro environment, we continue to expect the revenue growth in our cloud business will accelerate substantially in fiscal year '23."
+ORCL,2022-09-12,other,+1,Q1 FY23 capex $1.7bn,"I'll let Safra -- by the way, the $1.7 billion capex is there's just so much demand."
+ORCL,2022-12-12,backlog_record,+1,"RPO $61.2bn, +68% cc (incl Cerner)","that demand is reflected in the remaining performance obligation, or RPO balance, which is now at 61.2 billion, up 68% in constant currency"
+ORCL,2022-12-12,capacity_expansion,+1,,"In response to accelerating demand, we have continued to build data center capacity."
+ORCL,2022-12-12,guidance_raise,+1,FY23 organic cloud growth >30% cc,"As all of these differentiators come together and our business continues to accelerate, we expect organic growth for our fiscal year 2023 cloud revenues will be over 30% in constant currency."
+ORCL,2022-12-12,orders_accel,+1,IaaS bookings +100%+; capex ~$2.4bn/qtr,"With triple digit IaaS bookings growth the last couple of quarters, we now expect to spend about this amount per quarter for the next few quarters as we build capacity for our customers' needs."
+ORCL,2023-03-09,backlog_record,+1,"RPO $62.3bn, +66% cc","The remaining performance obligation, or RPO, balance is $62.3 billion, up 66% in constant currency due to strong cloud bookings as well as Cerner"
+ORCL,2023-03-09,capacity_expansion,+1,Q3 FY23 capex $2.6bn,Capex this quarter was $2.6 billion as we continue to build capacity for existing bookings and our customers' growing needs.
+ORCL,2023-06-12,backlog_record,+1,"RPO $67.9bn, +47% cc","The remaining performance obligation, or RPO balance, is 67.9 billion, up 47% in constant currency, due to strong cloud bookings, as well as Cerner."
+ORCL,2023-06-12,capacity_expansion,+1,"16,000-GPU cluster with NVIDIA","And we are partnering with NVIDIA to build the world's largest high-performance computer, an AI computer with 16,000 GPUs."
+ORCL,2023-06-12,capex_raise,+1,FY24 capex ~FY23 $8.7bn (raised projection),"Given the demand we have and see in our pipeline, I've increased our capex projection and I now expect the fiscal 2024 will be similar to this year's capex."
+ORCL,2023-06-12,customer_win,+1,>$2bn gen AI capacity contracts,"In the aggregate, our generative AI cloud customers have recently signed contracts to purchase more than $2 billion of capacity in Oracle's Gen2 Cloud."
+ORCL,2023-06-12,other,+1,,"As I described, and Larry will elaborate in depth, we are seeing unprecedented demand for our cloud services and especially our AI services."
+ORCL,2023-09-11,customer_win,+1,>$4bn AI training contracts (2x since Q4),"As of today, AI development companies have signed contracts to purchase more than $4 billion of AI training capacity in Oracle's Generation 2 Cloud."
+ORCL,2023-09-11,other,+1,,"This momentum is turning into bookings, and that gives me the confidence that our annual revenue growth will continue to accelerate moving forward."
+ORCL,2023-12-11,capacity_expansion,+1,66 DC expansions + 100 new DCs,"In response to this sharply increasing demand, Oracle is in the process of expanding 66 of our existing cloud data centers and building 100 new cloud data centers."
+ORCL,2023-12-11,capex_cut,-1,FY24 capex ~$8bn vs 'similar to FY23 $8.7bn',"Given the enormity of our pipeline and backlog, I expect capex will be somewhere around 8 billion this fiscal year"
+ORCL,2023-12-11,customer_win,+1,20 data centers for Microsoft,"We're building our own public regions based on direct customer demand, and then we're building partner regions like the 20 data centers for Microsoft."
+ORCL,2023-12-11,other,+1,OCI growth >50% for a few years,"So, again, the demand is extraordinary, we can build the data centers relatively fast, and I expect the OCI growth rate to be over 50% for a few years."
+ORCL,2023-12-11,supply_constrained,+1,,We have to build 100 additional cloud data centers because there are billions of dollars more in contracted demand than we currently can supply.
+ORCL,2024-03-11,backlog_record,+1,RPO ~$80bn (transcript reads '8 billion'); ex-Cerner +41% cc,"Our remaining performance obligation, or RPO, is now over 8 billion with the portion excluding Cerner up 41% in constant currency."
+ORCL,2024-03-11,capacity_expansion,+1,,We're building an AI data center in the United States where you could park eight Boeing 747 nose-to-tail in that one data center.
+ORCL,2024-03-11,capex_cut,-1,FY24 capex $7-7.5bn from ~$8bn,"I expect the capex will be somewhere around 7 billion to 7.5 billion this fiscal year, meaning our Q4 capex should be considerably higher."
+ORCL,2024-03-11,orders_accel,+1,,We've got at least 40 new AI bookings that are over a billion that haven't come online yet.
+ORCL,2024-03-11,supply_constrained,+1,,"Were it not for some continuing supply constraints, consumption growth would have been even higher."
+ORCL,2024-06-11,backlog_record,+1,"RPO $98bn, +44%","RPO was $98 billion, up 18 billion from Q3 and up 44% year over year from 68 billion last year."
+ORCL,2024-06-11,capex_raise,+1,FY25 capex ~2x FY24 ($6.9bn),Capex in fiscal year '25 will probably be double what it is in fiscal year '24 -- what it was in fiscal year '24.
+ORCL,2024-06-11,customer_win,+1,$12.5bn AI contracts with 30 customers,"In AI alone, we signed contracts with 30 different customers for $12.5 billion in new AI business."
+ORCL,2024-06-11,customer_win,+1,OpenAI on OCI,"First, as you saw, OpenAI selected Oracle to run deep learning and AI workloads on Oracle Cloud Infrastructure."
+ORCL,2024-06-11,orders_accel,+1,largest contracts in company history,"In Q4, Oracle signed the largest sales contracts in our history, led by huge demand for training large language models, as well as record levels of sales for OCI, Autonomous, Fusion, and NetSuite."
+ORCL,2024-06-11,supply_constrained,+1,,"Were if not for continuing supply constraints, consumption growth would have been even higher."
+ORCL,2024-09-09,backlog_record,+1,"RPO $99bn, +52% cc","Our remaining performance obligations or RPO is now $99 billion, up 52% in constant currency."
+ORCL,2024-09-09,capacity_expansion,+1,800MW data center,"The largest of these data centers is 800 megawatts, and it will contain acres of NVIDIA GP clusters able to train the world's largest AI models."
+ORCL,2024-09-09,capex_raise,+1,FY25 capex 2x FY24; Q1 FY25 $2.3bn,I expect the fiscal year 2025 capex will be double what it was in fiscal 2024.
+ORCL,2024-09-09,supply_constrained,+1,OCI run-rate $8.6bn; consumption +56%,"Our infrastructure cloud services now have an annualized revenue of $8.6 billion, OCI consumption revenue was up 56% and demand continued to outstrip supply."
+ORCL,2024-12-09,ai_revenue_milestone,+1,GPU consumption +336%,"GPU consumption was up 336% in the quarter, and we delivered the world's largest and fastest AI supercomputer, scaling up to 65,000 Nvidia H200 GPUs."
+ORCL,2024-12-09,capacity_expansion,+1,1.6GW data center,And our data center is -- the largest data center we're currently building now is 1.6 gigawatts.
+ORCL,2024-12-09,orders_accel,+1,OCI +52%,Record level AI demand drove Oracle Cloud Infrastructure revenue up 52%.
+ORCL,2024-12-09,supply_constrained,+1,OCI consumption +58%,OCI consumption revenue was up 58% as demand continues to outstrip supply.
+ORCL,2025-03-10,backlog_record,+1,"+$48bn RPO; RPO $130bn, +63%","As you can see, this was our strongest booking quarter ever by a huge margin as we added $48 billion to our backlog."
+ORCL,2025-03-10,capacity_expansion,+1,"power capacity 2x in CY25, 3x by end FY26",And we expect that our available power capacity will double this calendar year and triple by the end of next fiscal year.
+ORCL,2025-03-10,capex_raise,+1,FY25 capex ~$16bn,I expect fiscal year 2025 capex will be a little more than double what it was last year at around 16 billion.
+ORCL,2025-03-10,customer_win,+1,Stargate not yet in RPO,"So, again, Stargate looks to be the biggest project -- AI training project out there, and we expect that will allow us to grow our RPO even higher in the coming quarters."
+ORCL,2025-03-10,orders_accel,+1,OCI +51%,"Record-level AI demand drove Oracle Cloud Infrastructure revenue, up 51% in Q3."
+ORCL,2025-03-10,supply_constrained,+1,component delays to ease Q1 FY26,"Now, we do expect that the component delays that have slowed cloud capacity expansion this year should ease in Q1 FY '26."
+ORCL,2025-12-10,ai_revenue_milestone,+1,OCI $4.1bn +66%; GPU revenue +177%,"Cloud infrastructure revenue was $4.1 billion, up 66% with GPU-related revenue growing 177%."
+ORCL,2025-12-10,backlog_record,+1,"RPO $523.3bn, +433%; +$68bn q/q","Remaining Performance Obligations, or RPO, ended the quarter at $523.3 billion, up 433% from last year and up $68 billion since August."
+ORCL,2025-12-10,capex_raise,+1,FY26 capex ~+$15bn vs post-Q1 forecast (garbled),"we now expect fiscal 2026 CapEx Finally, we are confident that our customer will be about $15 billion higher than we forecasted after Q1."
+ORCL,2025-12-10,customer_win,+1,"Meta, NVIDIA contracts","Driven by contracts signed with Meta, NVIDIA, and others as we continue to diversify our customer backlog."
+ORCL,2025-12-10,guidance_raise,+1,+$4bn FY27 revenue,The result is we now expect $4 billion of additional revenue in FY 2027.
+ORCL,2025-12-10,other,-1,expansion gated by profitability and financing,"we will pursue further business expansion, only when it meets our profitability requirements, and the capital is available on favorable terms."
+ORCL,2026-03-10,ai_revenue_milestone,+1,AI infrastructure revenue +243%,AI infrastructure revenue grew 243% year over year.
+ORCL,2026-03-10,backlog_record,+1,RPO $553bn,This is directly visible in our $553 billion RPO.
+ORCL,2026-03-10,capacity_expansion,+1,>10GW via partners over 3 years,"Through our partners, we have secured more than 10 gigawatts of power and data capacity coming online over the next three years."
+ORCL,2026-03-10,other,+1,>90% of capacity partner-funded,"Those infrastructure investments also need funding, and greater than 90% of that capacity is fully funded through our partners, with the remainder planned to finish this month."
+ORCL,2026-03-10,supply_constrained,+1,,"Demand for AI infrastructure, both GPU and CPU, continues to exceed supply."
+ORCL,2026-06-10,backlog_record,+1,"RPO $638bn, +363%","And our remaining performance obligations, or RPO, finished at $638 billion, up 363%."
+ORCL,2026-06-10,capacity_expansion,+1,~1GW in Q1 FY27 vs 1.2GW in all FY26,"Our pace of delivery continues to accelerate, our FY 2027 Q1 delivery approaching 1 gigawatt, nearly the same capacity as we have delivered in the previous 4 quarters combined."
+ORCL,2026-06-10,capex_raise,+1,FY27 net cash capex ~$70bn (reported ~$90-95bn) vs FY26 net $48bn,"We will continue those investments in our fiscal year 2020 7, with an expected net cash outlay for capital expenditures of around $70 billion."
+ORCL,2026-06-10,customer_win,+1,$67bn AI infra contracts in Q4 FY26,"We signed $67 billion in AI infrastructure contract this quarter, the majority of which was either bring your own hardware or prepaid."
+ORCL,2026-06-10,orders_accel,+1,OCI +93%,"Cloud infrastructure revenue grew 93%, reflecting strong demand for both AI workloads and our database services, and Cloud Apps was up double digit at +10%."
+ORCL,2026-06-10,other,+1,$75bn bring-your-own-hardware/prepaid contracts,"This increases our combination of bring your own hardware or prepaid customer contracts to $75 billion, with those contracts having no degradation in margin compared to our other contracts."
+ORCL,2026-09-10,ai_revenue_milestone,+1,"OCI $7.4bn, +121% (Q4 +93%)","Cloud infrastructure revenue for Q1 was $7.4 billion, up a 121%."
+ORCL,2026-09-10,backlog_record,+1,RPO +$26bn q/q from $638bn,The last point I will make on our financial highlights is that our remaining performance obligations or RPO increased $26 billion from Q4.
+ORCL,2026-09-10,capacity_expansion,+1,850MW delivered since end of Q4,We delivered 850 megawatts of AI capacity containing more than 3 thousand GPUs to customers since the end of Q4.
+ORCL,2026-09-10,guidance_raise,+1,FY27 revenue >= $90bn (+34%),"For the full year, reflecting the strong execution and acceleration you see in our Q1, we are upgrading our guidance to at least $90 billion in total revenues."
+ORCL,2026-09-10,pricing_up,+1,GPU renewals at +20% premium,"Of all the GPUs that came up for renewal in Q1, that capacity was renewed or resold at a 20% premium to prior contracts."
+PLTR,2022-05-09,customer_win,+1,+40 customers; count +86% y/y,"We added 40 new customers, growing customer count 86% year over year."
+PLTR,2022-05-09,orders_accel,+1,,"In Q2 to date, we've already seen the reacceleration of U.S. government revenue and expect acceleration of the overall government segment to follow in the next quarter or shortly thereafter."
+PLTR,2022-05-09,other,+1,30%+ annual revenue growth guide through 2025,we are providing and will continue to provide guidance of 30% or greater revenue growth for this year and the next three years at each earnings call.
+PLTR,2022-08-08,customer_win,+1,US commercial customers 34->119 y/y,Our U.S. commercial customer count grew from 34 to 119 customers year over year.
+PLTR,2022-08-08,guidance_cut,-1,FY22 rev guide cut to $1.9-1.902bn,"But because of uncertainty toward the end of the year, we're revisioning guidance down to $1.9 billion."
+PLTR,2022-08-08,orders_decel,-1,,"the USG has some of the large -- our largest contracts, and they have been pushed out."
+PLTR,2022-08-08,other,+1,RPO $1.2bn +79% y/y,"We ended the second quarter with $1.2 billion in remaining performance obligations, up 79% year over year"
+PLTR,2022-11-07,customer_win,+1,net new US commercial customers +124% y/y,our net new U.S. commercial customers grew 124% year over year and 11% quarter over quarter
+PLTR,2022-11-07,other,+1,Q3 rev $478m +22% y/y,"Third-quarter total revenue grew 22% year over year to 478 million, ahead of our prior guidance"
+PLTR,2022-11-07,other,+1,FY22 rev $1.9-1.902bn reaffirmed,we are reaffirming our revenue guidance of between 1.9 billion and 1.902 billion.
+PLTR,2023-02-13,customer_win,+1,UK agreement up to GBP75m,"With a value of up to 75 million pounds, we expect this agreement to further accelerate the growth of partnerships with defense and intelligence customers across the United Kingdom"
+PLTR,2023-02-13,orders_decel,-1,"US commercial rev $77m +12% y/y, down q/q",U.S. commercial revenue grew 12% year over year to 77 million but was down sequentially as we saw headwinds from catch-up revenue in the prior quarter
+PLTR,2023-02-13,other,+1,FY23 rev guide $2.18-2.23bn,"For full year 2023, we expect revenue of between 2.18 billion and 2.23 billion, adjusted income from operations of between 481 million to 531 million, and GAAP net income."
+PLTR,2023-05-08,guidance_raise,+1,FY23 adj op income $506-556m,We are raising our adjusted income from operations guidance to between $506 million and $556 million
+PLTR,2023-05-08,orders_accel,+1,,"that's why we're able to launch our platform AIP so quickly, the demand for of which is nothing I've ever seen in 20 years of being involved in Palantir."
+PLTR,2023-05-08,orders_accel,+1,US commercial TCV +170% y/y; 155 customers,"Our customer count, which is now at 155 customers in our U.S. commercial business, grew 50% year over year, and the TCV closed in Q1 grew 170% year over year."
+PLTR,2023-08-07,customer_win,+1,421 customers +38% y/y,Customer account grew 38% year over year and 8% sequentially to 421 customers
+PLTR,2023-08-07,guidance_raise,+1,FY23 adj op income >$576m,We are raising our adjusted income from operations guidance to an excess of $576 million
+PLTR,2023-08-07,orders_accel,+1,,"We're already seeing unprecedented interest, both from top-of-funnel new customers and from existing customers who are looking to expand with the AIP offering."
+PLTR,2023-11-02,customer_win,+1,181 US commercial customers +37% y/y,"Our U.S. commercial customer count grew to 181 customers, reflecting 37% growth year over year and 12% sequentially"
+PLTR,2023-11-02,guidance_raise,+1,FY23 adj op income $607-611m,We are raising our adjusted income from operations guidance to between $607 million and $611 million
+PLTR,2023-11-02,other,-1,NDR 107%,"Net dollar retention was 107%, impacted primarily by headwinds from our commercial business in Continental Europe."
+PLTR,2023-11-02,other,+1,USG growth 10% y/y,We expect our U.S. government business to reaccelerate beyond the current growth rate of 10% year over year
+PLTR,2024-02-05,customer_win,+1,221 US commercial customers +55% y/y,"Our U.S. commercial customer count grew to 221 customers, reflecting 55% growth year over year and 22% growth sequentially."
+PLTR,2024-02-05,orders_accel,+1,,"Last quarter, our U.S. commercial business saw rapid acceleration and unprecedented demand."
+PLTR,2024-02-05,other,+1,FY24 rev guide $2.652-2.668bn,"For full year 2024, we expect revenue of between 2.652 billion and 2.668 billion"
+PLTR,2024-05-06,customer_win,+1,262 US commercial customers +69% y/y,"Our U.S. commercial customer count grew to 262 customers, reflecting 69% growth year over year and 19% growth sequentially."
+PLTR,2024-05-06,guidance_raise,+1,FY24 rev $2.677-2.689bn from $2.652-2.668bn,"For full year 2024, we're raising our revenue guidance to between 2.677 billion and 2.689 billion."
+PLTR,2024-05-06,orders_accel,+1,915+ bootcamp organizations,we've sustained our high volume of bootcamps with over 915 organizations participating to date to meet inbound demand.
+PLTR,2024-08-05,customer_win,+1,"DoD CDAO $153m initial, up to $480m/5yrs","starting with an initial order of $153 million to support certain combatant commands and the joint staff, while additional awards can be made up to $480 million over a five-year period."
+PLTR,2024-08-05,guidance_raise,+1,FY24 rev $2.742-2.750bn from $2.677-2.689bn,"For full year 2024, we are raising our revenue guidance to between $2.742 billion and $2.750 billion."
+PLTR,2024-08-05,orders_accel,+1,rev +27% y/y,"Revenue growth accelerated to 27% year over year, exceeding the high end of our prior guidance by 5%"
+PLTR,2024-08-05,orders_accel,+1,,"which led to the strongest U.S. government bookings quarter since 2022, reflecting the growing demand for our government software offerings."
+PLTR,2024-11-04,customer_win,+1,321 US commercial customers +77% y/y,"Our U.S. commercial customer count grew to 321 customers, reflecting 77% growth year over year and 9% growth sequentially."
+PLTR,2024-11-04,guidance_raise,+1,FY24 rev midpoint $2.807bn from $2.746bn,"we are increasing our full-year revenue guidance midpoint to $2.807 billion, representing a 26% year-over-year growth rate."
+PLTR,2024-11-04,orders_accel,+1,rev +30% y/y,"Q3 was an exceptionally strong quarter as revenue growth accelerated to 30% year over year, exceeding the high end of our prior guidance by nearly 450 basis points."
+PLTR,2024-11-04,orders_accel,+1,US rev +44% y/y,"this increase in AI demand has driven the outperformance in our U.S. business, which grew 44% year over year."
+PLTR,2025-02-03,backlog_record,+1,"record US commercial TCV quarter, ~$400m above prior high","This exceeded our next highest quarter of U.S. commercial TV booked by nearly 400 million, highlighting the increased demand for AI production use cases."
+PLTR,2025-02-03,customer_win,+1,382 US commercial customers +73% y/y,"Our U.S. commercial customer count grew to 382 customers, reflecting growth of 73% year over year and 19% sequentially."
+PLTR,2025-02-03,orders_accel,+1,rev +36% y/y,"Revenue growth accelerated to 36% year over year, exceeding the high end of our prior guidance by over 900 basis points"
+PLTR,2025-02-03,other,+1,FY25 rev guide $3.741-3.757bn; US comm >$1.079bn (+54%),"For full year 2025, we expect revenue of between 3.741 billion and 3.757 billion; U.S. commercial revenue in excess of 1.079 billion, representing a growth rate of at least 54%"
+PLTR,2025-08-04,customer_win,+1,Maven ceiling +$795m,The ceiling for our Maven Smart System contract was increased by $795 million
+PLTR,2025-08-04,guidance_raise,+1,FY25 rev midpoint $4.146bn (+45%),"raising our full year 2025 revenue guidance midpoint to $4.146 billion, representing a 45% year-over-year growth rate"
+PLTR,2025-08-04,guidance_raise,+1,FY25 US comm >$1.302bn (+85%),"We are also raising our full year U.S. commercial revenue guidance to an excess of $1.302 billion, representing a growth rate of at least 85%"
+PLTR,2025-08-04,orders_accel,+1,rev +48% y/y,"Q2 revenue growth accelerated to 48% year-over-year, exceeding the high end of our prior guidance by nearly 1,000 basis points"
+PLTR,2025-08-04,orders_accel,+1,TTM US comm TCV $2.8bn +141%,"Over the past 12 months, we closed $2.8 billion of U.S. commercial TCV bookings, a 141% increase from the prior 12 months"
+PLTR,2025-11-03,backlog_record,+1,RDV $8.6bn +91% y/y,"We ended the third quarter with $8.6 billion in total remaining deal value, an increase of 91% year over year and 21% sequentially, and $2.6 billion in remaining performance obligations, an increase"
+PLTR,2025-11-03,guidance_raise,+1,FY25 rev midpoint $4.398bn from $4.146bn,"We're also raising our full-year 2025 revenue guidance midpoint to $4.398 billion, representing a 53% year-over-year growth rate"
+PLTR,2025-11-03,guidance_raise,+1,FY25 US comm >$1.433bn from >$1.302bn,"raising our full-year US Commercial revenue guidance to in excess of $1.433 billion, representing a growth rate of at least 104% year over year"
+PLTR,2025-11-03,orders_accel,+1,US comm +121% y/y,Our US commercial business grew an incredible 121% year over year and 29% sequentially
+PLTR,2025-11-03,other,+1,NDR 134%,"Net dollar retention was 134%, an increase of 600 basis points from last quarter."
+PLTR,2026-02-02,backlog_record,+1,Q4 TCV $4.3bn record,We closed our highest TCV quarter ever at $4.3 billion
+PLTR,2026-02-02,customer_win,+1,US Navy up to $448m,The US Navy awarded Palantir Technologies Inc. a contract worth up to $448 million to modernize the shipbuilding supply chain
+PLTR,2026-02-02,orders_accel,+1,US rev +93% y/y,"Accelerating demand for AIP continues to drive the outperformance in our US business overall, which grew 93% year over year and 22% sequentially in the fourth quarter."
+PLTR,2026-02-02,other,+1,FY26 rev $7.182-7.198bn; US comm >$3.144bn (+115%),"For full year 2026, we expect revenue of between $7.182 billion and $7.198 billion, US commercial revenue in excess of $3.144 billion, representing a growth rate of at least 115%"
+PLTR,2026-05-04,backlog_record,+1,RDV $11.8bn +98%; RPO $4.5bn +134%,"We ended the first quarter with $11.8 billion in total remaining deal value, an increase of 98% year-over-year and 6% sequentially, and $4.5 billion in remaining performance obligations, an increase"
+PLTR,2026-05-04,customer_win,+1,,GE Aerospace deepened their partnership with Palantir Technologies Inc. last quarter to deploy agentic AI-powered solutions across their production system and military aviation supply chain
+PLTR,2026-05-04,guidance_raise,+1,FY26 rev midpoint $7.656bn from $7.19bn,"we are raising our full-year 2026 revenue guidance midpoint to $7.656 billion, representing 71% growth year-over-year, a 10% increase over our full-year 2026 revenue guidance from last quarter"
+PLTR,2026-05-04,orders_accel,+1,US triple-digit growth,"Our U.S. business achieved triple-digit growth for the first time, driven by accelerating demand for our AI platform."
+PLTR,2026-05-04,orders_accel,+1,TTM US comm TCV $4.7bn +115%,"Over the past twelve months, we closed $4.7 billion of U.S. commercial TCV bookings, a 115% increase from the prior twelve months"
+PLTR,2026-08-03,ai_revenue_milestone,+1,Q2 rev $1.935bn +93% y/y,Second quarter revenue grew 93% year-over-year and 19% sequentially to $1.935 billion.
+PLTR,2026-08-03,backlog_record,+1,Q2 US comm TCV $2.132bn +153% y/y,"We closed $2.132 billion of U.S. commercial TCV bookings, representing growth of 153% year-over-year and 81% sequentially"
+PLTR,2026-08-03,guidance_raise,+1,FY26 rev midpoint $8.154bn from $7.656bn,"we're also raising our full year 2026 revenue guidance midpoint to $8.154 billion, representing 82% growth year-over-year"
+PLTR,2026-08-03,guidance_raise,+1,FY26 US comm >$3.424bn (+134%),"we are raising our full year U.S. commercial revenue guidance to in excess of $3.424 billion, representing a growth rate of at least 134%"
+PLTR,2026-08-03,other,+1,RPO $4.9bn +103% y/y,"deal value, an increase of 83% year-over-year and 11% sequentially and $4.9 billion in remaining performance obligations, an increase of 103% year-over-year and 10% sequentially."
+PLTR,2026-08-03,other,+1,,reflects an increase in costs associated with taking on cloud hosting for one of our government customers.
+PWR,2025-07-31,backlog_record,+1,backlog $35.8bn,along with a record backlog of $35.8 billion
+PWR,2025-07-31,guidance_raise,+1,FY25 revenue $27.4-27.9bn,"we are increasing our full-year 2025 financial expectations for revenue, adjusted EBITDA, and adjusted EPS."
+PWR,2025-07-31,other,+1,,"But the demand side from every one of our customers, we keep hearing, is as strong as ever."
+PWR,2025-10-30,backlog_record,+1,backlog $39.2bn,along with a record backlog of $39.2 billion
+PWR,2025-10-30,customer_win,+1,~3 GW generation for large-load customer,"As a demonstration of this platform's strength and scalability, NiSource has engaged Quanta for a design, procurement, and construction execution of generation and infrastructure resources capable of"
+PWR,2025-10-30,guidance_raise,+1,FY25 revenue $27.8-28.2bn,"Based on our continued backlog momentum and strong revenue growth during the quarter, we are raising our full-year revenue expectations to a range of $27.8 to $28.2 billion."
+PWR,2026-02-19,backlog_record,+1,backlog $44bn,"These financial expectations are supported by record backlog at year-end of $44,000,000,000"
+PWR,2026-02-19,other,+1,data center ~10% of business,"So on the data center kind of how we are thinking through it, it is roughly, like, 10% of the business at this point"
+PWR,2026-02-19,supply_constrained,+1,,I would say anything around the data center stuff is probably the tightest market at this point.
+PWR,2026-04-30,backlog_record,+1,backlog $48.5bn,"Based on the continued momentum evidenced by our record $48.5 billion of backlog, the strong performance during the quarter and improved visibility into the remainder of the year, we are raising our"
+PWR,2026-04-30,guidance_raise,+1,FY26 revenue $34.7-35.2bn; adj. EBITDA $3.49-3.65bn,"We now expect revenues to range between $34.7 billion to $35.2 billion, adjusted EBITDA to range between $3.49 billion to $3.65 billion"
+PWR,2026-04-30,other,+1,,"We are experiencing significant demand for these services, particularly for data centers"
+SAP.DE,2026-10-21,backlog_record,+1,current cloud backlog >EUR24bn +26%,"Current cloud backlog surpassed €24 billion, up 26%."
+SAP.DE,2026-10-21,orders_decel,-1,,"While we continue to expect a slight deceleration in constant currencies current cloud backlog growth in 2026, we do foresee continued market share gains."
+SAP.DE,2026-10-21,other,+1,9/10 of top-50 deals incl AI,Continuing to trend from recent quarters 9 out of 10 of our 50 largest deals included AI and the Business Data Cloud.
+SAP.DE,2026-10-21,other,+1,upper end of cloud & software revenue outlook,"As a result, we expect to trend towards the upper end of our cloud and software revenue outlook which will raise the bar against which we will measure our 2027 revenue acceleration."
+SAP.DE,2026-10-21,other,-1,,which will likely put more downward pressure on billable hours and services revenue also next year.
+SMR,2025-11-06,capacity_expansion,+1,Doosan 20 modules/yr,Doosan has come out and publicly stated they have the current capacity of producing 20 NuScale Power Corporation modules per year and looking to expand that as needed.
+SMR,2025-11-06,customer_win,+1,ENTRA1-TVA up to 6GW (~72 modules),"It contemplates capacity of six gigawatts, which represents a total deployment of approximately 72 NuScale Power Corporation modules and up to six InterOne energy plants in the TVA territory"
+SMR,2025-11-06,other,+1,,"The program will serve fast-growing energy demand for AI data centers, advanced manufacturing, and national defense"
+SMR,2026-05-07,other,+1,,ENTRA1 has updated us the discussions with TVA are advancing well toward a definitive PPA.
+SMR,2026-05-07,other,+1,"Korea $350bn, up to $200bn AI DCs + nuclear","We met with the Korean government on the discussions of their potential for $350 billion, of which $200 billion of that could be slated for AI data centers and new nuclear."
+SMR,2026-05-07,other,+1,,"We also saw progress on the RoPower project in Doicesti, Romania, where Nuclearelectrica shareholders voted to advance the project."
+SMR,2026-08-05,other,+1,,"Every major hyperscaler, every large industrial offtaker, every utility with an eye on the next decade is now engaged in some version of the same conversation."
+SMR,2026-08-05,other,+1,,"ENTRA1 Energy, our strategic partner, continues to advance discussions with the Tennessee Valley Authority toward a definitive power purchase agreement"
+SNOW,2022-03-02,backlog_record,+1,record Q4 bookings,"Given the record bookings in Q4, you should expect to see outsized adjusted free cash flow in Q1 of this year."
+SNOW,2022-03-02,other,+1,FY23 prod rev guide $1.88-1.9bn (+65-67%),"For the full fiscal 2023, we expect product revenue between $1.88 billion and $1.9 billion, representing year-over-year growth between 65% and 67%."
+SNOW,2022-03-02,pricing_down,-1,"~$160m efficiency headwind, $60m+ offset","And the growth is actually more like $160 million, but I do expect that will be offset by over $60 million in additional workloads coming from our customers."
+SNOW,2022-05-25,guidance_raise,+1,FY23 prod rev $1.885-1.9bn from $1.88-1.9bn,"For the full year fiscal 2023, we expect product revenues between $1.885 billion and $1.9 billion"
+SNOW,2022-05-25,orders_decel,-1,,"Specific customers consume less than we anticipated amid shifting economic circumstances, we believe are unique to their businesses, most notably consumer facing cloud companies."
+SNOW,2022-05-25,other,+1,NRR 174%,Our net revenue retention of 174% includes 11 new $1 million customers
+SNOW,2022-08-24,guidance_raise,+1,FY23 prod rev $1.905-1.915bn from $1.885-1.9bn,"For the full year of fiscal 2023, we expect product revenues between $1.905 billion and $1.915 billion"
+SNOW,2022-08-24,other,+1,NRR 171%,Our net revenue retention rate of 171% includes 15 new customers with $1 million in trailing 12-month product revenue
+SNOW,2022-11-30,guidance_raise,+1,FY23 prod rev $1.919-1.924bn,"For the full fiscal year 2023, we expect product revenues between $1.919 billion and $1.924 billion"
+SNOW,2022-11-30,orders_decel,-1,,And then you do see weakness -- I didn't see it in the bookings but in consumption in the more of the SMB customers.
+SNOW,2023-03-01,orders_decel,-1,,We saw a measure of bookings reticence with certain customer segments in Q4
+SNOW,2023-03-01,orders_decel,-1,,"The change in existing customer purchasing behavior, lower-than-expected new logo bookings, and slower expected ramp from our youngest cohorts has led us to reevaluate our FY '24 outlook."
+SNOW,2023-03-01,other,-1,FY24 prod rev guide ~$2.7bn (+40%),"For the full year fiscal 2024, we expect product revenues of approximately $2.7 billion representing year-over-year growth of approximately 40%."
+SNOW,2023-05-24,guidance_cut,-1,FY24 prod rev ~$2.6bn from ~$2.7bn,"We expect product revenues of approximately $2.6 billion, representing year-over-year growth of approximately 34%."
+SNOW,2023-05-24,orders_decel,-1,,"So, really, artificially constraining the demand because of the general anxiety that exists in the economy."
+SNOW,2023-08-23,orders_accel,+1,,"you can see through our bookings, it was a good execution from bookings perspective in the aggregate last quarter."
+SNOW,2023-08-23,other,+1,,"With Snowflake Container Services, we are bringing LLM models like Reka and Nvidia's NeMo into Snowflake."
+SNOW,2023-11-29,guidance_raise,+1,FY24 prod rev ~$2.65bn from ~$2.6bn,"We are increasing our full-year guidance to approximately $2.65 billion, representing 37% year-over-year growth."
+SNOW,2023-11-29,orders_accel,+1,,I actually expect Q4 is going to be a pretty significant bookings quarter
+SNOW,2024-02-28,other,-1,FY25 prod rev guide ~$3.25bn (+22% vs FY24 +38%),"For the full year, we expect product revenue of approximately $3.25 billion, representing 22% year-over-year growth."
+SNOW,2024-02-28,other,+1,~$50m GPU-related costs FY25,"We expect approximately $50 million of GPU-related costs in fiscal year '25, approximately $10 million flowing through cost of product revenue."
+SNOW,2024-02-28,pricing_down,-1,,"We are forecasting increased revenue headwinds associated with product efficiency gains, tiered storage pricing, and the expectation that some of our customers will leverage Iceberg tables"
+SNOW,2024-05-22,guidance_raise,+1,FY25 prod rev ~$3.3bn from ~$3.25bn,"We now expect full year product revenue of approximately $3.3 billion, representing 24% year-over-year growth."
+SNOW,2024-05-22,other,+1,,We are lowering our full year margin guidance in light of increased GPU-related costs related to our AI initiatives.
+SNOW,2024-05-22,other,+1,750+ customers on AI platform,We have over 750 customers that are busy developing against our AI platform.
+SNOW,2024-08-21,guidance_raise,+1,FY25 prod rev ~$3.356bn from ~$3.3bn,"We now expect full year product revenue of approximately $3.356 billion, representing 26% year-over-year growth."
+SNOW,2024-08-21,other,+1,,we are incurring GPU-related costs in order to fulfill customer demand for our newer product features.
+SNOW,2024-08-21,supply_constrained,+1,,Part of that is we're still waiting in some deployments for GPUs that -- around the world that we don't have yet that we were anticipating would have come in this quarter.
+SNOW,2024-11-20,guidance_raise,+1,FY25 prod rev ~$3.43bn from ~$3.356bn,"We now expect full year product revenue of approximately $3.43 billion, representing 29% year-over-year growth."
+SNOW,2024-11-20,other,+1,,we just announced a partnership with Anthropic to bring their most powerful models to our customers through Snowflake Cortex AI.
+SNOW,2024-11-20,other,+1,"1,000+ AI/ML use cases in production","As of the end of Q3, we have over a thousand deployed use cases"
+SNOW,2025-02-26,other,+1,FY26 prod rev guide ~$4.28bn (+24%),"For FY '26, we expect product revenue of approximately $4.28 billion, representing 24% year-over-year growth."
+SNOW,2025-02-26,other,+1,"4,000+ weekly AI/ML customers","As we head to the next inflection point with agents, we now have over 4,000 customers using our AI and ML technology on a weekly basis."
+SNOW,2025-02-26,other,+1,,"longer term, we expect easier GPU access and growing AI revenue to benefit product gross margins"
+SNOW,2025-08-27,guidance_raise,+1,FY26 prod rev $4.395bn (+27%),"We now expect product revenue of $4.395 billion, representing 27% year-over-year growth."
+SNOW,2025-08-27,orders_accel,+1,record 50 new $1m customers; 654 total,"In the last quarter, 50 customers crossed the $1 million in trailing twelve-month revenue, a record for the company."
+SNOW,2025-08-27,other,+1,AI influenced ~50% of new logos,"Today, AI is a core reason why customers are choosing Snowflake, influencing nearly 50% of new logos won in Q2."
+SNOW,2026-02-25,ai_revenue_milestone,+1,"9,100+ AI accounts; SI 2,500+ accounts","And in just three months, Snowflake Intelligence has scaled from a nascent offering to an essential capability for over 2,500 accounts, almost doubling quarter over quarter."
+SNOW,2026-02-25,other,+1,FY27 prod rev guide $5.66bn (+27%),"For FY 2027, we expect product revenue of approximately $5.66 billion, representing 27% year-over-year growth."
+SNOW,2026-02-25,other,+1,$200m OpenAI partnership,We also recently announced a $200 million expanded partnership with OpenAI.
+SNOW,2026-02-25,other,+1,733 $1m+ customers +27%; 56 >$10m,"We now have 733 customers spending more than $1 million on a trailing twelve-month basis, growing 27% year over year."
+SNOW,2026-05-27,capacity_expansion,+1,"AWS $6bn/5yr, >2x prior","Just today, we announced an expanded collaboration with AWS through a new $6 billion multiyear agreement to accelerate enterprise AI adoption globally, leveraging Graviton compute and AI services."
+SNOW,2026-05-27,guidance_raise,+1,FY27 prod rev $5.84bn from $5.66bn,"For FY '27, we now expect product revenue of $5.84 billion, representing 31% year-over-year growth."
+SNOW,2026-05-27,orders_accel,+1,,AI is accelerating consumption across our core platform and our native AI products
+SNOW,2026-05-27,other,+1,"Cortex Code 7,100+ accounts","And CoCo is already in use with more than 7,100 accounts, giving builders a natural language way to create applications, pipelines, agents and workloads directly in Snowflake."
+SNOW,2026-09-02,ai_revenue_milestone,+1,,Q2 benefited from continued strength in our core data platform business and a meaningful step up in AI revenue.
+SNOW,2026-09-02,guidance_raise,+1,FY27 prod rev $6.07bn from $5.84bn (+36%),"For FY 2027, we now expect product revenue of $6.07 billion representing 36% year over year growth."
+SNOW,2026-09-02,orders_accel,+1,Q3 prod rev $1.588-1.593bn (+37-38%),"In Q3, we expect product revenue between $1.588 and $1.593 billion representing 37% to 38% year over year growth."
+SNOW,2026-09-02,other,+1,"RPO $9bn, 54% next 12m","Of the $9 billion RPO, we expect approximately 54% to be recognized as revenue in the next 12 months."
+SNOW,2026-09-02,other,+1,FY27 product GM 74% from 75%,"For FY 2027, we now expect 74% non GAAP product gross margin."
+STMPA.PA,2026-07-23,backlog_record,+1,>50% of Q2 bookings for 2027,"out of the 100% of the booking we received in Q2, well above 50% were for next year."
+STMPA.PA,2026-07-23,capex_raise,+1,2026 net capex high end of $2.0-2.2bn,"We now expect 2026 net CapEx to be at the high end of our $2 billion to $2.2 billion range, reflecting accelerating investments in the selected growth drivers, including cloud optical interconnect."
+STMPA.PA,2026-07-23,guidance_raise,+1,"AI DC revenue >$1bn 2026, well above $2bn 2027",We now expect revenue above $1 billion in 2026 and assuming the current dynamics continues and with the current engagements we have well above $2 billion in 2027.
+STMPA.PA,2026-07-23,orders_accel,+1,book-to-bill ~2,"During the quarter, demand increased further with strong bookings and book-to-bill close to 2 overall."
+STMPA.PA,2026-07-23,other,+1,,"In Q4, we anticipate a revenue growth acceleration, mainly driven by our engaged customer programs in AI data centers and Low Earth Orbit satellite communication."
+STMPA.PA,2026-07-23,supply_constrained,+1,,We saw improved visibility and signs of tight supply in several product categories.
+TLN,2025-11-05,other,+1,,"But we see a lot of signs that acceleration is gonna continue, and they'll accelerate faster than the ramps we put out in June."
+TLN,2025-11-05,other,+1,,"For example, Amazon noted on their earnings call last week that they have accelerated capacity additions over the past twelve months."
+TLN,2025-11-05,pricing_up,+1,,We are reaffirming 2026 guidance and we are starting to see forwards tick up.
+TLN,2026-02-26,customer_win,+1,"Amazon PPA upsized to 1.9GW, front-of-meter","the Amazon 2.0 PPA that was executed in June, which moved the transaction to a front-of-the-meter arrangement and upsized the volumes to 1.9 gigawatt"
+TLN,2026-02-26,other,+1,"~1GW additional DC contract, delivery from 2028",And so that is what we are looking at—adding another gigawatt data center contract—but the delivery will not start until 2028.
+TLN,2026-02-26,other,-1,,2029 is the new 2028 when it comes to data center power
+TLN,2026-05-05,capacity_expansion,+1,>2GW gas+storage projects for DC contracting,we are advancing a mix of gas and storage generation projects totaling over 2 gigawatts at our sites to support data center contracting and reliability needs.
+TLN,2026-05-05,guidance_raise,+1,"FCF/share ~$34 (2027), ~$36 (2028), +15% vs Jan","projecting free cash flow at approximately $34 per share in 2027 and approximately $36 per share in 2028, a 15% improvement from our January estimates"
+TLN,2026-05-05,other,-1,,"you see this slow, steady creep up in demand, yet there is still excess capacity."
+TLN,2026-05-05,pricing_up,+1,,we have seen a continued appreciation in the forward curves for the remainder of 2026 through 2028
+VRT,2024-10-23,guidance_raise,+1,FY24 organic growth 14%,We again raised our full year guidance across all financial metrics and expect organic growth of 14%
+VRT,2024-10-23,orders_accel,+1,TTM orders +37%; Q3 orders +17%,"Orders were a 37% growth on a trailing 12-month basis; meet our expectation, thanks to third quarter up 17% on a year-on-year basis despite tougher comparatives."
+VRT,2024-10-23,other,+1,,"that pipeline entering Q4 is higher than the pipeline entering Q3, no doubt."
+VRT,2025-07-30,guidance_raise,+1,FY25 net sales $10.0bn (+$550m),We are raising our full-year 2025 net sales guidance by $550 million to $10 billion.
+VRT,2025-07-30,orders_accel,+1,"Q2 orders >$3bn, +15% y/y; book-to-bill 1.2x","For the first time, we surpassed $3 billion in orders this quarter, which is certainly promising in terms of long-term trajectory."
+VRT,2025-07-30,other,+1,"backlog $8.5bn, +21% y/y","Our backlog stands strong at $8.5 billion, up 21% versus the prior year, and 7% sequentially from Q1, supporting our increased guidance for the year."
+VRT,2025-10-22,capacity_expansion,+1,,we expect to accelerate our investments in supply chain and services capabilities and capacity.
+VRT,2025-10-22,guidance_raise,+1,"FY25 net sales $10.2bn (from $10.0bn), 27% organic",Are raising our expectations for net sales to $10.2 billion translating into 27% organic growth for the full year
+VRT,2025-10-22,orders_accel,+1,"Q3 orders +60% y/y, +20% q/q; TTM +21%; book-to-bill 1.4x",Our trailing twelve-month organic orders growth of about 21% demonstrates strong momentum with Q3 orders up 60% year over year and 20% sequentially.
+VRT,2025-10-22,other,+1,"backlog $9.5bn, +30% y/y","Our total backlog now stands at $9.5 billion, up about 30% year on year and 12% sequentially."
+VRT,2026-02-11,backlog_record,+1,"backlog $15bn, >2x y/y, +57% q/q",Our $15 billion backlog is more than double last year's and up 57% sequentially.
+VRT,2026-02-11,capacity_expansion,+1,capex 3-4% of sales (from 2-3%),"On capital, we are stepping up to 3-4% of sales in 2026, from our historical 2-3%."
+VRT,2026-02-11,orders_accel,+1,"Q4 organic orders +152% y/y, +117% q/q; book-to-bill 2.9x","Organically, fourth quarter orders were up 152% year over year and up 117% sequentially."
+VRT,2026-02-11,other,+1,"2026 net sales guide $13.5bn, 28% organic","As we move to net sales guidance, we are projecting $13.5 billion at the midpoint which represents 28% organic growth"
+VRT,2026-02-11,pricing_up,+1,,"Pricing continues to be favorable. 2025 pricing exceeded inflation, and we expect the same in 2026."
+VRT,2026-04-22,capacity_expansion,+1,,We are accelerating our strategic capacity investments to meet the demand we are seeing.
+VRT,2026-04-22,guidance_raise,+1,FY26 net sales $13.75bn (from $13.5bn); EPS $6.35,"The updated adjusted operating profit is now at a midpoint of $3.2 billion, representing 53% growth versus prior year, and $160 million higher than our prior guidance."
+VRT,2026-04-22,other,+1,,"We anticipate orders to be up year-over-year, which reflects the sustained demand environment we are seeing across our markets."
+VRT,2026-04-22,other,+1,,"That, of course, gives us visibility, good visibility in 2020 -- in 2027."
+VRT,2026-07-29,capacity_expansion,+1,capex ~4% of 2026 sales (high end),"On capital expenditures, we now expect to be at the high end of our range 4% of 2026 sales, As we further expand the global capabilities and capacity going into 2027."
+VRT,2026-07-29,customer_win,+1,,VisionBay AI awarded the power thermal and services business to Vertiv for what is Taiwan's first AI data center featuring NVIDIA GB 300.
+VRT,2026-07-29,guidance_raise,+1,"FY26 net sales $14.0bn (+$250m), +37% y/y","For net sales, we now expect $14 billion at the midpoint. that is up $3.77 billion or 37% versus 2025."
+VRT,2026-07-29,other,+1,,"But at the same time, just to be extremely clear, the strength is also in sheer size of the pipeline in terms of a quarter to quarter, year-on-year, year-on-year growth, and this is broad-based. it"
+VRT,2026-07-29,pricing_up,+1,,"Pricing continues to be favorable We expect positive price cost in 2026, including the current impact of tariffs and countermeasures."
+VRT,2026-07-29,supply_constrained,+1,,These shifts were reflected in The Americas revenue numbers and were primarily driven by multiphase project execution and temporary supply chain congestion.
+VST,2026-02-26,backlog_record,+1,~3.8GW nuclear contracted; up to 3.2GW more,"We have now signed approximately 3.8 gigawatts of nuclear capacity including upgrades under long-term contracts, more than any other power company in the country."
+VST,2026-02-26,capacity_expansion,+1,"Cogentrix ~5,500MW gas; CCGT fleet 26GW","we recently announced our agreement to acquire Cogentrix Energy, which includes 10 modern natural gas generation facilities totaling approximately 5,500 megawatts of capacity"
+VST,2026-02-26,customer_win,+1,"Meta 20yr PPAs: 2,176MW operating + 433MW uprates","The agreements, which are also for 20 years, cover 2,176 megawatts of operating capacity from our Perry and Davis-Besse nuclear power plants and an additional 433 megawatts of upgrade capacity"
+VST,2026-02-26,customer_win,+1,"AWS 1,200MW 20yr Comanche Peak",The first agreement we announced in September is a 20-year contract with Amazon at our Comanche Peak nuclear plant in Texas.
+VST,2026-02-26,other,+1,hyperscaler capex >$700bn 2026 (~+50%),"Capital spending by the hyperscalers continues to rise to record levels and is expected to eclipse $700,000,000,000 in 2026, equivalent to roughly 50% year-over-year growth."
+VST,2026-02-26,other,-1,,we continue to believe the impact of data centers on tightening supply-demand dynamics will not meaningfully begin until late 2027 or early 2028 given most build schedules and interconnect timing.
+VST,2026-05-07,other,+1,ERCOT +30-40GW by 2030,We believe that ERCOT is looking at something in the order of probably 30 to 40 gigawatts of growth in total by 2030.
+VST,2026-05-07,other,+1,~3.2GW nuclear contractable,Our near-term priorities include approximately 3.2 gigawatts of nuclear capacity at Beaver Valley and Comanche Peak that can be contracted on a long-term basis
+VST,2026-08-07,other,+1,,"Data center development activity remains strong, we continue to be in active negotiations with large load customers as they seek to meet their power needs"
+VST,2026-08-07,other,-1,,"While data centers will be an important driver of load, particularly in 2028 and beyond, we believe a significant component of this growth is from sources other than data centers."
+VST,2026-08-07,pricing_down,-1,,"Although recent demand trends combined with strong weather have driven strength in PJM forward pricing, the power price environment in ERCOT has softened recently."
+WULF,2026-02-26,customer_win,+1,450 MW Fluidstack (Google credit),"Third, we signed a 450 megawatt lease with FluidStack supported by Google's credit."
+WULF,2026-02-26,guidance_raise,+1,contracting target 250-500 MW/yr,"As we have been able to now deploy capacity and understand the needs of customers, we have upped that guidance to 250 to 500."
+WULF,2026-02-26,other,+1,$12.8bn HPC leases signed in 2025,"We secured over $12.8 billion of HPC lease agreements, executed $6.5 billion of debt and equity-linked financing, and materially strengthened our balance sheet liquidity while carefully managing and"
+WULF,2026-02-26,supply_constrained,+1,,The hyperscalers are openly stating that power is the binding constraint.
+WULF,2026-05-08,ai_revenue_milestone,+1,HPC lease revenue $21m (+117%),"Importantly, this is the first period, where HPC leasing is meaningfully reflected in our financials, contributing $21 million of lease revenue during the quarter."
+WULF,2026-05-08,capacity_expansion,+1,,"During the quarter, the second data hall in CB-2 came online, bringing all Core42 capacity into service and generating revenue as of the end of the first quarter."
+WULF,2026-05-08,supply_constrained,+1,,"I mean the customers are pushing hard to get more prompt power, but they're willing to contract for longer periods of time."
+WULF,2026-08-05,capacity_expansion,+1,Muskie up to 2 GW,we are increasingly optimistic about the potential to expand the Muskie campus to as much as 2 gigawatts and accelerate portions of the current development timeline.
+WULF,2026-08-05,customer_win,+1,401 MW; ~$19bn over 20 yrs,"First, we executed a direct 20-year lease with Anthropic at the Justified Data campus, representing approximately $19 billion of contracted revenue over the initial term."
+WULF,2026-08-05,other,+1,>$500m incremental lease revenue,the amendments are expected to generate more than $500 million of incremental lease revenue for WULF Compute over the initial lease terms.
+WULF,2026-08-05,other,+1,250-500 MW/yr target reaffirmed,we reaffirm our target of contracting an incremental 250 to 500 megawatts of critical IT capacity annually.
+WULF,2026-08-05,supply_constrained,+1,,Electrical labor remains highly constrained across the data center industry.

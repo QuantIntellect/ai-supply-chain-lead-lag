@@ -1,0 +1,58 @@
+ticker,event_date,event_time_local,timezone,timing,event_type,fiscal_period,source_url
+SMHN.DE,2015-03-30,,Europe/Berlin,UNKNOWN,FY,FY2014,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2015-05-07,,Europe/Berlin,UNKNOWN,Q1,FY2015Q1,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2015-08-06,,Europe/Berlin,UNKNOWN,Q2,FY2015Q2,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2015-11-05,,Europe/Berlin,UNKNOWN,Q3,FY2015Q3,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2016-03-30,,Europe/Berlin,UNKNOWN,FY,FY2015,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2016-05-04,,Europe/Berlin,UNKNOWN,Q1,FY2016Q1,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2016-08-05,,Europe/Berlin,UNKNOWN,Q2,FY2016Q2,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2016-11-09,,Europe/Berlin,UNKNOWN,Q3,FY2016Q3,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2017-03-30,,Europe/Berlin,UNKNOWN,FY,FY2016,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2018-03-27,,Europe/Berlin,UNKNOWN,FY,FY2017,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2019-05-08,,Europe/Berlin,UNKNOWN,Q1,FY2019Q1,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2019-08-07,,Europe/Berlin,UNKNOWN,Q2,FY2019Q2,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2020-04-02,,Europe/Berlin,UNKNOWN,FY,FY2019,https://finance.yahoo.com/quote/SMHN.DE/ (earnings date; no time)
+SMHN.DE,2020-06-22,17:24,Europe/Berlin,INTRADAY,prelim,FY2020Q2,https://www.suss.com/en/news/ad-hoc/2020/suess-microtec-se-expecations-for-order-entry-in-first-half-year-2020-raised
+SMHN.DE,2020-07-24,17:08,Europe/Berlin,INTRADAY,prelim,FY2020Q2,https://www.suss.com/en/news/ad-hoc/2020/suess-microtec-se-sales-and-earnings-significantly-increased-in-the-first-half-year-guidance-for-the-full-year-raised
+SMHN.DE,2020-08-06,06:54,Europe/Berlin,BMO,Q2,FY2020Q2,https://www.suss.com/en/news/corporate-news/2020/suss-microtec-se-half-year-figures-published-for-period-from-1-january-until-30-june-2020
+SMHN.DE,2020-10-26,13:33,Europe/Berlin,INTRADAY,prelim,FY2020Q3,https://www.suss.com/en/news/ad-hoc/2020/suess-microtec-se-results-for-q3-2020-well-above-previous-year
+SMHN.DE,2020-11-04,11:41,Europe/Berlin,INTRADAY,trading_update,FY2020Q4,https://www.suss.com/en/news/ad-hoc/2020/suess-microtec-se-increased-earnings-forecast-for-the-full-fiscal-year
+SMHN.DE,2020-11-10,07:45,Europe/Berlin,BMO,Q3,FY2020Q3,https://www.suss.com/en/news/corporate-news/2020/publication-of-the-quarterly-figures-for-the-first-nine-months-of-2020
+SMHN.DE,2021-01-11,12:44,Europe/Berlin,INTRADAY,trading_update,FY2021Q1,https://www.suss.com/en/news/ad-hoc/2021/suess-microtec-se-order-entry-in-the-second-half-of-2020-exceeds-own-expectations-by-about-30-percent
+SMHN.DE,2021-01-27,16:17,Europe/Berlin,INTRADAY,prelim,FY2020,https://www.suss.com/en/news/ad-hoc/2021/preliminary-earnings-of-suss-microtec-exceed-expectations-for-the-fiscal-year-2020-and-the-company-increases-the-order-entry-guidance-for-cumulated
+SMHN.DE,2021-03-31,11:45,Europe/Berlin,INTRADAY,trading_update,FY2021Q1,https://www.suss.com/en/news/ad-hoc/2021/suess-microtec-se-cumulated-order-entry-of-q4-2020-and-q1-2021-exceeds-own-expectations
+SMHN.DE,2021-04-09,08:00,Europe/Berlin,BMO,FY,FY2020,https://www.suss.com/en/news/corporate-news/2021/suss-microtec-publishes-audited-consolidated-financial-statements-for-2020
+SMHN.DE,2021-05-12,08:00,Europe/Berlin,BMO,Q1,FY2021Q1,https://www.suss.com/en/news/corporate-news/2021/suess-microtec-veroeffentlicht-quartalsmitteilung-fuer-q1-2021
+SMHN.DE,2021-08-05,08:00,Europe/Berlin,BMO,Q2,FY2021Q2,https://www.suss.com/en/news/corporate-news/2021/suss-microtec-publishes-half-year-report-2021-successful-first-half-year-and-confirmation-of-the-outlook-for-the-fiscal-year-2021
+SMHN.DE,2021-10-05,13:12,Europe/Berlin,INTRADAY,trading_update,FY2021Q4,https://www.suss.com/en/news/ad-hoc/2021/suess-microtec-se-order-entry-in-the-third-quarter-of-2021-reaches-ca.-eur-101-million
+SMHN.DE,2021-11-11,08:00,Europe/Berlin,BMO,Q3,FY2021Q3,https://www.suss.com/en/news/corporate-news/2021/s-microtec-publishes-quarterly-report-record-order-entry-profit-and-revenue-growing-in-q3-2021
+SMHN.DE,2022-01-12,11:15,Europe/Berlin,INTRADAY,prelim,FY2021,https://www.suss.com/en/news/ad-hoc/2022/suess-microtec-publishes-the-first-preliminary-figures-for-the-2021-financial-year-and-adjusts-the-ebit-forecast
+SMHN.DE,2022-03-31,08:00,Europe/Berlin,BMO,FY,FY2021,https://www.suss.com/en/news/corporate-news/2022/suss-microtec-record-orders-in-2021
+SMHN.DE,2022-05-12,08:01,Europe/Berlin,BMO,Q1,FY2022Q1,https://www.suss.com/en/news/corporate-news/2022/suss-microtec-once-again-high-order-intake-as-well-as-revenue-and-earnings-growth-in-first-quarter-of-2022
+SMHN.DE,2022-08-04,07:51,Europe/Berlin,BMO,Q2,FY2022Q2,https://www.suss.com/en/news/corporate-news/2022/suss-microtec-order-entry-up-by-over-50-in-the-first-half-of-the-year-revenue-and-earnings-growth-continues
+SMHN.DE,2022-11-10,07:42,Europe/Berlin,BMO,Q3,FY2022Q3,https://www.suss.com/en/news/corporate-news/2022/suss-microtec-records-strongest-quarter-of-order-entry-in-company-s-history-sales-and-earnings-continue-to-be-affected-by-supply-shortages
+SMHN.DE,2023-01-09,16:26,Europe/Berlin,INTRADAY,prelim,FY2022,https://www.suss.com/en/news/ad-hoc/2023/suess-microtec-se-sales-and-ebit-margin-in-2022-fiscal-year-forecast-to-exceed-market-expectations
+SMHN.DE,2023-02-02,09:30,Europe/Berlin,INTRADAY,CMD,FY2023Q1,https://www.suss.com/en/news/corporate-news/2023/suess-microtec-se-management-confirms-targets-until-2025-at-capital-markets-day-further-potential-for-growth-and-efficiency-gains-by-2030-focus
+SMHN.DE,2023-03-31,07:30,Europe/Berlin,BMO,FY,FY2022,https://www.suss.com/en/news/corporate-news/2023/suss-microtec-2022-was-the-most-successful-year-in-the-company-s-history-further-growth-and-earnings-improvement-expected-for-2023
+SMHN.DE,2023-05-11,07:30,Europe/Berlin,BMO,Q1,FY2023Q1,https://www.suss.com/en/news/corporate-news/2023/suss-microtec-begins-2023-fiscal-year-with-dynamic-order-development
+SMHN.DE,2023-07-27,17:08,Europe/Berlin,INTRADAY,profit_warning,FY2023Q2,https://www.suss.com/en/news/ad-hoc/2023/suss-microtec-adjusts-forecast-for-fiscal-year-2023
+SMHN.DE,2023-08-03,07:30,Europe/Berlin,BMO,Q2,FY2023Q2,https://www.suss.com/en/news/corporate-news/2023/suess-microtec-se-sales-momentum-increased-in-the-second-quarter
+SMHN.DE,2023-10-25,17:19,Europe/Berlin,INTRADAY,profit_warning,FY2023Q3,https://www.suss.com/en/news/ad-hoc/2023/suss-microtec-adjusts-forecast-for-fiscal-year-2023-based-on-preliminary-q3-results
+SMHN.DE,2023-11-09,07:30,Europe/Berlin,BMO,Q3,FY2023Q3,https://www.suss.com/en/news/corporate-news/2023/suss-microtec-receives-record-orders-for-bonders-in-the-third-quarter-sales-momentum-slowed-by-delays-in-shipments-to-china
+SMHN.DE,2024-02-29,07:00,Europe/Berlin,BMO,prelim,FY2023,https://www.suss.com/en/news/corporate-news/2024/suss-microtec-meets-guidance-for-the-2023-financial-year-based-on-preliminary-unaudited-figures
+SMHN.DE,2024-03-27,07:30,Europe/Berlin,BMO,FY,FY2023,https://www.suss.com/en/news/corporate-news/2024/suss-microtec-expects-sales-to-increase-to-340-370-million-and-gross-profit-margin-and-ebit-margin-to-improve-in-fiscal-year-2024
+SMHN.DE,2024-04-18,10:37,Europe/Berlin,INTRADAY,prelim,FY2024Q1,https://www.suss.com/en/news/ad-hoc/2024/suss-microtec-significantly-exceeds-the-key-figures-of-the-comparable-period-of-the-previous-year-in-the-first-quarter-of-2024
+SMHN.DE,2024-05-08,07:30,Europe/Berlin,BMO,Q1,FY2024Q1,https://www.suss.com/en/news/corporate-news/2024/suss-microtec-starts-fiscal-year-2024-with-strong-growth-and-improved-margins
+SMHN.DE,2024-07-18,19:23,Europe/Berlin,AMC,prelim,FY2024Q2,https://www.suss.com/en/news/ad-hoc/2024/suss-microtec-raises-full-year-2024-guidance-following-strong-first-half-year-performance
+SMHN.DE,2024-08-07,07:25,Europe/Berlin,BMO,Q2,FY2024Q2,https://www.suss.com/en/news/corporate-news/2024/suss-microtec-continues-strong-growth-and-significant-margin-expansion-in-the-second-quarter
+SMHN.DE,2024-11-07,07:30,Europe/Berlin,BMO,Q3,FY2024Q3,https://www.suss.com/en/news/corporate-news/2024/suss-continues-to-grow-highly-profitably-in-the-third-quarter
+SMHN.DE,2025-01-16,20:17,Europe/Berlin,AMC,prelim,FY2024,https://www.suss.com/en/news/ad-hoc/2025/suss-significantly-exceeds-forecast-for-sales-and-ebit-margin-in-financial-year-2024-based-on-preliminary-calculations
+SMHN.DE,2025-03-27,07:30,Europe/Berlin,BMO,FY,FY2024,https://www.suss.com/en/news/corporate-news/2025/suss-is-aiming-for-further-sales-growth-in-the-2025-financial-year
+SMHN.DE,2025-05-08,07:30,Europe/Berlin,BMO,Q1,FY2025Q1,https://www.suss.com/en/news/corporate-news/2025/suss-continues-high-sales-growth-in-the-first-quarter-of-2025
+SMHN.DE,2025-08-07,07:30,Europe/Berlin,BMO,Q2,FY2025Q2,https://www.suss.com/en/news/corporate-news/2025/suss-finishes-first-half-of-the-year-with-significant-sales-growth
+SMHN.DE,2025-10-27,18:47,Europe/Berlin,AMC,profit_warning,FY2025Q3,https://www.suss.com/en/news/ad-hoc/2025/preliminary-figures-of-suss-for-the-third-quarter-of-2025-significantly-below-market-expectations-guidance-for-gross-profit-margin-and-ebit-margi
+SMHN.DE,2025-11-06,07:30,Europe/Berlin,BMO,Q3,FY2025Q3,https://www.suss.com/en/news/corporate-news/2025/suss-expects-significant-improvement-in-order-momentum-in-the-fourth-quarter
+SMHN.DE,2025-11-17,07:30,Europe/Berlin,BMO,CMD,FY2025Q4,https://www.suss.com/en/news/corporate-news/2025/suss-presents-ambitious-plans-for-further-sales-growth-and-sustainable-margin-improvement-at-capital-markets-day
+SMHN.DE,2026-03-30,07:30,Europe/Berlin,BMO,FY,FY2025,https://www.suss.com/en/news/corporate-news/2026/suss-achieved-all-forecast-figures-in-the-2025-financial-year-and-hit-a-new-sales-record
+SMHN.DE,2026-05-07,07:30,Europe/Berlin,BMO,Q1,FY2026Q1,https://www.suss.com/en/news/corporate-news/2026/order-intake-reaches-record-level-in-the-first-quarter-of-2026
+SMHN.DE,2026-08-06,07:30,Europe/Berlin,BMO,Q2,FY2026Q2,https://www.suss.com/en/news/corporate-news/2026/order-book-reaches-record-of-473.7-million-providing-strong-visibility-for-2027

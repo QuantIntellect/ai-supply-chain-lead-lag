@@ -1,0 +1,97 @@
+ticker,name,region,country,layer,cake_layer,sublayer,currency,adr,berlin_slide,tradeable,history_start,notes
+GEV,GE Vernova,US,US,ENERGY,Energy,gas turbines/grid/wind,USD,,0,1,2024-04-02,spun off 2024-04-02
+CEG,Constellation Energy,US,US,ENERGY,Energy,nuclear IPP,USD,,0,1,2022-02-02,MSFT TMI restart PPA; META Clinton PPA
+VST,Vistra,US,US,ENERGY,Energy,IPP nuclear/gas,USD,,0,1,,
+TLN,Talen Energy,US,US,ENERGY,Energy,IPP nuclear,USD,,0,1,,AMZN Susquehanna campus; Nasdaq relist 2024-07
+NRG,NRG Energy,US,US,ENERGY,Energy,IPP/retail,USD,,0,1,,
+OKLO,Oklo,US,US,ENERGY,Energy,advanced nuclear/SMR,USD,,0,1,2024-05-10,listed 2024-05; pre-2024-05-10 = AltC SPAC (removed)
+SMR,NuScale Power,US,US,ENERGY,Energy,SMR,USD,,0,1,2022-05-03,pre-2022-05-03 = Spring Valley SPAC (removed)
+BE,Bloom Energy,US,US,ENERGY,Energy,on-site fuel cells,USD,,0,1,,Oracle/AEP/Brookfield deals
+ENR.DE,Siemens Energy,EU,DE,ENERGY,Energy,gas turbines/grid tech,EUR,,1,1,,Berlin slide (Energy)
+RR.L,Rolls-Royce,EU,GB,ENERGY,Energy,SMR + mtu data-center gensets,GBp,,1,1,,Berlin slide (Rolls-Royce SMR)
+PRY.MI,Prysmian,EU,IT,ENERGY,Energy,power/data cables,EUR,,0,1,,
+NEX.PA,Nexans,EU,FR,ENERGY,Energy,power cables,EUR,,0,1,,
+NKT.CO,NKT,EU,DK,ENERGY,Energy,HV cables,DKK,,0,1,,
+VRT,Vertiv,US,US,DCINFRA,Infrastructure,DC power+thermal,USD,,0,1,2020-02-10,NVIDIA reference-design partner; pre-2020-02-10 = GS Acquisition SPAC (removed)
+ETN,Eaton,US,US,DCINFRA,Infrastructure,electrical,USD,,0,1,,NVIDIA 800VDC partner
+NVT,nVent Electric,US,US,DCINFRA,Infrastructure,liquid cooling/enclosures,USD,,0,1,2018-05-01,
+MOD,Modine,US,US,DCINFRA,Infrastructure,DC cooling,USD,,0,1,,
+HUBB,Hubbell,US,US,DCINFRA,Infrastructure,utility/electrical,USD,,0,1,,
+PWR,Quanta Services,US,US,DCINFRA,Infrastructure,grid/DC construction,USD,,0,1,,
+SU.PA,Schneider Electric,EU,FR,DCINFRA,Energy,electrical + cooling (Motivair),EUR,,1,1,,Berlin slide (Energy)
+SIE.DE,Siemens,EU,DE,DCINFRA,Energy,electrification/automation/software,EUR,,1,1,,Berlin slide (Energy)
+ABBN.SW,ABB,EU,CH,DCINFRA,Infrastructure,electrification,CHF,,0,1,,
+LR.PA,Legrand,EU,FR,DCINFRA,Infrastructure,DC white space/electrical,EUR,,0,1,,
+MTRS.ST,Munters,EU,SE,DCINFRA,Infrastructure,DC cooling,SEK,,0,1,,
+2308.TW,Delta Electronics,ASIA,TW,DCINFRA,Infrastructure,power supplies/racks,TWD,,0,0,,signal-only (non US/EU)
+ASML.AS,ASML,EU,NL,SEMICAP,Chips,lithography,EUR,ASML,0,1,,also files 6-K/20-F with SEC; invested EUR1.3bn in Mistral AI
+ASM.AS,ASM International,EU,NL,SEMICAP,Chips,ALD/epi,EUR,,0,1,,
+BESI.AS,BE Semiconductor,EU,NL,SEMICAP,Chips,advanced packaging/hybrid bonding,EUR,,0,1,,
+AIXA.DE,Aixtron,EU,DE,SEMICAP,Chips,MOCVD (GaN/SiC/optical),EUR,,0,1,,
+SOI.PA,Soitec,EU,FR,SEMICAP,Chips,engineered substrates,EUR,,0,1,,
+VACN.SW,VAT Group,EU,CH,SEMICAP,Chips,vacuum valves,CHF,,0,1,,
+SMHN.DE,SUSS MicroTec,EU,DE,SEMICAP,Chips,bonding/HBM tools,EUR,,0,1,,
+AMAT,Applied Materials,US,US,SEMICAP,Chips,deposition/etch,USD,,0,1,,
+LRCX,Lam Research,US,US,SEMICAP,Chips,etch/deposition,USD,,0,1,,
+KLAC,KLA,US,US,SEMICAP,Chips,process control,USD,,0,1,,
+TER,Teradyne,US,US,SEMICAP,Chips,test,USD,,0,1,,
+8035.T,Tokyo Electron,ASIA,JP,SEMICAP,Chips,deposition/etch/coat,JPY,,0,0,,signal-only
+6857.T,Advantest,ASIA,JP,SEMICAP,Chips,SoC/HBM test,JPY,,0,0,,signal-only
+TSM,TSMC (ADR),US,TW,FOUNDRY_MEM,Chips,foundry + CoWoS,USD,TSM,0,1,,ADR of 2330.TW; monthly revenue released ~10th
+2330.TW,TSMC (Taiwan),ASIA,TW,FOUNDRY_MEM,Chips,foundry,TWD,,0,0,,signal-only
+MU,Micron,US,US,FOUNDRY_MEM,Chips,DRAM/HBM/NAND,USD,,0,1,,
+WDC,Western Digital,US,US,FOUNDRY_MEM,Chips,HDD,USD,,0,1,,
+STX,Seagate,US,US,FOUNDRY_MEM,Chips,HDD,USD,,0,1,,
+SNDK,SanDisk,US,US,FOUNDRY_MEM,Chips,NAND,USD,,0,1,2025-02-24,spun off 2025-02
+000660.KS,SK Hynix,ASIA,KR,FOUNDRY_MEM,Chips,HBM/DRAM,KRW,,0,0,,signal-only
+005930.KS,Samsung Electronics,ASIA,KR,FOUNDRY_MEM,Chips,memory/foundry,KRW,,0,0,,signal-only
+NVDA,NVIDIA,US,US,CHIPS,Chips,GPU/systems/networking,USD,,1,1,,Berlin slide (Compute)
+AMD,AMD,US,US,CHIPS,Chips,GPU/CPU,USD,,0,1,,
+AVGO,Broadcom,US,US,CHIPS,Chips,custom ASIC/ethernet,USD,,0,1,,
+MRVL,Marvell,US,US,CHIPS,Chips,custom ASIC/optical DSP,USD,,0,1,,
+INTC,Intel,US,US,CHIPS,Chips,CPU/foundry,USD,,0,1,,NVIDIA USD5bn investment 2025-09
+ARM,Arm Holdings,US,GB,CHIPS,Chips,CPU IP,USD,,0,1,,IPO 2023-09; SoftBank-controlled
+ALAB,Astera Labs,US,US,CHIPS,Chips,connectivity,USD,,0,1,,IPO 2024-03
+CRDO,Credo,US,US,CHIPS,Chips,AECs/SerDes,USD,,0,1,,
+MPWR,Monolithic Power,US,US,CHIPS,Chips,power ICs for accelerators,USD,,0,1,,
+IFX.DE,Infineon,EU,DE,CHIPS,Chips,power semis (AI PSU),EUR,,0,1,,
+STMPA.PA,STMicroelectronics,EU,FR,CHIPS,Chips,analog/power/photonics,EUR,STM,0,1,,also NYSE STM (files 6-K/20-F)
+ANET,Arista Networks,US,US,NETWORK,Infrastructure,DC switching,USD,,0,1,,
+CSCO,Cisco,US,US,NETWORK,Infrastructure,networking,USD,,0,1,,
+CIEN,Ciena,US,US,NETWORK,Infrastructure,optical systems,USD,,0,1,,
+COHR,Coherent,US,US,NETWORK,Infrastructure,optical transceivers,USD,,0,1,,pre-2022-07 history is II-VI (same legal entity; kept)
+LITE,Lumentum,US,US,NETWORK,Infrastructure,lasers/OCS,USD,,0,1,,
+FN,Fabrinet,US,TH,NETWORK,Infrastructure,optical contract mfg,USD,,0,1,,
+NOKIA.HE,Nokia,EU,FI,NETWORK,Infrastructure,optical (Infinera)/mobile/AI-RAN,EUR,NOK,1,1,,Berlin slide (AI Factories); NVIDIA USD1bn investment 2025-10
+SMCI,Super Micro Computer,US,US,SYSTEMS,Infrastructure,AI servers,USD,,0,1,,
+DELL,Dell Technologies,US,US,SYSTEMS,Infrastructure,AI servers,USD,,0,1,2018-12-28,pre-2018-12-28 = DVMT tracking stock (removed)
+HPE,Hewlett Packard Enterprise,US,US,SYSTEMS,Infrastructure,servers/networking,USD,,0,1,2015-11-02,
+CLS,Celestica,US,CA,SYSTEMS,Infrastructure,EMS/ODM (switches/servers),USD,,0,1,,
+JBL,Jabil,US,US,SYSTEMS,Infrastructure,EMS,USD,,0,1,,
+2317.TW,Hon Hai (Foxconn),ASIA,TW,SYSTEMS,Infrastructure,AI rack ODM,TWD,,0,0,,signal-only; monthly sales
+2382.TW,Quanta Computer,ASIA,TW,SYSTEMS,Infrastructure,AI server ODM,TWD,,0,0,,signal-only; monthly sales
+3231.TW,Wistron,ASIA,TW,SYSTEMS,Infrastructure,AI server ODM,TWD,,0,0,,signal-only; monthly sales
+6669.TW,Wiwynn,ASIA,TW,SYSTEMS,Infrastructure,hyperscale server ODM,TWD,,0,0,,signal-only; monthly sales
+CRWV,CoreWeave,US,US,AIFACTORY,Infrastructure,neocloud,USD,,0,1,,IPO 2025-03-28
+NBIS,Nebius Group,US,NL,AIFACTORY,Infrastructure,neocloud,USD,,1,1,,Berlin slide (AI Factories); trading resumed 2024-10-21
+IREN,IREN,US,AU,AIFACTORY,Infrastructure,neocloud/DC,USD,,0,1,,
+APLD,Applied Digital,US,US,AIFACTORY,Infrastructure,DC developer,USD,,0,1,2022-04-13,
+CIFR,Cipher Mining,US,US,AIFACTORY,Infrastructure,DC developer,USD,,0,1,2021-08-30,pre-2021-08-30 = Good Works SPAC (removed)
+WULF,TeraWulf,US,US,AIFACTORY,Infrastructure,DC developer,USD,,0,1,2021-12-14,pre-2021-12-14 = IKONICS (removed)
+EQIX,Equinix,US,US,AIFACTORY,Infrastructure,colocation REIT,USD,,0,1,,
+DLR,Digital Realty,US,US,AIFACTORY,Infrastructure,colocation REIT,USD,,0,1,,
+DTE.DE,Deutsche Telekom,EU,DE,AIFACTORY,Infrastructure,telco + Industrial AI Cloud,EUR,,1,1,,Berlin slide (AI Factories)
+9984.T,SoftBank Group,ASIA,JP,AIFACTORY,Infrastructure,OpenAI/Stargate/Arm holder,JPY,,0,0,,signal-only
+MSFT,Microsoft,US,US,HYPERSCALER,Infrastructure,cloud + OpenAI,USD,,0,1,,
+GOOGL,Alphabet,US,US,HYPERSCALER,Infrastructure,cloud + TPU + Gemini,USD,,0,1,,
+AMZN,Amazon,US,US,HYPERSCALER,Infrastructure,AWS + Trainium + Anthropic,USD,,0,1,,
+META,Meta Platforms,US,US,HYPERSCALER,Infrastructure,AI capex + Llama,USD,,0,1,,
+ORCL,Oracle,US,US,HYPERSCALER,Infrastructure,OCI + Stargate,USD,,0,1,,
+SAP.DE,SAP,EU,DE,APPS,Applications,enterprise apps,EUR,SAP,0,1,,also NYSE SAP (files 6-K/20-F)
+DSY.PA,Dassault Systemes,EU,FR,APPS,Applications,simulation/PLM,EUR,,0,1,,
+CAP.PA,Capgemini,EU,FR,APPS,Applications,IT services,EUR,,0,1,,
+PLTR,Palantir,US,US,APPS,Applications,AI platform,USD,,0,1,,
+NOW,ServiceNow,US,US,APPS,Applications,workflow/agents,USD,,0,1,,
+CRM,Salesforce,US,US,APPS,Applications,CRM/agents,USD,,0,1,,
+ADBE,Adobe,US,US,APPS,Applications,creative/genAI,USD,,0,1,,
+SNOW,Snowflake,US,US,APPS,Applications,data cloud,USD,,0,1,,
